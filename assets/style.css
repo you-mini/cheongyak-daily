@@ -1,10 +1,10 @@
-/* 청약 데일리 — 큰 글자·높은 대비·단순한 구조. 밝은 민트 머리글 + 흰 카드, 강조는 청록, 주목 공고는 산호색. 항상 밝은 테마 */
+/* 청약 데일리 — 큰 글자·높은 대비·단순한 구조. 밝은 민트 머리글 + 흰 카드, 강조는 청록, 주목 공고는 보라색. 항상 밝은 테마 */
 :root {
   --bg: #f8fafb; --surface: #ffffff; --surface-2: #f1f6f7; --surface-3: #e5eef0;
   --ink: #243340; --muted: #66757f; --line: #dde6e9;
   --accent: #128c7e; --accent-deep: #0f6f64; --accent-ink: #ffffff; --accent-soft: #e2f4f1;
   --band: linear-gradient(135deg, #dff3ee 0%, #ecf7f4 55%, #f8fbfa 100%); --band-ink: #0f6f64; --band-muted: #5f7a76;
-  --hot: #e8692d; --hot-bg: #fff2ea; --hot-line: #f9cdb4; --hot-soft: #fff8f3;
+  --hot: #7c4dcc; --hot-bg: #f1ebfb; --hot-line: #d6c6f2; --hot-soft: #f8f5fe;
   --good: #2f8f4e; --good-bg: #e6f6ea;
   --warn: #8a5a00; --warn-bg: #fff6d9;
   --font-body: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
