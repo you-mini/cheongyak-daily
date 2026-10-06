@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 (화)",
- "headline": "서울 집값은 86주 연속 올라 역대 최장 기록을 썼지만 강남·용산은 꺾였고, 10월 분양 큰 장에서는 서울·분양가상한제·3기 신도시 물량과 수도권 줍줍에만 수요가 몰립니다.",
+ "updated_at": "2026-10-07 (수)",
+ "headline": "서울 집값은 86주 연속 올라 역대 최장 기록을 썼지만 강남·용산은 꺾였고, 정부는 수도권 규제지역 줍줍(무순위)을 공공임대로 돌리는 방안을 추진 중입니다. 10월 분양은 서울·분양가상한제·3기 신도시 물량에 수요가 몰립니다.",
  "summary": [
   "서울 아파트값은 9월 넷째 주 0.09% 올라 86주 연속 상승했습니다. 강남 3구에 이어 용산도 22주 만에 하락으로 돌아섰고, 서대문·동대문·성북·노원 같은 중저가 지역이 상승을 이끕니다.",
   "10월에는 전국 60개 단지 4만 5,691가구가 분양에 나섭니다. 경기 1만 5,991가구, 인천 7,851가구, 서울 1,869가구로 수도권이 56%입니다.",
@@ -73,26 +73,6 @@
  ],
  "picks": [
   {
-   "pblancNo": "2026930040",
-   "name": "강변역 센트럴 아이파크",
-   "region": "서울 광진구",
-   "kind": "불법행위 재공급 1세대",
-   "when": "10월 6일(화) 하루",
-   "price": "12억 2,202만원",
-   "why": "서울 광진구 강변역 센트럴 아이파크의 부정청약 취소분 1가구가 최초 분양가로 다시 나왔습니다. 서울·경기 재공급 물량은 분양가와 시세 차이가 10억원 안팎인 사례가 잇따르고 있습니다.",
-   "caution": "오늘 하루만 접수합니다. 재공급은 무주택 세대구성원·거주 요건이 본청약과 비슷하게 적용됩니다.",
-   "link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930040&pblancNo=2026930040&houseSecd=06",
-   "link_label": "청약홈 공고 상세 보기",
-   "sources": [
-    {
-     "title": "당첨되면 차익만 10억… 서울·경기서 '로또청약' 풀린다",
-     "publisher": "머니투데이",
-     "date": "2026-09-29",
-     "url": "https://www.mt.co.kr/estate/2026/09/29/2026092819485449033"
-    }
-   ]
-  },
-  {
    "pblancNo": "2026940214",
    "name": "브라운스톤 목동(2차)",
    "region": "서울 양천구",
@@ -159,7 +139,7 @@
    "kind": "무순위(사후접수) 785세대",
    "when": "10월 12일(월) 하루",
    "price": "공고문 확인",
-   "why": "785가구가 한꺼번에 무순위로 나오는 대형 물량입니다. 7호선 상동역 역세권으로, 경쟁률이 낮을 가능성이 있어 실수요자에게 기회가 될 수 있습니다.",
+   "why": "785가구가 한꺼번에 무순위로 나오는 대형 물량입니다. 7호선 상동역 역세권 1,859가구 단지로, 전용 84㎡ 분양가는 14억 100만원~16억 3,800만원이었고, 20억원대인 113·121㎡에서 미달이 집중됐다는 보도가 있었습니다.",
    "caution": "미계약 물량이 많이 나온 이유(분양가·입지)를 기사와 공고문으로 확인하고 판단하세요. 올해 수도권도 분양가 부담으로 경쟁률이 떨어지고 있습니다.",
    "link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910256&pblancNo=2026910256&houseSecd=04",
    "link_label": "청약홈 공고 상세 보기",
@@ -169,6 +149,18 @@
      "publisher": "한국경제",
      "date": "2026-09-21",
      "url": "https://www.hankyung.com/article/2026092169876"
+    },
+    {
+     "title": "7호선 상동역 초역세권…'상동역 롯데캐슬 시그니처' 1859가구 분양",
+     "publisher": "머니투데이",
+     "date": "2026-08-14",
+     "url": "https://www.mt.co.kr/estate/2026/08/14/2026081408540292778"
+    },
+    {
+     "title": "[분양 스케치] 부천 롯데캐슬, 중대형 미달 '분양대금 회수' 촉각",
+     "publisher": "다음(뉴스)",
+     "date": "",
+     "url": "https://v.daum.net/v/XeLaEVIkr6"
     }
    ]
   },
@@ -179,8 +171,8 @@
    "kind": "공공분양 309세대",
    "when": "10월 19일(월) ~ 27일(화)",
    "price": "5억 717만원 ~ 5억 844만원",
-   "why": "3기 신도시 중 가장 먼저 입주(2026년 12월)가 시작되는 인천계양의 본청약 물량입니다. 공공분양이라 분양가가 시세보다 낮게 책정되고, 바로 앞 A6블록은 59㎡ 약 5.3억원에 공급됐습니다.",
-   "caution": "신혼희망타운은 혼인 7년 이내·예비 신혼부부·한부모 등 자격 요건이 있습니다. 거주의무·전매제한이 깁니다.",
+   "why": "3기 신도시 인천계양의 신혼희망타운 본청약 물량으로, 전용 55㎡대 분양가는 약 5억 717만원~5억 844만원입니다. 당첨자 발표는 11월 5일, 입주는 2029년 11월 예정입니다. 공공분양이라 분양가가 시세보다 낮게 책정되는 편입니다.",
+   "caution": "신혼희망타운은 혼인 7년 이내·예비 신혼부부·한부모 등 자격 요건이 있습니다. 입주까지 3년 넘게 남아 중도금·잔금 계획을 길게 세워야 하고, 거주의무·전매제한은 공고문에서 확인하세요.",
    "link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820010&pblancNo=2026820010",
    "link_label": "청약홈 공고 상세 보기",
    "sources": [
@@ -234,7 +226,7 @@
      "facts": [
       "서대문 +0.41%, 동대문·성북 +0.36%, 노원 +0.34%로 중저가 지역이 상승을 주도",
       "강남·고가 아파트는 보유세 강화 발표 뒤 매도 압력이 커짐",
-      "86주 누적 상승률은 약 17.6% (KB·언론 집계)"
+      "서울 아파트값 86주 누적 상승률은 17.51% (직전 최장 85주 기록 때는 7.7%)"
      ],
      "takeaway": "비싼 곳은 쉬고 덜 오른 곳이 따라 오르는 '키 맞추기' 장세입니다. 청약도 서울 외곽·경기 핵심지 분양가를 주변 시세와 꼭 비교해야 합니다.",
      "sources": [
@@ -261,6 +253,12 @@
        "publisher": "머니투데이",
        "date": "2026-09-24",
        "url": "https://www.mt.co.kr/estate/2026/09/24/2026092215551116712"
+      },
+      {
+       "title": "서울 아파트값, 86주 연속 상승",
+       "publisher": "뉴스웨이",
+       "date": "2026-10-01",
+       "url": "https://newsway.co.kr/news/view?ud=2026100114294856782"
       }
      ]
     },
@@ -384,6 +382,37 @@
    "title": "정책·금리·대출",
    "lead": "청약 당첨 뒤 잔금까지 좌우하는 규칙들입니다. 날짜와 수치는 출처 기준입니다.",
    "items": [
+    {
+     "title": "'로또 줍줍' 손질: 수도권 규제지역 잔여 물량은 공공임대로",
+     "date": "2026-08-13",
+     "body": "정부가 수도권 규제지역에서 민간분양 잔여 물량(무순위)이 나오면 LH 등이 먼저 사들여 보편형 공공임대로 공급하는 방안을 추진합니다. 로또 줍줍으로 인한 시장 과열과 형평성 논란을 줄이고, 도심 입지가 좋은 공공임대를 한 가구라도 더 확보하겠다는 취지입니다. 12월까지 공공주택특별법 시행령 개정을 목표로 해서 이르면 연말부터 수도권 규제지역 무순위 청약이 사라질 수 있다는 전망이 나옵니다. 무주택 청약 대기자들은 추첨 기회가 줄어든다며 반발하고 있습니다.",
+     "facts": [
+      "시행령 개정 목표 시점: 12월",
+      "대상: 수도권 규제지역의 민간분양 잔여 물량",
+      "아직 추진 단계이며 확정된 시행일은 기사에서 확인되지 않음"
+     ],
+     "takeaway": "규제지역 줍줍은 앞으로 기회가 줄어들 수 있습니다. 다만 아직 확정 전이라, 지금 나오는 공고는 공고문 기준으로 판단하세요.",
+     "sources": [
+      {
+       "title": "이제 '로또 줍줍' 사라지나…정부 '파격' 카드에 청약족 '술렁'",
+       "publisher": "한국경제",
+       "date": "2026-08-13",
+       "url": "https://www.hankyung.com/article/2026081398806"
+      },
+      {
+       "title": "로또청약 '줍줍' 사라지나…공공임대 전환에 청약 기회 박탈 논란",
+       "publisher": "파이낸셜뉴스",
+       "date": "2026-08-15",
+       "url": "https://www.fnnews.com/news/202608150702465147"
+      },
+      {
+       "title": "“내집마련 희망이었는데” ‘로또 줍줍’ 폐지에 실수요자 갑론을박",
+       "publisher": "헤럴드경제",
+       "date": "2026-08",
+       "url": "https://biz.heraldcorp.com/article/10843059"
+      }
+     ]
+    },
     {
      "title": "기준금리 3.00%: 7·8월 연속 인상, 추가 인상 경계",
      "date": "2026-09-30",
@@ -897,28 +926,88 @@
  ],
  "sources": [
   {
-   "title": "\"당첨만 되면 7억 로또\"…분양가 2배 뛴 광명에 '줍줍' 뜬다",
-   "publisher": "머니투데이",
-   "date": "2026-09-22",
-   "url": "https://www.mt.co.kr/estate/2026/09/22/2026092115041487221"
-  },
-  {
-   "title": "\"로또 줍줍, 이번이 막차 기회?\"…'20억' 과천 아파트, 9억에 나온다",
-   "publisher": "머니투데이",
-   "date": "2026-09-28",
-   "url": "https://www.mt.co.kr/estate/2026/09/28/2026092810330037353"
-  },
-  {
-   "title": "당첨되면 차익만 10억… 서울·경기서 '로또청약' 풀린다",
-   "publisher": "머니투데이",
-   "date": "2026-09-29",
-   "url": "https://www.mt.co.kr/estate/2026/09/29/2026092819485449033"
-  },
-  {
    "title": "서울 집값 86주 연속 '최장 상승'… 강남 3구 이어 용산도 하락 전환",
    "publisher": "서울신문",
    "date": "2026-10-02",
    "url": "https://www.seoul.co.kr/news/economy/estate/2026/10/02/20261002032001"
+  },
+  {
+   "title": "1년 9개월 만에 기준금리 3%로…\"서울 외곽 주택시장 위축될 것\"",
+   "publisher": "뉴스핌",
+   "date": "2026-08-27",
+   "url": "https://www.newspim.com/news/view/20260827000632"
+  },
+  {
+   "title": "10월 전국 4만5691가구 분양…경기 남부·3기 신도시 물량 집중",
+   "publisher": "이투데이",
+   "date": "2026-09-30",
+   "url": "https://www.etoday.co.kr/news/view/2630878"
+  },
+  {
+   "title": "올해 청약 경쟁률 5.6대 1…분양가 고공행진에 반토막",
+   "publisher": "한국경제",
+   "date": "2026-10-06",
+   "url": "https://www.hankyung.com/article/202610064867i"
+  },
+  {
+   "title": "서울 아파트 평당 분양가 6287만원, 1년 새 34% 급등 … '집값 평탄화'의 역설",
+   "publisher": "뉴데일리경제",
+   "date": "2026-09-18",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800233.html"
+  },
+  {
+   "title": "전국 미분양 주택 6만9134가구 … 지방에 5만가구 집중",
+   "publisher": "뉴데일리경제",
+   "date": "2026-09-30",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/30/2026093000005.html"
+  },
+  {
+   "title": "청약홈 청약제도안내 · 잔여세대(무순위·임의공급)",
+   "publisher": "한국부동산원 청약홈",
+   "date": "",
+   "url": "https://www.applyhome.co.kr/ar/ara/selectSubscrptIntroRemndrHshldView.do"
+  },
+  {
+   "title": "공급 늘린다며 대출은 막고…엇박자 주택정책 도마 위 [2026 국감]",
+   "publisher": "한국금융신문",
+   "date": "2026-10-02",
+   "url": "https://www.fntimes.com/html/view.php?ud=202610022303269122dd55077bc2_18"
+  },
+  {
+   "title": "무순위 청약, 이제 무주택·거주자에게 공급한다",
+   "publisher": "KDI 경제정보센터",
+   "date": "2025",
+   "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=263149"
+  },
+  {
+   "title": "당첨돼도 돈 부족해…수도권도 청약 경쟁률 하락",
+   "publisher": "한국경제",
+   "date": "2026-09-21",
+   "url": "https://www.hankyung.com/article/2026092169876"
+  },
+  {
+   "title": "7호선 상동역 초역세권…'상동역 롯데캐슬 시그니처' 1859가구 분양",
+   "publisher": "머니투데이",
+   "date": "2026-08-14",
+   "url": "https://www.mt.co.kr/estate/2026/08/14/2026081408540292778"
+  },
+  {
+   "title": "[분양 스케치] 부천 롯데캐슬, 중대형 미달 '분양대금 회수' 촉각",
+   "publisher": "다음(뉴스)",
+   "date": "",
+   "url": "https://v.daum.net/v/XeLaEVIkr6"
+  },
+  {
+   "title": "추석 끝나자 3기 신도시 청약…계양·대장·왕숙 줄줄이 공급",
+   "publisher": "이데일리",
+   "date": "2026-09",
+   "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01515366645584384"
+  },
+  {
+   "title": "LH, 3기 신도시 최초 본청약 공급 시작",
+   "publisher": "LH 한국토지주택공사",
+   "date": "2026",
+   "url": "https://lh.or.kr/gallery.es?mid=a10502000000&bid=0003&list_no=11581&act=view"
   },
   {
    "title": "강남 3구 이어 용산 하락에도…서울 집값은 86주 연속 올라 최장 기록",
@@ -939,16 +1028,10 @@
    "url": "https://www.mt.co.kr/estate/2026/09/24/2026092215551116712"
   },
   {
-   "title": "집값 언제까지 오를지… \"공급부족, 더 간다\" vs \"세제·금리, 다 갔다\"",
-   "publisher": "머니투데이",
-   "date": "2026-10-02",
-   "url": "https://www.mt.co.kr/estate/2026/10/02/2026100119190011019"
-  },
-  {
-   "title": "10월 전국 4만5691가구 분양…경기 남부·3기 신도시 물량 집중",
-   "publisher": "이투데이",
-   "date": "2026-09-30",
-   "url": "https://www.etoday.co.kr/news/view/2630878"
+   "title": "서울 아파트값, 86주 연속 상승",
+   "publisher": "뉴스웨이",
+   "date": "2026-10-01",
+   "url": "https://newsway.co.kr/news/view?ud=2026100114294856782"
   },
   {
    "title": "가을 분양 성수기 돌입...10월 전국 아파트 4.6만 가구 분양",
@@ -963,28 +1046,10 @@
    "url": "https://www.sedaily.com/article/20094470"
   },
   {
-   "title": "올해 청약 경쟁률 5.6대 1…분양가 고공행진에 반토막",
-   "publisher": "한국경제",
-   "date": "2026-10-06",
-   "url": "https://www.hankyung.com/article/202610064867i"
-  },
-  {
-   "title": "당첨돼도 돈 부족해…수도권도 청약 경쟁률 하락",
-   "publisher": "한국경제",
-   "date": "2026-09-21",
-   "url": "https://www.hankyung.com/article/2026092169876"
-  },
-  {
    "title": "청약 물량 늘었지만 경쟁률 '뚝'…서울·수도권 택지로 수요 쏠림",
    "publisher": "데일리안",
    "date": "2026-09",
    "url": "https://www.dailian.co.kr/news/view/1698125/"
-  },
-  {
-   "title": "서울 아파트 평당 분양가 6287만원, 1년 새 34% 급등 … '집값 평탄화'의 역설",
-   "publisher": "뉴데일리경제",
-   "date": "2026-09-18",
-   "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800233.html"
   },
   {
    "title": "서울 아파트 분양가 3년 새 66% 폭등…강남3구는 2배 넘게 뛰어",
@@ -999,12 +1064,6 @@
    "url": "https://kbthink.com/realestate/insights/research/260916-4.html"
   },
   {
-   "title": "KB주택시장 리뷰 2026년 9월호 - 매매가격",
-   "publisher": "KB경영연구소",
-   "date": "2026-09-16",
-   "url": "https://kbthink.com/realestate/insights/research/260916-2.html"
-  },
-  {
    "title": "입주 줄고 재계약 늘고…서울 전세 '씨말랐다'",
    "publisher": "아이뉴스24",
    "date": "2026-09",
@@ -1017,10 +1076,22 @@
    "url": "https://m.news.nate.com/view/20260912n06568"
   },
   {
-   "title": "9월 소비심리 반등⋯수출 호조 속 '금리·집값 상승 기대' 여전",
-   "publisher": "이투데이",
-   "date": "2026-09",
-   "url": "https://www.etoday.co.kr/news/view/2628719"
+   "title": "이제 '로또 줍줍' 사라지나…정부 '파격' 카드에 청약족 '술렁'",
+   "publisher": "한국경제",
+   "date": "2026-08-13",
+   "url": "https://www.hankyung.com/article/2026081398806"
+  },
+  {
+   "title": "로또청약 '줍줍' 사라지나…공공임대 전환에 청약 기회 박탈 논란",
+   "publisher": "파이낸셜뉴스",
+   "date": "2026-08-15",
+   "url": "https://www.fnnews.com/news/202608150702465147"
+  },
+  {
+   "title": "“내집마련 희망이었는데” ‘로또 줍줍’ 폐지에 실수요자 갑론을박",
+   "publisher": "헤럴드경제",
+   "date": "2026-08",
+   "url": "https://biz.heraldcorp.com/article/10843059"
   },
   {
    "title": "'코로나 이후 고점' 3.5% 향하는 기준금리…집값·거래량 다시 압박하나",
@@ -1029,22 +1100,16 @@
    "url": "https://www.newspim.com/news/view/20260930001103"
   },
   {
-   "title": "1년 9개월 만에 기준금리 3%로…\"서울 외곽 주택시장 위축될 것\"",
-   "publisher": "뉴스핌",
-   "date": "2026-08-27",
-   "url": "https://www.newspim.com/news/view/20260827000632"
+   "title": "9월 소비심리 반등⋯수출 호조 속 '금리·집값 상승 기대' 여전",
+   "publisher": "이투데이",
+   "date": "2026-09",
+   "url": "https://www.etoday.co.kr/news/view/2628719"
   },
   {
    "title": "한국은행 기준금리 추이",
    "publisher": "한국은행",
    "date": "",
    "url": "https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643"
-  },
-  {
-   "title": "공급 늘린다며 대출은 막고…엇박자 주택정책 도마 위 [2026 국감]",
-   "publisher": "한국금융신문",
-   "date": "2026-10-02",
-   "url": "https://www.fntimes.com/html/view.php?ud=202610022303269122dd55077bc2_18"
   },
   {
    "title": "2026 가계부채 관리방안, 부동산 시장의 게임 룰이 바뀌었다",
@@ -1101,12 +1166,6 @@
    "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156742030"
   },
   {
-   "title": "무순위 청약, 이제 무주택·거주자에게 공급한다",
-   "publisher": "KDI 경제정보센터",
-   "date": "2025",
-   "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=263149"
-  },
-  {
    "title": "6월부터 무순위 청약 '무주택자만'…수도권 거주요건도 강화, 청약판 지각변동",
    "publisher": "베타뉴스",
    "date": "2026-06-01",
@@ -1119,16 +1178,22 @@
    "url": "http://www.arunews.com/news/articleView.html?idxno=30484"
   },
   {
+   "title": "당첨되면 차익만 10억… 서울·경기서 '로또청약' 풀린다",
+   "publisher": "머니투데이",
+   "date": "2026-09-29",
+   "url": "https://www.mt.co.kr/estate/2026/09/29/2026092819485449033"
+  },
+  {
    "title": "청약통장 월 납입 인정액 25만원, 무엇이 달라졌나",
    "publisher": "토스뱅크",
    "date": "2025",
    "url": "https://www.tossbank.com/articles/housingaccount25"
   },
   {
-   "title": "추석 끝나자 3기 신도시 청약…계양·대장·왕숙 줄줄이 공급",
-   "publisher": "이데일리",
-   "date": "2026-09",
-   "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01515366645584384"
+   "title": "KB주택시장 리뷰 2026년 9월호 - 매매가격",
+   "publisher": "KB경영연구소",
+   "date": "2026-09-16",
+   "url": "https://kbthink.com/realestate/insights/research/260916-2.html"
   },
   {
    "title": "고양창릉 84㎡ 7억원대…3기신도시 물량 이달 말 풀린다",
@@ -1137,22 +1202,16 @@
    "url": "https://www.newsis.com/view/NISX20260504_0003616878"
   },
   {
-   "title": "LH, 3기 신도시 최초 본청약 공급 시작",
-   "publisher": "LH 한국토지주택공사",
-   "date": "2026",
-   "url": "https://lh.or.kr/gallery.es?mid=a10502000000&bid=0003&list_no=11581&act=view"
-  },
-  {
-   "title": "전국 미분양 주택 6만9134가구 … 지방에 5만가구 집중",
-   "publisher": "뉴데일리경제",
-   "date": "2026-09-30",
-   "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/30/2026093000005.html"
-  },
-  {
    "title": "국토교통부, 2026년 8월 주택통계 공표",
    "publisher": "중부뉴스통신",
    "date": "2026-09-30",
    "url": "https://www.jungbunews.com/news/articleView.html?idxno=2746019"
+  },
+  {
+   "title": "대구·울산·경북, 미분양 소진율 '톱3'...신축 중심 '그린라이트'",
+   "publisher": "파이낸셜뉴스",
+   "date": "2026-09-30",
+   "url": "https://www.fnnews.com/news/202609301523219071"
   },
   {
    "title": "대구 18억·부산 29억 신고가 뒤엔 '미분양 4.8만가구'…지방 집값 '두얼굴'",
@@ -1167,16 +1226,16 @@
    "url": "https://www.seoul.co.kr/news/economy/2026/08/05/20260805500157"
   },
   {
-   "title": "대구·울산·경북, 미분양 소진율 '톱3'...신축 중심 '그린라이트'",
-   "publisher": "파이낸셜뉴스",
-   "date": "2026-09-30",
-   "url": "https://www.fnnews.com/news/202609301523219071"
+   "title": "\"당첨만 되면 7억 로또\"…분양가 2배 뛴 광명에 '줍줍' 뜬다",
+   "publisher": "머니투데이",
+   "date": "2026-09-22",
+   "url": "https://www.mt.co.kr/estate/2026/09/22/2026092115041487221"
   },
   {
-   "title": "청약홈 청약제도안내 · 잔여세대(무순위·임의공급)",
-   "publisher": "한국부동산원 청약홈",
-   "date": "",
-   "url": "https://www.applyhome.co.kr/ar/ara/selectSubscrptIntroRemndrHshldView.do"
+   "title": "\"로또 줍줍, 이번이 막차 기회?\"…'20억' 과천 아파트, 9억에 나온다",
+   "publisher": "머니투데이",
+   "date": "2026-09-28",
+   "url": "https://www.mt.co.kr/estate/2026/09/28/2026092810330037353"
   }
  ]
 }
