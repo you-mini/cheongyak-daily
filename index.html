@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#eaf2fc">
+<meta name="theme-color" content="#e4f5f1">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Crect width=%2764%27 height=%2764%27 rx=%2714%27 fill=%27%231f4f8f%27/%3E%3Cpath d=%27M14 34 L32 18 L50 34 V50 H38 V40 H26 V50 H14 Z%27 fill=%27%23fff%27/%3E%3C/svg%3E">
 <title>청약 데일리</title>
 <meta name="description" content="청약홈 분양·무순위 공고를 매일 모아 보여주는 페이지">
@@ -60,14 +60,18 @@
 
   <div class="applied" id="applied" hidden><span id="applied-text"></span><button class="chip small" id="reset" type="button">조건 모두 지우기</button></div>
 
-  <h2 id="hot-title">놓치면 아까운 공고 <span class="count" id="hot-count"></span></h2>
-  <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요.</p>
-  <div id="hot" class="cards"></div>
+  <details class="sec" id="sec-hot" open>
+    <summary><h2 id="hot-title">놓치면 아까운 공고 <span class="count" id="hot-count"></span></h2><span class="fold" aria-hidden="true"></span></summary>
+    <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요.</p>
+    <div id="hot"></div>
+  </details>
 
-  <h2>전체 공고 <span class="count" id="all-count"></span></h2>
-  <div id="list"></div>
-  <button class="btn toggle-closed" id="toggle-closed" hidden></button>
-  <div id="closed-list" hidden></div>
+  <details class="sec" id="sec-all" open>
+    <summary><h2>전체 공고 <span class="count" id="all-count"></span></h2><span class="fold" aria-hidden="true"></span></summary>
+    <div id="list"></div>
+    <button class="btn toggle-closed" id="toggle-closed" hidden></button>
+    <div id="closed-list" hidden></div>
+  </details>
 
   <p class="note">자료 출처: 한국부동산원 <a href="https://www.applyhome.co.kr" target="_blank" rel="noopener">청약홈</a>. 하루 두 번(아침·저녁) 자동으로 새 공고를 가져옵니다. 공급금액은 주택형별 최고가 기준이며, 실제 자격·일정·금액은 반드시 입주자모집공고문을 확인하세요. 이 페이지는 투자 권유가 아닙니다.</p>
 </main>
@@ -289,6 +293,10 @@ function wire() {
     if (ol) { ol.closest(".card").classList.toggle("expanded"); }
   });
   document.body.addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("oneline")) { e.preventDefault(); e.target.closest(".card").classList.toggle("expanded"); } });
+  document.querySelectorAll("details.sec").forEach(d => {
+    const saved = store("cy-sec-" + d.id); if (saved === false) d.open = false;
+    d.addEventListener("toggle", () => store("cy-sec-" + d.id, d.open));
+  });
   const tt = document.getElementById("totop");
   window.addEventListener("scroll", () => tt.classList.toggle("show", window.scrollY > 600), { passive: true });
   tt.addEventListener("click", () => window.scrollTo({ top: 0 }));
