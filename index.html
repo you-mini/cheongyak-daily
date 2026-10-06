@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b5fa5">
 <title>청약 데일리</title>
 <meta name="description" content="청약홈 분양·무순위 공고를 매일 모아 보여주는 페이지">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,40 +31,55 @@
     <div class="stat hot"><div class="n" id="st-hot">–</div><div class="l">놓치면 아까운 공고</div></div>
   </div>
 
+  <div class="toolbar">
+    <div class="row" role="group" aria-label="구분">
+      <button class="chip" data-cat="all">전체</button>
+      <button class="chip" data-cat="remainder">무순위·잔여세대</button>
+      <button class="chip" data-cat="apt">아파트 분양</button>
+      <button class="chip" data-cat="other">오피스텔·임대 등</button>
+      <button class="chip" id="region-btn" type="button" aria-expanded="false" aria-controls="region-panel">지역: 전체 ▾</button>
+      <input id="q" type="search" placeholder="단지명·주소·시공사 검색" autocomplete="off">
+    </div>
+    <div class="region-panel" id="region-panel" hidden>
+      <div class="region-head"><b>지역을 여러 개 고를 수 있어요</b><span><button class="chip small" id="region-clear" type="button">전체 해제</button><button class="chip small" id="region-capital" type="button">수도권만</button><button class="chip small" id="region-close" type="button">닫기</button></span></div>
+      <div class="region-grid" id="region-grid"></div>
+    </div>
+    <div class="row">
+      <span class="seg-label">묶어 보기</span>
+      <button class="chip small" data-group="none">안 묶음</button>
+      <button class="chip small" data-group="region">지역별</button>
+      <button class="chip small" data-group="period">기간별</button>
+      <button class="chip small" data-group="cat">구분별</button>
+      <span class="seg-label" style="margin-left:8px">보기 방식</span>
+      <button class="chip small" data-view="one">한 줄씩</button>
+      <button class="chip small" data-view="grid">3개씩</button>
+      <button class="chip small" data-view="compact">간단히</button>
+    </div>
+  </div>
+
   <h2 id="hot-title">놓치면 아까운 공고 <span class="count" id="hot-count"></span></h2>
   <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요.</p>
-  <div id="hot"></div>
+  <div id="hot" class="cards"></div>
 
   <h2>전체 공고 <span class="count" id="all-count"></span></h2>
-  <div class="filters" role="group" aria-label="구분">
-    <button class="chip on" data-cat="all">전체</button>
-    <button class="chip" data-cat="remainder">무순위·잔여세대</button>
-    <button class="chip" data-cat="apt">아파트 분양</button>
-    <button class="chip" data-cat="other">오피스텔·임대 등</button>
-  </div>
-  <div class="filters">
-    <label for="region" class="sr">지역</label>
-    <select id="region"><option value="">모든 지역</option></select>
-    <input id="q" type="search" placeholder="단지명·주소·시공사 검색" autocomplete="off">
-  </div>
   <div id="list"></div>
   <button class="btn toggle-closed" id="toggle-closed" hidden></button>
   <div id="closed-list" hidden></div>
 
   <p class="note">자료 출처: 한국부동산원 <a href="https://www.applyhome.co.kr" target="_blank" rel="noopener">청약홈</a>. 하루 두 번(아침·저녁) 자동으로 새 공고를 가져옵니다. 공급금액은 주택형별 최고가 기준이며, 실제 자격·일정·금액은 반드시 입주자모집공고문을 확인하세요. 이 페이지는 투자 권유가 아닙니다.</p>
 </main>
+<button class="totop" id="totop" type="button" aria-label="맨 위로">↑ 맨 위로</button>
 
 <script src="assets/common.js"></script>
 <script>
 const CAT_LABEL = { apt: "아파트 분양", remainder: "무순위·잔여세대", other: "오피스텔·임대 등" };
+const REGION_ORDER = ["서울", "경기", "인천", "세종", "부산", "대구", "대전", "광주", "울산"];
 let DATA = { items: [] }, PICKS = {};
-let state = Object.assign({ cat: "all", region: "", q: "", showClosed: false }, store("cy-filters") || {});
+let state = Object.assign({ cat: "all", regions: [], q: "", showClosed: false, group: "none", view: "one" }, store("cy-filters") || {});
+if (!Array.isArray(state.regions)) state.regions = [];
 
-function kindOf(it) {
-  return it.supply_kind || it.sale_kind || it.house_kind || CAT_LABEL[it.category];
-}
+function kindOf(it) { return it.supply_kind || it.sale_kind || it.house_kind || CAT_LABEL[it.category]; }
 function statusPill(it) {
-  const t = todayISO();
   if (it.status === "open") {
     const left = daysUntil(it.apply_end);
     return `<span class="pill open">접수 중${left === 0 ? " · 오늘 마감" : left > 0 ? " · " + left + "일 남음" : ""}</span>`;
@@ -73,6 +89,11 @@ function statusPill(it) {
     return `<span class="pill upcoming">${d === 0 ? "오늘 접수" : d === 1 ? "내일 접수" : "D-" + d}</span>`;
   }
   return `<span class="pill closed">접수 마감</span>`;
+}
+function shortStatus(it) {
+  if (it.status === "open") return "접수 중";
+  if (it.status === "upcoming") { const d = daysUntil(it.apply_start); return d === 0 ? "오늘" : "D-" + d; }
+  return "마감";
 }
 function unitsTable(it) {
   if (!it.units || !it.units.length) return "";
@@ -92,19 +113,31 @@ function schedList(it) {
   if (it.move_in) li.push(`<li><span>입주 예정</span>${esc(it.move_in)}</li>`);
   return li.length ? `<ul class="sched">${li.join("")}</ul>` : "";
 }
+function priceText(it) {
+  if (!it.price_min) return "";
+  return fmtMan(it.price_min) + (it.price_max && it.price_max !== it.price_min ? " ~ " + fmtMan(it.price_max) : "");
+}
 function card(it, hot) {
   const pick = PICKS[it.pblancNo];
   const tags = (it.tags || []).map(t => `<span class="tag ${/무순위|재공급|공공/.test(t) ? "hot" : ""}">${esc(t)}</span>`).join("");
-  const price = it.price_min ? `<div class="price">공급금액 <b>${fmtMan(it.price_min)}</b>${it.price_max && it.price_max !== it.price_min ? " ~ <b>" + fmtMan(it.price_max) + "</b>" : ""} <span class="muted">(주택형별 최고가)</span></div>` : "";
+  const pt = priceText(it);
+  const price = pt ? `<div class="price">공급금액 <b>${pt}</b> <span class="muted">(주택형별 최고가)</span></div>` : "";
   const cnt = it.total_units ? `<b>${it.total_units.toLocaleString("ko-KR")}세대</b>` : "";
   return `<article class="card ${hot ? "hot" : ""} ${it.status}" data-id="${esc(it.pblancNo)}">
+    <div class="oneline" role="button" tabindex="0">
+      ${statusPill(it)}
+      <span class="nm">${esc(it.name)}</span>
+      <span class="sub">${esc(it.region)} · ${esc(kindOf(it))}${it.total_units ? " · " + it.total_units + "세대" : ""}</span>
+      <span class="sub">${fmtRange(it.apply_start, it.apply_end)}</span>
+      ${pt ? `<span class="pr">${pt}</span>` : ""}
+    </div>
     <div class="card-top">
-      <div>
+      <div style="min-width:0">
         <div class="meta"><span><b>${esc(it.region)}</b></span><span>${esc(kindOf(it))}</span>${cnt ? `<span>${cnt}</span>` : ""}</div>
         <h3>${esc(it.name)}</h3>
         <div class="meta"><span>${esc(it.address || "")}</span></div>
       </div>
-      <div>${statusPill(it)}${hot ? ' <span class="pill hot">주목</span>' : ""}</div>
+      <div class="pills">${statusPill(it)}${hot ? '<span class="pill hot">주목</span>' : ""}</div>
     </div>
     <div class="dates">
       <div><span>청약 접수</span><b>${fmtRange(it.apply_start, it.apply_end)}</b></div>
@@ -129,7 +162,7 @@ function card(it, hot) {
 }
 function matches(it) {
   if (state.cat !== "all" && it.category !== state.cat) return false;
-  if (state.region && it.region !== state.region) return false;
+  if (state.regions.length && !state.regions.includes(it.region)) return false;
   if (state.q) {
     const q = state.q.trim().toLowerCase();
     const hay = [it.name, it.address, it.builder, it.region, kindOf(it)].join(" ").toLowerCase();
@@ -138,6 +171,40 @@ function matches(it) {
   return true;
 }
 function isHot(it) { return it.status !== "closed" && (it.score >= 50 || PICKS[it.pblancNo]); }
+
+/* 묶기 */
+function toLocal(iso) { const [y, m, d] = iso.split("-").map(Number); return new Date(y, m - 1, d); }
+function fromLocal(d) { return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+function addDays(iso, n) { const d = toLocal(iso); d.setDate(d.getDate() + n); return fromLocal(d); }
+function weekStart(iso) { const d = toLocal(iso); const day = (d.getDay() + 6) % 7; d.setDate(d.getDate() - day); return fromLocal(d); }
+function periodKey(it) {
+  if (it.status === "open") return ["0", "지금 접수 중"];
+  const s = it.apply_start; if (!s) return ["9", "날짜 미정"];
+  const tw = weekStart(todayISO());
+  const nwk = addDays(tw, 7), nnk = addDays(tw, 14);
+  if (s < nwk) return ["1", "이번 주 접수 시작"];
+  if (s < nnk) return ["2", "다음 주 접수 시작"];
+  const [y, m] = s.split("-"); return ["3" + s.slice(0, 7), `${y}년 ${Number(m)}월 접수 시작`];
+}
+function groupItems(items) {
+  if (state.group === "none") return [{ title: "", items }];
+  const map = new Map();
+  for (const it of items) {
+    let key, title;
+    if (state.group === "region") { const i = REGION_ORDER.indexOf(it.region); key = (i < 0 ? "9" : String(i)) + it.region; title = it.region; }
+    else if (state.group === "cat") { key = { remainder: "0", apt: "1", other: "2" }[it.category]; title = CAT_LABEL[it.category]; }
+    else { [key, title] = periodKey(it); }
+    if (!map.has(key)) map.set(key, { title, items: [] });
+    map.get(key).items.push(it);
+  }
+  return [...map.entries()].sort((a, b) => a[0].localeCompare(b[0], "ko")).map(e => e[1]);
+}
+function renderGroups(groups, hot) {
+  const cls = "cards view-" + state.view;
+  if (groups.length === 1 && !groups[0].title) return `<div class="${cls}">${groups[0].items.map(i => card(i, hot)).join("")}</div>`;
+  return groups.map(g => `<details class="group" open><summary>${esc(g.title)} <span class="count">${g.items.length}건</span></summary><div class="${cls}">${g.items.map(i => card(i, hot)).join("")}</div></details>`).join("");
+}
+
 function render() {
   const items = DATA.items;
   const live = items.filter(i => i.status !== "closed");
@@ -146,38 +213,66 @@ function render() {
   const hot = live.filter(isHot).sort((a, b) => (a.apply_start || "").localeCompare(b.apply_start || "") || b.score - a.score);
   document.getElementById("st-hot").textContent = hot.length;
   document.getElementById("hot-count").textContent = hot.length + "건";
-  document.getElementById("hot").innerHTML = hot.length ? hot.map(i => card(i, true)).join("") : `<div class="empty">지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다.</div>`;
+  const hotEl = document.getElementById("hot");
+  hotEl.className = "cards view-" + state.view;
+  hotEl.innerHTML = hot.length ? hot.map(i => card(i, true)).join("") : `<div class="empty">지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다.</div>`;
 
   const filtered = items.filter(matches);
   const openUp = filtered.filter(i => i.status !== "closed");
   const closed = filtered.filter(i => i.status === "closed").sort((a, b) => (b.apply_end || "").localeCompare(a.apply_end || ""));
   document.getElementById("all-count").textContent = `접수 중·예정 ${openUp.length}건, 마감 ${closed.length}건`;
-  document.getElementById("list").innerHTML = openUp.length ? openUp.map(i => card(i, false)).join("") : `<div class="empty">조건에 맞는 접수 중·예정 공고가 없습니다.</div>`;
+  document.getElementById("list").innerHTML = openUp.length ? renderGroups(groupItems(openUp), false) : `<div class="empty">조건에 맞는 접수 중·예정 공고가 없습니다.</div>`;
   const tc = document.getElementById("toggle-closed");
   tc.hidden = closed.length === 0;
   tc.textContent = (state.showClosed ? "마감된 공고 접기" : "마감된 공고 보기") + ` (${closed.length}건)`;
   const cl = document.getElementById("closed-list");
   cl.hidden = !state.showClosed;
-  cl.innerHTML = state.showClosed ? closed.map(i => card(i, false)).join("") : "";
+  cl.innerHTML = state.showClosed ? renderGroups(groupItems(closed), false) : "";
+  syncChips(); regionLabel();
+}
+function syncChips() {
+  document.querySelectorAll(".chip[data-cat]").forEach(b => b.classList.toggle("on", b.dataset.cat === state.cat));
+  document.querySelectorAll(".chip[data-group]").forEach(b => b.classList.toggle("on", b.dataset.group === state.group));
+  document.querySelectorAll(".chip[data-view]").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
+}
+function save() { store("cy-filters", { cat: state.cat, regions: state.regions, q: state.q, showClosed: state.showClosed, group: state.group, view: state.view }); }
+function regionLabel() {
+  const b = document.getElementById("region-btn");
+  const r = state.regions;
+  b.textContent = "지역: " + (r.length === 0 ? "전체" : r.length <= 3 ? r.join("·") : r.slice(0, 2).join("·") + " 외 " + (r.length - 2) + "곳") + " ▾";
+  b.classList.toggle("on", r.length > 0);
 }
 function wire() {
-  document.querySelectorAll(".chip[data-cat]").forEach(b => {
-    b.classList.toggle("on", b.dataset.cat === state.cat);
-    b.addEventListener("click", () => { state.cat = b.dataset.cat; document.querySelectorAll(".chip[data-cat]").forEach(x => x.classList.toggle("on", x === b)); save(); render(); });
-  });
-  const sel = document.getElementById("region");
-  [...new Set(DATA.items.map(i => i.region))].sort((a, b) => a.localeCompare(b, "ko")).forEach(r => { const o = document.createElement("option"); o.value = r; o.textContent = r; sel.appendChild(o); });
-  sel.value = state.region; sel.addEventListener("change", () => { state.region = sel.value; save(); render(); });
+  document.querySelectorAll(".chip[data-cat]").forEach(b => b.addEventListener("click", () => { state.cat = b.dataset.cat; save(); render(); }));
+  document.querySelectorAll(".chip[data-group]").forEach(b => b.addEventListener("click", () => { state.group = b.dataset.group; save(); render(); }));
+  document.querySelectorAll(".chip[data-view]").forEach(b => b.addEventListener("click", () => { state.view = b.dataset.view; save(); render(); }));
+  const counts = {}; DATA.items.forEach(i => { if (i.status !== "closed") counts[i.region] = (counts[i.region] || 0) + 1; });
+  const regions = [...new Set(DATA.items.map(i => i.region))].sort((a, b) => { const x = REGION_ORDER.indexOf(a), y = REGION_ORDER.indexOf(b); return (x < 0 ? 99 : x) - (y < 0 ? 99 : y) || a.localeCompare(b, "ko"); });
+  state.regions = state.regions.filter(r => regions.includes(r));
+  const grid = document.getElementById("region-grid");
+  grid.innerHTML = regions.map(r => `<label class="rbox"><input type="checkbox" value="${esc(r)}" ${state.regions.includes(r) ? "checked" : ""}> ${esc(r)} <span class="cnt">${counts[r] || 0}</span></label>`).join("");
+  grid.addEventListener("change", () => { state.regions = [...grid.querySelectorAll("input:checked")].map(c => c.value); save(); render(); });
+  const panel = document.getElementById("region-panel"), rb = document.getElementById("region-btn");
+  const setPanel = on => { panel.hidden = !on; rb.setAttribute("aria-expanded", on); };
+  rb.addEventListener("click", () => setPanel(panel.hidden));
+  document.getElementById("region-close").addEventListener("click", () => setPanel(false));
+  document.getElementById("region-clear").addEventListener("click", () => { grid.querySelectorAll("input").forEach(c => c.checked = false); state.regions = []; save(); render(); });
+  document.getElementById("region-capital").addEventListener("click", () => { grid.querySelectorAll("input").forEach(c => c.checked = ["서울", "경기", "인천"].includes(c.value)); state.regions = [...grid.querySelectorAll("input:checked")].map(c => c.value); save(); render(); });
+  regionLabel();
   const q = document.getElementById("q"); q.value = state.q;
   q.addEventListener("input", () => { state.q = q.value; save(); render(); });
   document.getElementById("toggle-closed").addEventListener("click", () => { state.showClosed = !state.showClosed; save(); render(); });
   document.body.addEventListener("click", e => {
-    const b = e.target.closest(".more"); if (!b) return;
-    const c = b.closest(".card"); const on = c.classList.toggle("expanded");
-    b.setAttribute("aria-expanded", on); b.textContent = on ? "접기" : "주택형·일정 보기";
+    const more = e.target.closest(".more");
+    if (more) { const c = more.closest(".card"); const on = c.classList.toggle("expanded"); more.setAttribute("aria-expanded", on); more.textContent = on ? "접기" : "주택형·일정 보기"; return; }
+    const ol = e.target.closest(".oneline");
+    if (ol) { ol.closest(".card").classList.toggle("expanded"); }
   });
+  document.body.addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("oneline")) { e.preventDefault(); e.target.closest(".card").classList.toggle("expanded"); } });
+  const tt = document.getElementById("totop");
+  window.addEventListener("scroll", () => tt.classList.toggle("show", window.scrollY > 600), { passive: true });
+  tt.addEventListener("click", () => window.scrollTo({ top: 0 }));
 }
-function save() { store("cy-filters", { cat: state.cat, region: state.region, q: state.q, showClosed: state.showClosed }); }
 (async () => {
   try {
     const [d, t] = await Promise.all([loadJSON("data/listings.json"), loadJSON("data/trends.json").catch(() => null)]);
