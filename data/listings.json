@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 15:54 KST",
+ "updated_at": "2026-10-06 18:02 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
  "count": 160,
  "items": [
@@ -71,16 +71,16 @@
    },
    "price_min": 44555,
    "price_max": 44812,
+   "hogangnono_id": "f6R9e",
+   "hogangnono_name": "시흥거모A-5블록신혼희망타운",
+   "lat": 37.3489651,
+   "lon": 126.775809,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "f6R9e",
-   "hogangnono_name": "시흥거모A-5블록신혼희망타운",
-   "lat": 37.3489651,
-   "lon": 126.775809
+   "status": "closed"
   },
   {
    "pblancNo": "2026940173",
@@ -168,16 +168,16 @@
    },
    "price_min": 50700,
    "price_max": 68900,
+   "hogangnono_id": "ggvdc",
+   "hogangnono_name": "엘리프검단포레듀",
+   "lat": 37.6059291,
+   "lon": 126.672266,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "ggvdc",
-   "hogangnono_name": "엘리프검단포레듀",
-   "lat": 37.6059291,
-   "lon": 126.672266
+   "status": "closed"
   },
   {
    "pblancNo": "2026950070",
@@ -224,15 +224,15 @@
    },
    "price_min": 59990,
    "price_max": 59990,
+   "hogangnono_id": "fdO10",
+   "hogangnono_name": "선유노블레르",
+   "lat": 37.5406301872632,
+   "lon": 126.890284095001,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fdO10",
-   "hogangnono_name": "선유노블레르",
-   "lat": 37.5406301872632,
-   "lon": 126.890284095001
+   "status": "closed"
   },
   {
    "pblancNo": "2026940177",
@@ -292,16 +292,16 @@
    },
    "price_min": 58200,
    "price_max": 59410,
+   "hogangnono_id": "gDA6c",
+   "hogangnono_name": "검암역자이르네",
+   "lat": 37.5581134,
+   "lon": 126.668984,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gDA6c",
-   "hogangnono_name": "검암역자이르네",
-   "lat": 37.5581134,
-   "lon": 126.668984
+   "status": "closed"
   },
   {
    "pblancNo": "2026940175",
@@ -354,16 +354,16 @@
    },
    "price_min": 67300,
    "price_max": 81390,
+   "hogangnono_id": "gHBcf",
+   "hogangnono_name": "인하대역수자인로이센트",
+   "lat": 37.4450699,
+   "lon": 126.644384,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gHBcf",
-   "hogangnono_name": "인하대역수자인로이센트",
-   "lat": 37.4450699,
-   "lon": 126.644384
+   "status": "closed"
   },
   {
    "pblancNo": "2026940176",
@@ -416,16 +416,16 @@
    },
    "price_min": 49950,
    "price_max": 50960,
+   "hogangnono_id": "fDWda",
+   "hogangnono_name": "별하람마을5단지호반써밋이스트파크",
+   "lat": 37.7439463,
+   "lon": 126.7587826,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fDWda",
-   "hogangnono_name": "별하람마을5단지호반써밋이스트파크",
-   "lat": 37.7439463,
-   "lon": 126.7587826
+   "status": "closed"
   },
   {
    "pblancNo": "2026000372",
@@ -510,15 +510,15 @@
    },
    "price_min": 108650,
    "price_max": 137330,
+   "hogangnono_id": "gN8fd",
+   "hogangnono_name": "쌍용더플래티넘서대문",
+   "lat": 37.5831574,
+   "lon": 126.924754,
    "score": 30,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gN8fd",
-   "hogangnono_name": "쌍용더플래티넘서대문",
-   "lat": 37.5831574,
-   "lon": 126.924754
+   "status": "closed"
   },
   {
    "pblancNo": "2026910217",
@@ -572,15 +572,15 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "ggS8d",
+   "hogangnono_name": "춘천리버뷰아이파크",
+   "lat": 37.8920840222954,
+   "lon": 127.755501649408,
    "score": 30,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "ggS8d",
-   "hogangnono_name": "춘천리버뷰아이파크",
-   "lat": 37.8920840222954,
-   "lon": 127.755501649408
+   "status": "closed"
   },
   {
    "pblancNo": "2026000354",
@@ -755,15 +755,15 @@
    },
    "price_min": 149900,
    "price_max": 603800,
+   "hogangnono_id": "gNhd0",
+   "hogangnono_name": "상동역롯데캐슬시그니처",
+   "lat": 37.5042499,
+   "lon": 126.755056,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gNhd0",
-   "hogangnono_name": "상동역롯데캐슬시그니처",
-   "lat": 37.5042499,
-   "lon": 126.755056
+   "status": "closed"
   },
   {
    "pblancNo": "2026000377",
@@ -858,15 +858,15 @@
    },
    "price_min": 56300,
    "price_max": 94000,
+   "hogangnono_id": "gCOf7",
+   "hogangnono_name": "의왕역한신더휴",
+   "lat": 37.3209716,
+   "lon": 126.956107,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gCOf7",
-   "hogangnono_name": "의왕역한신더휴",
-   "lat": 37.3209716,
-   "lon": 126.956107
+   "status": "closed"
   },
   {
    "pblancNo": "2026000365",
@@ -961,15 +961,15 @@
    },
    "price_min": 54800,
    "price_max": 71900,
+   "hogangnono_id": "gA2fa",
+   "hogangnono_name": "오남역서희스타힐스여의재1단지",
+   "lat": 37.6998617,
+   "lon": 127.203233,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gA2fa",
-   "hogangnono_name": "오남역서희스타힐스여의재1단지",
-   "lat": 37.6998617,
-   "lon": 127.203233
+   "status": "closed"
   },
   {
    "pblancNo": "2026950073",
@@ -1048,15 +1048,15 @@
    },
    "price_min": 32443,
    "price_max": 41150,
+   "hogangnono_id": "gaOe9",
+   "hogangnono_name": "강동리버스시티",
+   "lat": 37.5393571,
+   "lon": 127.1299818,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gaOe9",
-   "hogangnono_name": "강동리버스시티",
-   "lat": 37.5393571,
-   "lon": 127.1299818
+   "status": "closed"
   },
   {
    "pblancNo": "2026950074",
@@ -1127,15 +1127,15 @@
    },
    "price_min": 81100,
    "price_max": 83100,
+   "hogangnono_id": "gCQ18",
+   "hogangnono_name": "월드메르디앙올림픽파크(오)",
+   "lat": 37.5333795,
+   "lon": 127.1394812,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gCQ18",
-   "hogangnono_name": "월드메르디앙올림픽파크(오)",
-   "lat": 37.5333795,
-   "lon": 127.1394812
+   "status": "closed"
   },
   {
    "pblancNo": "2026000342",
@@ -1230,13 +1230,13 @@
    },
    "price_min": 51460,
    "price_max": 79600,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gSb1b",
    "hogangnono_name": "제일풍경채첨단3지구(A6BL)",
    "lat": 35.2434833,
-   "lon": 126.864701
+   "lon": 126.864701,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026950072",
@@ -1291,15 +1291,15 @@
    },
    "price_min": 86300,
    "price_max": 107600,
+   "hogangnono_id": "fqS35",
+   "hogangnono_name": "덕은DMC에일린의뜰센트럴10블록",
+   "lat": 37.5813489,
+   "lon": 126.8572508,
    "score": 10,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fqS35",
-   "hogangnono_name": "덕은DMC에일린의뜰센트럴10블록",
-   "lat": 37.5813489,
-   "lon": 126.8572508
+   "status": "closed"
   },
   {
    "pblancNo": "2026000383",
@@ -1414,13 +1414,13 @@
    },
    "price_min": 41300,
    "price_max": 57700,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gxt1e",
    "hogangnono_name": "포레나힐스테이트진주",
    "lat": 35.1919249,
-   "lon": 128.059809
+   "lon": 128.059809,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000368",
@@ -1515,13 +1515,13 @@
    },
    "price_min": 50500,
    "price_max": 52600,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gT3b5",
    "hogangnono_name": "아르티엠라테라스",
    "lat": 35.8481654,
-   "lon": 127.1595705
+   "lon": 127.1595705,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026850045",
@@ -1590,15 +1590,15 @@
    },
    "price_min": 42770,
    "price_max": 69900,
+   "hogangnono_id": "gJbcf",
+   "hogangnono_name": "의왕청계역시티프라디움디하모니",
+   "lat": 37.3875251,
+   "lon": 126.995725,
    "score": 0,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gJbcf",
-   "hogangnono_name": "의왕청계역시티프라디움디하모니",
-   "lat": 37.3875251,
-   "lon": 126.995725
+   "status": "closed"
   },
   {
    "pblancNo": "2026940181",
@@ -1665,16 +1665,16 @@
    },
    "price_min": 36800,
    "price_max": 54500,
+   "hogangnono_id": "fBd9a",
+   "hogangnono_name": "리아츠더인천",
+   "lat": 37.4781420469347,
+   "lon": 126.650554710834,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fBd9a",
-   "hogangnono_name": "리아츠더인천",
-   "lat": 37.4781420469347,
-   "lon": 126.650554710834
+   "status": "closed"
   },
   {
    "pblancNo": "2026940178",
@@ -1748,16 +1748,16 @@
    },
    "price_min": 61722,
    "price_max": 87993,
+   "hogangnono_id": "fBa93",
+   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
+   "lat": 37.4918362831198,
+   "lon": 126.571064768683,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fBa93",
-   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
-   "lat": 37.4918362831198,
-   "lon": 126.571064768683
+   "status": "closed"
   },
   {
    "pblancNo": "2026910219",
@@ -1799,16 +1799,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gvde8",
+   "hogangnono_name": "트리븐김해 ",
+   "lat": 35.2480977,
+   "lon": 128.862845,
    "score": 35,
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gvde8",
-   "hogangnono_name": "트리븐김해 ",
-   "lat": 35.2480977,
-   "lon": 128.862845
+   "status": "closed"
   },
   {
    "pblancNo": "2026930028",
@@ -1857,6 +1857,10 @@
    },
    "price_min": 87710,
    "price_max": 87710,
+   "hogangnono_id": "fGWf3",
+   "hogangnono_name": "구리역롯데캐슬시그니처",
+   "lat": 37.6015470116904,
+   "lon": 127.136706537006,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
@@ -1864,11 +1868,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "fGWf3",
-   "hogangnono_name": "구리역롯데캐슬시그니처",
-   "lat": 37.6015470116904,
-   "lon": 127.136706537006
+   "status": "closed"
   },
   {
    "pblancNo": "2026950075",
@@ -1939,15 +1939,15 @@
    },
    "price_min": 51702,
    "price_max": 59520,
+   "hogangnono_id": "gJA8f",
+   "hogangnono_name": "왕십리역어반홈스",
+   "lat": 37.5631696,
+   "lon": 127.0348413,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gJA8f",
-   "hogangnono_name": "왕십리역어반홈스",
-   "lat": 37.5631696,
-   "lon": 127.0348413
+   "status": "closed"
   },
   {
    "pblancNo": "2026940179",
@@ -2000,16 +2000,16 @@
    },
    "price_min": 86000,
    "price_max": 86500,
+   "hogangnono_id": "gPxcc",
+   "hogangnono_name": "해링턴플레이스노원센트럴",
+   "lat": 37.6595722,
+   "lon": 127.0633046,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gPxcc",
-   "hogangnono_name": "해링턴플레이스노원센트럴",
-   "lat": 37.6595722,
-   "lon": 127.0633046
+   "status": "closed"
   },
   {
    "pblancNo": "2026910229",
@@ -2055,17 +2055,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gMZ35",
+   "hogangnono_name": "호반써밋풍무Ⅲ",
+   "lat": 37.6153474,
+   "lon": 126.734356,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gMZ35",
-   "hogangnono_name": "호반써밋풍무Ⅲ",
-   "lat": 37.6153474,
-   "lon": 126.734356
+   "status": "closed"
   },
   {
    "pblancNo": "2026910222",
@@ -2111,16 +2111,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gQYec",
+   "hogangnono_name": "오산헤리티지자이1단지",
+   "lat": 37.1992878236862,
+   "lon": 127.028821398341,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gQYec",
-   "hogangnono_name": "오산헤리티지자이1단지",
-   "lat": 37.1992878236862,
-   "lon": 127.028821398341
+   "status": "closed"
   },
   {
    "pblancNo": "2026000404",
@@ -2235,16 +2235,16 @@
    },
    "price_min": 46250,
    "price_max": 63910,
+   "hogangnono_id": "gN6d2",
+   "hogangnono_name": "검암역푸르지오프라베뉴",
+   "lat": 37.5651128103782,
+   "lon": 126.668614485323,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "gN6d2",
-   "hogangnono_name": "검암역푸르지오프라베뉴",
-   "lat": 37.5651128103782,
-   "lon": 126.668614485323
+   "status": "closed"
   },
   {
    "pblancNo": "2026820008",
@@ -2332,16 +2332,16 @@
    },
    "price_min": 79831,
    "price_max": 81214,
+   "hogangnono_id": "ekk48",
+   "hogangnono_name": "성남복정2A1블록신혼희망타운",
+   "lat": 37.4515101,
+   "lon": 127.142999,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "ekk48",
-   "hogangnono_name": "성남복정2A1블록신혼희망타운",
-   "lat": 37.4515101,
-   "lon": 127.142999
+   "status": "closed"
   },
   {
    "pblancNo": "2026000388",
@@ -2496,15 +2496,15 @@
    },
    "price_min": 48560,
    "price_max": 170000,
+   "hogangnono_id": "gNzb9",
+   "hogangnono_name": "시티오씨엘9단지오션파크뷰",
+   "lat": 37.4385046009576,
+   "lon": 126.638619554675,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gNzb9",
-   "hogangnono_name": "시티오씨엘9단지오션파크뷰",
-   "lat": 37.4385046009576,
-   "lon": 126.638619554675
+   "status": "closed"
   },
   {
    "pblancNo": "2026910221",
@@ -2550,17 +2550,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gJB65",
+   "hogangnono_name": "대방역여의도더로드캐슬",
+   "lat": 37.5129205591515,
+   "lon": 126.922932998353,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gJB65",
-   "hogangnono_name": "대방역여의도더로드캐슬",
-   "lat": 37.5129205591515,
-   "lon": 126.922932998353
+   "status": "closed"
   },
   {
    "pblancNo": "2026910224",
@@ -2602,17 +2602,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "dryd8",
+   "hogangnono_name": "장위푸르지오마크원",
+   "lat": 37.6128238,
+   "lon": 127.052077,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "dryd8",
-   "hogangnono_name": "장위푸르지오마크원",
-   "lat": 37.6128238,
-   "lon": 127.052077
+   "status": "closed"
   },
   {
    "pblancNo": "2026910223",
@@ -2690,15 +2690,15 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "dqxfd",
+   "hogangnono_name": "창원한신더휴메가센텀",
+   "lat": 35.2178033,
+   "lon": 128.5678224,
    "score": 30,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "dqxfd",
-   "hogangnono_name": "창원한신더휴메가센텀",
-   "lat": 35.2178033,
-   "lon": 128.5678224
+   "status": "closed"
   },
   {
    "pblancNo": "2026950079",
@@ -2761,15 +2761,15 @@
    },
    "price_min": 73970,
    "price_max": 90660,
+   "hogangnono_id": "e1Kf0",
+   "hogangnono_name": "동탄2신도시동탄역디에트르퍼스티지",
+   "lat": 37.198821,
+   "lon": 127.0906044,
    "score": 10,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "e1Kf0",
-   "hogangnono_name": "동탄2신도시동탄역디에트르퍼스티지",
-   "lat": 37.198821,
-   "lon": 127.0906044
+   "status": "closed"
   },
   {
    "pblancNo": "2026930030",
@@ -2818,6 +2818,10 @@
    },
    "price_min": 54900,
    "price_max": 54900,
+   "hogangnono_id": "dTc33",
+   "hogangnono_name": "신검단중앙역풍경채어바니티",
+   "lat": 37.6056764645598,
+   "lon": 126.70162188798,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
@@ -2825,11 +2829,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "dTc33",
-   "hogangnono_name": "신검단중앙역풍경채어바니티",
-   "lat": 37.6056764645598,
-   "lon": 126.70162188798
+   "status": "closed"
   },
   {
    "pblancNo": "2026940184",
@@ -2882,17 +2882,17 @@
    },
    "price_min": 196300,
    "price_max": 207200,
+   "hogangnono_id": "gfC06",
+   "hogangnono_name": "더샵분당센트로",
+   "lat": 37.339321,
+   "lon": 127.11695,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gfC06",
-   "hogangnono_name": "더샵분당센트로",
-   "lat": 37.339321,
-   "lon": 127.11695
+   "status": "closed"
   },
   {
    "pblancNo": "2026930029",
@@ -2941,16 +2941,16 @@
    },
    "price_min": 39200,
    "price_max": 39200,
+   "hogangnono_id": "ctqdb",
+   "hogangnono_name": "한뜰마을4단지한신더휴리저브2",
+   "lat": 36.500001097027614,
+   "lon": 127.25569479270276,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "ctqdb",
-   "hogangnono_name": "한뜰마을4단지한신더휴리저브2",
-   "lat": 36.500001097027614,
-   "lon": 127.25569479270276
+   "status": "closed"
   },
   {
    "pblancNo": "2026910225",
@@ -2996,16 +2996,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gnOd5",
+   "hogangnono_name": "의왕역SKVIEW",
+   "lat": 37.3220875,
+   "lon": 126.952704,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gnOd5",
-   "hogangnono_name": "의왕역SKVIEW",
-   "lat": 37.3220875,
-   "lon": 126.952704
+   "status": "closed"
   },
   {
    "pblancNo": "2026940183",
@@ -3100,16 +3100,16 @@
    },
    "price_min": 61130,
    "price_max": 132050,
+   "hogangnono_id": "gPX8b",
+   "hogangnono_name": "브라운스톤목동",
+   "lat": 37.5430963,
+   "lon": 126.8722511,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gPX8b",
-   "hogangnono_name": "브라운스톤목동",
-   "lat": 37.5430963,
-   "lon": 126.8722511
+   "status": "closed"
   },
   {
    "pblancNo": "2026910226",
@@ -3167,16 +3167,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gtn90",
+   "hogangnono_name": "에스아이팰리스강동센텀Ⅱ",
+   "lat": 37.5379270850208,
+   "lon": 127.137528634012,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gtn90",
-   "hogangnono_name": "에스아이팰리스강동센텀Ⅱ",
-   "lat": 37.5379270850208,
-   "lon": 127.137528634012
+   "status": "closed"
   },
   {
    "pblancNo": "2026940182",
@@ -3236,16 +3236,16 @@
    },
    "price_min": 73300,
    "price_max": 91200,
+   "hogangnono_id": "gKk33",
+   "hogangnono_name": "서수원에피트센트럴마크M2블록",
+   "lat": 37.2826443,
+   "lon": 126.941639,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gKk33",
-   "hogangnono_name": "서수원에피트센트럴마크M2블록",
-   "lat": 37.2826443,
-   "lon": 126.941639
+   "status": "closed"
   },
   {
    "pblancNo": "2026910230",
@@ -3295,17 +3295,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "fc0c3",
+   "hogangnono_name": "포레나더샵인천시청역",
+   "lat": 37.462974,
+   "lon": 126.705355,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "fc0c3",
-   "hogangnono_name": "포레나더샵인천시청역",
-   "lat": 37.462974,
-   "lon": 126.705355
+   "status": "closed"
   },
   {
    "pblancNo": "2026940185",
@@ -3365,16 +3365,16 @@
    },
    "price_min": 74520,
    "price_max": 93780,
+   "hogangnono_id": "dAl40",
+   "hogangnono_name": "고촌센트럴자이",
+   "lat": 37.5916015,
+   "lon": 126.76277,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "dAl40",
-   "hogangnono_name": "고촌센트럴자이",
-   "lat": 37.5916015,
-   "lon": 126.76277
+   "status": "closed"
   },
   {
    "pblancNo": "2026940192",
@@ -3441,16 +3441,16 @@
    },
    "price_min": 75800,
    "price_max": 79900,
+   "hogangnono_id": "fIZb5",
+   "hogangnono_name": "엘리프한신더휴수원D3블록",
+   "lat": 37.2823876337738,
+   "lon": 126.944335353238,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fIZb5",
-   "hogangnono_name": "엘리프한신더휴수원D3블록",
-   "lat": 37.2823876337738,
-   "lon": 126.944335353238
+   "status": "closed"
   },
   {
    "pblancNo": "2026000399",
@@ -3545,15 +3545,15 @@
    },
    "price_min": 86200,
    "price_max": 107500,
+   "hogangnono_id": "gNV36",
+   "hogangnono_name": "브라운스톤월곡센트럴",
+   "lat": 37.6060363,
+   "lon": 127.036143,
    "score": 30,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gNV36",
-   "hogangnono_name": "브라운스톤월곡센트럴",
-   "lat": 37.6060363,
-   "lon": 127.036143
+   "status": "closed"
   },
   {
    "pblancNo": "2026000409",
@@ -3621,16 +3621,16 @@
    },
    "price_min": 40419,
    "price_max": 40646,
+   "hogangnono_id": "eki32",
+   "hogangnono_name": "의정부우정지구A-2블록",
+   "lat": 37.7619158,
+   "lon": 127.031628,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "eki32",
-   "hogangnono_name": "의정부우정지구A-2블록",
-   "lat": 37.7619158,
-   "lon": 127.031628
+   "status": "closed"
   },
   {
    "pblancNo": "2026000401",
@@ -3708,13 +3708,13 @@
    },
    "price_min": 22100,
    "price_max": 27900,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "9I7db",
    "hogangnono_name": "문수데시앙2단지",
    "lat": 35.5264528,
-   "lon": 129.2425343
+   "lon": 129.2425343,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026850046",
@@ -3768,13 +3768,13 @@
    },
    "price_min": 19380,
    "price_max": 19522,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gIVfd",
    "hogangnono_name": "부경경마공원역대방디에트르더리버(AP1BL)",
    "lat": 35.1540084,
-   "lon": 128.8849223
+   "lon": 128.8849223,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026940194",
@@ -3848,16 +3848,16 @@
    },
    "price_min": 62342,
    "price_max": 89783,
+   "hogangnono_id": "fBa93",
+   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
+   "lat": 37.4918362831198,
+   "lon": 126.571064768683,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fBa93",
-   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
-   "lat": 37.4918362831198,
-   "lon": 126.571064768683
+   "status": "closed"
   },
   {
    "pblancNo": "2026910228",
@@ -3911,16 +3911,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "fA105",
+   "hogangnono_name": "남양주진접서한이다음",
+   "lat": 37.7090999794042,
+   "lon": 127.17986848619,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fA105",
-   "hogangnono_name": "남양주진접서한이다음",
-   "lat": 37.7090999794042,
-   "lon": 127.17986848619
+   "status": "closed"
   },
   {
    "pblancNo": "2026950076",
@@ -4047,15 +4047,15 @@
    },
    "price_min": 281000,
    "price_max": 689000,
+   "hogangnono_id": "gQTb8",
+   "hogangnono_name": "목동윤슬자이",
+   "lat": 37.5295659,
+   "lon": 126.8711834,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gQTb8",
-   "hogangnono_name": "목동윤슬자이",
-   "lat": 37.5295659,
-   "lon": 126.8711834
+   "status": "closed"
   },
   {
    "pblancNo": "2026000202",
@@ -4140,13 +4140,13 @@
    },
    "price_min": 59400,
    "price_max": 59900,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gRcd2",
    "hogangnono_name": "대전경남아너스빌센텀스카이",
    "lat": 36.3223931502111,
-   "lon": 127.429922176068
+   "lon": 127.429922176068,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026950078",
@@ -4217,15 +4217,15 @@
    },
    "price_min": 168100,
    "price_max": 185100,
+   "hogangnono_id": "gLMc3",
+   "hogangnono_name": "해링턴스퀘어과천",
+   "lat": 37.4108285,
+   "lon": 126.9811244,
    "score": 10,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gLMc3",
-   "hogangnono_name": "해링턴스퀘어과천",
-   "lat": 37.4108285,
-   "lon": 126.9811244
+   "status": "closed"
   },
   {
    "pblancNo": "2026940191",
@@ -4292,16 +4292,16 @@
    },
    "price_min": 47552,
    "price_max": 53908,
+   "hogangnono_id": "gLZa7",
+   "hogangnono_name": "고덕신도시아테라",
+   "lat": 37.0541628,
+   "lon": 127.018291,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gLZa7",
-   "hogangnono_name": "고덕신도시아테라",
-   "lat": 37.0541628,
-   "lon": 127.018291
+   "status": "closed"
   },
   {
    "pblancNo": "2026940187",
@@ -4354,16 +4354,16 @@
    },
    "price_min": 71150,
    "price_max": 82530,
+   "hogangnono_id": "gJ829",
+   "hogangnono_name": "풍무역세권수자인그라센트2차",
+   "lat": 37.6196353600987,
+   "lon": 126.726463585304,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gJ829",
-   "hogangnono_name": "풍무역세권수자인그라센트2차",
-   "lat": 37.6196353600987,
-   "lon": 126.726463585304
+   "status": "closed"
   },
   {
    "pblancNo": "2026910231",
@@ -4405,16 +4405,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "dE36a",
+   "hogangnono_name": "동대구역더샵센터시티",
+   "lat": 35.8769271,
+   "lon": 128.6232717,
    "score": 45,
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "dE36a",
-   "hogangnono_name": "동대구역더샵센터시티",
-   "lat": 35.8769271,
-   "lon": 128.6232717
+   "status": "closed"
   },
   {
    "pblancNo": "2026940197",
@@ -4467,16 +4467,16 @@
    },
    "price_min": 76350,
    "price_max": 77200,
+   "hogangnono_id": "gQBa8",
+   "hogangnono_name": "수원역아너스빌타임원",
+   "lat": 37.2618691456771,
+   "lon": 126.998723641528,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gQBa8",
-   "hogangnono_name": "수원역아너스빌타임원",
-   "lat": 37.2618691456771,
-   "lon": 126.998723641528
+   "status": "closed"
   },
   {
    "pblancNo": "2026940186",
@@ -4536,16 +4536,16 @@
    },
    "price_min": 41900,
    "price_max": 57600,
+   "hogangnono_id": "gyX48",
+   "hogangnono_name": "야목역서희스타힐스그랜드힐",
+   "lat": 37.2503474,
+   "lon": 126.877946,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gyX48",
-   "hogangnono_name": "야목역서희스타힐스그랜드힐",
-   "lat": 37.2503474,
-   "lon": 126.877946
+   "status": "closed"
   },
   {
    "pblancNo": "2026940195",
@@ -4591,16 +4591,16 @@
    },
    "price_min": 80200,
    "price_max": 80200,
+   "hogangnono_id": "gQ151",
+   "hogangnono_name": "더리치먼드미아",
+   "lat": 37.620258347225,
+   "lon": 127.021264917283,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gQ151",
-   "hogangnono_name": "더리치먼드미아",
-   "lat": 37.620258347225,
-   "lon": 127.021264917283
+   "status": "closed"
   },
   {
    "pblancNo": "2026940198",
@@ -4660,16 +4660,16 @@
    },
    "price_min": 45480,
    "price_max": 52500,
+   "hogangnono_id": "gyxb8",
+   "hogangnono_name": "한양LEEPS",
+   "lat": 37.5314752,
+   "lon": 126.8362391,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gyxb8",
-   "hogangnono_name": "한양LEEPS",
-   "lat": 37.5314752,
-   "lon": 126.8362391
+   "status": "closed"
   },
   {
    "pblancNo": "2026940196",
@@ -4722,16 +4722,16 @@
    },
    "price_min": 79600,
    "price_max": 82600,
+   "hogangnono_id": "elH1c",
+   "hogangnono_name": "의정부역센트럴아이파크",
+   "lat": 37.7423935,
+   "lon": 127.0440552,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "elH1c",
-   "hogangnono_name": "의정부역센트럴아이파크",
-   "lat": 37.7423935,
-   "lon": 127.0440552
+   "status": "closed"
   },
   {
    "pblancNo": "2026940188",
@@ -4784,15 +4784,15 @@
    },
    "price_min": 49050,
    "price_max": 73200,
+   "hogangnono_id": "gGP9b",
+   "hogangnono_name": "양산자이파크팰리체",
+   "lat": 35.3881552334879,
+   "lon": 129.151005356793,
    "score": 30,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "gGP9b",
-   "hogangnono_name": "양산자이파크팰리체",
-   "lat": 35.3881552334879,
-   "lon": 129.151005356793
+   "status": "closed"
   },
   {
    "pblancNo": "2026910233",
@@ -4838,16 +4838,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "faIcd",
+   "hogangnono_name": "드파인아르티아",
+   "lat": 37.5070178,
+   "lon": 126.939253,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "faIcd",
-   "hogangnono_name": "드파인아르티아",
-   "lat": 37.5070178,
-   "lon": 126.939253
+   "status": "closed"
   },
   {
    "pblancNo": "2026910235",
@@ -4889,16 +4889,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "fc355",
+   "hogangnono_name": "청계노르웨이숲",
+   "lat": 37.5695442031126,
+   "lon": 127.020416132858,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fc355",
-   "hogangnono_name": "청계노르웨이숲",
-   "lat": 37.5695442031126,
-   "lon": 127.020416132858
+   "status": "closed"
   },
   {
    "pblancNo": "2026910232",
@@ -4948,17 +4948,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gx5b0",
+   "hogangnono_name": "역북서희스타힐스프라임시티",
+   "lat": 37.2491240756167,
+   "lon": 127.194177831366,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gx5b0",
-   "hogangnono_name": "역북서희스타힐스프라임시티",
-   "lat": 37.2491240756167,
-   "lon": 127.194177831366
+   "status": "closed"
   },
   {
    "pblancNo": "2026910237",
@@ -5000,17 +5000,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "dTc33",
+   "hogangnono_name": "신검단중앙역풍경채어바니티",
+   "lat": 37.6056764645598,
+   "lon": 126.70162188798,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "dTc33",
-   "hogangnono_name": "신검단중앙역풍경채어바니티",
-   "lat": 37.6056764645598,
-   "lon": 126.70162188798
+   "status": "closed"
   },
   {
    "pblancNo": "2026910227",
@@ -5064,16 +5064,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gNq5a",
+   "hogangnono_name": "한강푸르지오리버프론트",
+   "lat": 37.628721324668,
+   "lon": 126.73943529913,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gNq5a",
-   "hogangnono_name": "한강푸르지오리버프론트",
-   "lat": 37.628721324668,
-   "lon": 126.73943529913
+   "status": "closed"
   },
   {
    "pblancNo": "2026910234",
@@ -5127,15 +5127,15 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gGHf3",
+   "hogangnono_name": "두산위브더제니스대연",
+   "lat": 35.1335455,
+   "lon": 129.087357,
    "score": 40,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "gGHf3",
-   "hogangnono_name": "두산위브더제니스대연",
-   "lat": 35.1335455,
-   "lon": 129.087357
+   "status": "closed"
   },
   {
    "pblancNo": "2026000416",
@@ -5235,16 +5235,16 @@
    },
    "price_min": 35093,
    "price_max": 49201,
+   "hogangnono_id": "gMd2c",
+   "hogangnono_name": "양주회천지구A-26블록",
+   "lat": 37.8450026,
+   "lon": 127.0582455,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "gMd2c",
-   "hogangnono_name": "양주회천지구A-26블록",
-   "lat": 37.8450026,
-   "lon": 127.0582455
+   "status": "closed"
   },
   {
    "pblancNo": "2026940190",
@@ -5304,15 +5304,15 @@
    },
    "price_min": 45700,
    "price_max": 49600,
+   "hogangnono_id": "fH23e",
+   "hogangnono_name": "아산자이그랜드파크2단지",
+   "lat": 36.7699135434664,
+   "lon": 127.001512111065,
    "score": 30,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "fH23e",
-   "hogangnono_name": "아산자이그랜드파크2단지",
-   "lat": 36.7699135434664,
-   "lon": 127.001512111065
+   "status": "closed"
   },
   {
    "pblancNo": "2026000394",
@@ -5397,15 +5397,15 @@
    },
    "price_min": 50786,
    "price_max": 51965,
+   "hogangnono_id": "gAN6d",
+   "hogangnono_name": "더샵여주역더퍼스트",
+   "lat": 37.2844397,
+   "lon": 127.643006,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gAN6d",
-   "hogangnono_name": "더샵여주역더퍼스트",
-   "lat": 37.2844397,
-   "lon": 127.643006
+   "status": "closed"
   },
   {
    "pblancNo": "2026950080",
@@ -5900,15 +5900,15 @@
    },
    "price_min": 49355,
    "price_max": 215595,
+   "hogangnono_id": "gS8bc",
+   "hogangnono_name": "힐스테이트송파더그리드",
+   "lat": 37.4742125,
+   "lon": 127.1315213,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gS8bc",
-   "hogangnono_name": "힐스테이트송파더그리드",
-   "lat": 37.4742125,
-   "lon": 127.1315213
+   "status": "closed"
   },
   {
    "pblancNo": "2026000420",
@@ -6023,13 +6023,13 @@
    },
    "price_min": 33000,
    "price_max": 48900,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gDu3f",
    "hogangnono_name": "남울산노르웨이숲",
    "lat": 35.4098862,
-   "lon": 129.299053
+   "lon": 129.299053,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000419",
@@ -6244,13 +6244,13 @@
    },
    "price_min": 84200,
    "price_max": 316000,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gqa88",
    "hogangnono_name": "올뉴챔피언스시티1차",
    "lat": 35.1639964,
-   "lon": 126.89389
+   "lon": 126.89389,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000403",
@@ -6375,13 +6375,13 @@
    },
    "price_min": 56600,
    "price_max": 86900,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "faoc4",
    "hogangnono_name": "울산그랑라크에일린의뜰",
    "lat": 35.5180159,
-   "lon": 129.33884
+   "lon": 129.33884,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026950081",
@@ -6492,15 +6492,15 @@
    },
    "price_min": 47580,
    "price_max": 79650,
+   "hogangnono_id": "gPTc3",
+   "hogangnono_name": "테라스99동탄",
+   "lat": 37.1981496,
+   "lon": 127.0966237,
    "score": 10,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gPTc3",
-   "hogangnono_name": "테라스99동탄",
-   "lat": 37.1981496,
-   "lon": 127.0966237
+   "status": "closed"
   },
   {
    "pblancNo": "2026000426",
@@ -6605,13 +6605,13 @@
    },
    "price_min": 57460,
    "price_max": 80690,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "fdb15",
    "hogangnono_name": "천안아이파크시티4단지",
    "lat": 36.8486331,
-   "lon": 127.143898
+   "lon": 127.143898,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000423",
@@ -6726,13 +6726,13 @@
    },
    "price_min": 36500,
    "price_max": 69000,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gN71c",
    "hogangnono_name": "두정역푸르지오그랑피크",
    "lat": 36.8264619817343,
-   "lon": 127.14698939673
+   "lon": 127.14698939673,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000422",
@@ -6837,13 +6837,13 @@
    },
    "price_min": 57550,
    "price_max": 80800,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gOd0e",
    "hogangnono_name": "천안아이파크시티3단지",
    "lat": 36.8466817,
-   "lon": 127.144309
+   "lon": 127.144309,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026850047",
@@ -6912,15 +6912,15 @@
    },
    "price_min": 16100,
    "price_max": 17000,
+   "hogangnono_id": "gSh63",
+   "hogangnono_name": "오산세교2지구A5B우미린포레아시티",
+   "lat": 37.1582876615793,
+   "lon": 127.05141915284,
    "score": 0,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gSh63",
-   "hogangnono_name": "오산세교2지구A5B우미린포레아시티",
-   "lat": 37.1582876615793,
-   "lon": 127.05141915284
+   "status": "closed"
   },
   {
    "pblancNo": "2026910242",
@@ -6962,17 +6962,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "cuk38",
+   "hogangnono_name": "더샵송도마리나베이",
+   "lat": 37.41255735379121,
+   "lon": 126.61160589303748,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "cuk38",
-   "hogangnono_name": "더샵송도마리나베이",
-   "lat": 37.41255735379121,
-   "lon": 126.61160589303748
+   "status": "closed"
   },
   {
    "pblancNo": "2026910238",
@@ -7014,17 +7014,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gQ50e",
+   "hogangnono_name": "북오산자이드포레",
+   "lat": 37.1810318184509,
+   "lon": 127.068580582045,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gQ50e",
-   "hogangnono_name": "북오산자이드포레",
-   "lat": 37.1810318184509,
-   "lon": 127.068580582045
+   "status": "closed"
   },
   {
    "pblancNo": "2026940189",
@@ -7084,16 +7084,16 @@
    },
    "price_min": 56360,
    "price_max": 57440,
+   "hogangnono_id": "gDHbe",
+   "hogangnono_name": "이천휴먼빌클래스원",
+   "lat": 37.2868314,
+   "lon": 127.4618107,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gDHbe",
-   "hogangnono_name": "이천휴먼빌클래스원",
-   "lat": 37.2868314,
-   "lon": 127.4618107
+   "status": "closed"
   },
   {
    "pblancNo": "2026940199",
@@ -7146,16 +7146,16 @@
    },
    "price_min": 65940,
    "price_max": 81390,
+   "hogangnono_id": "gHBcf",
+   "hogangnono_name": "인하대역수자인로이센트",
+   "lat": 37.4450699,
+   "lon": 126.644384,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gHBcf",
-   "hogangnono_name": "인하대역수자인로이센트",
-   "lat": 37.4450699,
-   "lon": 126.644384
+   "status": "closed"
   },
   {
    "pblancNo": "2026910239",
@@ -7201,15 +7201,15 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gIs59",
+   "hogangnono_name": "더샵트리센트",
+   "lat": 35.1322268,
+   "lon": 129.076208,
    "score": 40,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "gIs59",
-   "hogangnono_name": "더샵트리센트",
-   "lat": 35.1322268,
-   "lon": 129.076208
+   "status": "closed"
   },
   {
    "pblancNo": "2026000393",
@@ -7344,15 +7344,15 @@
    },
    "price_min": 30760,
    "price_max": 48500,
+   "hogangnono_id": "gn4f8",
+   "hogangnono_name": "시흥은계에피트",
+   "lat": 37.4308125,
+   "lon": 126.794908,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gn4f8",
-   "hogangnono_name": "시흥은계에피트",
-   "lat": 37.4308125,
-   "lon": 126.794908
+   "status": "closed"
   },
   {
    "pblancNo": "2026940200",
@@ -7412,16 +7412,16 @@
    },
    "price_min": 54100,
    "price_max": 76300,
+   "hogangnono_id": "gg116",
+   "hogangnono_name": "이천자이더레브",
+   "lat": 37.2946956,
+   "lon": 127.437011,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gg116",
-   "hogangnono_name": "이천자이더레브",
-   "lat": 37.2946956,
-   "lon": 127.437011
+   "status": "closed"
   },
   {
    "pblancNo": "2026940206",
@@ -7481,16 +7481,16 @@
    },
    "price_min": 125000,
    "price_max": 135200,
+   "hogangnono_id": "gPV59",
+   "hogangnono_name": "청계백상엘리츠",
+   "lat": 37.5685823,
+   "lon": 127.0448434,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gPV59",
-   "hogangnono_name": "청계백상엘리츠",
-   "lat": 37.5685823,
-   "lon": 127.0448434
+   "status": "closed"
   },
   {
    "pblancNo": "2026940201",
@@ -7564,16 +7564,16 @@
    },
    "price_min": 37900,
    "price_max": 55000,
+   "hogangnono_id": "faAe6",
+   "hogangnono_name": "이천중리지구B3블록금성백조예미지",
+   "lat": 37.2698204,
+   "lon": 127.438975,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "faAe6",
-   "hogangnono_name": "이천중리지구B3블록금성백조예미지",
-   "lat": 37.2698204,
-   "lon": 127.438975
+   "status": "closed"
   },
   {
    "pblancNo": "2026000414",
@@ -7751,16 +7751,16 @@
    },
    "price_min": 50466,
    "price_max": 71654,
+   "hogangnono_id": "grM53",
+   "hogangnono_name": "인천계양A6블록",
+   "lat": 37.552654,
+   "lon": 126.756199,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "grM53",
-   "hogangnono_name": "인천계양A6블록",
-   "lat": 37.552654,
-   "lon": 126.756199
+   "status": "closed"
   },
   {
    "pblancNo": "2026940193",
@@ -7813,15 +7813,15 @@
    },
    "price_min": 33924,
    "price_max": 38460,
+   "hogangnono_id": "gM79a",
+   "hogangnono_name": "밀양수자인더퍼스트2단지",
+   "lat": 35.478576,
+   "lon": 128.7326575,
    "score": 30,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "gM79a",
-   "hogangnono_name": "밀양수자인더퍼스트2단지",
-   "lat": 35.478576,
-   "lon": 128.7326575
+   "status": "closed"
   },
   {
    "pblancNo": "2026940205",
@@ -7867,16 +7867,16 @@
    },
    "price_min": 219800,
    "price_max": 219800,
+   "hogangnono_id": "gHwaa",
+   "hogangnono_name": "수지자이에디시온",
+   "lat": 37.3295025,
+   "lon": 127.101829,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gHwaa",
-   "hogangnono_name": "수지자이에디시온",
-   "lat": 37.3295025,
-   "lon": 127.101829
+   "status": "closed"
   },
   {
    "pblancNo": "2026940204",
@@ -7943,16 +7943,16 @@
    },
    "price_min": 56230,
    "price_max": 86050,
+   "hogangnono_id": "gXC2c",
+   "hogangnono_name": "월드메르디앙역곡",
+   "lat": 37.4833745,
+   "lon": 126.8147665,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gXC2c",
-   "hogangnono_name": "월드메르디앙역곡",
-   "lat": 37.4833745,
-   "lon": 126.8147665
+   "status": "closed"
   },
   {
    "pblancNo": "2026910241",
@@ -7994,16 +7994,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gxrc5",
+   "hogangnono_name": "두산위브더제니스부천",
+   "lat": 37.4820165033133,
+   "lon": 126.789515376901,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gxrc5",
-   "hogangnono_name": "두산위브더제니스부천",
-   "lat": 37.4820165033133,
-   "lon": 126.789515376901
+   "status": "closed"
   },
   {
    "pblancNo": "2026910246",
@@ -8061,16 +8061,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gSPd6",
+   "hogangnono_name": "용인반도체클러스터동일하이빌파크밸리",
+   "lat": 37.1630568,
+   "lon": 127.312513,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gSPd6",
-   "hogangnono_name": "용인반도체클러스터동일하이빌파크밸리",
-   "lat": 37.1630568,
-   "lon": 127.312513
+   "status": "closed"
   },
   {
    "pblancNo": "2026910240",
@@ -8116,16 +8116,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "fiI63",
+   "hogangnono_name": "아야진라메르데시앙",
+   "lat": 38.2714187294727,
+   "lon": 128.550028107736,
    "score": 35,
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "fiI63",
-   "hogangnono_name": "아야진라메르데시앙",
-   "lat": 38.2714187294727,
-   "lon": 128.550028107736
+   "status": "closed"
   },
   {
    "pblancNo": "2026000438",
@@ -8203,16 +8203,16 @@
    },
    "price_min": 55973,
    "price_max": 56617,
+   "hogangnono_id": "gM01c",
+   "hogangnono_name": "힐스테이트고덕엘리스트A65BL",
+   "lat": 37.0535842,
+   "lon": 127.0222336,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "gM01c",
-   "hogangnono_name": "힐스테이트고덕엘리스트A65BL",
-   "lat": 37.0535842,
-   "lon": 127.0222336
+   "status": "closed"
   },
   {
    "pblancNo": "2026000437",
@@ -8300,16 +8300,16 @@
    },
    "price_min": 57440,
    "price_max": 58420,
+   "hogangnono_id": "gMm55",
+   "hogangnono_name": "힐스테이트고덕엘리스트A12BL",
+   "lat": 37.0614022,
+   "lon": 127.0414157,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "closed",
-   "hogangnono_id": "gMm55",
-   "hogangnono_name": "힐스테이트고덕엘리스트A12BL",
-   "lat": 37.0614022,
-   "lon": 127.0414157
+   "status": "closed"
   },
   {
    "pblancNo": "2026000449",
@@ -8444,15 +8444,15 @@
    },
    "price_min": 89300,
    "price_max": 91100,
+   "hogangnono_id": "gPeed",
+   "hogangnono_name": "화서역호수공원아너스빌",
+   "lat": 37.2735297,
+   "lon": 126.981965,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gPeed",
-   "hogangnono_name": "화서역호수공원아너스빌",
-   "lat": 37.2735297,
-   "lon": 126.981965
+   "status": "closed"
   },
   {
    "pblancNo": "2026000103",
@@ -8637,15 +8637,15 @@
    },
    "price_min": 216300,
    "price_max": 298100,
+   "hogangnono_id": "guH07",
+   "hogangnono_name": "더샵분당하이스트",
+   "lat": 37.3673098,
+   "lon": 127.114019,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "guH07",
-   "hogangnono_name": "더샵분당하이스트",
-   "lat": 37.3673098,
-   "lon": 127.114019
+   "status": "closed"
   },
   {
    "pblancNo": "2026000314",
@@ -8760,15 +8760,15 @@
    },
    "price_min": 54900,
    "price_max": 79600,
+   "hogangnono_id": "gRV3c",
+   "hogangnono_name": "중동역다채로움더원",
+   "lat": 37.4844304,
+   "lon": 126.76184,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gRV3c",
-   "hogangnono_name": "중동역다채로움더원",
-   "lat": 37.4844304,
-   "lon": 126.76184
+   "status": "closed"
   },
   {
    "pblancNo": "2026000431",
@@ -8863,15 +8863,15 @@
    },
    "price_min": 52800,
    "price_max": 70900,
+   "hogangnono_id": "gAu7d",
+   "hogangnono_name": "오남역서희스타힐스여의재3단지",
+   "lat": 37.703833485499,
+   "lon": 127.200130604849,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gAu7d",
-   "hogangnono_name": "오남역서희스타힐스여의재3단지",
-   "lat": 37.703833485499,
-   "lon": 127.200130604849
+   "status": "closed"
   },
   {
    "pblancNo": "2026950082",
@@ -8934,15 +8934,15 @@
    },
    "price_min": 86400,
    "price_max": 95460,
+   "hogangnono_id": "gK9d0",
+   "hogangnono_name": "신대방역더하이브퍼스트(도시형)",
+   "lat": 37.4847621,
+   "lon": 126.9171046,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gK9d0",
-   "hogangnono_name": "신대방역더하이브퍼스트(도시형)",
-   "lat": 37.4847621,
-   "lon": 126.9171046
+   "status": "closed"
   },
   {
    "pblancNo": "2026000441",
@@ -9037,13 +9037,13 @@
    },
    "price_min": 62400,
    "price_max": 83200,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gTc25",
    "hogangnono_name": "문수로비스타더파크",
    "lat": 35.5447629763462,
-   "lon": 129.272315405928
+   "lon": 129.272315405928,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026850048",
@@ -9107,15 +9107,15 @@
    },
    "price_min": 60500,
    "price_max": 69900,
+   "hogangnono_id": "gJbcf",
+   "hogangnono_name": "의왕청계역시티프라디움디하모니",
+   "lat": 37.3875251,
+   "lon": 126.995725,
    "score": 0,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gJbcf",
-   "hogangnono_name": "의왕청계역시티프라디움디하모니",
-   "lat": 37.3875251,
-   "lon": 126.995725
+   "status": "closed"
   },
   {
    "pblancNo": "2026930031",
@@ -9180,6 +9180,10 @@
    },
    "price_min": 80170,
    "price_max": 86670,
+   "hogangnono_id": "faq73",
+   "hogangnono_name": "철산자이브리에르",
+   "lat": 37.4854429,
+   "lon": 126.869316,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
@@ -9187,11 +9191,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "faq73",
-   "hogangnono_name": "철산자이브리에르",
-   "lat": 37.4854429,
-   "lon": 126.869316
+   "status": "closed"
   },
   {
    "pblancNo": "2026910244",
@@ -9233,16 +9233,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gQ151",
+   "hogangnono_name": "더리치먼드미아",
+   "lat": 37.620258347225,
+   "lon": 127.021264917283,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gQ151",
-   "hogangnono_name": "더리치먼드미아",
-   "lat": 37.620258347225,
-   "lon": 127.021264917283
+   "status": "closed"
   },
   {
    "pblancNo": "2026910236",
@@ -9288,17 +9288,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "f8E58",
+   "hogangnono_name": "철산자이더헤리티지",
+   "lat": 37.4824264,
+   "lon": 126.8686146,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "f8E58",
-   "hogangnono_name": "철산자이더헤리티지",
-   "lat": 37.4824264,
-   "lon": 126.8686146
+   "status": "closed"
   },
   {
    "pblancNo": "2026940202",
@@ -9365,16 +9365,16 @@
    },
    "price_min": 72100,
    "price_max": 88300,
+   "hogangnono_id": "gKk33",
+   "hogangnono_name": "서수원에피트센트럴마크M2블록",
+   "lat": 37.2826443,
+   "lon": 126.941639,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gKk33",
-   "hogangnono_name": "서수원에피트센트럴마크M2블록",
-   "lat": 37.2826443,
-   "lon": 126.941639
+   "status": "closed"
   },
   {
    "pblancNo": "2026940210",
@@ -9448,16 +9448,16 @@
    },
    "price_min": 61722,
    "price_max": 87993,
+   "hogangnono_id": "fBa93",
+   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
+   "lat": 37.4918362831198,
+   "lon": 126.571064768683,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fBa93",
-   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
-   "lat": 37.4918362831198,
-   "lon": 126.571064768683
+   "status": "closed"
   },
   {
    "pblancNo": "2026940207",
@@ -9510,16 +9510,16 @@
    },
    "price_min": 47100,
    "price_max": 53400,
+   "hogangnono_id": "gFk5a",
+   "hogangnono_name": "중앙하이츠원종역",
+   "lat": 37.5245469,
+   "lon": 126.8065363,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gFk5a",
-   "hogangnono_name": "중앙하이츠원종역",
-   "lat": 37.5245469,
-   "lon": 126.8065363
+   "status": "closed"
   },
   {
    "pblancNo": "2026950084",
@@ -9566,15 +9566,15 @@
    },
    "price_min": 53600,
    "price_max": 53600,
+   "hogangnono_id": "gMYcd",
+   "hogangnono_name": "호반써밋풍무Ⅱ",
+   "lat": 37.6134614,
+   "lon": 126.7345824,
    "score": 10,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gMYcd",
-   "hogangnono_name": "호반써밋풍무Ⅱ",
-   "lat": 37.6134614,
-   "lon": 126.7345824
+   "status": "closed"
   },
   {
    "pblancNo": "2026940212",
@@ -9641,16 +9641,16 @@
    },
    "price_min": 36800,
    "price_max": 54500,
+   "hogangnono_id": "fBd9a",
+   "hogangnono_name": "리아츠더인천",
+   "lat": 37.4781420469347,
+   "lon": 126.650554710834,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fBd9a",
-   "hogangnono_name": "리아츠더인천",
-   "lat": 37.4781420469347,
-   "lon": 126.650554710834
+   "status": "closed"
   },
   {
    "pblancNo": "2026940208",
@@ -9717,16 +9717,16 @@
    },
    "price_min": 43890,
    "price_max": 55332,
+   "hogangnono_id": "gNcb9",
+   "hogangnono_name": "부천역에피트어바닉",
+   "lat": 37.4907835,
+   "lon": 126.7864425,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gNcb9",
-   "hogangnono_name": "부천역에피트어바닉",
-   "lat": 37.4907835,
-   "lon": 126.7864425
+   "status": "closed"
   },
   {
    "pblancNo": "2026940209",
@@ -9772,16 +9772,16 @@
    },
    "price_min": 45574,
    "price_max": 45574,
+   "hogangnono_id": "emu29",
+   "hogangnono_name": "중앙하이츠갈산역센트럴",
+   "lat": 37.5153945,
+   "lon": 126.722104,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "emu29",
-   "hogangnono_name": "중앙하이츠갈산역센트럴",
-   "lat": 37.5153945,
-   "lon": 126.722104
+   "status": "closed"
   },
   {
    "pblancNo": "2026910247",
@@ -9839,16 +9839,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "f71bf",
+   "hogangnono_name": "신천역에피트",
+   "lat": 37.4358522777889,
+   "lon": 126.792655760184,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "f71bf",
-   "hogangnono_name": "신천역에피트",
-   "lat": 37.4358522777889,
-   "lon": 126.792655760184
+   "status": "closed"
   },
   {
    "pblancNo": "2026930037",
@@ -9897,6 +9897,10 @@
    },
    "price_min": 95218,
    "price_max": 95218,
+   "hogangnono_id": "b6J91",
+   "hogangnono_name": "과천푸르지오벨라르테",
+   "lat": 37.4113214,
+   "lon": 126.9893395,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
@@ -9904,11 +9908,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "b6J91",
-   "hogangnono_name": "과천푸르지오벨라르테",
-   "lat": 37.4113214,
-   "lon": 126.9893395
+   "status": "closed"
   },
   {
    "pblancNo": "2026910220",
@@ -9950,17 +9950,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "grh23",
+   "hogangnono_name": "아크로리버스카이",
+   "lat": 37.5104137,
+   "lon": 126.933443,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "grh23",
-   "hogangnono_name": "아크로리버스카이",
-   "lat": 37.5104137,
-   "lon": 126.933443
+   "status": "closed"
   },
   {
    "pblancNo": "2026930036",
@@ -10009,17 +10009,17 @@
    },
    "price_min": 80338,
    "price_max": 80338,
+   "hogangnono_id": "b6L39",
+   "hogangnono_name": "과천푸르지오라비엔오",
+   "lat": 37.4133941,
+   "lon": 126.983467,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "b6L39",
-   "hogangnono_name": "과천푸르지오라비엔오",
-   "lat": 37.4133941,
-   "lon": 126.983467
+   "status": "closed"
   },
   {
    "pblancNo": "2026930032",
@@ -10068,17 +10068,17 @@
    },
    "price_min": 54780,
    "price_max": 54780,
+   "hogangnono_id": "gpV1e",
+   "hogangnono_name": "태화강에피트",
+   "lat": 35.5587075,
+   "lon": 129.259509,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "gpV1e",
-   "hogangnono_name": "태화강에피트",
-   "lat": 35.5587075,
-   "lon": 129.259509
+   "status": "closed"
   },
   {
    "pblancNo": "2026910248",
@@ -10124,15 +10124,15 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gSb1b",
+   "hogangnono_name": "제일풍경채첨단3지구(A6BL)",
+   "lat": 35.2434833,
+   "lon": 126.864701,
    "score": 40,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "closed",
-   "hogangnono_id": "gSb1b",
-   "hogangnono_name": "제일풍경채첨단3지구(A6BL)",
-   "lat": 35.2434833,
-   "lon": 126.864701
+   "status": "closed"
   },
   {
    "pblancNo": "2026930035",
@@ -10191,16 +10191,16 @@
    },
    "price_min": 35550,
    "price_max": 37708,
+   "hogangnono_id": "ennfe",
+   "hogangnono_name": "더샵청주그리니티",
+   "lat": 36.6227031,
+   "lon": 127.465076,
    "score": 40,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "ennfe",
-   "hogangnono_name": "더샵청주그리니티",
-   "lat": 36.6227031,
-   "lon": 127.465076
+   "status": "closed"
   },
   {
    "pblancNo": "2026910243",
@@ -10246,16 +10246,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "ennfe",
+   "hogangnono_name": "더샵청주그리니티",
+   "lat": 36.6227031,
+   "lon": 127.465076,
    "score": 35,
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "closed",
-   "hogangnono_id": "ennfe",
-   "hogangnono_name": "더샵청주그리니티",
-   "lat": 36.6227031,
-   "lon": 127.465076
+   "status": "closed"
   },
   {
    "pblancNo": "2026000448",
@@ -10330,15 +10330,15 @@
    },
    "price_min": 57874,
    "price_max": 73237,
+   "hogangnono_id": "gX9ac",
+   "hogangnono_name": "숭의역노르웨이숲더스카이",
+   "lat": 37.4610022,
+   "lon": 126.6405828,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gX9ac",
-   "hogangnono_name": "숭의역노르웨이숲더스카이",
-   "lat": 37.4610022,
-   "lon": 126.6405828
+   "status": "closed"
   },
   {
    "pblancNo": "2026000443",
@@ -10413,13 +10413,13 @@
    },
    "price_min": 51100,
    "price_max": 53200,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "dMz2e",
    "hogangnono_name": "에코델타시티금강펜테리움에코리버",
    "lat": 35.1407085,
-   "lon": 128.907409
+   "lon": 128.907409,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000436",
@@ -10524,13 +10524,13 @@
    },
    "price_min": 68400,
    "price_max": 75100,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gB0e9",
    "hogangnono_name": "더샵시에르네",
    "lat": 35.5598309,
-   "lon": 129.3311818
+   "lon": 129.3311818,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000424",
@@ -10625,13 +10625,13 @@
    },
    "price_min": 91630,
    "price_max": 132100,
-   "score": 10,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gsq6e",
    "hogangnono_name": "쌍용더플래티넘센텀",
    "lat": 35.1749220195504,
-   "lon": 129.115773762908
+   "lon": 129.115773762908,
+   "score": 10,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026950083",
@@ -10686,15 +10686,15 @@
    },
    "price_min": 47875,
    "price_max": 49074,
+   "hogangnono_id": "gX9ac",
+   "hogangnono_name": "숭의역노르웨이숲더스카이",
+   "lat": 37.4610022,
+   "lon": 126.6405828,
    "score": 10,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gX9ac",
-   "hogangnono_name": "숭의역노르웨이숲더스카이",
-   "lat": 37.4610022,
-   "lon": 126.6405828
+   "status": "closed"
   },
   {
    "pblancNo": "2026000446",
@@ -10799,13 +10799,13 @@
    },
    "price_min": 50300,
    "price_max": 139500,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gT465",
    "hogangnono_name": "진주판문지구레이크써밋웰가",
    "lat": 35.1721146964865,
-   "lon": 128.042815142955
+   "lon": 128.042815142955,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000445",
@@ -10890,13 +10890,13 @@
    },
    "price_min": 38827,
    "price_max": 49392,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gFDa9",
    "hogangnono_name": "삼천하늘채라비엘",
    "lat": 35.7984937,
-   "lon": 127.1245148
+   "lon": 127.1245148,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026000454",
@@ -10974,13 +10974,13 @@
    },
    "price_min": 45050,
    "price_max": 61100,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "fdg45",
    "hogangnono_name": "천안용곡두산위브",
    "lat": 36.7822773,
-   "lon": 127.14234
+   "lon": 127.14234,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026850049",
@@ -11034,13 +11034,13 @@
    },
    "price_min": 19380,
    "price_max": 19522,
-   "score": 0,
-   "tags": [],
-   "status": "closed",
    "hogangnono_id": "gIVfd",
    "hogangnono_name": "부경경마공원역대방디에트르더리버(AP1BL)",
    "lat": 35.1540084,
-   "lon": 128.8849223
+   "lon": 128.8849223,
+   "score": 0,
+   "tags": [],
+   "status": "closed"
   },
   {
    "pblancNo": "2026940203",
@@ -11093,16 +11093,16 @@
    },
    "price_min": 51700,
    "price_max": 51800,
+   "hogangnono_id": "fpube",
+   "hogangnono_name": "회천중앙역대광로제비앙",
+   "lat": 37.8264472,
+   "lon": 127.055617,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "fpube",
-   "hogangnono_name": "회천중앙역대광로제비앙",
-   "lat": 37.8264472,
-   "lon": 127.055617
+   "status": "closed"
   },
   {
    "pblancNo": "2026000453",
@@ -11227,15 +11227,15 @@
    },
    "price_min": 87700,
    "price_max": 119800,
+   "hogangnono_id": "gOEda",
+   "hogangnono_name": "광명시티프라디움에듀하임",
+   "lat": 37.4399137224679,
+   "lon": 126.880535752541,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gOEda",
-   "hogangnono_name": "광명시티프라디움에듀하임",
-   "lat": 37.4399137224679,
-   "lon": 126.880535752541
+   "status": "closed"
   },
   {
    "pblancNo": "2026940215",
@@ -11302,16 +11302,16 @@
    },
    "price_min": 56990,
    "price_max": 84650,
+   "hogangnono_id": "gPR48",
+   "hogangnono_name": "힐스테이트안양펠루스",
+   "lat": 37.3933468,
+   "lon": 126.930155,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "closed",
-   "hogangnono_id": "gPR48",
-   "hogangnono_name": "힐스테이트안양펠루스",
-   "lat": 37.3933468,
-   "lon": 126.930155
+   "status": "closed"
   },
   {
    "pblancNo": "2026930040",
@@ -11360,6 +11360,10 @@
    },
    "price_min": 122202,
    "price_max": 122202,
+   "hogangnono_id": "gv08f",
+   "hogangnono_name": "강변역센트럴아이파크",
+   "lat": 37.5345276620302,
+   "lon": 127.090308481473,
    "score": 75,
    "tags": [
     "무순위·잔여세대",
@@ -11367,11 +11371,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open",
-   "hogangnono_id": "gv08f",
-   "hogangnono_name": "강변역센트럴아이파크",
-   "lat": 37.5345276620302,
-   "lon": 127.090308481473
+   "status": "open"
   },
   {
    "pblancNo": "2026910250",
@@ -11421,17 +11421,17 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "e9u73",
+   "hogangnono_name": "신림스카이",
+   "lat": 37.4747214,
+   "lon": 126.935379,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "open",
-   "hogangnono_id": "e9u73",
-   "hogangnono_name": "신림스카이",
-   "lat": 37.4747214,
-   "lon": 126.935379
+   "status": "open"
   },
   {
    "pblancNo": "2026910251",
@@ -11477,16 +11477,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gMJ44",
+   "hogangnono_name": "충정로역자이르네",
+   "lat": 37.5597407570918,
+   "lon": 126.965075414386,
    "score": 60,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open",
-   "hogangnono_id": "gMJ44",
-   "hogangnono_name": "충정로역자이르네",
-   "lat": 37.5597407570918,
-   "lon": 126.965075414386
+   "status": "open"
   },
   {
    "pblancNo": "2026910253",
@@ -11528,16 +11528,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gA2fa",
+   "hogangnono_name": "오남역서희스타힐스여의재1단지",
+   "lat": 37.6998617,
+   "lon": 127.203233,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open",
-   "hogangnono_id": "gA2fa",
-   "hogangnono_name": "오남역서희스타힐스여의재1단지",
-   "lat": 37.6998617,
-   "lon": 127.203233
+   "status": "open"
   },
   {
    "pblancNo": "2026910249",
@@ -11587,16 +11587,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gOmaf",
+   "hogangnono_name": "세종우미린센터파크",
+   "lat": 36.5333338,
+   "lon": 127.321279,
    "score": 45,
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open",
-   "hogangnono_id": "gOmaf",
-   "hogangnono_name": "세종우미린센터파크",
-   "lat": 36.5333338,
-   "lon": 127.321279
+   "status": "open"
   },
   {
    "pblancNo": "2026850050",
@@ -11660,13 +11660,13 @@
    },
    "price_min": 11060,
    "price_max": 25280,
-   "score": 0,
-   "tags": [],
-   "status": "open",
    "hogangnono_id": "fcSc7",
    "hogangnono_name": "서면지원더뷰드림",
    "lat": 35.1618169081666,
-   "lon": 129.057611724927
+   "lon": 129.057611724927,
+   "score": 0,
+   "tags": [],
+   "status": "open"
   },
   {
    "pblancNo": "2026930038",
@@ -11731,6 +11731,10 @@
    },
    "price_min": 66034,
    "price_max": 66303,
+   "hogangnono_id": "gzD4e",
+   "hogangnono_name": "고양장항아테라",
+   "lat": 37.6478853864076,
+   "lon": 126.759626836523,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
@@ -11738,11 +11742,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gzD4e",
-   "hogangnono_name": "고양장항아테라",
-   "lat": 37.6478853864076,
-   "lon": 126.759626836523
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026940213",
@@ -11795,17 +11795,17 @@
    },
    "price_min": 39950,
    "price_max": 58950,
+   "hogangnono_id": "emS1f",
+   "hogangnono_name": "힐스테이트금오더퍼스트",
+   "lat": 37.7579127,
+   "lon": 127.076832,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "emS1f",
-   "hogangnono_name": "힐스테이트금오더퍼스트",
-   "lat": 37.7579127,
-   "lon": 127.076832
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026940211",
@@ -11858,17 +11858,17 @@
    },
    "price_min": 193800,
    "price_max": 205900,
+   "hogangnono_id": "gfC06",
+   "hogangnono_name": "더샵분당센트로",
+   "lat": 37.339321,
+   "lon": 127.11695,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gfC06",
-   "hogangnono_name": "더샵분당센트로",
-   "lat": 37.339321,
-   "lon": 127.11695
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026930039",
@@ -11927,16 +11927,16 @@
    },
    "price_min": 31000,
    "price_max": 38500,
+   "hogangnono_id": "gr179",
+   "hogangnono_name": "탕정푸르지오리버파크",
+   "lat": 36.793007016075,
+   "lon": 127.056257772531,
    "score": 40,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gr179",
-   "hogangnono_name": "탕정푸르지오리버파크",
-   "lat": 36.793007016075,
-   "lon": 127.056257772531
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026950085",
@@ -12007,15 +12007,15 @@
    },
    "price_min": 58800,
    "price_max": 93756,
+   "hogangnono_id": "fee66",
+   "hogangnono_name": "잠실에떼르넬비욘드",
+   "lat": 37.5153514835709,
+   "lon": 127.108575924879,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "fee66",
-   "hogangnono_name": "잠실에떼르넬비욘드",
-   "lat": 37.5153514835709,
-   "lon": 127.108575924879
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026940214",
@@ -12082,17 +12082,17 @@
    },
    "price_min": 56040,
    "price_max": 127720,
+   "hogangnono_id": "gPX8b",
+   "hogangnono_name": "브라운스톤목동",
+   "lat": 37.5430963,
+   "lon": 126.8722511,
    "score": 65,
    "tags": [
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gPX8b",
-   "hogangnono_name": "브라운스톤목동",
-   "lat": 37.5430963,
-   "lon": 126.8722511
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026940220",
@@ -12159,16 +12159,16 @@
    },
    "price_min": 37400,
    "price_max": 55600,
+   "hogangnono_id": "faAe6",
+   "hogangnono_name": "이천중리지구B3블록금성백조예미지",
+   "lat": 37.2698204,
+   "lon": 127.438975,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "faAe6",
-   "hogangnono_name": "이천중리지구B3블록금성백조예미지",
-   "lat": 37.2698204,
-   "lon": 127.438975
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026940216",
@@ -12221,15 +12221,15 @@
    },
    "price_min": 77620,
    "price_max": 98920,
+   "hogangnono_id": "gLr4b",
+   "hogangnono_name": "도안자이센텀리체",
+   "lat": 36.3250353049783,
+   "lon": 127.327007211961,
    "score": 40,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gLr4b",
-   "hogangnono_name": "도안자이센텀리체",
-   "lat": 36.3250353049783,
-   "lon": 127.327007211961
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026940217",
@@ -12282,15 +12282,15 @@
    },
    "price_min": 77490,
    "price_max": 106990,
+   "hogangnono_id": "gLpe1",
+   "hogangnono_name": "도안자이센텀리체2단지",
+   "lat": 36.321903974499,
+   "lon": 127.325950768297,
    "score": 40,
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gLpe1",
-   "hogangnono_name": "도안자이센텀리체2단지",
-   "lat": 36.321903974499,
-   "lon": 127.325950768297
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026930033",
@@ -12355,17 +12355,17 @@
    },
    "price_min": 95400,
    "price_max": 106900,
+   "hogangnono_id": "gxh04",
+   "hogangnono_name": "도안푸르지오디아델(29블록)",
+   "lat": 36.3244974,
+   "lon": 127.334586,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "소량 공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gxh04",
-   "hogangnono_name": "도안푸르지오디아델(29블록)",
-   "lat": 36.3244974,
-   "lon": 127.334586
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026930034",
@@ -12440,17 +12440,17 @@
    },
    "price_min": 53200,
    "price_max": 101100,
+   "hogangnono_id": "gzsac",
+   "hogangnono_name": "도안푸르지오디아델(31블록)",
+   "lat": 36.326514,
+   "lon": 127.334545,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "소량 공급"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gzsac",
-   "hogangnono_name": "도안푸르지오디아델(31블록)",
-   "lat": 36.326514,
-   "lon": 127.334545
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026910256",
@@ -12516,16 +12516,16 @@
    "prices": {},
    "price_min": null,
    "price_max": null,
+   "hogangnono_id": "gNhd0",
+   "hogangnono_name": "상동역롯데캐슬시그니처",
+   "lat": 37.5042499,
+   "lon": 126.755056,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gNhd0",
-   "hogangnono_name": "상동역롯데캐슬시그니처",
-   "lat": 37.5042499,
-   "lon": 126.755056
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026000468",
@@ -12640,15 +12640,15 @@
    },
    "price_min": 61400,
    "price_max": 165000,
+   "hogangnono_id": "gWN71",
+   "hogangnono_name": "쌍용더플래티넘한강",
+   "lat": 37.5455277,
+   "lon": 127.3269018,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gWN71",
-   "hogangnono_name": "쌍용더플래티넘한강",
-   "lat": 37.5455277,
-   "lon": 127.3269018
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026000463",
@@ -12783,15 +12783,15 @@
    },
    "price_min": 47030,
    "price_max": 124758,
+   "hogangnono_id": "gOO8d",
+   "hogangnono_name": "향남역그로브스위첸",
+   "lat": 37.1103576,
+   "lon": 126.9143652,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gOO8d",
-   "hogangnono_name": "향남역그로브스위첸",
-   "lat": 37.1103576,
-   "lon": 126.9143652
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026000386",
@@ -12926,15 +12926,15 @@
    },
    "price_min": 42900,
    "price_max": 57900,
+   "hogangnono_id": "gsv5a",
+   "hogangnono_name": "용인양지서희스타힐스하이뷰",
+   "lat": 37.2373834,
+   "lon": 127.280083,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gsv5a",
-   "hogangnono_name": "용인양지서희스타힐스하이뷰",
-   "lat": 37.2373834,
-   "lon": 127.280083
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026000494",
@@ -13029,13 +13029,13 @@
    },
    "price_min": 82553,
    "price_max": 86878,
-   "score": 10,
-   "tags": [],
-   "status": "upcoming",
    "hogangnono_id": "fq81f",
    "hogangnono_name": "더샵동인센트리체",
    "lat": 35.8717835,
-   "lon": 128.602155
+   "lon": 128.602155,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026000498",
@@ -13110,13 +13110,13 @@
    },
    "price_min": 55630,
    "price_max": 57020,
-   "score": 0,
-   "tags": [],
-   "status": "upcoming",
    "hogangnono_id": "ghL9c",
    "hogangnono_name": "천안아이파크시티2단지",
    "lat": 36.8447086,
-   "lon": 127.1454605
+   "lon": 127.1454605,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026000444",
@@ -13214,13 +13214,13 @@
    },
    "price_min": 62800,
    "price_max": 64800,
-   "score": 0,
-   "tags": [],
-   "status": "upcoming",
    "hogangnono_id": "gZV3d",
    "hogangnono_name": "제주시이도이동아이린8차",
    "lat": 33.4987857,
-   "lon": 126.5362315
+   "lon": 126.5362315,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026950087",
@@ -13267,15 +13267,15 @@
    },
    "price_min": 57785,
    "price_max": 57785,
+   "hogangnono_id": "gHV66",
+   "hogangnono_name": "소미더클래스한강",
+   "lat": 37.5357216,
+   "lon": 126.8997765,
    "score": 20,
    "tags": [
     "수도권"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "gHV66",
-   "hogangnono_name": "소미더클래스한강",
-   "lat": 37.5357216,
-   "lon": 126.8997765
+   "status": "upcoming"
   },
   {
    "pblancNo": "2026820010",
@@ -13353,16 +13353,16 @@
    },
    "price_min": 50717,
    "price_max": 50844,
+   "hogangnono_id": "fmuca",
+   "hogangnono_name": "인천계양A17블록신혼희망타운",
+   "lat": 37.5446238,
+   "lon": 126.755094,
    "score": 30,
    "tags": [
     "수도권",
     "공공분양"
    ],
-   "status": "upcoming",
-   "hogangnono_id": "fmuca",
-   "hogangnono_name": "인천계양A17블록신혼희망타운",
-   "lat": 37.5446238,
-   "lon": 126.755094
+   "status": "upcoming"
   }
  ]
 }
