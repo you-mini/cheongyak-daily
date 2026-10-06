@@ -211,8 +211,8 @@ function card(it, hot) {
     </div>
     <div class="actions sub-actions">
       <a class="btn ghost map" href="https://map.naver.com/p/search/${mapQuery(it)}" target="_blank" rel="noopener">네이버지도</a>
-      <a class="btn ghost map" href="https://map.kakao.com/link/search/${mapQuery(it)}" target="_blank" rel="noopener">카카오맵</a>
-      <a class="btn ghost map" href="https://hogangnono.com/search?keyword=${aptQuery(it)}" target="_blank" rel="noopener">호갱노노</a>
+      <a class="btn ghost map" href="${it.lat && it.lon ? `https://map.kakao.com/link/map/${encodeURIComponent(it.name.replace(/\(.*?\)/g, "").trim())},${it.lat},${it.lon}` : `https://map.kakao.com/link/search/${mapQuery(it)}`}" target="_blank" rel="noopener">카카오맵</a>
+      <a class="btn ghost map" href="${it.hogangnono_id ? `https://hogangnono.com/apt/${esc(it.hogangnono_id)}` : `https://hogangnono.com/search?q=${aptQuery(it)}`}" target="_blank" rel="noopener">호갱노노${it.hogangnono_id ? "" : " 검색"}</a>
       ${it.homepage ? `<a class="btn ghost" href="${esc(it.homepage)}" target="_blank" rel="noopener">분양 홈페이지</a>` : ""}
       <a class="btn ghost" href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">시세 검색</a>
       ${it.phone ? `<a class="btn ghost phone" href="tel:${esc(it.phone.replace(/[^0-9]/g, ""))}">☎ ${esc(it.phone)}</a>` : ""}

@@ -226,6 +226,60 @@ def parse_detail(page_html, category):
     return d
 
 
+HGNN_UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+
+
+def clean_apt_name(name):
+    n = re.sub(r"\(.*?\)", " ", name)
+    n = re.sub(r"\b(\d+차|\d+회차|본청약|공공분양|조합원\s*취소분|신혼희망타운|분양주택|민간임대)\b", " ", n)
+    return re.sub(r"\s+", " ", n).strip()
+
+
+def resolve_hogangnono(item):
+    """호갱노노 검색 API로 단지 id·좌표를 찾는다. 실패하면 조용히 빈 값."""
+    name = clean_apt_name(item.get("name", ""))
+    if not name:
+        return {}
+    url = "https://hogangnono.com/api/v2/searches/new?" + urllib.parse.urlencode({"query": name})
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": HGNN_UA, "Accept": "application/json", "Referer": "https://hogangnono.com/"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read().decode("utf-8", "replace"))
+    except Exception:  # noqa
+        return {}
+    lst = (((data or {}).get("data") or {}).get("matched") or {}).get("apt", {}).get("list") or []
+    if not lst:
+        return {}
+    addr = item.get("address") or ""
+    # 주소의 동·지번이 맞는 후보 우선, 없으면 첫 후보
+    key = re.search(r"([가-힣]+[동리가]\s*\d+[-\d]*)", addr)
+    best = None
+    if key:
+        k = re.sub(r"\s+", "", key.group(1))
+        for c in lst:
+            if k in re.sub(r"\s+", "", c.get("address") or ""):
+                best = c
+                break
+    if best is None:
+        dong = re.search(r"([가-힣]+[동리가])\b", addr)
+        if dong:
+            for c in lst:
+                if dong.group(1) in (c.get("address") or ""):
+                    best = c
+                    break
+    if best is None:
+        # 지역(시도)이라도 맞아야 채택
+        sido = (addr.split() or [""])[0][:2]
+        for c in lst:
+            if sido and sido in (c.get("address") or ""):
+                best = c
+                break
+    if best is None:
+        return {}
+    loc = best.get("location") or {}
+    return {"hogangnono_id": best.get("id"), "hogangnono_name": best.get("name"), "lat": loc.get("lat"), "lon": loc.get("lon")}
+
+
 def parse_period(s):
     m = re.findall(r"\d{4}-\d{2}-\d{2}", s or "")
     if not m:
@@ -301,6 +355,27 @@ def main():
                 break
             time.sleep(0.5)
         print(cat, len([i for i in items if i["category"] == cat]), file=sys.stderr)
+
+    # 호갱노노 단지 id·좌표 (접수 중·예정 + 최근 마감분만, 이전 결과 재사용)
+    prev = {}
+    try:
+        with open(OUT, encoding="utf-8") as f:
+            for it in json.load(f).get("items", []):
+                if it.get("hogangnono_id"):
+                    prev[it["pblancNo"]] = {k: it.get(k) for k in ("hogangnono_id", "hogangnono_name", "lat", "lon")}
+    except Exception:  # noqa
+        pass
+    resolved = 0
+    for it in items:
+        if it["pblancNo"] in prev:
+            it.update(prev[it["pblancNo"]])
+            continue
+        r = resolve_hogangnono(it)
+        if r:
+            it.update(r)
+            resolved += 1
+        time.sleep(0.25)
+    print("hogangnono resolved", resolved, "reused", len(prev), file=sys.stderr)
 
     for it in items:
         it["score"], it["tags"] = score(it)
