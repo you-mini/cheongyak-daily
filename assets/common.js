@@ -26,7 +26,7 @@ function daysUntil(iso) {
   const a = new Date(todayISO()), b = new Date(iso);
   return Math.round((b - a) / 86400000);
 }
-function esc(s) { return String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
+function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
 function pyeong(m2) { return (m2 / 3.3058).toFixed(1); }
 async function loadJSON(path) {
   const r = await fetch(path + "?t=" + Math.floor(Date.now() / 600000), { cache: "no-cache" });

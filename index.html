@@ -101,7 +101,7 @@ function unitsTable(it) {
   const rows = it.units.map(u => {
     const ex = isApt ? parseFloat(u.type) : u.area;
     const exTxt = ex ? ex.toFixed(1) + "㎡ (" + pyeong(ex) + "평)" : "-";
-    const cnt = u.general != null ? `${u.general} / ${u.special} / <b>${u.total}</b>` : (u.total ?? "-");
+    const cnt = u.general != null ? `${u.general} / ${u.special} / <b>${u.total}</b>` : (u.total == null ? "-" : u.total);
     return `<tr><td>${esc(u.type)}</td><td>${exTxt}</td><td>${cnt}</td><td>${u.price ? fmtMan(u.price) : "-"}</td><td>${u.price_per_pyeong ? u.price_per_pyeong.toLocaleString("ko-KR") + "만" : "-"}</td></tr>`;
   }).join("");
   return `<div class="tbl-wrap"><table class="units"><thead><tr><th>주택형</th><th>전용면적</th><th>${isApt ? "일반 / 특별 / 계" : "세대수"}</th><th>공급금액(최고)</th><th>전용 평당</th></tr></thead><tbody>${rows}</tbody></table></div>`;
