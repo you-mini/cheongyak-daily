@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#e4f5f1">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Crect width=%2764%27 height=%2764%27 rx=%2714%27 fill=%27%231f4f8f%27/%3E%3Cpath d=%27M14 34 L32 18 L50 34 V50 H38 V40 H26 V50 H14 Z%27 fill=%27%23fff%27/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Crect width=%2764%27 height=%2764%27 rx=%2714%27 fill=%27%23128c7e%27/%3E%3Cpath d=%27M14 34 L32 18 L50 34 V50 H38 V40 H26 V50 H14 Z%27 fill=%27%23fff%27/%3E%3C/svg%3E">
 <title>청약 데일리</title>
 <meta name="description" content="청약홈 분양·무순위 공고를 매일 모아 보여주는 페이지">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,7 +16,13 @@
   <div class="wrap">
     <div class="brand">
       <h1>청약 데일리<small>청약홈 공고 모아보기</small></h1>
-      <div class="updated" id="updated">불러오는 중…</div>
+      <div class="brand-right">
+        <div class="fontsize" role="group" aria-label="글자 크기">
+          <button type="button" id="font-down" aria-label="글자 작게">가<span>−</span></button>
+          <button type="button" id="font-up" aria-label="글자 크게">가<span>+</span></button>
+        </div>
+        <div class="updated" id="updated">불러오는 중…</div>
+      </div>
     </div>
     <nav class="tabs">
       <a class="on" href="index.html" aria-current="page">청약 공고</a>
@@ -26,10 +32,11 @@
 </header>
 
 <main class="wrap">
+  <div class="stale" id="stale" hidden></div>
   <div class="stats" id="stats">
-    <div class="stat good"><div class="n" id="st-open">–</div><div class="l">오늘 접수 중</div></div>
-    <div class="stat"><div class="n" id="st-up">–</div><div class="l">접수 예정</div></div>
-    <div class="stat hot"><div class="n" id="st-hot">–</div><div class="l">놓치면 아까운 공고</div></div>
+    <button type="button" class="stat good" data-status="open"><div class="n" id="st-open">–</div><div class="l">오늘 접수 중</div><div class="hint">누르면 접수 중만 보기</div></button>
+    <button type="button" class="stat" data-status="upcoming"><div class="n" id="st-up">–</div><div class="l">접수 예정</div><div class="hint">누르면 예정만 보기</div></button>
+    <button type="button" class="stat hot" data-status="hot"><div class="n" id="st-hot">–</div><div class="l">놓치면 아까운 공고</div><div class="hint">누르면 주목만 보기</div></button>
   </div>
 
   <div class="toolbar">
@@ -38,6 +45,7 @@
       <button class="chip" data-cat="remainder">무순위·잔여세대</button>
       <button class="chip" data-cat="apt">아파트 분양</button>
       <button class="chip" data-cat="other">오피스텔·임대 등</button>
+      <button class="chip fav-chip" id="fav-chip" type="button">★ 관심 공고 <span id="fav-count">0</span></button>
       <button class="chip" id="region-btn" type="button" aria-expanded="false" aria-controls="region-panel">지역: 전체 ▾</button>
       <input id="q" type="search" placeholder="단지명·주소·시공사 검색" autocomplete="off">
     </div>
@@ -55,36 +63,65 @@
       <button class="chip small" data-view="one">한 줄씩</button>
       <button class="chip small" data-view="grid">3개씩</button>
       <button class="chip small" data-view="compact">간단히</button>
+      <span class="seg-label" style="margin-left:8px">정렬</span>
+      <select id="sort" class="small">
+        <option value="date">접수일 빠른 순</option>
+        <option value="deadline">마감 임박 순</option>
+        <option value="price_asc">분양가 낮은 순</option>
+        <option value="price_desc">분양가 높은 순</option>
+        <option value="units">세대수 많은 순</option>
+        <option value="score">주목도 순</option>
+      </select>
     </div>
   </div>
-
   <div class="applied" id="applied" hidden><span id="applied-text"></span><button class="chip small" id="reset" type="button">조건 모두 지우기</button></div>
 
   <details class="sec" id="sec-hot" open>
     <summary><h2 id="hot-title">놓치면 아까운 공고 <span class="count" id="hot-count"></span></h2><span class="fold" aria-hidden="true"></span></summary>
-    <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요.</p>
-    <div id="hot"></div>
+    <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요. <button type="button" class="linkbtn" id="crit-btn">주목 기준 보기</button></p>
+    <div class="crit" id="crit" hidden>
+      <b>이렇게 고릅니다.</b> 무순위·잔여세대(+30점), 계약취소·불법행위 재공급(+10), 서울(+30)·경기·인천(+20)·광역시(+10), 공공분양(+10), 5세대 이하 소량(+5), 임대(−20), 오피스텔 등(−10). 50점 이상이거나, 매일 아침 투자 흐름 편집에서 따로 고른 단지가 여기에 올라옵니다. 점수는 참고용이며 투자 권유가 아닙니다.
+    </div>
+    <div id="hot"><div class="empty">공고를 불러오는 중입니다…</div></div>
   </details>
 
   <details class="sec" id="sec-all" open>
     <summary><h2>전체 공고 <span class="count" id="all-count"></span></h2><span class="fold" aria-hidden="true"></span></summary>
-    <div id="list"></div>
+    <div id="list"><div class="empty">공고를 불러오는 중입니다…</div></div>
     <button class="btn toggle-closed" id="toggle-closed" hidden></button>
     <div id="closed-list" hidden></div>
   </details>
 
+  <section class="links">
+    <h2>자주 쓰는 사이트</h2>
+    <div class="linkgrid">
+      <a href="https://www.applyhome.co.kr" target="_blank" rel="noopener"><b>청약홈</b><span>청약 신청·당첨 조회·청약통장 확인</span></a>
+      <a href="https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do" target="_blank" rel="noopener"><b>청약 캘린더</b><span>이달 청약 일정을 달력으로</span></a>
+      <a href="https://www.applyhome.co.kr/ap/apg/selectAddpntCalculatorView.do" target="_blank" rel="noopener"><b>청약 가점 계산기</b><span>내 가점을 미리 계산</span></a>
+      <a href="https://rt.molit.go.kr" target="_blank" rel="noopener"><b>국토부 실거래가</b><span>주변 아파트 실제 거래 가격</span></a>
+      <a href="https://apply.lh.or.kr" target="_blank" rel="noopener"><b>LH 청약플러스</b><span>공공분양·3기 신도시·신혼희망타운</span></a>
+      <a href="https://www.applyhome.co.kr/ar/ara/selectSubscrptIntroRemndrHshldView.do" target="_blank" rel="noopener"><b>무순위·잔여세대 안내</b><span>줍줍 자격·절차 공식 설명</span></a>
+    </div>
+  </section>
+
   <p class="note">자료 출처: 한국부동산원 <a href="https://www.applyhome.co.kr" target="_blank" rel="noopener">청약홈</a>. 하루 두 번(아침·저녁) 자동으로 새 공고를 가져옵니다. 공급금액은 주택형별 최고가 기준이며, 실제 자격·일정·금액은 반드시 입주자모집공고문을 확인하세요. 이 페이지는 투자 권유가 아닙니다.</p>
 </main>
 <button class="totop" id="totop" type="button" aria-label="맨 위로">↑ 맨 위로</button>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script src="assets/common.js"></script>
 <script>
 const CAT_LABEL = { apt: "아파트 분양", remainder: "무순위·잔여세대", other: "오피스텔·임대 등" };
 const REGION_ORDER = ["서울", "경기", "인천", "세종", "부산", "대구", "대전", "광주", "울산"];
+const SORT_LABEL = { date: "접수일 빠른 순", deadline: "마감 임박 순", price_asc: "분양가 낮은 순", price_desc: "분양가 높은 순", units: "세대수 많은 순", score: "주목도 순" };
 let DATA = { items: [] }, PICKS = {};
-let state = Object.assign({ cat: "all", regions: [], q: "", showClosed: false, group: "none", view: "one" }, store("cy-filters") || {});
+let state = Object.assign({ cat: "all", regions: [], q: "", showClosed: false, group: "none", view: "one", status: "all", sort: "date", favOnly: false }, store("cy-filters") || {});
 if (!Array.isArray(state.regions)) state.regions = [];
+let FAVS = new Set(store("cy-favs") || []);
+let fontStep = store("cy-font") || 0;
 
+function applyFont() { document.documentElement.style.fontSize = (112.5 + fontStep * 12.5) + "%"; }
+function toast(msg) { const t = document.getElementById("toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("show"), 2200); }
 function kindOf(it) { return it.supply_kind || it.sale_kind || it.house_kind || CAT_LABEL[it.category]; }
 function statusPill(it) {
   if (it.status === "open") {
@@ -96,11 +133,6 @@ function statusPill(it) {
     return `<span class="pill upcoming">${d === 0 ? "오늘 접수" : d === 1 ? "내일 접수" : "D-" + d}</span>`;
   }
   return `<span class="pill closed">접수 마감</span>`;
-}
-function shortStatus(it) {
-  if (it.status === "open") return "접수 중";
-  if (it.status === "upcoming") { const d = daysUntil(it.apply_start); return d === 0 ? "오늘" : "D-" + d; }
-  return "마감";
 }
 function unitsTable(it) {
   if (!it.units || !it.units.length) return "";
@@ -124,16 +156,27 @@ function priceText(it) {
   if (!it.price_min) return "";
   return fmtMan(it.price_min) + (it.price_max && it.price_max !== it.price_min ? " ~ " + fmtMan(it.price_max) : "");
 }
+function icsFor(it) {
+  const d8 = s => s.replace(/-/g, "");
+  const nextDay = s => { const d = new Date(s); d.setDate(d.getDate() + 1); return d.toISOString().slice(0, 10).replace(/-/g, ""); };
+  const ev = (uid, title, s, e, desc) => `BEGIN:VEVENT\r\nUID:${uid}@cheongyak-daily\r\nDTSTAMP:${d8(todayISO())}T000000Z\r\nDTSTART;VALUE=DATE:${d8(s)}\r\nDTEND;VALUE=DATE:${nextDay(e || s)}\r\nSUMMARY:${title}\r\nDESCRIPTION:${desc}\r\nURL:${it.detail_url}\r\nEND:VEVENT\r\n`;
+  let body = "";
+  if (it.apply_start) body += ev(it.pblancNo + "-a", `[청약 접수] ${it.name}`, it.apply_start, it.apply_end, `${it.region} ${kindOf(it)} · 청약홈에서 신청`);
+  if (it.announce_date) body += ev(it.pblancNo + "-w", `[당첨자 발표] ${it.name}`, it.announce_date, null, "청약홈 당첨 조회");
+  return "data:text/calendar;charset=utf-8," + encodeURIComponent(`BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//cheongyak-daily//KR\r\n${body}END:VCALENDAR\r\n`);
+}
 function card(it, hot) {
   const pick = PICKS[it.pblancNo];
+  const fav = FAVS.has(it.pblancNo);
   const tags = (it.tags || []).map(t => `<span class="tag ${/무순위|재공급|공공/.test(t) ? "hot" : ""}">${esc(t)}</span>`).join("");
   const pt = priceText(it);
   const price = pt ? `<div class="price">공급금액 <b>${pt}</b> <span class="muted">(주택형별 최고가)</span></div>` : "";
   const cnt = it.total_units ? `<b>${it.total_units.toLocaleString("ko-KR")}세대</b>` : "";
-  return `<article class="card ${hot ? "hot" : ""} ${it.status}" data-id="${esc(it.pblancNo)}">
+  const q = encodeURIComponent(it.name.replace(/\(.*?\)/g, "").trim() + " 시세");
+  return `<article class="card ${hot ? "hot" : ""} ${it.status} ${fav ? "fav" : ""}" data-id="${esc(it.pblancNo)}">
     <div class="oneline" role="button" tabindex="0">
       ${statusPill(it)}
-      <span class="nm">${esc(it.name)}</span>
+      <span class="nm">${fav ? "★ " : ""}${esc(it.name)}</span>
       <span class="sub">${esc(it.region)} · ${esc(kindOf(it))}${it.total_units ? " · " + it.total_units + "세대" : ""}</span>
       <span class="sub">${fmtRange(it.apply_start, it.apply_end)}</span>
       ${pt ? `<span class="pr">${pt}</span>` : ""}
@@ -144,7 +187,7 @@ function card(it, hot) {
         <h3>${esc(it.name)}</h3>
         <div class="meta"><span>${esc(it.address || "")}</span></div>
       </div>
-      <div class="pills">${statusPill(it)}${hot ? '<span class="pill hot">주목</span>' : ""}</div>
+      <div class="pills">${statusPill(it)}${hot ? '<span class="pill hot">주목</span>' : ""}<button type="button" class="star ${fav ? "on" : ""}" aria-pressed="${fav}" aria-label="관심 공고로 저장" title="관심 공고">${fav ? "★" : "☆"}</button></div>
     </div>
     <div class="dates">
       <div><span>청약 접수</span><b>${fmtRange(it.apply_start, it.apply_end)}</b></div>
@@ -157,19 +200,29 @@ function card(it, hot) {
     <div class="actions">
       <a class="btn primary" href="${esc(it.apply_url)}" target="_blank" rel="noopener">청약 신청하러 가기</a>
       <a class="btn" href="${esc(it.detail_url)}" target="_blank" rel="noopener">공고 상세 보기</a>
-      ${it.homepage ? `<a class="btn" href="${esc(it.homepage)}" target="_blank" rel="noopener">분양 홈페이지</a>` : ""}
       <button class="btn more" type="button" aria-expanded="false">주택형·일정 보기</button>
+    </div>
+    <div class="actions sub-actions">
+      ${it.homepage ? `<a class="btn ghost" href="${esc(it.homepage)}" target="_blank" rel="noopener">분양 홈페이지</a>` : ""}
+      <a class="btn ghost" href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">시세 검색</a>
+      ${it.phone ? `<a class="btn ghost phone" href="tel:${esc(it.phone.replace(/[^0-9]/g, ""))}">☎ ${esc(it.phone)}</a>` : ""}
+      <a class="btn ghost" href="${icsFor(it)}" download="${esc(it.name)}.ics">달력에 저장</a>
+      <button class="btn ghost share" type="button">공유</button>
     </div>
     <div class="detail">
       ${unitsTable(it)}
       ${schedList(it)}
-      <div class="meta" style="margin-top:10px">${it.builder ? `<span>시공·시행 <b>${esc(it.builder)}</b></span>` : ""}${it.phone ? `<span>문의 <b class="phone">${esc(it.phone)}</b></span>` : ""}</div>
+      <div class="meta" style="margin-top:10px">${it.builder ? `<span>시공·시행 <b>${esc(it.builder)}</b></span>` : ""}</div>
     </div>
   </article>`;
 }
 function matches(it) {
+  if (state.favOnly && !FAVS.has(it.pblancNo)) return false;
   if (state.cat !== "all" && it.category !== state.cat) return false;
   if (state.regions.length && !state.regions.includes(it.region)) return false;
+  if (state.status === "open" && it.status !== "open") return false;
+  if (state.status === "upcoming" && it.status !== "upcoming") return false;
+  if (state.status === "hot" && !isHot(it)) return false;
   if (state.q) {
     const q = state.q.trim().toLowerCase();
     const hay = [it.name, it.address, it.builder, it.region, kindOf(it)].join(" ").toLowerCase();
@@ -178,6 +231,18 @@ function matches(it) {
   return true;
 }
 function isHot(it) { return it.status !== "closed" && (it.score >= 50 || PICKS[it.pblancNo]); }
+function sortItems(arr) {
+  const by = state.sort;
+  const cmp = {
+    date: (a, b) => (a.apply_start || "9999").localeCompare(b.apply_start || "9999") || b.score - a.score,
+    deadline: (a, b) => (a.apply_end || "9999").localeCompare(b.apply_end || "9999") || (a.apply_start || "").localeCompare(b.apply_start || ""),
+    price_asc: (a, b) => (a.price_min || 1e12) - (b.price_min || 1e12),
+    price_desc: (a, b) => (b.price_max || 0) - (a.price_max || 0),
+    units: (a, b) => (b.total_units || 0) - (a.total_units || 0),
+    score: (a, b) => b.score - a.score || (a.apply_start || "").localeCompare(b.apply_start || ""),
+  }[by] || ((a, b) => 0);
+  return arr.slice().sort(cmp);
+}
 
 /* 묶기 */
 function toLocal(iso) { const [y, m, d] = iso.split("-").map(Number); return new Date(y, m - 1, d); }
@@ -219,28 +284,33 @@ function render() {
   document.getElementById("st-up").textContent = live.filter(i => i.status === "upcoming").length;
   const hotAll = live.filter(isHot);
   document.getElementById("st-hot").textContent = hotAll.length;
+  document.querySelectorAll(".stat[data-status]").forEach(b => b.classList.toggle("on", b.dataset.status === state.status));
+  document.getElementById("fav-count").textContent = FAVS.size;
+  document.getElementById("fav-chip").classList.toggle("on", state.favOnly);
+
   const filtered = items.filter(matches);
-  const hot = filtered.filter(isHot).sort((a, b) => (a.apply_start || "").localeCompare(b.apply_start || "") || b.score - a.score);
-  const filtering = state.cat !== "all" || state.regions.length > 0 || state.q.trim() !== "";
+  const hot = sortItems(filtered.filter(isHot));
+  const filtering = state.cat !== "all" || state.regions.length > 0 || state.q.trim() !== "" || state.status !== "all" || state.favOnly;
   document.getElementById("hot-count").textContent = filtering ? `${hot.length}건 (전체 ${hotAll.length}건 중)` : hot.length + "건";
-  const hotEl = document.getElementById("hot");
-  hotEl.className = "";
-  hotEl.innerHTML = hot.length ? renderGroups(groupItems(hot), true) : `<div class="empty">${filtering ? "지금 조건에 맞는 주목 공고가 없습니다. 조건을 바꾸거나 지워 보세요." : "지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다."}</div>`;
-  // 적용 중인 조건 안내
+  document.getElementById("hot").innerHTML = hot.length ? renderGroups(groupItems(hot), true) : `<div class="empty">${filtering ? "지금 조건에 맞는 주목 공고가 없습니다. 조건을 바꾸거나 지워 보세요." : "지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다."}</div>`;
+
   const parts = [];
+  if (state.status !== "all") parts.push({ open: "접수 중만", upcoming: "예정만", hot: "주목 공고만" }[state.status]);
+  if (state.favOnly) parts.push("★ 관심 공고만");
   if (state.cat !== "all") parts.push("구분: " + CAT_LABEL[state.cat]);
   if (state.regions.length) parts.push("지역: " + state.regions.join(", "));
   if (state.q.trim()) parts.push("검색: “" + state.q.trim() + "”");
   if (state.group !== "none") parts.push({ region: "지역별 묶음", period: "기간별 묶음", cat: "구분별 묶음" }[state.group]);
   if (state.view !== "one") parts.push({ grid: "3개씩 보기", compact: "간단히 보기" }[state.view]);
+  if (state.sort !== "date") parts.push(SORT_LABEL[state.sort]);
   const ap = document.getElementById("applied");
   ap.hidden = parts.length === 0;
   document.getElementById("applied-text").textContent = parts.length ? "적용 중 · " + parts.join(" · ") : "";
 
-  const openUp = filtered.filter(i => i.status !== "closed");
+  const openUp = sortItems(filtered.filter(i => i.status !== "closed"));
   const closed = filtered.filter(i => i.status === "closed").sort((a, b) => (b.apply_end || "").localeCompare(a.apply_end || ""));
   document.getElementById("all-count").textContent = `접수 중·예정 ${openUp.length}건, 마감 ${closed.length}건`;
-  document.getElementById("list").innerHTML = openUp.length ? renderGroups(groupItems(openUp), false) : `<div class="empty">조건에 맞는 접수 중·예정 공고가 없습니다.</div>`;
+  document.getElementById("list").innerHTML = openUp.length ? renderGroups(groupItems(openUp), false) : `<div class="empty">${state.favOnly && !FAVS.size ? "아직 저장한 관심 공고가 없습니다. 공고 카드의 ☆ 를 누르면 여기에 모입니다." : "조건에 맞는 접수 중·예정 공고가 없습니다."}</div>`;
   const tc = document.getElementById("toggle-closed");
   tc.hidden = closed.length === 0;
   tc.textContent = (state.showClosed ? "마감된 공고 접기" : "마감된 공고 보기") + ` (${closed.length}건)`;
@@ -253,18 +323,32 @@ function syncChips() {
   document.querySelectorAll(".chip[data-cat]").forEach(b => b.classList.toggle("on", b.dataset.cat === state.cat));
   document.querySelectorAll(".chip[data-group]").forEach(b => b.classList.toggle("on", b.dataset.group === state.group));
   document.querySelectorAll(".chip[data-view]").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
+  document.getElementById("sort").value = state.sort;
 }
-function save() { store("cy-filters", { cat: state.cat, regions: state.regions, q: state.q, showClosed: state.showClosed, group: state.group, view: state.view }); }
+function save() { store("cy-filters", { cat: state.cat, regions: state.regions, q: state.q, showClosed: state.showClosed, group: state.group, view: state.view, status: state.status, sort: state.sort, favOnly: state.favOnly }); }
 function regionLabel() {
   const b = document.getElementById("region-btn");
   const r = state.regions;
   b.textContent = "지역: " + (r.length === 0 ? "전체" : r.length <= 3 ? r.join("·") : r.slice(0, 2).join("·") + " 외 " + (r.length - 2) + "곳") + " ▾";
   b.classList.toggle("on", r.length > 0);
 }
+function freshness(updated) {
+  const m = /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})/.exec(updated || "");
+  if (!m) return "";
+  const t = Date.UTC(+m[1], +m[2] - 1, +m[3], +m[4] - 9, +m[5]);
+  const h = Math.floor((Date.now() - t) / 3600000);
+  const rel = h < 1 ? "방금" : h < 24 ? h + "시간 전" : Math.floor(h / 24) + "일 전";
+  const st = document.getElementById("stale");
+  if (h >= 30) { st.hidden = false; st.textContent = `공고 자동 갱신이 ${Math.floor(h / 24)}일째 멈춰 있습니다. 최신 공고는 청약홈에서 직접 확인해 주세요.`; }
+  return rel;
+}
 function wire() {
   document.querySelectorAll(".chip[data-cat]").forEach(b => b.addEventListener("click", () => { state.cat = b.dataset.cat; save(); render(); }));
   document.querySelectorAll(".chip[data-group]").forEach(b => b.addEventListener("click", () => { state.group = b.dataset.group; save(); render(); }));
   document.querySelectorAll(".chip[data-view]").forEach(b => b.addEventListener("click", () => { state.view = b.dataset.view; save(); render(); }));
+  document.querySelectorAll(".stat[data-status]").forEach(b => b.addEventListener("click", () => { state.status = state.status === b.dataset.status ? "all" : b.dataset.status; save(); render(); document.getElementById("sec-hot").open = true; document.getElementById("sec-all").open = true; }));
+  document.getElementById("fav-chip").addEventListener("click", () => { state.favOnly = !state.favOnly; save(); render(); });
+  document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; save(); render(); });
   const counts = {}; DATA.items.forEach(i => { if (i.status !== "closed") counts[i.region] = (counts[i.region] || 0) + 1; });
   const regions = [...new Set(DATA.items.map(i => i.region))].sort((a, b) => { const x = REGION_ORDER.indexOf(a), y = REGION_ORDER.indexOf(b); return (x < 0 ? 99 : x) - (y < 0 ? 99 : y) || a.localeCompare(b, "ko"); });
   state.regions = state.regions.filter(r => regions.includes(r));
@@ -277,18 +361,32 @@ function wire() {
   document.getElementById("region-close").addEventListener("click", () => setPanel(false));
   document.getElementById("region-clear").addEventListener("click", () => { grid.querySelectorAll("input").forEach(c => c.checked = false); state.regions = []; save(); render(); });
   document.getElementById("region-capital").addEventListener("click", () => { grid.querySelectorAll("input").forEach(c => c.checked = ["서울", "경기", "인천"].includes(c.value)); state.regions = [...grid.querySelectorAll("input:checked")].map(c => c.value); save(); render(); });
-  regionLabel();
   const q = document.getElementById("q"); q.value = state.q;
   q.addEventListener("input", () => { state.q = q.value; save(); render(); });
   document.getElementById("toggle-closed").addEventListener("click", () => { state.showClosed = !state.showClosed; save(); render(); });
   document.getElementById("reset").addEventListener("click", () => {
-    state.cat = "all"; state.regions = []; state.q = ""; state.group = "none"; state.view = "one";
-    document.getElementById("q").value = ""; grid.querySelectorAll("input").forEach(c => c.checked = false);
+    state.cat = "all"; state.regions = []; state.q = ""; state.group = "none"; state.view = "one"; state.status = "all"; state.sort = "date"; state.favOnly = false;
+    q.value = ""; grid.querySelectorAll("input").forEach(c => c.checked = false);
     save(); render();
   });
+  document.getElementById("crit-btn").addEventListener("click", () => { const c = document.getElementById("crit"); c.hidden = !c.hidden; });
   document.body.addEventListener("click", e => {
     const more = e.target.closest(".more");
     if (more) { const c = more.closest(".card"); const on = c.classList.toggle("expanded"); more.setAttribute("aria-expanded", on); more.textContent = on ? "접기" : "주택형·일정 보기"; return; }
+    const star = e.target.closest(".star");
+    if (star) {
+      const id = star.closest(".card").dataset.id;
+      if (FAVS.has(id)) { FAVS.delete(id); toast("관심 공고에서 뺐습니다"); } else { FAVS.add(id); toast("관심 공고로 저장했습니다 ★"); }
+      store("cy-favs", [...FAVS]); render(); return;
+    }
+    const sh = e.target.closest(".share");
+    if (sh) {
+      const it = DATA.items.find(i => i.pblancNo === sh.closest(".card").dataset.id);
+      const text = `[청약] ${it.name} (${it.region}) 접수 ${it.apply_period} · ${priceText(it) || "분양가는 공고 참조"}\n${it.detail_url}`;
+      if (navigator.share) navigator.share({ title: it.name, text, url: it.detail_url }).catch(() => {});
+      else if (navigator.clipboard) navigator.clipboard.writeText(text).then(() => toast("공고 내용을 복사했습니다. 메시지에 붙여넣으세요.")).catch(() => toast("복사할 수 없습니다"));
+      return;
+    }
     const ol = e.target.closest(".oneline");
     if (ol) { ol.closest(".card").classList.toggle("expanded"); }
   });
@@ -297,16 +395,20 @@ function wire() {
     const saved = store("cy-sec-" + d.id); if (saved === false) d.open = false;
     d.addEventListener("toggle", () => store("cy-sec-" + d.id, d.open));
   });
+  document.getElementById("font-up").addEventListener("click", () => { fontStep = Math.min(3, fontStep + 1); store("cy-font", fontStep); applyFont(); });
+  document.getElementById("font-down").addEventListener("click", () => { fontStep = Math.max(-1, fontStep - 1); store("cy-font", fontStep); applyFont(); });
   const tt = document.getElementById("totop");
   window.addEventListener("scroll", () => tt.classList.toggle("show", window.scrollY > 600), { passive: true });
   tt.addEventListener("click", () => window.scrollTo({ top: 0 }));
 }
+applyFont();
 (async () => {
   try {
     const [d, t] = await Promise.all([loadJSON("data/listings.json"), loadJSON("data/trends.json").catch(() => null)]);
     DATA = d;
     if (t && t.picks) t.picks.forEach(p => { if (p.pblancNo) PICKS[p.pblancNo] = p; });
-    document.getElementById("updated").innerHTML = `마지막 갱신 <b>${esc(d.updated_at)}</b> · 공고 ${d.count}건`;
+    const rel = freshness(d.updated_at);
+    document.getElementById("updated").innerHTML = `마지막 갱신 <b>${esc(d.updated_at)}</b>${rel ? ` (${rel})` : ""} · 공고 ${d.count}건`;
     wire(); render();
   } catch (e) {
     document.getElementById("updated").textContent = "데이터를 불러오지 못했습니다";

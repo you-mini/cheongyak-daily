@@ -16,7 +16,13 @@
   <div class="wrap">
     <div class="brand">
       <h1>청약 데일리<small>투자 흐름·이슈</small></h1>
-      <div class="updated" id="updated">불러오는 중…</div>
+      <div class="brand-right">
+        <div class="fontsize" role="group" aria-label="글자 크기">
+          <button type="button" id="font-down" aria-label="글자 작게">가<span>−</span></button>
+          <button type="button" id="font-up" aria-label="글자 크게">가<span>+</span></button>
+        </div>
+        <div class="updated" id="updated">불러오는 중…</div>
+      </div>
     </div>
     <nav class="tabs">
       <a href="index.html">청약 공고</a>
@@ -34,6 +40,8 @@
   <h2 id="sec-picks">놓치면 아까운 공고 <span class="count" id="picks-count"></span></h2>
   <p class="lead">분양가가 주변 시세보다 낮거나, 입지·공급 방식 때문에 관심이 큰 공고입니다. 실거래가는 국토교통부 조회로 직접 비교해 보세요.</p>
   <div id="picks" class="cards"></div>
+  <button class="btn toggle-closed" id="picks-closed-btn" type="button" hidden></button>
+  <div id="picks-closed" class="cards" hidden></div>
 
   <div id="sections"></div>
 
@@ -42,6 +50,18 @@
 
   <h2 id="sec-refs">참고 자료</h2>
   <ol class="refs card" id="refs"></ol>
+
+  <section class="links">
+    <h2>자주 쓰는 사이트</h2>
+    <div class="linkgrid">
+      <a href="https://www.applyhome.co.kr" target="_blank" rel="noopener"><b>청약홈</b><span>청약 신청·당첨 조회·청약통장 확인</span></a>
+      <a href="https://rt.molit.go.kr" target="_blank" rel="noopener"><b>국토부 실거래가</b><span>주변 아파트 실제 거래 가격</span></a>
+      <a href="https://www.reb.or.kr/r-one/" target="_blank" rel="noopener"><b>한국부동산원 통계</b><span>주간 아파트 가격 동향 원자료</span></a>
+      <a href="https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643" target="_blank" rel="noopener"><b>한국은행 기준금리</b><span>금리 추이 공식 자료</span></a>
+      <a href="https://apply.lh.or.kr" target="_blank" rel="noopener"><b>LH 청약플러스</b><span>공공분양·3기 신도시</span></a>
+      <a href="https://www.korea.kr" target="_blank" rel="noopener"><b>정책브리핑</b><span>부동산 정책 정부 발표문</span></a>
+    </div>
+  </section>
 
   <p class="note">이 페이지는 공개 기사·정부 발표를 매일 아침 요약한 것으로, 투자 권유가 아닙니다. 수치와 일정은 출처 기사 시점 기준이며, 청약 자격·분양가·일정은 반드시 입주자모집공고문과 청약홈에서 확인하세요.</p>
 </main>
@@ -67,6 +87,14 @@ function srcLine(list) {
 }
 function sourcesOf(i) { return i.sources && i.sources.length ? i.sources : (i.source ? [i.source] : []); }
 
+let LIVE = {};
+function liveStatus(p) {
+  const it = p.pblancNo && LIVE[p.pblancNo]; if (!it) return "";
+  if (it.status === "open") { const l = daysUntil(it.apply_end); return `<span class="pill open">접수 중${l === 0 ? " · 오늘 마감" : l > 0 ? " · " + l + "일 남음" : ""}</span>`; }
+  if (it.status === "upcoming") { const d = daysUntil(it.apply_start); return `<span class="pill upcoming">${d === 0 ? "오늘 접수" : d === 1 ? "내일 접수" : "D-" + d}</span>`; }
+  return `<span class="pill closed">접수 마감</span>`;
+}
+function isClosedPick(p) { const it = p.pblancNo && LIVE[p.pblancNo]; return !!(it && it.status === "closed"); }
 function pickCard(p) {
   const rows = [
     p.region ? `<span><span class="k">지역</span> <b>${esc(p.region)}</b></span>` : "",
@@ -77,7 +105,7 @@ function pickCard(p) {
   ].filter(Boolean).join("");
   const srcs = sourcesOf(p).concat(p.source_url && !sourcesOf(p).some(s => s.url === p.source_url) ? [{ title: "관련 기사", url: p.source_url }] : []);
   return `<article class="card hot">
-    <div class="card-top"><div style="min-width:0"><h3>${esc(p.name)}</h3><div class="pick-row">${rows}</div></div><span class="pill hot">주목</span></div>
+    <div class="card-top"><div style="min-width:0"><h3>${esc(p.name)}</h3><div class="pick-row">${rows}</div></div><span class="pills">${liveStatus(p)}<span class="pill hot">주목</span></span></div>
     <div class="why"><b>왜 주목?</b> ${esc(p.why)} ${refMarks(srcs)}</div>
     ${p.caution ? `<p><b>주의</b> ${esc(p.caution)}</p>` : ""}
     <div class="actions">
@@ -101,20 +129,29 @@ function itemCard(i) {
 }
 (async () => {
   try {
-    const t = await loadJSON("data/trends.json");
+    const [t, L] = await Promise.all([loadJSON("data/trends.json"), loadJSON("data/listings.json").catch(() => null)]);
+    if (L && L.items) L.items.forEach(i => { LIVE[i.pblancNo] = i; });
     document.getElementById("updated").innerHTML = `마지막 갱신 <b>${esc(t.updated_at)}</b>`;
     document.getElementById("headline").textContent = t.headline || "";
     document.getElementById("summary").innerHTML = (t.summary || []).map(s => `<li>${esc(s)}</li>`).join("");
     document.getElementById("kpi").innerHTML = (t.kpis || []).map(k => `<div><div class="v">${esc(k.value)}</div><div class="k">${esc(k.label)}${k.source ? " " : ""}${refMarks(k.source ? [k.source] : [])}</div></div>`).join("");
-    const picks = t.picks || [];
-    document.getElementById("picks-count").textContent = picks.length + "건";
-    document.getElementById("picks").innerHTML = picks.length ? picks.map(pickCard).join("") : `<div class="empty">오늘은 특별히 꼽을 공고가 없습니다.</div>`;
+    const allPicks = t.picks || [];
+    const picks = allPicks.filter(p => !isClosedPick(p)), closedPicks = allPicks.filter(isClosedPick);
+    document.getElementById("picks-count").textContent = picks.length + "건" + (closedPicks.length ? ` (마감 ${closedPicks.length}건 별도)` : "");
+    document.getElementById("picks").innerHTML = picks.length ? picks.map(pickCard).join("") : `<div class="empty">오늘 접수 중·예정인 추천 공고가 없습니다. 새 공고가 올라오면 아침 갱신 때 다시 고릅니다.</div>`;
+    const pcb = document.getElementById("picks-closed-btn"), pcl = document.getElementById("picks-closed");
+    if (closedPicks.length) { pcb.hidden = false; pcb.textContent = `마감된 추천 공고 보기 (${closedPicks.length}건)`; pcl.innerHTML = closedPicks.map(pickCard).join(""); pcb.addEventListener("click", () => { pcl.hidden = !pcl.hidden; pcb.textContent = (pcl.hidden ? "마감된 추천 공고 보기" : "마감된 추천 공고 접기") + ` (${closedPicks.length}건)`; }); }
     const secs = t.sections || [];
     document.getElementById("sections").innerHTML = secs.map((s, n) => `<h2 id="sec-${n}">${esc(s.title)} <span class="count">${(s.items || []).length}건</span></h2>${s.lead ? `<p class="lead">${esc(s.lead)}</p>` : ""}<div class="grid-2">${(s.items || []).map(itemCard).join("")}</div>`).join("");
     document.getElementById("glossary").innerHTML = (t.glossary || []).map(g => `<dt>${esc(g.term)}</dt><dd>${esc(g.desc)}${g.source ? " " + refMarks([g.source]) : ""}</dd>`).join("");
     (t.sources || []).forEach(refNo);
     document.getElementById("refs").innerHTML = REFS.map((s, i) => `<li id="ref-${i + 1}"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a>${s.publisher ? ` — ${esc(s.publisher)}` : ""}${s.date ? ` (${esc(s.date)})` : ""}</li>`).join("");
     document.getElementById("toc").innerHTML = [`<a href="#sec-picks">주목 공고</a>`].concat(secs.map((s, n) => `<a href="#sec-${n}">${esc(s.title)}</a>`), [`<a href="#sec-glossary">용어·제도</a>`, `<a href="#sec-refs">참고 자료</a>`]).join("");
+    let fontStep = store("cy-font") || 0;
+    const applyFont = () => { document.documentElement.style.fontSize = (112.5 + fontStep * 12.5) + "%"; };
+    applyFont();
+    document.getElementById("font-up").addEventListener("click", () => { fontStep = Math.min(3, fontStep + 1); store("cy-font", fontStep); applyFont(); });
+    document.getElementById("font-down").addEventListener("click", () => { fontStep = Math.max(-1, fontStep - 1); store("cy-font", fontStep); applyFont(); });
     const tt = document.getElementById("totop");
     window.addEventListener("scroll", () => tt.classList.toggle("show", window.scrollY > 600), { passive: true });
     tt.addEventListener("click", () => window.scrollTo({ top: 0 }));
