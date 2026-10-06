@@ -95,6 +95,13 @@ function liveStatus(p) {
   if (it.status === "upcoming") { const d = daysUntil(it.apply_start); return `<span class="pill upcoming">${d === 0 ? "오늘 접수" : d === 1 ? "내일 접수" : "D-" + d}</span>`; }
   return `<span class="pill closed">접수 마감</span>`;
 }
+function mapLinks(p) {
+  const it = p.pblancNo && LIVE[p.pblancNo]; if (!it) return "";
+  let a = (it.address || "").replace(/\s*(외\s*\d+\s*필지|일원|일대|번지\s*일원|\(.*?\))/g, "").replace(/번지$/, "").trim();
+  if (!a || a.length < 6) a = it.region + " " + it.name.replace(/\(.*?\)/g, "");
+  const mq = encodeURIComponent(a), aq = encodeURIComponent(it.name.replace(/\(.*?\)/g, "").trim());
+  return `<a class="btn ghost map" href="https://map.naver.com/p/search/${mq}" target="_blank" rel="noopener">네이버지도</a><a class="btn ghost map" href="https://map.kakao.com/link/search/${mq}" target="_blank" rel="noopener">카카오맵</a><a class="btn ghost map" href="https://hogangnono.com/search?keyword=${aq}" target="_blank" rel="noopener">호갱노노</a>`;
+}
 function isClosedPick(p) { const it = p.pblancNo && LIVE[p.pblancNo]; return !!(it && it.status === "closed"); }
 function pickCard(p) {
   const rows = [
@@ -112,6 +119,7 @@ function pickCard(p) {
     <div class="actions">
       ${p.link ? `<a class="btn primary" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link_label || "청약홈 공고 보기")}</a>` : ""}
       <a class="btn" href="https://rt.molit.go.kr" target="_blank" rel="noopener">실거래가 조회</a>
+      ${mapLinks(p)}
       ${srcs[0] ? `<a class="btn" href="${esc(srcs[0].url)}" target="_blank" rel="noopener">관련 기사</a>` : ""}
     </div>
     ${srcLine(srcs)}

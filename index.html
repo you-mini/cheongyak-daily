@@ -166,6 +166,12 @@ function icsFor(it) {
   if (it.announce_date) body += ev(it.pblancNo + "-w", `[당첨자 발표] ${it.name}`, it.announce_date, null, "청약홈 당첨 조회");
   return "data:text/calendar;charset=utf-8," + encodeURIComponent(`BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//cheongyak-daily//KR\r\n${body}END:VCALENDAR\r\n`);
 }
+function mapQuery(it) {
+  let a = (it.address || "").replace(/\s*(외\s*\d+\s*필지|일원|일대|번지\s*일원|\(.*?\))/g, "").replace(/번지$/, "").trim();
+  if (!a || a.length < 6) a = it.region + " " + it.name.replace(/\(.*?\)/g, "");
+  return encodeURIComponent(a);
+}
+function aptQuery(it) { return encodeURIComponent(it.name.replace(/\(.*?\)/g, "").replace(/\s*(\d+차|\d+회차|본청약|공공분양|조합원 취소분|신혼희망타운)\s*/g, " ").trim()); }
 function card(it, hot) {
   const pick = PICKS[it.pblancNo];
   const fav = FAVS.has(it.pblancNo);
@@ -204,6 +210,9 @@ function card(it, hot) {
       <button class="btn more" type="button" aria-expanded="false">주택형·일정 보기</button>
     </div>
     <div class="actions sub-actions">
+      <a class="btn ghost map" href="https://map.naver.com/p/search/${mapQuery(it)}" target="_blank" rel="noopener">네이버지도</a>
+      <a class="btn ghost map" href="https://map.kakao.com/link/search/${mapQuery(it)}" target="_blank" rel="noopener">카카오맵</a>
+      <a class="btn ghost map" href="https://hogangnono.com/search?keyword=${aptQuery(it)}" target="_blank" rel="noopener">호갱노노</a>
       ${it.homepage ? `<a class="btn ghost" href="${esc(it.homepage)}" target="_blank" rel="noopener">분양 홈페이지</a>` : ""}
       <a class="btn ghost" href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">시세 검색</a>
       ${it.phone ? `<a class="btn ghost phone" href="tel:${esc(it.phone.replace(/[^0-9]/g, ""))}">☎ ${esc(it.phone)}</a>` : ""}

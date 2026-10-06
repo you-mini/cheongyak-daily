@@ -272,3 +272,5 @@ button.stat.hot.on { outline-color: var(--hot); background: var(--hot-bg); }
 }
 
 .credit { text-align: center; color: var(--muted); font-size: .78rem; letter-spacing: .06em; margin: 28px 0 0; opacity: .8; font-family: "Noto Serif KR", serif; }
+.btn.ghost.map { background: var(--accent-soft); color: var(--accent-deep); }
+.btn.ghost.map:hover { background: #d3ece7; }
