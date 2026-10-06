@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#1f4f8f">
+<meta name="theme-color" content="#eaf2fc">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Crect width=%2764%27 height=%2764%27 rx=%2714%27 fill=%27%231f4f8f%27/%3E%3Cpath d=%27M14 34 L32 18 L50 34 V50 H38 V40 H26 V50 H14 Z%27 fill=%27%23fff%27/%3E%3C/svg%3E">
 <title>청약 데일리</title>
 <meta name="description" content="청약홈 분양·무순위 공고를 매일 모아 보여주는 페이지">
@@ -57,6 +57,8 @@
       <button class="chip small" data-view="compact">간단히</button>
     </div>
   </div>
+
+  <div class="applied" id="applied" hidden><span id="applied-text"></span><button class="chip small" id="reset" type="button">조건 모두 지우기</button></div>
 
   <h2 id="hot-title">놓치면 아까운 공고 <span class="count" id="hot-count"></span></h2>
   <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요.</p>
@@ -211,14 +213,26 @@ function render() {
   const live = items.filter(i => i.status !== "closed");
   document.getElementById("st-open").textContent = live.filter(i => i.status === "open").length;
   document.getElementById("st-up").textContent = live.filter(i => i.status === "upcoming").length;
-  const hot = live.filter(isHot).sort((a, b) => (a.apply_start || "").localeCompare(b.apply_start || "") || b.score - a.score);
-  document.getElementById("st-hot").textContent = hot.length;
-  document.getElementById("hot-count").textContent = hot.length + "건";
-  const hotEl = document.getElementById("hot");
-  hotEl.className = "cards view-" + state.view;
-  hotEl.innerHTML = hot.length ? hot.map(i => card(i, true)).join("") : `<div class="empty">지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다.</div>`;
-
+  const hotAll = live.filter(isHot);
+  document.getElementById("st-hot").textContent = hotAll.length;
   const filtered = items.filter(matches);
+  const hot = filtered.filter(isHot).sort((a, b) => (a.apply_start || "").localeCompare(b.apply_start || "") || b.score - a.score);
+  const filtering = state.cat !== "all" || state.regions.length > 0 || state.q.trim() !== "";
+  document.getElementById("hot-count").textContent = filtering ? `${hot.length}건 (전체 ${hotAll.length}건 중)` : hot.length + "건";
+  const hotEl = document.getElementById("hot");
+  hotEl.className = "";
+  hotEl.innerHTML = hot.length ? renderGroups(groupItems(hot), true) : `<div class="empty">${filtering ? "지금 조건에 맞는 주목 공고가 없습니다. 조건을 바꾸거나 지워 보세요." : "지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다."}</div>`;
+  // 적용 중인 조건 안내
+  const parts = [];
+  if (state.cat !== "all") parts.push("구분: " + CAT_LABEL[state.cat]);
+  if (state.regions.length) parts.push("지역: " + state.regions.join(", "));
+  if (state.q.trim()) parts.push("검색: “" + state.q.trim() + "”");
+  if (state.group !== "none") parts.push({ region: "지역별 묶음", period: "기간별 묶음", cat: "구분별 묶음" }[state.group]);
+  if (state.view !== "one") parts.push({ grid: "3개씩 보기", compact: "간단히 보기" }[state.view]);
+  const ap = document.getElementById("applied");
+  ap.hidden = parts.length === 0;
+  document.getElementById("applied-text").textContent = parts.length ? "적용 중 · " + parts.join(" · ") : "";
+
   const openUp = filtered.filter(i => i.status !== "closed");
   const closed = filtered.filter(i => i.status === "closed").sort((a, b) => (b.apply_end || "").localeCompare(a.apply_end || ""));
   document.getElementById("all-count").textContent = `접수 중·예정 ${openUp.length}건, 마감 ${closed.length}건`;
@@ -263,6 +277,11 @@ function wire() {
   const q = document.getElementById("q"); q.value = state.q;
   q.addEventListener("input", () => { state.q = q.value; save(); render(); });
   document.getElementById("toggle-closed").addEventListener("click", () => { state.showClosed = !state.showClosed; save(); render(); });
+  document.getElementById("reset").addEventListener("click", () => {
+    state.cat = "all"; state.regions = []; state.q = ""; state.group = "none"; state.view = "one";
+    document.getElementById("q").value = ""; grid.querySelectorAll("input").forEach(c => c.checked = false);
+    save(); render();
+  });
   document.body.addEventListener("click", e => {
     const more = e.target.closest(".more");
     if (more) { const c = more.closest(".card"); const on = c.classList.toggle("expanded"); more.setAttribute("aria-expanded", on); more.textContent = on ? "접기" : "주택형·일정 보기"; return; }
