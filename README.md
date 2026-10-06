@@ -1,5 +1,10 @@
 # 청약 데일리
 
+**사이트: https://you-mini.github.io/cheongyak-daily/**
+
+- 청약 공고: https://you-mini.github.io/cheongyak-daily/index.html
+- 투자 흐름·이슈: https://you-mini.github.io/cheongyak-daily/trends.html
+
 청약홈(applyhome.co.kr)의 아파트 분양·무순위/잔여세대·오피스텔 공고를 매일 모아 보여주는 정적 페이지입니다.
 GitHub Pages로 호스팅되며, 어디서든 브라우저만 있으면 열립니다.
 
