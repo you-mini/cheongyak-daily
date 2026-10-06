@@ -53,25 +53,28 @@
       <div class="region-head"><b>지역을 여러 개 고를 수 있어요</b><span><button class="chip small" id="region-clear" type="button">전체 해제</button><button class="chip small" id="region-capital" type="button">수도권만</button><button class="chip small" id="region-close" type="button">닫기</button></span></div>
       <div class="region-grid" id="region-grid"></div>
     </div>
-    <div class="row">
-      <span class="seg-label">묶어 보기</span>
-      <button class="chip small" data-group="none">안 묶음</button>
-      <button class="chip small" data-group="region">지역별</button>
-      <button class="chip small" data-group="period">기간별</button>
-      <button class="chip small" data-group="cat">구분별</button>
-      <span class="seg-label" style="margin-left:8px">보기 방식</span>
-      <button class="chip small" data-view="one">한 줄씩</button>
-      <button class="chip small" data-view="grid">3개씩</button>
-      <button class="chip small" data-view="compact">간단히</button>
-      <span class="seg-label" style="margin-left:8px">정렬</span>
-      <select id="sort" class="small">
-        <option value="date">접수일 빠른 순</option>
-        <option value="deadline">마감 임박 순</option>
-        <option value="price_asc">분양가 낮은 순</option>
-        <option value="price_desc">분양가 높은 순</option>
-        <option value="units">세대수 많은 순</option>
-        <option value="score">주목도 순</option>
-      </select>
+    <div class="row row-opts">
+      <div class="seg"><span class="seg-label">묶어 보기</span>
+<span class="chips"><button class="chip small" data-group="none">안 묶음</button>
+        <button class="chip small" data-group="region">지역별</button>
+        <button class="chip small" data-group="period">기간별</button>
+        <button class="chip small" data-group="cat">구분별</button></span>
+      </div>
+      <div class="seg"><span class="seg-label">보기 방식</span>
+<span class="chips"><button class="chip small" data-view="one">한 줄씩</button>
+        <button class="chip small" data-view="grid">3개씩</button>
+        <button class="chip small" data-view="compact">간단히</button></span>
+      </div>
+      <div class="seg"><span class="seg-label">정렬</span>
+<span class="chips"><select id="sort" class="small">
+          <option value="date">접수일 빠른 순</option>
+          <option value="deadline">마감 임박 순</option>
+          <option value="price_asc">분양가 낮은 순</option>
+          <option value="price_desc">분양가 높은 순</option>
+          <option value="units">세대수 많은 순</option>
+          <option value="score">주목도 순</option>
+        </select></span>
+      </div>
     </div>
   </div>
   <div class="applied" id="applied" hidden><span id="applied-text"></span><button class="chip small" id="reset" type="button">조건 모두 지우기</button></div>
