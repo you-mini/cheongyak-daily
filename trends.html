@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>청약 데일리 · 투자 흐름</title>
+<meta name="description" content="부동산 투자 흐름, 정책·금리 이슈, 놓치면 아까운 청약 공고 정리">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <div class="brand">
+      <h1>청약 데일리<small>투자 흐름·이슈</small></h1>
+      <div class="updated" id="updated">불러오는 중…</div>
+    </div>
+    <nav class="tabs">
+      <a href="index.html">청약 공고</a>
+      <a class="on" href="trends.html" aria-current="page">투자 흐름·이슈</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="headline" id="headline"></p>
+  <ul class="summary" id="summary"></ul>
+
+  <h2>놓치면 아까운 공고 <span class="count" id="picks-count"></span></h2>
+  <p class="lead">분양가가 주변 시세보다 낮거나, 입지·공급 방식 때문에 관심이 큰 공고입니다. 실거래가는 국토교통부 조회로 직접 비교해 보세요.</p>
+  <div id="picks"></div>
+
+  <div id="sections"></div>
+
+  <h2>알아두면 좋은 용어·제도</h2>
+  <dl class="glossary card" id="glossary"></dl>
+
+  <p class="note" id="sources"></p>
+  <p class="note">이 페이지는 공개 기사·정부 발표를 매일 아침 요약한 것으로, 투자 권유가 아닙니다. 수치와 일정은 출처 기사 시점 기준이며, 청약 자격·분양가·일정은 반드시 입주자모집공고문과 청약홈에서 확인하세요.</p>
+</main>
+
+<script src="assets/common.js"></script>
+<script>
+function pickCard(p) {
+  const rows = [
+    p.region ? `<span><span class="k">지역</span> <b>${esc(p.region)}</b></span>` : "",
+    p.kind ? `<span><span class="k">구분</span> <b>${esc(p.kind)}</b></span>` : "",
+    p.when ? `<span><span class="k">접수</span> <b>${esc(p.when)}</b></span>` : "",
+    p.price ? `<span><span class="k">분양가</span> <b>${esc(p.price)}</b></span>` : "",
+    p.market ? `<span><span class="k">주변 시세</span> <b>${esc(p.market)}</b></span>` : "",
+  ].filter(Boolean).join("");
+  return `<article class="card hot">
+    <div class="card-top"><div><h3>${esc(p.name)}</h3><div class="pick-row">${rows}</div></div><span class="pill hot">주목</span></div>
+    <div class="why"><b>왜 주목?</b> ${esc(p.why)}</div>
+    ${p.caution ? `<p><b>주의</b> ${esc(p.caution)}</p>` : ""}
+    <div class="actions">
+      ${p.link ? `<a class="btn primary" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link_label || "청약홈 공고 보기")}</a>` : ""}
+      <a class="btn" href="https://rt.molit.go.kr" target="_blank" rel="noopener">실거래가 조회</a>
+      ${p.source_url ? `<a class="btn" href="${esc(p.source_url)}" target="_blank" rel="noopener">관련 기사</a>` : ""}
+    </div>
+  </article>`;
+}
+function itemCard(i) {
+  return `<article class="card">
+    <div class="card-top"><h3 style="font-size:1.12rem">${esc(i.title)}</h3>${i.date ? `<span class="date">${esc(i.date)}</span>` : ""}</div>
+    <p>${esc(i.body)}</p>
+    ${i.source ? `<div class="src">출처: <a href="${esc(i.source.url)}" target="_blank" rel="noopener">${esc(i.source.title)}</a></div>` : ""}
+  </article>`;
+}
+(async () => {
+  try {
+    const t = await loadJSON("data/trends.json");
+    document.getElementById("updated").innerHTML = `마지막 갱신 <b>${esc(t.updated_at)}</b>`;
+    document.getElementById("headline").textContent = t.headline || "";
+    document.getElementById("summary").innerHTML = (t.summary || []).map(s => `<li>${esc(s)}</li>`).join("");
+    const picks = t.picks || [];
+    document.getElementById("picks-count").textContent = picks.length + "건";
+    document.getElementById("picks").innerHTML = picks.length ? picks.map(pickCard).join("") : `<div class="empty">오늘은 특별히 꼽을 공고가 없습니다.</div>`;
+    document.getElementById("sections").innerHTML = (t.sections || []).map(s => `<h2>${esc(s.title)}</h2>${s.lead ? `<p class="lead">${esc(s.lead)}</p>` : ""}<div class="grid-2">${(s.items || []).map(itemCard).join("")}</div>`).join("");
+    document.getElementById("glossary").innerHTML = (t.glossary || []).map(g => `<dt>${esc(g.term)}</dt><dd>${esc(g.desc)}</dd>`).join("");
+    const src = (t.sources || []);
+    document.getElementById("sources").innerHTML = src.length ? "참고 자료: " + src.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>`).join(" · ") : "";
+  } catch (e) {
+    document.getElementById("updated").textContent = "데이터를 불러오지 못했습니다";
+    document.getElementById("sections").innerHTML = `<div class="empty">트렌드 데이터(data/trends.json)를 읽지 못했습니다. 잠시 후 다시 열어 주세요.</div>`;
+  }
+})();
+</script>
+</body>
+</html>

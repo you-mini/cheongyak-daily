@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>청약 데일리</title>
+<meta name="description" content="청약홈 분양·무순위 공고를 매일 모아 보여주는 페이지">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <div class="brand">
+      <h1>청약 데일리<small>청약홈 공고 모아보기</small></h1>
+      <div class="updated" id="updated">불러오는 중…</div>
+    </div>
+    <nav class="tabs">
+      <a class="on" href="index.html" aria-current="page">청약 공고</a>
+      <a href="trends.html">투자 흐름·이슈</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="stats" id="stats">
+    <div class="stat good"><div class="n" id="st-open">–</div><div class="l">오늘 접수 중</div></div>
+    <div class="stat"><div class="n" id="st-up">–</div><div class="l">접수 예정</div></div>
+    <div class="stat hot"><div class="n" id="st-hot">–</div><div class="l">놓치면 아까운 공고</div></div>
+  </div>
+
+  <h2 id="hot-title">놓치면 아까운 공고 <span class="count" id="hot-count"></span></h2>
+  <p class="lead">서울·수도권 무순위(줍줍)·잔여세대·계약취소 재공급처럼 당첨되면 분양가 그대로 들어갈 수 있는 공고를 앞에 모았습니다. 분양가·자격 요건은 공고문으로 꼭 확인하세요.</p>
+  <div id="hot"></div>
+
+  <h2>전체 공고 <span class="count" id="all-count"></span></h2>
+  <div class="filters" role="group" aria-label="구분">
+    <button class="chip on" data-cat="all">전체</button>
+    <button class="chip" data-cat="remainder">무순위·잔여세대</button>
+    <button class="chip" data-cat="apt">아파트 분양</button>
+    <button class="chip" data-cat="other">오피스텔·임대 등</button>
+  </div>
+  <div class="filters">
+    <label for="region" class="sr">지역</label>
+    <select id="region"><option value="">모든 지역</option></select>
+    <input id="q" type="search" placeholder="단지명·주소·시공사 검색" autocomplete="off">
+  </div>
+  <div id="list"></div>
+  <button class="btn toggle-closed" id="toggle-closed" hidden></button>
+  <div id="closed-list" hidden></div>
+
+  <p class="note">자료 출처: 한국부동산원 <a href="https://www.applyhome.co.kr" target="_blank" rel="noopener">청약홈</a>. 하루 두 번(아침·저녁) 자동으로 새 공고를 가져옵니다. 공급금액은 주택형별 최고가 기준이며, 실제 자격·일정·금액은 반드시 입주자모집공고문을 확인하세요. 이 페이지는 투자 권유가 아닙니다.</p>
+</main>
+
+<script src="assets/common.js"></script>
+<script>
+const CAT_LABEL = { apt: "아파트 분양", remainder: "무순위·잔여세대", other: "오피스텔·임대 등" };
+let DATA = { items: [] }, PICKS = {};
+let state = Object.assign({ cat: "all", region: "", q: "", showClosed: false }, store("cy-filters") || {});
+
+function kindOf(it) {
+  return it.supply_kind || it.sale_kind || it.house_kind || CAT_LABEL[it.category];
+}
+function statusPill(it) {
+  const t = todayISO();
+  if (it.status === "open") {
+    const left = daysUntil(it.apply_end);
+    return `<span class="pill open">접수 중${left === 0 ? " · 오늘 마감" : left > 0 ? " · " + left + "일 남음" : ""}</span>`;
+  }
+  if (it.status === "upcoming") {
+    const d = daysUntil(it.apply_start);
+    return `<span class="pill upcoming">${d === 0 ? "오늘 접수" : d === 1 ? "내일 접수" : "D-" + d}</span>`;
+  }
+  return `<span class="pill closed">접수 마감</span>`;
+}
+function unitsTable(it) {
+  if (!it.units || !it.units.length) return "";
+  const isApt = it.category !== "other";
+  const rows = it.units.map(u => {
+    const ex = isApt ? parseFloat(u.type) : u.area;
+    const exTxt = ex ? ex.toFixed(1) + "㎡ (" + pyeong(ex) + "평)" : "-";
+    const cnt = u.general != null ? `${u.general} / ${u.special} / <b>${u.total}</b>` : (u.total ?? "-");
+    return `<tr><td>${esc(u.type)}</td><td>${exTxt}</td><td>${cnt}</td><td>${u.price ? fmtMan(u.price) : "-"}</td><td>${u.price_per_pyeong ? u.price_per_pyeong.toLocaleString("ko-KR") + "만" : "-"}</td></tr>`;
+  }).join("");
+  return `<div class="tbl-wrap"><table class="units"><thead><tr><th>주택형</th><th>전용면적</th><th>${isApt ? "일반 / 특별 / 계" : "세대수"}</th><th>공급금액(최고)</th><th>전용 평당</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+function schedList(it) {
+  const li = (it.schedule || []).map(s => `<li><span>${esc(s.label)}</span>${esc(s.dates.join(" · "))}</li>`);
+  if (it.announce_date) li.push(`<li><span>당첨자 발표</span>${fmtDate(it.announce_date)}</li>`);
+  if (it.contract_period) li.push(`<li><span>계약</span>${esc(it.contract_period)}</li>`);
+  if (it.move_in) li.push(`<li><span>입주 예정</span>${esc(it.move_in)}</li>`);
+  return li.length ? `<ul class="sched">${li.join("")}</ul>` : "";
+}
+function card(it, hot) {
+  const pick = PICKS[it.pblancNo];
+  const tags = (it.tags || []).map(t => `<span class="tag ${/무순위|재공급|공공/.test(t) ? "hot" : ""}">${esc(t)}</span>`).join("");
+  const price = it.price_min ? `<div class="price">공급금액 <b>${fmtMan(it.price_min)}</b>${it.price_max && it.price_max !== it.price_min ? " ~ <b>" + fmtMan(it.price_max) + "</b>" : ""} <span class="muted">(주택형별 최고가)</span></div>` : "";
+  const cnt = it.total_units ? `<b>${it.total_units.toLocaleString("ko-KR")}세대</b>` : "";
+  return `<article class="card ${hot ? "hot" : ""} ${it.status}" data-id="${esc(it.pblancNo)}">
+    <div class="card-top">
+      <div>
+        <div class="meta"><span><b>${esc(it.region)}</b></span><span>${esc(kindOf(it))}</span>${cnt ? `<span>${cnt}</span>` : ""}</div>
+        <h3>${esc(it.name)}</h3>
+        <div class="meta"><span>${esc(it.address || "")}</span></div>
+      </div>
+      <div>${statusPill(it)}${hot ? ' <span class="pill hot">주목</span>' : ""}</div>
+    </div>
+    <div class="dates">
+      <div><span>청약 접수</span><b>${fmtRange(it.apply_start, it.apply_end)}</b></div>
+      <div><span>당첨자 발표</span><b>${fmtDate(it.announce_date)}</b></div>
+      <div><span>모집공고일</span><b>${fmtDate(it.notice_date)}</b></div>
+    </div>
+    ${price}
+    <div class="tags">${tags}</div>
+    ${pick ? `<div class="why"><b>왜 주목?</b> ${esc(pick.why)}${pick.caution ? ` <br><b>주의</b> ${esc(pick.caution)}` : ""}</div>` : ""}
+    <div class="actions">
+      <a class="btn primary" href="${esc(it.apply_url)}" target="_blank" rel="noopener">청약 신청하러 가기</a>
+      <a class="btn" href="${esc(it.detail_url)}" target="_blank" rel="noopener">공고 상세 보기</a>
+      ${it.homepage ? `<a class="btn" href="${esc(it.homepage)}" target="_blank" rel="noopener">분양 홈페이지</a>` : ""}
+      <button class="btn more" type="button" aria-expanded="false">주택형·일정 보기</button>
+    </div>
+    <div class="detail">
+      ${unitsTable(it)}
+      ${schedList(it)}
+      <div class="meta" style="margin-top:10px">${it.builder ? `<span>시공·시행 <b>${esc(it.builder)}</b></span>` : ""}${it.phone ? `<span>문의 <b class="phone">${esc(it.phone)}</b></span>` : ""}</div>
+    </div>
+  </article>`;
+}
+function matches(it) {
+  if (state.cat !== "all" && it.category !== state.cat) return false;
+  if (state.region && it.region !== state.region) return false;
+  if (state.q) {
+    const q = state.q.trim().toLowerCase();
+    const hay = [it.name, it.address, it.builder, it.region, kindOf(it)].join(" ").toLowerCase();
+    if (!hay.includes(q)) return false;
+  }
+  return true;
+}
+function isHot(it) { return it.status !== "closed" && (it.score >= 50 || PICKS[it.pblancNo]); }
+function render() {
+  const items = DATA.items;
+  const live = items.filter(i => i.status !== "closed");
+  document.getElementById("st-open").textContent = live.filter(i => i.status === "open").length;
+  document.getElementById("st-up").textContent = live.filter(i => i.status === "upcoming").length;
+  const hot = live.filter(isHot).sort((a, b) => (a.apply_start || "").localeCompare(b.apply_start || "") || b.score - a.score);
+  document.getElementById("st-hot").textContent = hot.length;
+  document.getElementById("hot-count").textContent = hot.length + "건";
+  document.getElementById("hot").innerHTML = hot.length ? hot.map(i => card(i, true)).join("") : `<div class="empty">지금은 주목할 공고가 없습니다. 새 공고가 올라오면 자동으로 표시됩니다.</div>`;
+
+  const filtered = items.filter(matches);
+  const openUp = filtered.filter(i => i.status !== "closed");
+  const closed = filtered.filter(i => i.status === "closed").sort((a, b) => (b.apply_end || "").localeCompare(a.apply_end || ""));
+  document.getElementById("all-count").textContent = `접수 중·예정 ${openUp.length}건, 마감 ${closed.length}건`;
+  document.getElementById("list").innerHTML = openUp.length ? openUp.map(i => card(i, false)).join("") : `<div class="empty">조건에 맞는 접수 중·예정 공고가 없습니다.</div>`;
+  const tc = document.getElementById("toggle-closed");
+  tc.hidden = closed.length === 0;
+  tc.textContent = (state.showClosed ? "마감된 공고 접기" : "마감된 공고 보기") + ` (${closed.length}건)`;
+  const cl = document.getElementById("closed-list");
+  cl.hidden = !state.showClosed;
+  cl.innerHTML = state.showClosed ? closed.map(i => card(i, false)).join("") : "";
+}
+function wire() {
+  document.querySelectorAll(".chip[data-cat]").forEach(b => {
+    b.classList.toggle("on", b.dataset.cat === state.cat);
+    b.addEventListener("click", () => { state.cat = b.dataset.cat; document.querySelectorAll(".chip[data-cat]").forEach(x => x.classList.toggle("on", x === b)); save(); render(); });
+  });
+  const sel = document.getElementById("region");
+  [...new Set(DATA.items.map(i => i.region))].sort((a, b) => a.localeCompare(b, "ko")).forEach(r => { const o = document.createElement("option"); o.value = r; o.textContent = r; sel.appendChild(o); });
+  sel.value = state.region; sel.addEventListener("change", () => { state.region = sel.value; save(); render(); });
+  const q = document.getElementById("q"); q.value = state.q;
+  q.addEventListener("input", () => { state.q = q.value; save(); render(); });
+  document.getElementById("toggle-closed").addEventListener("click", () => { state.showClosed = !state.showClosed; save(); render(); });
+  document.body.addEventListener("click", e => {
+    const b = e.target.closest(".more"); if (!b) return;
+    const c = b.closest(".card"); const on = c.classList.toggle("expanded");
+    b.setAttribute("aria-expanded", on); b.textContent = on ? "접기" : "주택형·일정 보기";
+  });
+}
+function save() { store("cy-filters", { cat: state.cat, region: state.region, q: state.q, showClosed: state.showClosed }); }
+(async () => {
+  try {
+    const [d, t] = await Promise.all([loadJSON("data/listings.json"), loadJSON("data/trends.json").catch(() => null)]);
+    DATA = d;
+    if (t && t.picks) t.picks.forEach(p => { if (p.pblancNo) PICKS[p.pblancNo] = p; });
+    document.getElementById("updated").innerHTML = `마지막 갱신 <b>${esc(d.updated_at)}</b> · 공고 ${d.count}건`;
+    wire(); render();
+  } catch (e) {
+    document.getElementById("updated").textContent = "데이터를 불러오지 못했습니다";
+    document.getElementById("list").innerHTML = `<div class="empty">공고 데이터(data/listings.json)를 읽지 못했습니다. 잠시 후 다시 열어 주세요.</div>`;
+  }
+})();
+</script>
+</body>
+</html>

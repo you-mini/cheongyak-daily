@@ -1,0 +1,38 @@
+name: 청약 공고 일일 갱신
+
+on:
+  schedule:
+    # 매일 06:30 KST (21:30 UTC 전날) · 18:30 KST (09:30 UTC)
+    - cron: "30 21 * * *"
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-listings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 청약홈 수집
+        run: python scripts/fetch_listings.py
+      - name: 커밋
+        run: |
+          git config user.name "cheongyak-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/listings.json
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "data: 청약 공고 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push
+          fi
