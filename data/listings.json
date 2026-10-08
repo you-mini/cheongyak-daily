@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-08 10:09 KST",
+ "updated_at": "2026-10-09 01:52 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 166,
+ "count": 174,
  "items": [
   {
    "pblancNo": "2026820006",
@@ -13531,6 +13531,87 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000466",
+   "houseManageNo": "2026000466",
+   "houseSecd": "",
+   "region": "전남",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "진도 승원팰리체 더 테라스",
+   "builder": "승원건영 주식회사",
+   "phone": "1644-4448",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-13 ~ 2026-10-15",
+   "announce_date": "2026-10-21",
+   "apply_start": "2026-10-13",
+   "apply_end": "2026-10-15",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000466&pblancNo=2026000466",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전남광주통합특별시 진도군 진도읍 교동리 618번지 일원",
+   "total_units_text": "58세대",
+   "total_units": 58,
+   "contract_period": "2026-11-02 ~ 2026-11-04",
+   "homepage": "https://진도승원팰리체.com",
+   "move_in": "2028.09",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-13",
+      "2026-10-13"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-14",
+      "2026-10-14"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-15",
+      "2026-10-15"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8714A",
+     "area": 111.603,
+     "general": 24,
+     "special": 23,
+     "total": 47,
+     "price": 37800,
+     "price_per_pyeong": 1472
+    },
+    {
+     "type": "084.9376B",
+     "area": 113.428,
+     "general": 6,
+     "special": 5,
+     "total": 11,
+     "price": 37800,
+     "price_per_pyeong": 1471
+    }
+   ],
+   "prices": {
+    "084.8714A": 37800,
+    "084.9376B": 37800
+   },
+   "price_min": 37800,
+   "price_max": 37800,
+   "hogangnono_id": "gWT61",
+   "hogangnono_name": "진도승원팰리체더테라스",
+   "lat": 34.4854649,
+   "lon": 126.2556114,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026820010",
    "houseManageNo": "2026820010",
    "houseSecd": "",
@@ -13771,6 +13852,605 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000471",
+   "houseManageNo": "2026000471",
+   "houseSecd": "",
+   "region": "광주",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "한양립스 에듀포레(조합원 취소분)",
+   "builder": "(주)한양건설",
+   "phone": "062-946-5552",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-20",
+   "announce_date": "2026-10-26",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-20",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000471&pblancNo=2026000471",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전남광주통합특별시 광산구 하산동 269번지 일원",
+   "total_units_text": "19세대",
+   "total_units": 19,
+   "contract_period": "2026-11-06 ~ 2026-11-10",
+   "homepage": "http://www.한양립스에듀포레.kr",
+   "move_in": "2027.11",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9680A",
+     "area": 111.0148,
+     "general": 3,
+     "special": 0,
+     "total": 3,
+     "price": 49900,
+     "price_per_pyeong": 1941
+    },
+    {
+     "type": "084.8642B",
+     "area": 109.8683,
+     "general": 9,
+     "special": 0,
+     "total": 9,
+     "price": 49500,
+     "price_per_pyeong": 1928
+    },
+    {
+     "type": "084.9904C",
+     "area": 110.5586,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 48500,
+     "price_per_pyeong": 1886
+    },
+    {
+     "type": "084.9636D",
+     "area": 110.1456,
+     "general": 5,
+     "special": 0,
+     "total": 5,
+     "price": 55800,
+     "price_per_pyeong": 2171
+    },
+    {
+     "type": "089.5130A",
+     "area": 116.5228,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 51700,
+     "price_per_pyeong": 1909
+    }
+   ],
+   "prices": {
+    "084.9680A": 49900,
+    "084.8642B": 49500,
+    "084.9904C": 48500,
+    "084.9636D": 55800,
+    "089.5130A": 51700
+   },
+   "price_min": 48500,
+   "price_max": 55800,
+   "hogangnono_id": "gEy40",
+   "hogangnono_name": "한양립스에듀포레",
+   "lat": 35.0984311,
+   "lon": 126.770873,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000469",
+   "houseManageNo": "2026000469",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "연제갤러리자이",
+   "builder": "지에스건설(주)",
+   "phone": "1833-5755",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-21",
+   "announce_date": "2026-10-27",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-21",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000469&pblancNo=2026000469",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 연제구 연산동 1123-1번지",
+   "total_units_text": "459세대",
+   "total_units": 459,
+   "contract_period": "2026-11-09 ~ 2026-11-11",
+   "homepage": "https://www.xi.co.kr/yj",
+   "move_in": "2030.10",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-21",
+      "2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9587A",
+     "area": 114.0039,
+     "general": 51,
+     "special": 52,
+     "total": 103,
+     "price": 91560,
+     "price_per_pyeong": 3563
+    },
+    {
+     "type": "084.9052B",
+     "area": 112.6844,
+     "general": 53,
+     "special": 53,
+     "total": 106,
+     "price": 89160,
+     "price_per_pyeong": 3471
+    },
+    {
+     "type": "084.8780C",
+     "area": 113.4921,
+     "general": 16,
+     "special": 21,
+     "total": 37,
+     "price": 90250,
+     "price_per_pyeong": 3515
+    },
+    {
+     "type": "084.7933D",
+     "area": 113.203,
+     "general": 107,
+     "special": 106,
+     "total": 213,
+     "price": 90020,
+     "price_per_pyeong": 3510
+    }
+   ],
+   "prices": {
+    "084.9587A": 91560,
+    "084.9052B": 89160,
+    "084.8780C": 90250,
+    "084.7933D": 90020
+   },
+   "price_min": 89160,
+   "price_max": 91560,
+   "hogangnono_id": "gKS2f",
+   "hogangnono_name": "연제갤러리자이",
+   "lat": 35.1894544,
+   "lon": 129.0796488,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950077",
+   "houseManageNo": "2026950077",
+   "houseSecd": "02",
+   "region": "경기",
+   "house_kind": "오피스텔",
+   "name": "옥정중앙역 대방 디에트르Ⅱ",
+   "builder": "대방건설 주식회사",
+   "phone": "1688-7002",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-20",
+   "announce_date": "2026-10-26",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-20",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950077&pblancNo=2026950077&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블록)",
+   "total_units_text": "853세대",
+   "total_units": 853,
+   "contract_period": "2026-10-28 ~ 2026-10-29",
+   "homepage": "https://detre-ojop.co.kr",
+   "move_in": "2030.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "119OA",
+     "area": 119.9569,
+     "total": 6,
+     "price": 77890,
+     "price_per_pyeong": 2147
+    },
+    {
+     "type": "119OB",
+     "area": 119.8284,
+     "total": 6,
+     "price": 77240,
+     "price_per_pyeong": 2131
+    },
+    {
+     "type": "119OC",
+     "area": 119.9734,
+     "total": 6,
+     "price": 81990,
+     "price_per_pyeong": 2259
+    }
+   ],
+   "prices": {
+    "119OA": 77890,
+    "119OB": 77240,
+    "119OC": 81990
+   },
+   "price_min": 77240,
+   "price_max": 81990,
+   "hogangnono_id": "gXLb8",
+   "hogangnono_name": "옥정중앙역대방디에트르Ⅱ",
+   "lat": 37.8237569,
+   "lon": 127.0931255,
+   "score": 10,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000492",
+   "houseManageNo": "2026000492",
+   "houseSecd": "",
+   "region": "충북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "청주 가경 아이파크 8단지",
+   "builder": "아이파크현대산업개발 주식회사",
+   "phone": "1533-3767",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-21",
+   "announce_date": "2026-10-27",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-21",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000492&pblancNo=2026000492",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청북도 청주시 흥덕구 가경동 701번지 일원",
+   "total_units_text": "1128세대",
+   "total_units": 1128,
+   "contract_period": "2026-11-09 ~ 2026-11-15",
+   "homepage": "https://www.i-park.com/gagyeong7-8",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-21",
+      "2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9800A",
+     "area": 107.4568,
+     "general": 33,
+     "special": 37,
+     "total": 70,
+     "price": 54110,
+     "price_per_pyeong": 2105
+    },
+    {
+     "type": "084.9400B",
+     "area": 108.5596,
+     "general": 107,
+     "special": 125,
+     "total": 232,
+     "price": 52460,
+     "price_per_pyeong": 2042
+    },
+    {
+     "type": "102.8500",
+     "area": 129.2246,
+     "general": 270,
+     "special": 39,
+     "total": 309,
+     "price": 64170,
+     "price_per_pyeong": 2063
+    },
+    {
+     "type": "116.7300",
+     "area": 148.1594,
+     "general": 451,
+     "special": 66,
+     "total": 517,
+     "price": 73580,
+     "price_per_pyeong": 2084
+    }
+   ],
+   "prices": {
+    "084.9800A": 54110,
+    "084.9400B": 52460,
+    "102.8500": 64170,
+    "116.7300": 73580
+   },
+   "price_min": 52460,
+   "price_max": 73580,
+   "hogangnono_id": "gNwa8",
+   "hogangnono_name": "청주가경아이파크8단지",
+   "lat": 36.6110513,
+   "lon": 127.427642,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000491",
+   "houseManageNo": "2026000491",
+   "houseSecd": "",
+   "region": "충북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "청주 가경 아이파크 7단지",
+   "builder": "아이파크현대산업개발 주식회사",
+   "phone": "1533-3767",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-21",
+   "announce_date": "2026-10-28",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-21",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000491&pblancNo=2026000491",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청북도 청주시 흥덕구 가경동 309번지 일원",
+   "total_units_text": "543세대",
+   "total_units": 543,
+   "contract_period": "2026-11-09 ~ 2026-11-15",
+   "homepage": "https://www.i-park.com/gagyeong7-8",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-21",
+      "2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9800A",
+     "area": 111.2772,
+     "general": 34,
+     "special": 57,
+     "total": 91,
+     "price": 54110,
+     "price_per_pyeong": 2105
+    },
+    {
+     "type": "084.9400B",
+     "area": 112.3782,
+     "general": 43,
+     "special": 70,
+     "total": 113,
+     "price": 52460,
+     "price_per_pyeong": 2042
+    },
+    {
+     "type": "102.8500",
+     "area": 133.8484,
+     "general": 198,
+     "special": 28,
+     "total": 226,
+     "price": 64170,
+     "price_per_pyeong": 2063
+    },
+    {
+     "type": "116.7300",
+     "area": 153.4072,
+     "general": 99,
+     "special": 14,
+     "total": 113,
+     "price": 73580,
+     "price_per_pyeong": 2084
+    }
+   ],
+   "prices": {
+    "084.9800A": 54110,
+    "084.9400B": 52460,
+    "102.8500": 64170,
+    "116.7300": 73580
+   },
+   "price_min": 52460,
+   "price_max": 73580,
+   "hogangnono_id": "gNvd8",
+   "hogangnono_name": "청주가경아이파크7단지",
+   "lat": 36.6118657,
+   "lon": 127.4340819,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000464",
+   "houseManageNo": "2026000464",
+   "houseSecd": "",
+   "region": "경남",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "힐스테이트 거제시그니처(1회차)",
+   "builder": "현대엔지니어링(주)",
+   "phone": "1811-1100",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-21",
+   "announce_date": "2026-10-27",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-21",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000464&pblancNo=2026000464",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상남도 거제시 옥포동 1670번지 일원",
+   "total_units_text": "356세대",
+   "total_units": 356,
+   "contract_period": "2026-11-09 ~ 2026-11-11",
+   "homepage": "https://www.힐스테이트거제시그니처.com",
+   "move_in": "2030.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-21",
+      "2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9832A",
+     "area": 112.6062,
+     "general": 101,
+     "special": 126,
+     "total": 227,
+     "price": 58800,
+     "price_per_pyeong": 2287
+    },
+    {
+     "type": "084.9469B",
+     "area": 113.4918,
+     "general": 42,
+     "special": 55,
+     "total": 97,
+     "price": 58660,
+     "price_per_pyeong": 2283
+    },
+    {
+     "type": "112.9922A",
+     "area": 148.1817,
+     "general": 14,
+     "special": 3,
+     "total": 17,
+     "price": 79750,
+     "price_per_pyeong": 2333
+    },
+    {
+     "type": "132.9820A",
+     "area": 173.5633,
+     "general": 12,
+     "special": 1,
+     "total": 13,
+     "price": 93870,
+     "price_per_pyeong": 2334
+    },
+    {
+     "type": "138.9652P",
+     "area": 186.0835,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 138820,
+     "price_per_pyeong": 3302
+    },
+    {
+     "type": "165.9676P",
+     "area": 222.4498,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 165950,
+     "price_per_pyeong": 3305
+    }
+   ],
+   "prices": {
+    "084.9832A": 58800,
+    "084.9469B": 58660,
+    "112.9922A": 79750,
+    "132.9820A": 93870,
+    "138.9652P": 138820,
+    "165.9676P": 165950
+   },
+   "price_min": 58660,
+   "price_max": 165950,
+   "hogangnono_id": "gNOf2",
+   "hogangnono_name": "힐스테이트거제시그니처",
+   "lat": 34.8904937,
+   "lon": 128.6877009,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000267",
    "houseManageNo": "2026000267",
    "houseSecd": "",
@@ -13889,6 +14569,99 @@
    "lon": 127.1160342,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000402",
+   "houseManageNo": "2026000402",
+   "houseSecd": "",
+   "region": "전북",
+   "house_kind": "국민",
+   "sale_kind": "분양전환 가능임대",
+   "name": "익산 부송에코르 10년 공공임대주택",
+   "builder": "(주)부강건설",
+   "phone": "063-836-3620",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-22 ~ 2026-10-26",
+   "announce_date": "2026-10-30",
+   "apply_start": "2026-10-22",
+   "apply_end": "2026-10-26",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000402&pblancNo=2026000402",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전북특별자치도 익산시 부송동 1421(익산 부송4지구 A블록)",
+   "total_units_text": "300세대",
+   "total_units": 300,
+   "contract_period": "2027-01-04 ~ 2027-01-06",
+   "homepage": "https://www.jbdc.co.kr",
+   "move_in": "2027.04",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-22",
+      "2026-10-22"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-23",
+      "2026-10-23"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9288A",
+     "area": 84.1857,
+     "general": 17,
+     "special": 66,
+     "total": 83,
+     "price": 7200,
+     "price_per_pyeong": 397
+    },
+    {
+     "type": "059.3359B",
+     "area": 83.9663,
+     "general": 15,
+     "special": 60,
+     "total": 75,
+     "price": 7200,
+     "price_per_pyeong": 401
+    },
+    {
+     "type": "059.9793C",
+     "area": 84.5018,
+     "general": 28,
+     "special": 114,
+     "total": 142,
+     "price": 7200,
+     "price_per_pyeong": 397
+    }
+   ],
+   "prices": {
+    "059.9288A": 7200,
+    "059.3359B": 7200,
+    "059.9793C": 7200
+   },
+   "price_min": 7200,
+   "price_max": 7200,
+   "hogangnono_id": "7Eoce",
+   "hogangnono_name": "부송에스파크",
+   "lat": 35.9569115,
+   "lon": 126.9966011,
+   "score": 0,
+   "tags": [
+    "공공분양"
+   ],
    "status": "upcoming"
   }
  ]
