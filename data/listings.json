@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-07 09:55 KST",
+ "updated_at": "2026-10-08 10:09 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 160,
+ "count": 166,
  "items": [
   {
    "pblancNo": "2026820006",
@@ -11666,7 +11666,7 @@
    "lon": 129.057611724927,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026930038",
@@ -11805,7 +11805,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940211",
@@ -11936,7 +11936,7 @@
     "무순위·잔여세대",
     "최초 분양가 재공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026950085",
@@ -12092,7 +12092,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940220",
@@ -12168,7 +12168,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940216",
@@ -12229,7 +12229,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940217",
@@ -12290,7 +12290,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930033",
@@ -12449,6 +12449,64 @@
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026930041",
+   "houseManageNo": "2026930041",
+   "houseSecd": "06",
+   "region": "세종",
+   "supply_kind": "불법행위 재공급",
+   "name": "세종 리더스포레 나릿재마을 1단지",
+   "builder": "(주) 한화",
+   "notice_date": "2026-10-07",
+   "apply_period": "2026-10-12 ~ 2026-10-12",
+   "announce_date": "2026-10-15",
+   "phone": "",
+   "apply_start": "2026-10-12",
+   "apply_end": "2026-10-12",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930041&pblancNo=2026930041&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 나성동 835",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-10-28 ~ 2026-10-28",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-12"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9649D",
+     "area": 112.6937,
+     "general": 0,
+     "special": 1,
+     "total": 1,
+     "price": 34320,
+     "price_per_pyeong": 1335
+    }
+   ],
+   "prices": {
+    "084.9649D": 34320
+   },
+   "price_min": 34320,
+   "price_max": 34320,
+   "hogangnono_id": "ctId8",
+   "hogangnono_name": "나릿재마을1단지세종리더스포레",
+   "lat": 36.48738151569278,
+   "lon": 127.26342403482862,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급"
    ],
    "status": "upcoming"
   },
@@ -13038,6 +13096,69 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026950086",
+   "houseManageNo": "2026950086",
+   "houseSecd": "02",
+   "region": "경기",
+   "house_kind": "오피스텔",
+   "name": "더샵 오산역아크시티 오피스텔",
+   "builder": "오산세교아트피에프브이 주식회사",
+   "phone": "1866-0533",
+   "notice_date": "2026-10-07",
+   "apply_period": "2026-10-12 ~ 2026-10-12",
+   "announce_date": "2026-10-15",
+   "apply_start": "2026-10-12",
+   "apply_end": "2026-10-12",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950086&pblancNo=2026950086&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "경기도 오산시 가수동 453번지 (오산 세교2지구 M1블록)",
+   "total_units_text": "90세대",
+   "total_units": 90,
+   "contract_period": "2026-10-16 ~ 2026-10-16",
+   "homepage": "https://www.더샵오산역아크시티.kr",
+   "move_in": "2029.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-12 ~ 2026-10-12"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "84OA",
+     "area": 84.7775,
+     "total": 60,
+     "price": 44800,
+     "price_per_pyeong": 1747
+    },
+    {
+     "type": "84OB",
+     "area": 84.9471,
+     "total": 30,
+     "price": 43800,
+     "price_per_pyeong": 1705
+    }
+   ],
+   "prices": {
+    "84OA": 44800,
+    "84OB": 43800
+   },
+   "price_min": 43800,
+   "price_max": 44800,
+   "hogangnono_id": "gZL96",
+   "hogangnono_name": "더샵오산역아크시티(오)",
+   "lat": 37.1483226,
+   "lon": 127.0597225,
+   "score": 10,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000498",
    "houseManageNo": "2026000498",
    "houseSecd": "",
@@ -13223,6 +13344,138 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940219",
+   "houseManageNo": "2026940219",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "수원역 아너스빌 타임원(2차)",
+   "builder": "에스엠하이플러스(주),(주)아주엠앤씨",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-13 ~ 2026-10-13",
+   "announce_date": "2026-10-16",
+   "phone": "",
+   "apply_start": "2026-10-13",
+   "apply_end": "2026-10-13",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940219&pblancNo=2026940219&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 수원시 권선구 평동 135-1번지 일원",
+   "total_units_text": "4세대",
+   "total_units": 4,
+   "contract_period": "2026-10-17 ~ 2026-10-17",
+   "homepage": "",
+   "move_in": "2028.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-13 ~ 2026-10-13"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.6388A",
+     "price": 74790,
+     "total": 1,
+     "price_per_pyeong": 2921
+    },
+    {
+     "type": "084.8874B",
+     "price": 76040,
+     "total": 3,
+     "price_per_pyeong": 2961
+    }
+   ],
+   "prices": {
+    "084.6388A": 74790,
+    "084.8874B": 76040
+   },
+   "price_min": 74790,
+   "price_max": 76040,
+   "hogangnono_id": "gQBa8",
+   "hogangnono_name": "수원역아너스빌타임원",
+   "lat": 37.2618691456771,
+   "lon": 126.998723641528,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940223",
+   "houseManageNo": "2026940223",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "서수원 에피트 센트럴마크(M1BL)(3차)",
+   "builder": "코리아신탁(주)",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-13 ~ 2026-10-13",
+   "announce_date": "2026-10-16",
+   "phone": "",
+   "apply_start": "2026-10-13",
+   "apply_end": "2026-10-13",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940223&pblancNo=2026940223&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 수원시 권선구 당수동 3001번지 일원 (수원당수 공공주택지구 M1BL)",
+   "total_units_text": "8세대",
+   "total_units": 8,
+   "contract_period": "2026-10-17 ~ 2026-10-17",
+   "homepage": "",
+   "move_in": "2028.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-13 ~ 2026-10-13"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.9800",
+     "price": 73300,
+     "total": 3,
+     "price_per_pyeong": 3232
+    },
+    {
+     "type": "084.9100A",
+     "price": 81100,
+     "total": 2,
+     "price_per_pyeong": 3157
+    },
+    {
+     "type": "103.9500A",
+     "price": 91200,
+     "total": 3,
+     "price_per_pyeong": 2900
+    }
+   ],
+   "prices": {
+    "074.9800": 73300,
+    "084.9100A": 81100,
+    "103.9500A": 91200
+   },
+   "price_min": 73300,
+   "price_max": 91200,
+   "hogangnono_id": "gKk33",
+   "hogangnono_name": "서수원에피트센트럴마크M2블록",
+   "lat": 37.2826443,
+   "lon": 126.941639,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026950087",
    "houseManageNo": "2026950087",
    "houseSecd": "02",
@@ -13362,6 +13615,280 @@
     "수도권",
     "공공분양"
    ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000458",
+   "houseManageNo": "2026000458",
+   "houseSecd": "",
+   "region": "인천",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "산곡역자이힐스테이트앤하늘채",
+   "builder": "지에스건설(주), 현대건설(주), 코오롱글로벌(주)",
+   "phone": "1833-2563",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-21",
+   "announce_date": "2026-10-27",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-21",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000458&pblancNo=2026000458",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
+   "total_units_text": "1289세대",
+   "total_units": 1289,
+   "contract_period": "2026-11-09 ~ 2026-11-11",
+   "homepage": "https://www.xi.co.kr/sangokxi",
+   "move_in": "2029.12",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-21",
+      "2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "050.2600A",
+     "area": 68.27,
+     "general": 54,
+     "special": 58,
+     "total": 112,
+     "price": 55600,
+     "price_per_pyeong": 3657
+    },
+    {
+     "type": "050.2600B",
+     "area": 68.26,
+     "general": 22,
+     "special": 22,
+     "total": 44,
+     "price": 56000,
+     "price_per_pyeong": 3683
+    },
+    {
+     "type": "059.9500A",
+     "area": 81.39,
+     "general": 140,
+     "special": 167,
+     "total": 307,
+     "price": 74600,
+     "price_per_pyeong": 4114
+    },
+    {
+     "type": "059.9900B",
+     "area": 81.65,
+     "general": 153,
+     "special": 181,
+     "total": 334,
+     "price": 78000,
+     "price_per_pyeong": 4298
+    },
+    {
+     "type": "059.9300C",
+     "area": 82.07,
+     "general": 99,
+     "special": 114,
+     "total": 213,
+     "price": 73400,
+     "price_per_pyeong": 4049
+    },
+    {
+     "type": "075.5600A",
+     "area": 102.36,
+     "general": 66,
+     "special": 70,
+     "total": 136,
+     "price": 91000,
+     "price_per_pyeong": 3981
+    },
+    {
+     "type": "075.6200B",
+     "area": 101.54,
+     "general": 29,
+     "special": 31,
+     "total": 60,
+     "price": 93000,
+     "price_per_pyeong": 4066
+    },
+    {
+     "type": "084.9200A",
+     "area": 114.73,
+     "general": 11,
+     "special": 9,
+     "total": 20,
+     "price": 94100,
+     "price_per_pyeong": 3663
+    },
+    {
+     "type": "084.9800B",
+     "area": 113.71,
+     "general": 30,
+     "special": 33,
+     "total": 63,
+     "price": 103200,
+     "price_per_pyeong": 4015
+    }
+   ],
+   "prices": {
+    "050.2600A": 55600,
+    "050.2600B": 56000,
+    "059.9500A": 74600,
+    "059.9900B": 78000,
+    "059.9300C": 73400,
+    "075.5600A": 91000,
+    "075.6200B": 93000,
+    "084.9200A": 94100,
+    "084.9800B": 103200
+   },
+   "price_min": 55600,
+   "price_max": 103200,
+   "hogangnono_id": "faQec",
+   "hogangnono_name": "산곡역자이힐스테이트&하늘채",
+   "lat": 37.510015,
+   "lon": 126.701601,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000267",
+   "houseManageNo": "2026000267",
+   "houseSecd": "",
+   "region": "충남",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "아산 그랑시티필하우스",
+   "builder": "한성건설(주)",
+   "phone": "1551-2011",
+   "notice_date": "2026-10-08",
+   "apply_period": "2026-10-19 ~ 2026-10-21",
+   "announce_date": "2026-10-27",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-21",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000267&pblancNo=2026000267",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청남도 아산시 배방읍 휴대리 143번지 일원 (휴대지구 도시개발사업구역 내 공동주택 1블럭)",
+   "total_units_text": "1380세대",
+   "total_units": 1380,
+   "contract_period": "2026-11-09 ~ 2026-11-11",
+   "homepage": "https://www.천안아산역그랑시티필하우스.com/",
+   "move_in": "2029.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-19",
+      "2026-10-19"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-20",
+      "2026-10-20"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-21",
+      "2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7493A",
+     "area": 113.7053,
+     "general": 249,
+     "special": 309,
+     "total": 558,
+     "price": 48060,
+     "price_per_pyeong": 1875
+    },
+    {
+     "type": "084.9394B",
+     "area": 112.1241,
+     "general": 111,
+     "special": 133,
+     "total": 244,
+     "price": 48290,
+     "price_per_pyeong": 1879
+    },
+    {
+     "type": "084.8936C",
+     "area": 115.4173,
+     "general": 111,
+     "special": 132,
+     "total": 243,
+     "price": 47840,
+     "price_per_pyeong": 1863
+    },
+    {
+     "type": "084.9855D",
+     "area": 115.7507,
+     "general": 108,
+     "special": 129,
+     "total": 237,
+     "price": 47930,
+     "price_per_pyeong": 1864
+    },
+    {
+     "type": "103.9572A",
+     "area": 137.713,
+     "general": 44,
+     "special": 7,
+     "total": 51,
+     "price": 62230,
+     "price_per_pyeong": 1979
+    },
+    {
+     "type": "103.9213B",
+     "area": 135.3774,
+     "general": 41,
+     "special": 6,
+     "total": 47,
+     "price": 62440,
+     "price_per_pyeong": 1986
+    }
+   ],
+   "prices": {
+    "084.7493A": 48060,
+    "084.9394B": 48290,
+    "084.8936C": 47840,
+    "084.9855D": 47930,
+    "103.9572A": 62230,
+    "103.9213B": 62440
+   },
+   "price_min": 47840,
+   "price_max": 62440,
+   "hogangnono_id": "gR477",
+   "hogangnono_name": "천안아산역그랑시티필하우스1BL",
+   "lat": 36.7785118,
+   "lon": 127.1160342,
+   "score": 0,
+   "tags": [],
    "status": "upcoming"
   }
  ]
