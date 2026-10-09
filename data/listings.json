@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-09 01:52 KST",
+ "updated_at": "2026-10-09 10:21 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 174,
+ "count": 166,
  "items": [
   {
    "pblancNo": "2026820006",
@@ -83,158 +83,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026940173",
-   "houseManageNo": "2026940173",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "엘리프 검단 포레듀(AA32블록)(3차)",
-   "builder": "계룡건설산업(주)",
-   "notice_date": "2026-08-14",
-   "apply_period": "2026-08-19 ~ 2026-08-24",
-   "announce_date": "2026-08-27",
-   "phone": "",
-   "apply_start": "2026-08-19",
-   "apply_end": "2026-08-24",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940173&pblancNo=2026940173&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 검단구 검단신도시 AA32BL(마전동)",
-   "total_units_text": "25세대",
-   "total_units": 25,
-   "contract_period": "2026-09-03 ~ 2026-09-03",
-   "homepage": "",
-   "move_in": "2028.03",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-19 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "064.8400A",
-     "price": 50700,
-     "total": 4,
-     "price_per_pyeong": 2585
-    },
-    {
-     "type": "084.7800A",
-     "price": 60500,
-     "total": 2,
-     "price_per_pyeong": 2359
-    },
-    {
-     "type": "084.9900B",
-     "price": 57800,
-     "total": 8,
-     "price_per_pyeong": 2248
-    },
-    {
-     "type": "084.8500F",
-     "price": 60200,
-     "total": 6,
-     "price_per_pyeong": 2345
-    },
-    {
-     "type": "098.9700A",
-     "price": 68900,
-     "total": 2,
-     "price_per_pyeong": 2301
-    },
-    {
-     "type": "098.9900B",
-     "price": 67500,
-     "total": 2,
-     "price_per_pyeong": 2254
-    },
-    {
-     "type": "098.9200C",
-     "price": 63000,
-     "total": 1,
-     "price_per_pyeong": 2105
-    }
-   ],
-   "prices": {
-    "064.8400A": 50700,
-    "084.7800A": 60500,
-    "084.9900B": 57800,
-    "084.8500F": 60200,
-    "098.9700A": 68900,
-    "098.9900B": 67500,
-    "098.9200C": 63000
-   },
-   "price_min": 50700,
-   "price_max": 68900,
-   "hogangnono_id": "ggvdc",
-   "hogangnono_name": "엘리프검단포레듀",
-   "lat": 37.6059291,
-   "lon": 126.672266,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026950070",
-   "houseManageNo": "2026950070",
-   "houseSecd": "02",
-   "region": "서울",
-   "house_kind": "오피스텔",
-   "name": "선유 노블레르",
-   "builder": "노블레르",
-   "phone": "1668-1252",
-   "notice_date": "2026-08-14",
-   "apply_period": "2026-08-19 ~ 2026-08-25",
-   "announce_date": "2026-08-28",
-   "apply_start": "2026-08-19",
-   "apply_end": "2026-08-25",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "서울특별시 영등포구 양평동6가 2-1",
-   "total_units_text": "6세대",
-   "total_units": 6,
-   "contract_period": "2026-08-31 ~ 2026-09-02",
-   "homepage": "https://www.선유노블레르.com",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-19 ~ 2026-08-25"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "A",
-     "area": 49.37,
-     "total": 6,
-     "price": 59990,
-     "price_per_pyeong": 4017
-    }
-   ],
-   "prices": {
-    "A": 59990
-   },
-   "price_min": 59990,
-   "price_max": 59990,
-   "hogangnono_id": "fdO10",
-   "hogangnono_name": "선유노블레르",
-   "lat": 37.5406301872632,
-   "lon": 126.890284095001,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026940177",
    "houseManageNo": "2026940177",
    "houseSecd": "11",
@@ -296,130 +144,6 @@
    "hogangnono_name": "검암역자이르네",
    "lat": 37.5581134,
    "lon": 126.668984,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940175",
-   "houseManageNo": "2026940175",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "인하대역 수자인 로이센트(3차)",
-   "builder": "아이월드 주식회사",
-   "notice_date": "2026-08-20",
-   "apply_period": "2026-08-24 ~ 2026-08-24",
-   "announce_date": "2026-08-27",
-   "phone": "",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-24",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940175&pblancNo=2026940175&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 미추홀구 용현동 604-7번지 일원 (용현·학익 2-2블록 인하대역 1구역 내)",
-   "total_units_text": "15세대",
-   "total_units": 15,
-   "contract_period": "2026-08-28 ~ 2026-08-28",
-   "homepage": "",
-   "move_in": "2029.04",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9450B",
-     "price": 67300,
-     "total": 10,
-     "price_per_pyeong": 2619
-    },
-    {
-     "type": "101.8981",
-     "price": 81390,
-     "total": 5,
-     "price_per_pyeong": 2640
-    }
-   ],
-   "prices": {
-    "084.9450B": 67300,
-    "101.8981": 81390
-   },
-   "price_min": 67300,
-   "price_max": 81390,
-   "hogangnono_id": "gHBcf",
-   "hogangnono_name": "인하대역수자인로이센트",
-   "lat": 37.4450699,
-   "lon": 126.644384,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940176",
-   "houseManageNo": "2026940176",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "파주 운정신도시 A2블록 호반써밋 이스트파크(5차)",
-   "builder": "파주운정에이투피에프브이 주식회사",
-   "notice_date": "2026-08-20",
-   "apply_period": "2026-08-24 ~ 2026-08-24",
-   "announce_date": "2026-08-27",
-   "phone": "",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-24",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940176&pblancNo=2026940176&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 파주시 별하람로 63, 호반써밋 이스트파크 (파주 운정3지구 A2블록)",
-   "total_units_text": "21세대",
-   "total_units": 21,
-   "contract_period": "2026-08-28 ~ 2026-08-28",
-   "homepage": "",
-   "move_in": "2026.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9251A",
-     "price": 50960,
-     "total": 20,
-     "price_per_pyeong": 1984
-    },
-    {
-     "type": "084.9289B",
-     "price": 49950,
-     "total": 1,
-     "price_per_pyeong": 1944
-    }
-   ],
-   "prices": {
-    "084.9251A": 50960,
-    "084.9289B": 49950
-   },
-   "price_min": 49950,
-   "price_max": 50960,
-   "hogangnono_id": "fDWda",
-   "hogangnono_name": "별하람마을5단지호반써밋이스트파크",
-   "lat": 37.7439463,
-   "lon": 126.7587826,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
@@ -517,68 +241,6 @@
    "score": 30,
    "tags": [
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910217",
-   "houseManageNo": "2026910217",
-   "houseSecd": "04",
-   "region": "강원",
-   "supply_kind": "무순위(사후)",
-   "name": "춘천 리버뷰 아이파크",
-   "builder": "아이파크현대산업개발주식회사",
-   "notice_date": "2026-08-19",
-   "apply_period": "2026-08-24 ~ 2026-08-24",
-   "announce_date": "2026-08-27",
-   "phone": "",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-24",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910217&pblancNo=2026910217&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "강원특별자치도 춘천시 동면 장학리 883번지 일원",
-   "total_units_text": "180세대",
-   "total_units": 180,
-   "contract_period": "2026-09-03 ~ 2026-09-03",
-   "homepage": "",
-   "move_in": "2029.03",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9840A",
-     "total": 18
-    },
-    {
-     "type": "059.9059B",
-     "total": 16
-    },
-    {
-     "type": "084.9534A",
-     "total": 75
-    },
-    {
-     "type": "084.8254B",
-     "total": 71
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "ggS8d",
-   "hogangnono_name": "춘천리버뷰아이파크",
-   "lat": 37.8920840222954,
-   "lon": 127.755501649408,
-   "score": 30,
-   "tags": [
-    "무순위·잔여세대"
    ],
    "status": "closed"
   },
@@ -1059,85 +721,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026950074",
-   "houseManageNo": "2026950074",
-   "houseSecd": "02",
-   "region": "서울",
-   "house_kind": "오피스텔",
-   "name": "둔촌 월드메르디앙 올림픽파크",
-   "builder": "신영부동산신탁 주식회사",
-   "phone": "1666-0047",
-   "notice_date": "2026-08-18",
-   "apply_period": "2026-08-24 ~ 2026-08-24",
-   "announce_date": "2026-08-28",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-24",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950074&pblancNo=2026950074&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "서울특별시 강동구 천호대로 1156 (둔촌동, 월드메르디앙올림픽파크)",
-   "total_units_text": "5세대",
-   "total_units": 5,
-   "contract_period": "2026-08-29 ~ 2026-08-29",
-   "homepage": "http://www.월드메르디앙올림픽파크.com",
-   "move_in": "2026.08",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "81A",
-     "area": 81.87,
-     "total": 2,
-     "price": 83100,
-     "price_per_pyeong": 3355
-    },
-    {
-     "type": "82A",
-     "area": 82.1,
-     "total": 1,
-     "price": 83100,
-     "price_per_pyeong": 3346
-    },
-    {
-     "type": "84A",
-     "area": 84.44,
-     "total": 1,
-     "price": 81100,
-     "price_per_pyeong": 3175
-    },
-    {
-     "type": "84B",
-     "area": 84.23,
-     "total": 1,
-     "price": 83100,
-     "price_per_pyeong": 3261
-    }
-   ],
-   "prices": {
-    "81A": 83100,
-    "82A": 83100,
-    "84A": 81100,
-    "84B": 83100
-   },
-   "price_min": 81100,
-   "price_max": 83100,
-   "hogangnono_id": "gCQ18",
-   "hogangnono_name": "월드메르디앙올림픽파크(오)",
-   "lat": 37.5333795,
-   "lon": 127.1394812,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026000342",
    "houseManageNo": "2026000342",
    "houseSecd": "",
@@ -1236,69 +819,6 @@
    "lon": 126.864701,
    "score": 10,
    "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026950072",
-   "houseManageNo": "2026950072",
-   "houseSecd": "02",
-   "region": "경기",
-   "house_kind": "오피스텔",
-   "name": "덕은 DMC에일린의뜰 센트럴 1차",
-   "builder": "아이에스동서(주)",
-   "phone": "1833-2111",
-   "notice_date": "2026-08-18",
-   "apply_period": "2026-08-24 ~ 2026-08-24",
-   "announce_date": "2026-08-27",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-24",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950072&pblancNo=2026950072&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "경기도 고양시 덕양구 덕은동 691",
-   "total_units_text": "5세대",
-   "total_units": 5,
-   "contract_period": "2026-08-28 ~ 2026-08-28",
-   "homepage": "https://www.isbiztower-dmc.co.kr/officetel",
-   "move_in": "2028.12",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "78",
-     "area": 78.07,
-     "total": 4,
-     "price": 86300,
-     "price_per_pyeong": 3654
-    },
-    {
-     "type": "84B",
-     "area": 84.99,
-     "total": 1,
-     "price": 107600,
-     "price_per_pyeong": 4185
-    }
-   ],
-   "prices": {
-    "78": 86300,
-    "84B": 107600
-   },
-   "price_min": 86300,
-   "price_max": 107600,
-   "hogangnono_id": "fqS35",
-   "hogangnono_name": "덕은DMC에일린의뜰센트럴10블록",
-   "lat": 37.5813489,
-   "lon": 126.8572508,
-   "score": 10,
-   "tags": [
-    "수도권"
-   ],
    "status": "closed"
   },
   {
@@ -1521,83 +1041,6 @@
    "lon": 127.1595705,
    "score": 0,
    "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026850045",
-   "houseManageNo": "2026850045",
-   "houseSecd": "03",
-   "region": "경기",
-   "house_kind": "공공지원민간임대",
-   "name": "의왕청계역 시티프라디움 디하모니",
-   "builder": "주식회사 그린시티건설",
-   "phone": "1577-5378",
-   "notice_date": "2026-08-19",
-   "apply_period": "2026-08-24 ~ 2026-08-24",
-   "announce_date": "2026-08-27",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-24",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850045&pblancNo=2026850045&houseSecd=03",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "경기도 의왕시 포일동(의왕청계2 공공주택지구 M-1블록)",
-   "total_units_text": "15세대",
-   "total_units": 15,
-   "contract_period": "2026-08-29 ~ 2026-08-29",
-   "homepage": "http://의왕청계역시티프라디움.com",
-   "move_in": "2028.04",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-24"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "공공지원민간임대",
-     "area": 71.5628,
-     "total": 0
-    },
-    {
-     "type": "71A",
-     "price": 60500
-    },
-    {
-     "type": "71A-1",
-     "price": 42770
-    },
-    {
-     "type": "71B",
-     "price": 61100
-    },
-    {
-     "type": "84A",
-     "price": 69500
-    },
-    {
-     "type": "84B",
-     "price": 69900
-    }
-   ],
-   "prices": {
-    "71A": 60500,
-    "71A-1": 42770,
-    "71B": 61100,
-    "84A": 69500,
-    "84B": 69900
-   },
-   "price_min": 42770,
-   "price_max": 69900,
-   "hogangnono_id": "gJbcf",
-   "hogangnono_name": "의왕청계역시티프라디움디하모니",
-   "lat": 37.3875251,
-   "lon": 126.995725,
-   "score": 0,
-   "tags": [
-    "수도권"
-   ],
    "status": "closed"
   },
   {
@@ -11742,7 +11185,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940213",
@@ -12015,7 +11458,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940214",
@@ -12092,7 +11535,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940220",
@@ -12168,7 +11611,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940216",
@@ -12229,7 +11672,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940217",
@@ -12290,7 +11733,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026930033",
