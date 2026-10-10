@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-10 01:31 KST",
+ "updated_at": "2026-10-10 10:06 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 166,
+ "count": 163,
  "items": [
   {
    "pblancNo": "2026820006",
@@ -79,75 +79,6 @@
    "tags": [
     "수도권",
     "공공분양"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940177",
-   "houseManageNo": "2026940177",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "검암역자이르네",
-   "builder": "신영부동산신탁 주식회사",
-   "notice_date": "2026-08-20",
-   "apply_period": "2026-08-24 ~ 2026-08-25",
-   "announce_date": "2026-08-31",
-   "phone": "",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-25",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940177&pblancNo=2026940177&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 서해구 경서동 4-8번지 일원 (검암역세권 B-2블록)",
-   "total_units_text": "20세대",
-   "total_units": 20,
-   "contract_period": "2026-09-01 ~ 2026-09-01",
-   "homepage": "",
-   "move_in": "2028.12",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-25"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.6120A",
-     "price": 59410,
-     "total": 3,
-     "price_per_pyeong": 2321
-    },
-    {
-     "type": "084.6297B",
-     "price": 58750,
-     "total": 7,
-     "price_per_pyeong": 2295
-    },
-    {
-     "type": "084.6060C",
-     "price": 58200,
-     "total": 10,
-     "price_per_pyeong": 2274
-    }
-   ],
-   "prices": {
-    "084.6120A": 59410,
-    "084.6297B": 58750,
-    "084.6060C": 58200
-   },
-   "price_min": 58200,
-   "price_max": 59410,
-   "hogangnono_id": "gDA6c",
-   "hogangnono_name": "검암역자이르네",
-   "lat": 37.5581134,
-   "lon": 126.668984,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -634,93 +565,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026950073",
-   "houseManageNo": "2026950073",
-   "houseSecd": "02",
-   "region": "서울",
-   "house_kind": "오피스텔",
-   "name": "강동 리버스시티",
-   "builder": "신영부동산신탁 주식회사",
-   "phone": "1566-3294",
-   "notice_date": "2026-08-19",
-   "apply_period": "2026-08-24 ~ 2026-08-25",
-   "announce_date": "2026-08-28",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-25",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950073&pblancNo=2026950073&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "서울특별시 강동구 천호동 557번지",
-   "total_units_text": "18세대",
-   "total_units": 18,
-   "contract_period": "2026-08-29 ~ 2026-08-30",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-24 ~ 2026-08-25"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "37OE",
-     "area": 22.73,
-     "total": 5,
-     "price": 32443,
-     "price_per_pyeong": 4718
-    },
-    {
-     "type": "45OD",
-     "area": 27.77,
-     "total": 1,
-     "price": 38973,
-     "price_per_pyeong": 4639
-    },
-    {
-     "type": "46OC",
-     "area": 28.77,
-     "total": 1,
-     "price": 39698,
-     "price_per_pyeong": 4561
-    },
-    {
-     "type": "48OA",
-     "area": 29.91,
-     "total": 1,
-     "price": 41150,
-     "price_per_pyeong": 4548
-    },
-    {
-     "type": "48OB",
-     "area": 29.56,
-     "total": 10,
-     "price": 40942,
-     "price_per_pyeong": 4579
-    }
-   ],
-   "prices": {
-    "37OE": 32443,
-    "45OD": 38973,
-    "46OC": 39698,
-    "48OA": 41150,
-    "48OB": 40942
-   },
-   "price_min": 32443,
-   "price_max": 41150,
-   "hogangnono_id": "gaOe9",
-   "hogangnono_name": "강동리버스시티",
-   "lat": 37.5393571,
-   "lon": 127.1299818,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026000342",
    "houseManageNo": "2026000342",
    "houseSecd": "",
@@ -1199,57 +1043,6 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910219",
-   "houseManageNo": "2026910219",
-   "houseSecd": "04",
-   "region": "경남",
-   "supply_kind": "무순위(사후)",
-   "name": "트리븐 김해",
-   "builder": "한국투자부동산신탁 주식회사",
-   "notice_date": "2026-08-20",
-   "apply_period": "2026-08-25 ~ 2026-08-25",
-   "announce_date": "2026-08-28",
-   "phone": "",
-   "apply_start": "2026-08-25",
-   "apply_end": "2026-08-25",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910219&pblancNo=2026910219&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경상남도 김해시 내동 243-1번지 일원",
-   "total_units_text": "1세대",
-   "total_units": 1,
-   "contract_period": "2026-08-31 ~ 2026-08-31",
-   "homepage": "",
-   "move_in": "2029.08",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-25 ~ 2026-08-25"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "155.7796P",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gvde8",
-   "hogangnono_name": "트리븐김해 ",
-   "lat": 35.2480977,
-   "lon": 128.862845,
-   "score": 35,
-   "tags": [
-    "무순위·잔여세대",
-    "소량 공급"
    ],
    "status": "closed"
   },
