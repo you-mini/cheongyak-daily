@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-11 09:19 KST",
+ "updated_at": "2026-10-12 00:58 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 153,
+ "count": 161,
  "items": [
   {
    "pblancNo": "2026000372",
@@ -11817,6 +11817,396 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940218",
+   "houseManageNo": "2026940218",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)",
+   "builder": "한국토지주택공사 경기남부지역본부",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-14 ~ 2026-10-20",
+   "announce_date": "2026-10-23",
+   "phone": "",
+   "apply_start": "2026-10-14",
+   "apply_end": "2026-10-20",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 평택시 고덕동, 고덕면 일원(평택고덕국제화계획지구 내 A-63BL)",
+   "total_units_text": "39세대",
+   "total_units": 39,
+   "contract_period": "2026-10-24 ~ 2026-10-24",
+   "homepage": "",
+   "move_in": "2028.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-14 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.5900A",
+     "price": 47552,
+     "total": 10,
+     "price_per_pyeong": 2107
+    },
+    {
+     "type": "074.7200B",
+     "price": 47635,
+     "total": 4,
+     "price_per_pyeong": 2107
+    },
+    {
+     "type": "084.5600A",
+     "price": 53908,
+     "total": 10,
+     "price_per_pyeong": 2107
+    },
+    {
+     "type": "084.5600B",
+     "price": 53908,
+     "total": 15,
+     "price_per_pyeong": 2107
+    }
+   ],
+   "prices": {
+    "074.5900A": 47552,
+    "074.7200B": 47635,
+    "084.5600A": 53908,
+    "084.5600B": 53908
+   },
+   "price_min": 47552,
+   "price_max": 53908,
+   "hogangnono_id": "gLZa7",
+   "hogangnono_name": "고덕신도시아테라",
+   "lat": 37.0541628,
+   "lon": 127.018291,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940221",
+   "houseManageNo": "2026940221",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "풍무역세권 수자인 그라센트 2차(4차)",
+   "builder": "주식회사비에스한양,주식회사비에스산업",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-14 ~ 2026-10-15",
+   "announce_date": "2026-10-20",
+   "phone": "",
+   "apply_start": "2026-10-14",
+   "apply_end": "2026-10-15",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940221&pblancNo=2026940221&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
+   "total_units_text": "6세대",
+   "total_units": 6,
+   "contract_period": "2026-10-22 ~ 2026-10-22",
+   "homepage": "",
+   "move_in": "2029.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-14 ~ 2026-10-15"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "105.2083",
+     "price": 82530,
+     "total": 6,
+     "price_per_pyeong": 2593
+    }
+   ],
+   "prices": {
+    "105.2083": 82530
+   },
+   "price_min": 82530,
+   "price_max": 82530,
+   "hogangnono_id": "gJ829",
+   "hogangnono_name": "풍무역세권수자인그라센트2차",
+   "lat": 37.6196353600987,
+   "lon": 126.726463585304,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910263",
+   "houseManageNo": "2026910263",
+   "houseSecd": "04",
+   "region": "서울",
+   "supply_kind": "무순위(사후)",
+   "name": "청계 노르웨이숲(13차)",
+   "builder": "황학동청계지역주택조합",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-22",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910263&pblancNo=2026910263&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 중구 황학동 1756번지 일원",
+   "total_units_text": "10세대",
+   "total_units": 10,
+   "contract_period": "2026-10-26 ~ 2026-10-28",
+   "homepage": "",
+   "move_in": "2028.07",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "039.6950",
+     "total": 10
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "fc355",
+   "hogangnono_name": "청계노르웨이숲",
+   "lat": 37.5695442031126,
+   "lon": 127.020416132858,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910259",
+   "houseManageNo": "2026910259",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "시티오씨엘 9단지 오션파크뷰",
+   "builder": "코리아신탁(주)",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-22",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910259&pblancNo=2026910259&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 미추홀구 학익동 인천 용현·학익 1블록 도시개발구역 공동3BL",
+   "total_units_text": "68세대",
+   "total_units": 68,
+   "contract_period": "2026-10-23 ~ 2026-10-23",
+   "homepage": "",
+   "move_in": "2030.04",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "075.9096",
+     "total": 68
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gNzb9",
+   "hogangnono_name": "시티오씨엘9단지오션파크뷰",
+   "lat": 37.4385046009576,
+   "lon": 126.638619554675,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910260",
+   "houseManageNo": "2026910260",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "의왕역 한신더휴",
+   "builder": "우성4차아파트 및 주변가로주택정비사업조합",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-23",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910260&pblancNo=2026910260&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 의왕시 삼동 244-1번지 일원",
+   "total_units_text": "8세대",
+   "total_units": 8,
+   "contract_period": "2026-10-29 ~ 2026-10-29",
+   "homepage": "",
+   "move_in": "2029.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9920B",
+     "total": 2
+    },
+    {
+     "type": "084.9861B",
+     "total": 6
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gCOf7",
+   "hogangnono_name": "의왕역한신더휴",
+   "lat": 37.3209716,
+   "lon": 126.956107,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910255",
+   "houseManageNo": "2026910255",
+   "houseSecd": "04",
+   "region": "부산",
+   "supply_kind": "무순위(사후)",
+   "name": "e편한세상 에코델타 센터포인트(19BL)",
+   "builder": "부산도시공사",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-22",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910255&pblancNo=2026910255&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 강서구 강동동 에코델타시티 내 공동 19BL",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-06 ~ 2026-11-06",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9821A",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "e5Ycf",
+   "hogangnono_name": "e편한세상에코델타센터포인트",
+   "lat": 35.1443166,
+   "lon": 128.914886,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910254",
+   "houseManageNo": "2026910254",
+   "houseSecd": "04",
+   "region": "부산",
+   "supply_kind": "무순위(사후)",
+   "name": "에코델타시티 푸르지오 센터파크(18BL)",
+   "builder": "부산도시공사",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-22",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910254&pblancNo=2026910254&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 강서구 강동동 에코델타시티 내 공동 18BL",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-06 ~ 2026-11-06",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7660B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "em19b",
+   "hogangnono_name": "에코델타시티푸르지오센터파크",
+   "lat": 35.147095162156,
+   "lon": 128.915986319087,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026820010",
    "houseManageNo": "2026820010",
    "houseSecd": "",
@@ -12772,6 +13162,66 @@
    "hogangnono_name": "천안아산역그랑시티필하우스1BL",
    "lat": 36.7785118,
    "lon": 127.1160342,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026850051",
+   "houseManageNo": "2026850051",
+   "houseSecd": "03",
+   "region": "부산",
+   "house_kind": "공공지원민간임대",
+   "name": "부경경마공원역 대방 디에트르 더리버(AP1BL)",
+   "builder": "대방건설 주식회사",
+   "phone": "1688-9005",
+   "notice_date": "2026-10-12",
+   "apply_period": "2026-10-19 ~ 2026-10-20",
+   "announce_date": "2026-10-23",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-20",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850051&pblancNo=2026850051&houseSecd=03",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "부산광역시 강서구 범방동 2008번지",
+   "total_units_text": "80세대",
+   "total_units": 80,
+   "contract_period": "2026-10-26 ~ 2026-10-27",
+   "homepage": "http://detre-bg.co.kr/",
+   "move_in": "2027.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "공공지원민간임대",
+     "area": 59.8947,
+     "total": 0
+    },
+    {
+     "type": "59A-1",
+     "price": 19380
+    },
+    {
+     "type": "59B-1",
+     "price": 19522
+    }
+   ],
+   "prices": {
+    "59A-1": 19380,
+    "59B-1": 19522
+   },
+   "price_min": 19380,
+   "price_max": 19522,
+   "hogangnono_id": "gIVfd",
+   "hogangnono_name": "부경경마공원역대방디에트르더리버(AP1BL)",
+   "lat": 35.15412,
+   "lon": 128.884962,
    "score": 0,
    "tags": [],
    "status": "upcoming"
