@@ -1,101 +1,8 @@
 {
- "updated_at": "2026-10-12 00:58 KST",
+ "updated_at": "2026-10-12 09:42 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 161,
+ "count": 160,
  "items": [
-  {
-   "pblancNo": "2026000372",
-   "houseManageNo": "2026000372",
-   "houseSecd": "",
-   "region": "서울",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "쌍용 더 플래티넘 서대문",
-   "builder": "쌍용건설(주)",
-   "phone": "1660-1223",
-   "notice_date": "2026-08-14",
-   "apply_period": "2026-08-24 ~ 2026-08-27",
-   "announce_date": "2026-09-02",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-27",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000372&pblancNo=2026000372",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 서대문구 홍은동 355번지 일원",
-   "total_units_text": "62세대",
-   "total_units": 62,
-   "contract_period": "2026-09-14 ~ 2026-09-16",
-   "homepage": "https://www.쌍용더플래티넘서대문.com",
-   "move_in": "2030.01",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-08-24",
-      "2026-08-24"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-08-25",
-      "2026-08-26"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-08-27",
-      "2026-08-27"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9883A",
-     "area": 78.4853,
-     "general": 2,
-     "special": 1,
-     "total": 3,
-     "price": 108650,
-     "price_per_pyeong": 5987
-    },
-    {
-     "type": "084.9458A",
-     "area": 110.2769,
-     "general": 23,
-     "special": 30,
-     "total": 53,
-     "price": 137330,
-     "price_per_pyeong": 5344
-    },
-    {
-     "type": "084.9722B",
-     "area": 110.0644,
-     "general": 3,
-     "special": 3,
-     "total": 6,
-     "price": 135340,
-     "price_per_pyeong": 5265
-    }
-   ],
-   "prices": {
-    "059.9883A": 108650,
-    "084.9458A": 137330,
-    "084.9722B": 135340
-   },
-   "price_min": 108650,
-   "price_max": 137330,
-   "hogangnono_id": "gN8fd",
-   "hogangnono_name": "쌍용더플래티넘서대문",
-   "lat": 37.5831574,
-   "lon": 126.924754,
-   "score": 30,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026940181",
    "houseManageNo": "2026940181",
@@ -10570,7 +10477,7 @@
     "최초 분양가 재공급",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930034",
@@ -10655,7 +10562,7 @@
     "최초 분양가 재공급",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930041",
@@ -10713,7 +10620,7 @@
     "무순위·잔여세대",
     "최초 분양가 재공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910256",
@@ -10788,7 +10695,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000468",
@@ -10911,7 +10818,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000463",
@@ -11054,7 +10961,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000386",
@@ -11197,7 +11104,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000494",
@@ -11298,7 +11205,7 @@
    "lon": 128.602155,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026950086",
@@ -11361,7 +11268,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000498",
@@ -11442,7 +11349,7 @@
    "lon": 127.1454605,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000444",
@@ -11546,7 +11453,7 @@
    "lon": 126.5362315,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940219",
