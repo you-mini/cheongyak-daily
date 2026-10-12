@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-12 09:42 KST",
+ "updated_at": "2026-10-13 04:17 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 160,
+ "count": 161,
  "items": [
   {
    "pblancNo": "2026940181",
@@ -12556,6 +12556,61 @@
    "lon": 129.0796488,
    "score": 10,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950091",
+   "houseManageNo": "2026950091",
+   "houseSecd": "02",
+   "region": "경기",
+   "house_kind": "오피스텔",
+   "name": "수원역 아너스빌 플라츠",
+   "builder": "동아건설산업 (주)",
+   "phone": "031-227-0401",
+   "notice_date": "2026-10-13",
+   "apply_period": "2026-10-19 ~ 2026-10-20",
+   "announce_date": "2026-10-23",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-20",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950091&pblancNo=2026950091&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "경기도 수원시 팔달구 고등동 334번지",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-10-24 ~ 2026-10-24",
+   "homepage": "http://수원역아너스빌.com",
+   "move_in": "2029.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "119A",
+     "area": 119.89,
+     "total": 3,
+     "price": 97700,
+     "price_per_pyeong": 2694
+    }
+   ],
+   "prices": {
+    "119A": 97700
+   },
+   "price_min": 97700,
+   "price_max": 97700,
+   "hogangnono_id": "gQA98",
+   "hogangnono_name": "수원역아너스빌플라츠",
+   "lat": 37.2705189,
+   "lon": 126.9992846,
+   "score": 10,
+   "tags": [
+    "수도권"
+   ],
    "status": "upcoming"
   },
   {
