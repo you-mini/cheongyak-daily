@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13 04:17 KST",
+ "updated_at": "2026-10-13 11:41 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
  "count": 161,
  "items": [
@@ -10620,7 +10620,7 @@
     "무순위·잔여세대",
     "최초 분양가 재공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910256",
@@ -10695,7 +10695,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000468",
@@ -11268,7 +11268,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000498",
@@ -11516,7 +11516,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940223",
@@ -11585,7 +11585,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026950087",
@@ -11640,7 +11640,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000466",
@@ -11721,7 +11721,7 @@
    "lon": 126.2556114,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940218",
