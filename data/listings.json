@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-13 11:41 KST",
+ "updated_at": "2026-10-14 02:09 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 161,
+ "count": 166,
  "items": [
   {
    "pblancNo": "2026940181",
@@ -11855,6 +11855,117 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940229",
+   "houseManageNo": "2026940229",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "드파인 아르티아",
+   "builder": "노량진2재정비촉진구역재개발정비사업조합",
+   "notice_date": "2026-10-14",
+   "apply_period": "2026-10-16 ~ 2026-10-16",
+   "announce_date": "2026-10-21",
+   "phone": "",
+   "apply_start": "2026-10-16",
+   "apply_end": "2026-10-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940229&pblancNo=2026940229&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 동작구 노량진동 312-75번지 일대",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-10-22 ~ 2026-10-22",
+   "homepage": "",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-16 ~ 2026-10-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "109.8652A",
+     "price": 295000,
+     "total": 1,
+     "price_per_pyeong": 8876
+    }
+   ],
+   "prices": {
+    "109.8652A": 295000
+   },
+   "price_min": 295000,
+   "price_max": 295000,
+   "hogangnono_id": "faIcd",
+   "hogangnono_name": "드파인아르티아",
+   "lat": 37.5070178,
+   "lon": 126.939253,
+   "score": 65,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940226",
+   "houseManageNo": "2026940226",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "고덕 자연앤 하우스디(A4BL)(민영)(5차)",
+   "builder": "경기주택도시공사",
+   "notice_date": "2026-10-14",
+   "apply_period": "2026-10-16 ~ 2026-10-16",
+   "announce_date": "2026-10-21",
+   "phone": "",
+   "apply_start": "2026-10-16",
+   "apply_end": "2026-10-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940226&pblancNo=2026940226&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 평택시 고덕동 1858-2번지(고덕국제화계획지구 A4BL)",
+   "total_units_text": "35세대",
+   "total_units": 35,
+   "contract_period": "2026-10-23 ~ 2026-10-24",
+   "homepage": "",
+   "move_in": "2028.02",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-16 ~ 2026-10-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "098.7952",
+     "price": 62900,
+     "total": 35,
+     "price_per_pyeong": 2105
+    }
+   ],
+   "prices": {
+    "098.7952": 62900
+   },
+   "price_min": 62900,
+   "price_max": 62900,
+   "hogangnono_id": "gE025",
+   "hogangnono_name": "고덕자연앤하우스디",
+   "lat": 37.0615076118649,
+   "lon": 127.044806873762,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910263",
    "houseManageNo": "2026910263",
    "houseSecd": "04",
@@ -11902,6 +12013,70 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910262",
+   "houseManageNo": "2026910262",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "화성 송산 동원로얄듀크 포레(2차)",
+   "builder": "코리아신탁(주)",
+   "notice_date": "2026-10-14",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-22",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910262&pblancNo=2026910262&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성시 병점구 화산로 9",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-10-26 ~ 2026-10-26",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9631A",
+     "total": 2
+    },
+    {
+     "type": "084.5993C",
+     "total": 1
+    },
+    {
+     "type": "090.9392",
+     "total": 1
+    },
+    {
+     "type": "123.0091",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "emQa0",
+   "hogangnono_name": "화성송산동원로얄듀크파크",
+   "lat": 37.2075922,
+   "lon": 127.009699,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
    ],
    "status": "upcoming"
   },
@@ -12110,6 +12285,60 @@
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910252",
+   "houseManageNo": "2026910252",
+   "houseSecd": "04",
+   "region": "울산",
+   "supply_kind": "무순위(사후)",
+   "name": "그랑라크 에일린의 뜰",
+   "builder": "남구비14구역주택재개발정비사업조합",
+   "notice_date": "2026-10-14",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-22",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910252&pblancNo=2026910252&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "울산광역시 남구 야음동 350-5번지 일원",
+   "total_units_text": "18세대",
+   "total_units": 18,
+   "contract_period": "2026-10-29 ~ 2026-10-29",
+   "homepage": "",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9900B",
+     "total": 1
+    },
+    {
+     "type": "059.9700C",
+     "total": 17
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "faoc4",
+   "hogangnono_name": "울산그랑라크에일린의뜰",
+   "lat": 35.5180159,
+   "lon": 129.33884,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
    ],
    "status": "upcoming"
   },
@@ -12347,6 +12576,69 @@
    "hogangnono_name": "산곡역자이힐스테이트&하늘채",
    "lat": 37.510015,
    "lon": 126.701601,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950092",
+   "houseManageNo": "2026950092",
+   "houseSecd": "02",
+   "region": "서울",
+   "house_kind": "오피스텔",
+   "name": "목동윤슬자이",
+   "builder": "신영부동산신탁 주식회사",
+   "phone": "1833-6515",
+   "notice_date": "2026-10-14",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-23",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950092&pblancNo=2026950092&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "서울특별시 양천구 목동 924, 924-3, 924-5",
+   "total_units_text": "17세대",
+   "total_units": 17,
+   "contract_period": "2026-10-24 ~ 2026-10-24",
+   "homepage": "https://xi.co.kr/MDX",
+   "move_in": "2030.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "114B",
+     "area": 114.2462,
+     "total": 15,
+     "price": 318400,
+     "price_per_pyeong": 9213
+    },
+    {
+     "type": "203AD",
+     "area": 203.3496,
+     "total": 2,
+     "price": 669000,
+     "price_per_pyeong": 10876
+    }
+   ],
+   "prices": {
+    "114B": 318400,
+    "203AD": 669000
+   },
+   "price_min": 318400,
+   "price_max": 669000,
+   "hogangnono_id": "gQTb8",
+   "hogangnono_name": "목동윤슬자이",
+   "lat": 37.5295659,
+   "lon": 126.8711834,
    "score": 20,
    "tags": [
     "수도권"
