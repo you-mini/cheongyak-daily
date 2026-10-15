@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-14 23:41 KST",
+ "updated_at": "2026-10-15 09:03 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 166,
+ "count": 172,
  "items": [
   {
    "pblancNo": "2026940181",
@@ -11966,6 +11966,116 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940224",
+   "houseManageNo": "2026940224",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "더 리치먼드 미아(2차)",
+   "builder": "우리자산신탁 주식회사",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-19 ~ 2026-10-19",
+   "announce_date": "2026-10-26",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940224&pblancNo=2026940224&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 강북구 미아동 703-13번지",
+   "total_units_text": "16세대",
+   "total_units": 16,
+   "contract_period": "2026-10-28 ~ 2026-10-28",
+   "homepage": "",
+   "move_in": "2028.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "049.7500A",
+     "price": 80200,
+     "total": 16,
+     "price_per_pyeong": 5329
+    }
+   ],
+   "prices": {
+    "049.7500A": 80200
+   },
+   "price_min": 80200,
+   "price_max": 80200,
+   "hogangnono_id": "gQ151",
+   "hogangnono_name": "더리치먼드미아",
+   "lat": 37.620258347225,
+   "lon": 127.021264917283,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940222",
+   "houseManageNo": "2026940222",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "해링턴플레이스 노원 센트럴(3차)",
+   "builder": "주식회사 엘앤피개발",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-19 ~ 2026-10-20",
+   "announce_date": "2026-10-23",
+   "phone": "",
+   "apply_start": "2026-10-19",
+   "apply_end": "2026-10-20",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940222&pblancNo=2026940222&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 노원구 노원로 495 (상계동 690)",
+   "total_units_text": "13세대",
+   "total_units": 13,
+   "contract_period": "2026-10-24 ~ 2026-10-24",
+   "homepage": "",
+   "move_in": "2027.04",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-19 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.7419B",
+     "price": 86500,
+     "total": 13,
+     "price_per_pyeong": 4786
+    }
+   ],
+   "prices": {
+    "059.7419B": 86500
+   },
+   "price_min": 86500,
+   "price_max": 86500,
+   "hogangnono_id": "gPxcc",
+   "hogangnono_name": "해링턴플레이스노원센트럴",
+   "lat": 37.6597323114548,
+   "lon": 127.06321810796,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910263",
    "houseManageNo": "2026910263",
    "houseSecd": "04",
@@ -13481,6 +13591,144 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026910264",
+   "houseManageNo": "2026910264",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "시흥 은계 에피트(조합원 취소분)",
+   "builder": "신극동아파트 가로주택정비사업조합",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-20 ~ 2026-10-20",
+   "announce_date": "2026-10-23",
+   "phone": "",
+   "apply_start": "2026-10-20",
+   "apply_end": "2026-10-20",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910264&pblancNo=2026910264&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 시흥시 은행동 289-31번지 일원",
+   "total_units_text": "16세대",
+   "total_units": 16,
+   "contract_period": "2026-10-28 ~ 2026-10-28",
+   "homepage": "",
+   "move_in": "2026.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-20 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "048.8190",
+     "total": 1
+    },
+    {
+     "type": "052.1850A",
+     "total": 10
+    },
+    {
+     "type": "059.6120A",
+     "total": 3
+    },
+    {
+     "type": "059.0570C",
+     "total": 2
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gn4f8",
+   "hogangnono_name": "시흥은계에피트",
+   "lat": 37.4308125,
+   "lon": 126.794908,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026850052",
+   "houseManageNo": "2026850052",
+   "houseSecd": "03",
+   "region": "울산",
+   "house_kind": "공공지원민간임대",
+   "name": "울산반구 수자인 더센트럴",
+   "builder": "(주)울산반구대한제45호위탁관리부동산투자회사",
+   "phone": "052-281-0121",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-20 ~ 2026-10-21",
+   "announce_date": "2026-10-26",
+   "apply_start": "2026-10-20",
+   "apply_end": "2026-10-21",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850052&pblancNo=2026850052&houseSecd=03",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "울산광역시 중구 반구동 447-19번지",
+   "total_units_text": "118세대",
+   "total_units": 118,
+   "contract_period": "2026-10-29 ~ 2026-10-30",
+   "homepage": "http://울산반구수자인더센트럴.com",
+   "move_in": "2026.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-20 ~ 2026-10-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "공공지원민간임대",
+     "area": 84.616,
+     "total": 0
+    },
+    {
+     "type": "84A",
+     "price": 39060
+    },
+    {
+     "type": "84A-1",
+     "price": 33870
+    },
+    {
+     "type": "84B",
+     "price": 39060
+    },
+    {
+     "type": "84B-1",
+     "price": 35250
+    },
+    {
+     "type": "84C",
+     "price": 38470
+    }
+   ],
+   "prices": {
+    "84A": 39060,
+    "84A-1": 33870,
+    "84B": 39060,
+    "84B-1": 35250,
+    "84C": 38470
+   },
+   "price_min": 33870,
+   "price_max": 39060,
+   "hogangnono_id": "gSrf3",
+   "hogangnono_name": "울산반구수자인더센트럴",
+   "lat": 35.5577999899713,
+   "lon": 129.342310294733,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000402",
    "houseManageNo": "2026000402",
    "houseSecd": "",
@@ -13571,6 +13819,234 @@
    "tags": [
     "공공분양"
    ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940228",
+   "houseManageNo": "2026940228",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "마곡스카이온",
+   "builder": "서울빌라가로주택정비사업조합",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-26 ~ 2026-10-28",
+   "announce_date": "2026-11-02",
+   "phone": "",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-28",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940228&pblancNo=2026940228&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 강서구 방화동 584-1",
+   "total_units_text": "24세대",
+   "total_units": 24,
+   "contract_period": "2026-11-04 ~ 2026-11-05",
+   "homepage": "",
+   "move_in": "2028.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-26 ~ 2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "043.1547",
+     "price": 48600,
+     "total": 2,
+     "price_per_pyeong": 3723
+    },
+    {
+     "type": "044.5837",
+     "price": 54700,
+     "total": 6,
+     "price_per_pyeong": 4056
+    },
+    {
+     "type": "059.8594",
+     "price": 71500,
+     "total": 1,
+     "price_per_pyeong": 3949
+    },
+    {
+     "type": "059.7382",
+     "price": 67400,
+     "total": 9,
+     "price_per_pyeong": 3730
+    },
+    {
+     "type": "059.6713",
+     "price": 69800,
+     "total": 2,
+     "price_per_pyeong": 3867
+    },
+    {
+     "type": "059.1344",
+     "price": 68800,
+     "total": 3,
+     "price_per_pyeong": 3846
+    },
+    {
+     "type": "059.8594N",
+     "price": 60600,
+     "total": 1,
+     "price_per_pyeong": 3347
+    }
+   ],
+   "prices": {
+    "043.1547": 48600,
+    "044.5837": 54700,
+    "059.8594": 71500,
+    "059.7382": 67400,
+    "059.6713": 69800,
+    "059.1344": 68800,
+    "059.8594N": 60600
+   },
+   "price_min": 48600,
+   "price_max": 71500,
+   "hogangnono_id": "azAf8",
+   "hogangnono_name": "마곡힐스테이트",
+   "lat": 37.56414484460192,
+   "lon": 126.81787165831544,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000455",
+   "houseManageNo": "2026000455",
+   "houseSecd": "",
+   "region": "충북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "신분평 에피트 더웨이시티",
+   "builder": "에이치엘디앤아이한라 주식회사, 에이치엘에코텍 주식회사",
+   "phone": "1533-6700",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-27 ~ 2026-10-29",
+   "announce_date": "2026-11-04",
+   "apply_start": "2026-10-27",
+   "apply_end": "2026-10-29",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000455&pblancNo=2026000455",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청북도 청주시 서원구 장성동 135번지 일원(장성지구 A2블럭)",
+   "total_units_text": "992세대",
+   "total_units": 992,
+   "contract_period": "2026-11-16 ~ 2026-11-18",
+   "homepage": "https://brand.hldni.com/thewaycity/",
+   "move_in": "2029.09",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-28",
+      "2026-10-28"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-29",
+      "2026-10-29"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9536A",
+     "area": 86.1272,
+     "general": 114,
+     "special": 142,
+     "total": 256,
+     "price": 39590,
+     "price_per_pyeong": 2183
+    },
+    {
+     "type": "059.9960B",
+     "area": 85.3075,
+     "general": 12,
+     "special": 17,
+     "total": 29,
+     "price": 39290,
+     "price_per_pyeong": 2165
+    },
+    {
+     "type": "075.7230A",
+     "area": 102.4451,
+     "general": 19,
+     "special": 30,
+     "total": 49,
+     "price": 46090,
+     "price_per_pyeong": 2012
+    },
+    {
+     "type": "075.8917B",
+     "area": 102.2496,
+     "general": 24,
+     "special": 27,
+     "total": 51,
+     "price": 45790,
+     "price_per_pyeong": 1995
+    },
+    {
+     "type": "084.9568A",
+     "area": 112.1578,
+     "general": 165,
+     "special": 180,
+     "total": 345,
+     "price": 50090,
+     "price_per_pyeong": 1949
+    },
+    {
+     "type": "084.9882B",
+     "area": 111.6549,
+     "general": 87,
+     "special": 87,
+     "total": 174,
+     "price": 49890,
+     "price_per_pyeong": 1941
+    },
+    {
+     "type": "112.8127",
+     "area": 140.1584,
+     "general": 80,
+     "special": 8,
+     "total": 88,
+     "price": 65890,
+     "price_per_pyeong": 1931
+    }
+   ],
+   "prices": {
+    "059.9536A": 39590,
+    "059.9960B": 39290,
+    "075.7230A": 46090,
+    "075.8917B": 45790,
+    "084.9568A": 50090,
+    "084.9882B": 49890,
+    "112.8127": 65890
+   },
+   "price_min": 39290,
+   "price_max": 65890,
+   "hogangnono_id": "gXE92",
+   "hogangnono_name": "청주신분평에피트더웨이시티",
+   "lat": 36.5969966,
+   "lon": 127.4779159,
+   "score": 0,
+   "tags": [],
    "status": "upcoming"
   }
  ]
