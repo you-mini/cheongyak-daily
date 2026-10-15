@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-15 09:03 KST",
+ "updated_at": "2026-10-15 23:22 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 172,
+ "count": 173,
  "items": [
   {
    "pblancNo": "2026940181",
@@ -10818,7 +10818,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000463",
@@ -10961,7 +10961,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000386",
@@ -11104,7 +11104,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000494",
@@ -11205,7 +11205,7 @@
    "lon": 128.602155,
    "score": 10,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026950086",
@@ -11349,7 +11349,7 @@
    "lon": 127.1454605,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000444",
@@ -13650,6 +13650,76 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910261",
+   "houseManageNo": "2026910261",
+   "houseSecd": "04",
+   "region": "광주",
+   "supply_kind": "무순위(사후)",
+   "name": "올 뉴 챔피언스시티 1차",
+   "builder": "(주) 챔피언스시티복합개발피에프브이",
+   "notice_date": "2026-10-15",
+   "apply_period": "2026-10-20 ~ 2026-10-20",
+   "announce_date": "2026-10-23",
+   "phone": "",
+   "apply_start": "2026-10-20",
+   "apply_end": "2026-10-20",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910261&pblancNo=2026910261&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전남광주통합특별시 북구 임동 100-1 일원 (구)전방·일신방직 부지 지구단위계획구역 A2BL)",
+   "total_units_text": "729세대",
+   "total_units": 729,
+   "contract_period": "2026-10-28 ~ 2026-10-28",
+   "homepage": "",
+   "move_in": "2030.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-20 ~ 2026-10-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9730A",
+     "total": 189
+    },
+    {
+     "type": "084.9479B",
+     "total": 256
+    },
+    {
+     "type": "103.0590A",
+     "total": 117
+    },
+    {
+     "type": "112.3407A",
+     "total": 89
+    },
+    {
+     "type": "128.5318A",
+     "total": 77
+    },
+    {
+     "type": "214.8717D",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gqa88",
+   "hogangnono_name": "올뉴챔피언스시티1차",
+   "lat": 35.1639964,
+   "lon": 126.89389,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
    ],
    "status": "upcoming"
   },
