@@ -1,84 +1,8 @@
 {
- "updated_at": "2026-10-16 08:48 KST",
+ "updated_at": "2026-10-16 23:13 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 173,
+ "count": 176,
  "items": [
-  {
-   "pblancNo": "2026940181",
-   "houseManageNo": "2026940181",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "리아츠 더 인천(22차)",
-   "builder": "송림6구역재개발정비사업조합",
-   "notice_date": "2026-08-21",
-   "apply_period": "2026-08-25 ~ 2026-08-31",
-   "announce_date": "2026-09-03",
-   "phone": "",
-   "apply_start": "2026-08-25",
-   "apply_end": "2026-08-31",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 제물포구 송림동 31-3번지 일원",
-   "total_units_text": "7세대",
-   "total_units": 7,
-   "contract_period": "2026-09-05 ~ 2026-09-05",
-   "homepage": "",
-   "move_in": "2027.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-25 ~ 2026-08-31"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9892B",
-     "price": 36800,
-     "total": 2,
-     "price_per_pyeong": 2028
-    },
-    {
-     "type": "059.9738C",
-     "price": 38500,
-     "total": 1,
-     "price_per_pyeong": 2122
-    },
-    {
-     "type": "074.9976",
-     "price": 48400,
-     "total": 2,
-     "price_per_pyeong": 2133
-    },
-    {
-     "type": "084.9718B",
-     "price": 54500,
-     "total": 2,
-     "price_per_pyeong": 2120
-    }
-   ],
-   "prices": {
-    "059.9892B": 36800,
-    "059.9738C": 38500,
-    "074.9976": 48400,
-    "084.9718B": 54500
-   },
-   "price_min": 36800,
-   "price_max": 54500,
-   "hogangnono_id": "fBd9a",
-   "hogangnono_name": "리아츠더인천",
-   "lat": 37.4781420469347,
-   "lon": 126.650554710834,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026950075",
    "houseManageNo": "2026950075",
@@ -214,117 +138,6 @@
    "lat": 37.6595722,
    "lon": 127.0633046,
    "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910229",
-   "houseManageNo": "2026910229",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "호반써밋 풍무Ⅲ",
-   "builder": "주식회사 호반산업",
-   "notice_date": "2026-08-26",
-   "apply_period": "2026-08-31 ~ 2026-08-31",
-   "announce_date": "2026-09-03",
-   "phone": "",
-   "apply_start": "2026-08-31",
-   "apply_end": "2026-08-31",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910229&pblancNo=2026910229&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
-   "total_units_text": "4세대",
-   "total_units": 4,
-   "contract_period": "2026-09-05 ~ 2026-09-05",
-   "homepage": "",
-   "move_in": "2029.05",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-31 ~ 2026-08-31"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9810B",
-     "total": 3
-    },
-    {
-     "type": "084.9795D",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gMZ35",
-   "hogangnono_name": "호반써밋풍무Ⅲ",
-   "lat": 37.6153474,
-   "lon": 126.734356,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910222",
-   "houseManageNo": "2026910222",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "오산헤리티지자이 1단지",
-   "builder": "주식회사 하나자산신탁",
-   "notice_date": "2026-08-25",
-   "apply_period": "2026-08-31 ~ 2026-08-31",
-   "announce_date": "2026-09-03",
-   "phone": "",
-   "apply_start": "2026-08-31",
-   "apply_end": "2026-08-31",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910222&pblancNo=2026910222&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 오산시 양산동 223번지 일원",
-   "total_units_text": "256세대",
-   "total_units": 256,
-   "contract_period": "2026-09-05 ~ 2026-09-05",
-   "homepage": "",
-   "move_in": "2029.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-31 ~ 2026-08-31"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "075.4736",
-     "total": 36
-    },
-    {
-     "type": "084.9796A",
-     "total": 220
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gQYec",
-   "hogangnono_name": "오산헤리티지자이1단지",
-   "lat": 37.1992878236862,
-   "lon": 127.028821398341,
-   "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
@@ -11721,7 +11534,7 @@
    "lon": 126.2556114,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940218",
@@ -11852,7 +11665,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940229",
@@ -11908,7 +11721,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940226",
@@ -11963,7 +11776,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940224",
@@ -13986,6 +13799,745 @@
     "무순위·잔여세대",
     "수도권"
    ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000509",
+   "houseManageNo": "2026000509",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "아크메르 동탄 99",
+   "builder": "(주)포스코이앤씨",
+   "phone": "1522-8111",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-10-28",
+   "announce_date": "2026-11-04",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-28",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000509&pblancNo=2026000509",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성특례시 동탄구 반송동 99번지[동탄(1) M1-2-2블록]",
+   "total_units_text": "996세대",
+   "total_units": 996,
+   "contract_period": "2026-11-16 ~ 2026-11-18",
+   "homepage": "https://아크메르동탄.kr",
+   "move_in": "2032.01",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-28",
+      "2026-10-28",
+      "2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9916A",
+     "area": 124.1106,
+     "general": 149,
+     "special": 185,
+     "total": 334,
+     "price": 171420,
+     "price_per_pyeong": 6667
+    },
+    {
+     "type": "084.9979B",
+     "area": 124.575,
+     "general": 39,
+     "special": 45,
+     "total": 84,
+     "price": 171680,
+     "price_per_pyeong": 6677
+    },
+    {
+     "type": "084.9970C",
+     "area": 123.3468,
+     "general": 73,
+     "special": 93,
+     "total": 166,
+     "price": 171320,
+     "price_per_pyeong": 6663
+    },
+    {
+     "type": "084.9948D",
+     "area": 124.081,
+     "general": 76,
+     "special": 88,
+     "total": 164,
+     "price": 171380,
+     "price_per_pyeong": 6666
+    },
+    {
+     "type": "084.9975E",
+     "area": 124.8977,
+     "general": 76,
+     "special": 88,
+     "total": 164,
+     "price": 171520,
+     "price_per_pyeong": 6671
+    },
+    {
+     "type": "099.9965A",
+     "area": 146.2861,
+     "general": 68,
+     "special": 10,
+     "total": 78,
+     "price": 191440,
+     "price_per_pyeong": 6329
+    },
+    {
+     "type": "148.9945E",
+     "area": 219.7294,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 316460,
+     "price_per_pyeong": 7021
+    },
+    {
+     "type": "158.9937D",
+     "area": 234.386,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 337600,
+     "price_per_pyeong": 7019
+    },
+    {
+     "type": "162.9999C",
+     "area": 241.1932,
+     "general": 4,
+     "special": 0,
+     "total": 4,
+     "price": 347450,
+     "price_per_pyeong": 7047
+    }
+   ],
+   "prices": {
+    "084.9916A": 171420,
+    "084.9979B": 171680,
+    "084.9970C": 171320,
+    "084.9948D": 171380,
+    "084.9975E": 171520,
+    "099.9965A": 191440,
+    "148.9945E": 316460,
+    "158.9937D": 337600,
+    "162.9999C": 347450
+   },
+   "price_min": 171320,
+   "price_max": 347450,
+   "hogangnono_id": "gWHb6",
+   "hogangnono_name": "아크메르동탄99",
+   "lat": 37.2026803059503,
+   "lon": 127.070020948736,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000508",
+   "houseManageNo": "2026000508",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "아크메르 동탄 95",
+   "builder": "(주)포스코이앤씨",
+   "phone": "1522-8111",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-10-28",
+   "announce_date": "2026-11-03",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-28",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000508&pblancNo=2026000508",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성특례시 동탄구 반송동 95번지[동탄(1) M1-1-2블록]",
+   "total_units_text": "812세대",
+   "total_units": 812,
+   "contract_period": "2026-11-16 ~ 2026-11-18",
+   "homepage": "https://아크메르동탄.kr",
+   "move_in": "2032.01",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-28",
+      "2026-10-28",
+      "2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9970C",
+     "area": 115.518,
+     "general": 82,
+     "special": 98,
+     "total": 180,
+     "price": 171210,
+     "price_per_pyeong": 6659
+    },
+    {
+     "type": "084.9998F",
+     "area": 117.1346,
+     "general": 41,
+     "special": 49,
+     "total": 90,
+     "price": 171530,
+     "price_per_pyeong": 6671
+    },
+    {
+     "type": "116.9981A",
+     "area": 156.6146,
+     "general": 80,
+     "special": 12,
+     "total": 92,
+     "price": 218670,
+     "price_per_pyeong": 6179
+    },
+    {
+     "type": "116.9987B",
+     "area": 158.6444,
+     "general": 157,
+     "special": 23,
+     "total": 180,
+     "price": 221350,
+     "price_per_pyeong": 6254
+    },
+    {
+     "type": "128.9983A",
+     "area": 174.3807,
+     "general": 78,
+     "special": 12,
+     "total": 90,
+     "price": 243610,
+     "price_per_pyeong": 6243
+    },
+    {
+     "type": "129.9995B",
+     "area": 177.3078,
+     "general": 153,
+     "special": 23,
+     "total": 176,
+     "price": 248290,
+     "price_per_pyeong": 6314
+    },
+    {
+     "type": "184.9968B",
+     "area": 253.7585,
+     "general": 2,
+     "special": 0,
+     "total": 2,
+     "price": 391150,
+     "price_per_pyeong": 6990
+    },
+    {
+     "type": "188.9949A",
+     "area": 260.2614,
+     "general": 2,
+     "special": 0,
+     "total": 2,
+     "price": 401320,
+     "price_per_pyeong": 7020
+    }
+   ],
+   "prices": {
+    "084.9970C": 171210,
+    "084.9998F": 171530,
+    "116.9981A": 218670,
+    "116.9987B": 221350,
+    "128.9983A": 243610,
+    "129.9995B": 248290,
+    "184.9968B": 391150,
+    "188.9949A": 401320
+   },
+   "price_min": 171210,
+   "price_max": 401320,
+   "hogangnono_id": "gSF5a",
+   "hogangnono_name": "아크메르동탄95",
+   "lat": 37.2047227350129,
+   "lon": 127.070449319068,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000514",
+   "houseManageNo": "2026000514",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "트리븐센텀 2단지",
+   "builder": "두산에너빌리티(주)",
+   "phone": "1644-5344",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-10-28",
+   "announce_date": "2026-11-05",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-28",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000514&pblancNo=2026000514",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 해운대구 반여동 610-5번지 일원",
+   "total_units_text": "792세대",
+   "total_units": 792,
+   "contract_period": "2026-11-17 ~ 2026-11-19",
+   "homepage": "https://www.trivn-doosan-centum.com/",
+   "move_in": "2031.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-28",
+      "2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "075.9453",
+     "area": 96.8511,
+     "general": 27,
+     "special": 38,
+     "total": 65,
+     "price": 69280,
+     "price_per_pyeong": 3016
+    },
+    {
+     "type": "084.8860A",
+     "area": 107.7959,
+     "general": 171,
+     "special": 214,
+     "total": 385,
+     "price": 77200,
+     "price_per_pyeong": 3006
+    },
+    {
+     "type": "084.9724B",
+     "area": 109.5602,
+     "general": 70,
+     "special": 84,
+     "total": 154,
+     "price": 75930,
+     "price_per_pyeong": 2954
+    },
+    {
+     "type": "084.7773C",
+     "area": 109.0587,
+     "general": 11,
+     "special": 13,
+     "total": 24,
+     "price": 76090,
+     "price_per_pyeong": 2967
+    },
+    {
+     "type": "114.9763",
+     "area": 144.3693,
+     "general": 143,
+     "special": 21,
+     "total": 164,
+     "price": 101830,
+     "price_per_pyeong": 2928
+    }
+   ],
+   "prices": {
+    "075.9453": 69280,
+    "084.8860A": 77200,
+    "084.9724B": 75930,
+    "084.7773C": 76090,
+    "114.9763": 101830
+   },
+   "price_min": 69280,
+   "price_max": 101830,
+   "hogangnono_id": "gFece",
+   "hogangnono_name": "트리븐센텀2단지",
+   "lat": 35.2114576,
+   "lon": 129.1173706,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000513",
+   "houseManageNo": "2026000513",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "트리븐센텀 1단지",
+   "builder": "두산에너빌리티(주)",
+   "phone": "1644-5344",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-10-28",
+   "announce_date": "2026-11-04",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-28",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000513&pblancNo=2026000513",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 해운대구 반여동 1167-3번지 일원",
+   "total_units_text": "852세대",
+   "total_units": 852,
+   "contract_period": "2026-11-17 ~ 2026-11-19",
+   "homepage": "https://www.trivn-doosan-centum.com/",
+   "move_in": "2031.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-28",
+      "2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "075.9453",
+     "area": 97.1181,
+     "general": 35,
+     "special": 44,
+     "total": 79,
+     "price": 68940,
+     "price_per_pyeong": 3001
+    },
+    {
+     "type": "084.8860A",
+     "area": 108.0943,
+     "general": 196,
+     "special": 237,
+     "total": 433,
+     "price": 77970,
+     "price_per_pyeong": 3036
+    },
+    {
+     "type": "084.9724B",
+     "area": 109.859,
+     "general": 69,
+     "special": 87,
+     "total": 156,
+     "price": 75930,
+     "price_per_pyeong": 2954
+    },
+    {
+     "type": "084.7773C",
+     "area": 109.3568,
+     "general": 12,
+     "special": 16,
+     "total": 28,
+     "price": 76460,
+     "price_per_pyeong": 2981
+    },
+    {
+     "type": "114.9763",
+     "area": 144.7735,
+     "general": 135,
+     "special": 21,
+     "total": 156,
+     "price": 102850,
+     "price_per_pyeong": 2957
+    }
+   ],
+   "prices": {
+    "075.9453": 68940,
+    "084.8860A": 77970,
+    "084.9724B": 75930,
+    "084.7773C": 76460,
+    "114.9763": 102850
+   },
+   "price_min": 68940,
+   "price_max": 102850,
+   "hogangnono_id": "f8q06",
+   "hogangnono_name": "트리븐센텀1단지",
+   "lat": 35.2051464,
+   "lon": 129.1137615,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000507",
+   "houseManageNo": "2026000507",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "광안센텀 비스타동원(조합원 취소분)",
+   "builder": "(주)동원개발",
+   "phone": "051-741-3300",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-10-27",
+   "announce_date": "2026-11-02",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-27",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000507&pblancNo=2026000507",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 수영구 광안동 971",
+   "total_units_text": "39세대",
+   "total_units": 39,
+   "contract_period": "2026-11-16 ~ 2026-11-18",
+   "homepage": "https://www.광안센텀비스타동원.com",
+   "move_in": "2027.09",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9823",
+     "area": 82.4838,
+     "general": 13,
+     "special": 0,
+     "total": 13,
+     "price": 67400,
+     "price_per_pyeong": 3715
+    },
+    {
+     "type": "059.9782C",
+     "area": 83.0467,
+     "general": 5,
+     "special": 0,
+     "total": 5,
+     "price": 66100,
+     "price_per_pyeong": 3643
+    },
+    {
+     "type": "084.9620A",
+     "area": 115.0768,
+     "general": 17,
+     "special": 0,
+     "total": 17,
+     "price": 91400,
+     "price_per_pyeong": 3556
+    },
+    {
+     "type": "084.9413B",
+     "area": 115.8499,
+     "general": 4,
+     "special": 0,
+     "total": 4,
+     "price": 86700,
+     "price_per_pyeong": 3374
+    }
+   ],
+   "prices": {
+    "059.9823": 67400,
+    "059.9782C": 66100,
+    "084.9620A": 91400,
+    "084.9413B": 86700
+   },
+   "price_min": 66100,
+   "price_max": 91400,
+   "hogangnono_id": "fhJ97",
+   "hogangnono_name": "광안센텀비스타동원",
+   "lat": 35.168224,
+   "lon": 129.108,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000495",
+   "houseManageNo": "2026000495",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "연산 센텀 월드메르디앙",
+   "builder": "주식회사 명린종합건설",
+   "phone": "051-758-0900",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-10-28",
+   "announce_date": "2026-11-04",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-28",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000495&pblancNo=2026000495",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 연제구 연산동 418-8(외1필지)",
+   "total_units_text": "144세대",
+   "total_units": 144,
+   "contract_period": "2026-11-16 ~ 2026-11-18",
+   "homepage": "https://www.연산센텀월드메르디앙.com",
+   "move_in": "2029.04",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-10-26",
+      "2026-10-26"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-27",
+      "2026-10-27"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-28",
+      "2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.6263",
+     "area": 79.619,
+     "general": 9,
+     "special": 7,
+     "total": 16,
+     "price": 42316,
+     "price_per_pyeong": 2346
+    },
+    {
+     "type": "066.8011A",
+     "area": 88.7711,
+     "general": 8,
+     "special": 7,
+     "total": 15,
+     "price": 48792,
+     "price_per_pyeong": 2415
+    },
+    {
+     "type": "066.9574B",
+     "area": 89.6554,
+     "general": 12,
+     "special": 17,
+     "total": 29,
+     "price": 49278,
+     "price_per_pyeong": 2433
+    },
+    {
+     "type": "066.9292C",
+     "area": 90.1721,
+     "general": 16,
+     "special": 21,
+     "total": 37,
+     "price": 46016,
+     "price_per_pyeong": 2273
+    },
+    {
+     "type": "073.6558",
+     "area": 99.4263,
+     "general": 14,
+     "special": 15,
+     "total": 29,
+     "price": 55250,
+     "price_per_pyeong": 2480
+    },
+    {
+     "type": "082.9237",
+     "area": 109.6955,
+     "general": 7,
+     "special": 11,
+     "total": 18,
+     "price": 61620,
+     "price_per_pyeong": 2457
+    }
+   ],
+   "prices": {
+    "059.6263": 42316,
+    "066.8011A": 48792,
+    "066.9574B": 49278,
+    "066.9292C": 46016,
+    "073.6558": 55250,
+    "082.9237": 61620
+   },
+   "price_min": 42316,
+   "price_max": 61620,
+   "hogangnono_id": "h0Pf9",
+   "hogangnono_name": "연산센텀월드메르디앙",
+   "lat": 35.1868793,
+   "lon": 129.1065603,
+   "score": 10,
+   "tags": [],
    "status": "upcoming"
   },
   {
