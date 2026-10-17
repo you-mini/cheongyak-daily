@@ -1,149 +1,8 @@
 {
- "updated_at": "2026-10-17 08:47 KST",
+ "updated_at": "2026-10-17 22:11 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 176,
+ "count": 172,
  "items": [
-  {
-   "pblancNo": "2026950075",
-   "houseManageNo": "2026950075",
-   "houseSecd": "02",
-   "region": "서울",
-   "house_kind": "오피스텔",
-   "name": "왕십리역 어반홈스 B동",
-   "builder": "교보자산신탁(주)",
-   "phone": "1668-1252",
-   "notice_date": "2026-08-21",
-   "apply_period": "2026-08-26 ~ 2026-09-01",
-   "announce_date": "2026-09-04",
-   "apply_start": "2026-08-26",
-   "apply_end": "2026-09-01",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "서울특별시 성동구 도선동 116, 117번지",
-   "total_units_text": "14세대",
-   "total_units": 14,
-   "contract_period": "2026-09-07 ~ 2026-09-11",
-   "homepage": "https://www.왕십리역어반홈스.kr",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-26 ~ 2026-09-01"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "29A",
-     "area": 29.93,
-     "total": 3,
-     "price": 51702,
-     "price_per_pyeong": 5711
-    },
-    {
-     "type": "35C",
-     "area": 35.96,
-     "total": 5,
-     "price": 59312,
-     "price_per_pyeong": 5453
-    },
-    {
-     "type": "35F",
-     "area": 35.2,
-     "total": 1,
-     "price": 58165,
-     "price_per_pyeong": 5463
-    },
-    {
-     "type": "36D",
-     "area": 36.34,
-     "total": 5,
-     "price": 59520,
-     "price_per_pyeong": 5414
-    }
-   ],
-   "prices": {
-    "29A": 51702,
-    "35C": 59312,
-    "35F": 58165,
-    "36D": 59520
-   },
-   "price_min": 51702,
-   "price_max": 59520,
-   "hogangnono_id": "gJA8f",
-   "hogangnono_name": "왕십리역어반홈스",
-   "lat": 37.5631696,
-   "lon": 127.0348413,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940179",
-   "houseManageNo": "2026940179",
-   "houseSecd": "11",
-   "region": "서울",
-   "supply_kind": "임의공급",
-   "name": "해링턴플레이스 노원 센트럴(2차)",
-   "builder": "주식회사 엘앤피개발",
-   "notice_date": "2026-08-26",
-   "apply_period": "2026-08-31 ~ 2026-09-01",
-   "announce_date": "2026-09-04",
-   "phone": "",
-   "apply_start": "2026-08-31",
-   "apply_end": "2026-09-01",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940179&pblancNo=2026940179&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 노원구 노원로 495(상계동 690)",
-   "total_units_text": "15세대",
-   "total_units": 15,
-   "contract_period": "2026-09-05 ~ 2026-09-05",
-   "homepage": "",
-   "move_in": "2026.12",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-08-31 ~ 2026-09-01"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.7419B",
-     "price": 86500,
-     "total": 13,
-     "price_per_pyeong": 4786
-    },
-    {
-     "type": "059.6793C",
-     "price": 86000,
-     "total": 2,
-     "price_per_pyeong": 4764
-    }
-   ],
-   "prices": {
-    "059.7419B": 86500,
-    "059.6793C": 86000
-   },
-   "price_min": 86000,
-   "price_max": 86500,
-   "hogangnono_id": "gPxcc",
-   "hogangnono_name": "해링턴플레이스노원센트럴",
-   "lat": 37.6595722,
-   "lon": 127.0633046,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026000404",
    "houseManageNo": "2026000404",
@@ -484,144 +343,6 @@
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910224",
-   "houseManageNo": "2026910224",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "장위 푸르지오 마크원(2차)",
-   "builder": "장위10구역주택재개발정비사업조합",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-01 ~ 2026-09-01",
-   "announce_date": "2026-09-04",
-   "phone": "",
-   "apply_start": "2026-09-01",
-   "apply_end": "2026-09-01",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910224&pblancNo=2026910224&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 성북구 장위동 68-37 일대",
-   "total_units_text": "4세대",
-   "total_units": 4,
-   "contract_period": "2026-09-05 ~ 2026-09-05",
-   "homepage": "",
-   "move_in": "2030.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-01 ~ 2026-09-01"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "039.7700A",
-     "total": 4
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "dryd8",
-   "hogangnono_name": "장위푸르지오마크원",
-   "lat": 37.6128238,
-   "lon": 127.052077,
-   "score": 65,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910223",
-   "houseManageNo": "2026910223",
-   "houseSecd": "04",
-   "region": "경남",
-   "supply_kind": "무순위(사후)",
-   "name": "창원 한신더휴 메가센텀",
-   "builder": "회원2구역주택재개발정비사업조합",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-01 ~ 2026-09-01",
-   "announce_date": "2026-09-04",
-   "phone": "",
-   "apply_start": "2026-09-01",
-   "apply_end": "2026-09-01",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910223&pblancNo=2026910223&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경상남도 창원시 마산회원구 회원동 480-31번지 일대",
-   "total_units_text": "430세대",
-   "total_units": 430,
-   "contract_period": "2026-09-11 ~ 2026-09-11",
-   "homepage": "",
-   "move_in": "2029.08",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-01 ~ 2026-09-01"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "038.0314A",
-     "total": 13
-    },
-    {
-     "type": "046.9070A",
-     "total": 4
-    },
-    {
-     "type": "074.9730A",
-     "total": 22
-    },
-    {
-     "type": "074.9705B",
-     "total": 32
-    },
-    {
-     "type": "084.9692A",
-     "total": 142
-    },
-    {
-     "type": "084.9734B",
-     "total": 19
-    },
-    {
-     "type": "084.9704C",
-     "total": 105
-    },
-    {
-     "type": "101.9695A",
-     "total": 24
-    },
-    {
-     "type": "101.9772B",
-     "total": 66
-    },
-    {
-     "type": "136.5534A",
-     "total": 3
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "dqxfd",
-   "hogangnono_name": "창원한신더휴메가센텀",
-   "lat": 35.2178033,
-   "lon": 128.5678224,
-   "score": 30,
-   "tags": [
-    "무순위·잔여세대"
    ],
    "status": "closed"
   },
@@ -11721,7 +11442,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940226",
@@ -11776,7 +11497,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940224",
