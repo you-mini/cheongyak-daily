@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-18 22:31 KST",
+ "updated_at": "2026-10-19 08:27 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 166,
+ "count": 168,
  "items": [
   {
    "pblancNo": "2026910221",
@@ -12799,6 +12799,172 @@
    "lon": 129.342310294733,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940225",
+   "houseManageNo": "2026940225",
+   "houseSecd": "11",
+   "region": "인천",
+   "supply_kind": "임의공급",
+   "name": "엘리프 검단 포레듀(AA32블록)(4차)",
+   "builder": "계룡건설산업(주)",
+   "notice_date": "2026-10-19",
+   "apply_period": "2026-10-21 ~ 2026-10-26",
+   "announce_date": "2026-10-29",
+   "phone": "",
+   "apply_start": "2026-10-21",
+   "apply_end": "2026-10-26",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 검단구 검단신도시 AA32BL(마전동)",
+   "total_units_text": "23세대",
+   "total_units": 23,
+   "contract_period": "2026-11-05 ~ 2026-11-05",
+   "homepage": "",
+   "move_in": "2028.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-21 ~ 2026-10-26"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9900B",
+     "price": 57800,
+     "total": 6,
+     "price_per_pyeong": 2248
+    },
+    {
+     "type": "084.9200D",
+     "price": 59100,
+     "total": 4,
+     "price_per_pyeong": 2301
+    },
+    {
+     "type": "084.8800E",
+     "price": 60600,
+     "total": 2,
+     "price_per_pyeong": 2360
+    },
+    {
+     "type": "084.8500F",
+     "price": 59900,
+     "total": 2,
+     "price_per_pyeong": 2334
+    },
+    {
+     "type": "098.9700A",
+     "price": 68900,
+     "total": 3,
+     "price_per_pyeong": 2301
+    },
+    {
+     "type": "098.9900B",
+     "price": 67500,
+     "total": 3,
+     "price_per_pyeong": 2254
+    },
+    {
+     "type": "098.9200C",
+     "price": 69200,
+     "total": 3,
+     "price_per_pyeong": 2313
+    }
+   ],
+   "prices": {
+    "084.9900B": 57800,
+    "084.9200D": 59100,
+    "084.8800E": 60600,
+    "084.8500F": 59900,
+    "098.9700A": 68900,
+    "098.9900B": 67500,
+    "098.9200C": 69200
+   },
+   "price_min": 57800,
+   "price_max": 69200,
+   "hogangnono_id": "ggvdc",
+   "hogangnono_name": "엘리프검단포레듀",
+   "lat": 37.6059291,
+   "lon": 126.672266,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940156",
+   "houseManageNo": "2026940156",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "방배 더 유엘 포레(2차)",
+   "builder": "대진빌라가로주택정비사업조합",
+   "notice_date": "2026-10-19",
+   "apply_period": "2026-10-22 ~ 2026-10-23",
+   "announce_date": "2026-10-28",
+   "phone": "",
+   "apply_start": "2026-10-22",
+   "apply_end": "2026-10-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940156&pblancNo=2026940156&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 서초구 효령로29길 16 (방배동, 방배 더 유엘포레)",
+   "total_units_text": "6세대",
+   "total_units": 6,
+   "contract_period": "2026-10-29 ~ 2026-10-30",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-22 ~ 2026-10-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "039.0400A",
+     "price": 84653,
+     "total": 4,
+     "price_per_pyeong": 7168
+    },
+    {
+     "type": "062.2400A",
+     "price": 149990,
+     "total": 1,
+     "price_per_pyeong": 7967
+    },
+    {
+     "type": "078.8900A",
+     "price": 166145,
+     "total": 1,
+     "price_per_pyeong": 6962
+    }
+   ],
+   "prices": {
+    "039.0400A": 84653,
+    "062.2400A": 149990,
+    "078.8900A": 166145
+   },
+   "price_min": 84653,
+   "price_max": 166145,
+   "hogangnono_id": "gra68",
+   "hogangnono_name": "방배더유엘포레",
+   "lat": 37.4823645,
+   "lon": 126.995677,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
    "status": "upcoming"
   },
   {
