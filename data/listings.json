@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20 01:39 KST",
+ "updated_at": "2026-10-20 09:31 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 170,
+ "count": 168,
  "items": [
   {
    "pblancNo": "2026910221",
@@ -119,142 +119,6 @@
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910226",
-   "houseManageNo": "2026910226",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "에스아이팰리스 강동 센텀Ⅱ(4차)",
-   "builder": "길동 386-4외 2필지",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-03 ~ 2026-09-04",
-   "announce_date": "2026-09-09",
-   "phone": "",
-   "apply_start": "2026-09-03",
-   "apply_end": "2026-09-04",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910226&pblancNo=2026910226&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 강동구 길동 386-4 (길동,에스아이팰리스 강동 센텀II)",
-   "total_units_text": "7세대",
-   "total_units": 7,
-   "contract_period": "2026-09-11 ~ 2026-09-14",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-03 ~ 2026-09-04"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "027.2967A",
-     "total": 3
-    },
-    {
-     "type": "029.6544A",
-     "total": 1
-    },
-    {
-     "type": "042.4793A",
-     "total": 1
-    },
-    {
-     "type": "042.3953B",
-     "total": 1
-    },
-    {
-     "type": "042.0337C",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gtn90",
-   "hogangnono_name": "에스아이팰리스강동센텀Ⅱ",
-   "lat": 37.5379270850208,
-   "lon": 127.137528634012,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940182",
-   "houseManageNo": "2026940182",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "서수원 에피트 센트럴마크(M1BL)(2차)",
-   "builder": "코리아신탁(주)",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-03 ~ 2026-09-04",
-   "announce_date": "2026-09-10",
-   "phone": "",
-   "apply_start": "2026-09-03",
-   "apply_end": "2026-09-04",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940182&pblancNo=2026940182&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 수원시 권선구 당수동 3001번지 일원 (수원당수 공공주택지구 M1BL)",
-   "total_units_text": "11세대",
-   "total_units": 11,
-   "contract_period": "2026-09-11 ~ 2026-09-11",
-   "homepage": "",
-   "move_in": "2028.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-03 ~ 2026-09-04"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "074.9800",
-     "price": 73300,
-     "total": 4,
-     "price_per_pyeong": 3232
-    },
-    {
-     "type": "084.9100A",
-     "price": 81100,
-     "total": 2,
-     "price_per_pyeong": 3157
-    },
-    {
-     "type": "103.9500A",
-     "price": 91200,
-     "total": 5,
-     "price_per_pyeong": 2900
-    }
-   ],
-   "prices": {
-    "074.9800": 73300,
-    "084.9100A": 81100,
-    "103.9500A": 91200
-   },
-   "price_min": 73300,
-   "price_max": 91200,
-   "hogangnono_id": "gKk33",
-   "hogangnono_name": "서수원에피트센트럴마크M2블록",
-   "lat": 37.2826443,
-   "lon": 126.941639,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -10917,7 +10781,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940222",
@@ -11023,7 +10887,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910262",
@@ -11087,7 +10951,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910259",
@@ -11138,7 +11002,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910260",
@@ -11193,7 +11057,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910255",
@@ -11244,7 +11108,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910254",
@@ -11295,7 +11159,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910252",
@@ -11349,7 +11213,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026820010",
@@ -11652,7 +11516,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000471",
@@ -12550,7 +12414,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910261",
@@ -12620,7 +12484,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026850052",
@@ -12695,7 +12559,7 @@
    "lon": 129.342310294733,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940225",
