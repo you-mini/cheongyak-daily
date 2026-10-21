@@ -1,64 +1,8 @@
 {
- "updated_at": "2026-10-20 23:30 KST",
+ "updated_at": "2026-10-21 09:02 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 168,
+ "count": 171,
  "items": [
-  {
-   "pblancNo": "2026910221",
-   "houseManageNo": "2026910221",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "대방역 여의도 더로드캐슬(5차)",
-   "builder": "(주)무궁화신탁",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-01 ~ 2026-09-07",
-   "announce_date": "2026-09-10",
-   "phone": "",
-   "apply_start": "2026-09-01",
-   "apply_end": "2026-09-07",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 영등포구 신길동 449-11",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-09-17 ~ 2026-09-20",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-01 ~ 2026-09-07"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "024.9100",
-     "total": 2
-    },
-    {
-     "type": "025.3700",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gJB65",
-   "hogangnono_name": "대방역여의도더로드캐슬",
-   "lat": 37.5129205591515,
-   "lon": 126.922932998353,
-   "score": 65,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026940184",
    "houseManageNo": "2026940184",
@@ -12821,6 +12765,144 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940235",
+   "houseManageNo": "2026940235",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "운정 아이파크 포레스트(2차)",
+   "builder": "주식회사 하나자산신탁",
+   "notice_date": "2026-10-21",
+   "apply_period": "2026-10-23 ~ 2026-10-23",
+   "announce_date": "2026-10-28",
+   "phone": "",
+   "apply_start": "2026-10-23",
+   "apply_end": "2026-10-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940235&pblancNo=2026940235&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
+   "total_units_text": "20세대",
+   "total_units": 20,
+   "contract_period": "2026-11-04 ~ 2026-11-04",
+   "homepage": "",
+   "move_in": "2028.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-23 ~ 2026-10-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9890C",
+     "price": 66260,
+     "total": 4,
+     "price_per_pyeong": 2577
+    },
+    {
+     "type": "099.3062",
+     "price": 76410,
+     "total": 5,
+     "price_per_pyeong": 2544
+    },
+    {
+     "type": "113.6508",
+     "price": 88930,
+     "total": 11,
+     "price_per_pyeong": 2587
+    }
+   ],
+   "prices": {
+    "084.9890C": 66260,
+    "099.3062": 76410,
+    "113.6508": 88930
+   },
+   "price_min": 66260,
+   "price_max": 88930,
+   "hogangnono_id": "gKb06",
+   "hogangnono_name": "운정아이파크포레스트",
+   "lat": 37.7135924,
+   "lon": 126.7045026,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940233",
+   "houseManageNo": "2026940233",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "중앙하이츠 원종역(3차)",
+   "builder": "원종동성락아파트가로주택정비사업조합",
+   "notice_date": "2026-10-21",
+   "apply_period": "2026-10-23 ~ 2026-10-27",
+   "announce_date": "2026-10-30",
+   "phone": "",
+   "apply_start": "2026-10-23",
+   "apply_end": "2026-10-27",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940233&pblancNo=2026940233&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 부천시 오정구 원종동 276-2",
+   "total_units_text": "11세대",
+   "total_units": 11,
+   "contract_period": "2026-11-06 ~ 2026-11-06",
+   "homepage": "",
+   "move_in": "2028.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-23 ~ 2026-10-27"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "060.2700E",
+     "price": 47100,
+     "total": 4,
+     "price_per_pyeong": 2583
+    },
+    {
+     "type": "063.7900H",
+     "price": 51340,
+     "total": 2,
+     "price_per_pyeong": 2661
+    },
+    {
+     "type": "068.6700B",
+     "price": 53400,
+     "total": 5,
+     "price_per_pyeong": 2571
+    }
+   ],
+   "prices": {
+    "060.2700E": 47100,
+    "063.7900H": 51340,
+    "068.6700B": 53400
+   },
+   "price_min": 47100,
+   "price_max": 53400,
+   "hogangnono_id": "gFk5a",
+   "hogangnono_name": "중앙하이츠원종역",
+   "lat": 37.5245145,
+   "lon": 126.806593,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026940231",
    "houseManageNo": "2026940231",
    "houseSecd": "11",
@@ -12976,6 +13058,131 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910268",
+   "houseManageNo": "2026910268",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "신천역 에피트(3차)",
+   "builder": "(주)다우개발",
+   "notice_date": "2026-10-21",
+   "apply_period": "2026-10-26 ~ 2026-10-26",
+   "announce_date": "2026-10-29",
+   "phone": "",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-26",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910268&pblancNo=2026910268&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 시흥시 시흥대로 1110",
+   "total_units_text": "8세대",
+   "total_units": 8,
+   "contract_period": "2026-11-03 ~ 2026-11-03",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-26 ~ 2026-10-26"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7324C",
+     "total": 3
+    },
+    {
+     "type": "084.0616D",
+     "total": 2
+    },
+    {
+     "type": "084.5859E",
+     "total": 1
+    },
+    {
+     "type": "111.6914A",
+     "total": 1
+    },
+    {
+     "type": "111.9114B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "f71bf",
+   "hogangnono_name": "신천역에피트",
+   "lat": 37.4358522777889,
+   "lon": 126.792655760184,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910266",
+   "houseManageNo": "2026910266",
+   "houseSecd": "04",
+   "region": "울산",
+   "supply_kind": "무순위(사후)",
+   "name": "문수로 비스타 더파크",
+   "builder": "(주)동원개발",
+   "notice_date": "2026-10-21",
+   "apply_period": "2026-10-26 ~ 2026-10-26",
+   "announce_date": "2026-10-29",
+   "phone": "",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-26",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910266&pblancNo=2026910266&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "울산광역시 남구 무거동 1615-1번지(무거삼호지구 11BL) 일원",
+   "total_units_text": "329세대",
+   "total_units": 329,
+   "contract_period": "2026-11-03 ~ 2026-11-03",
+   "homepage": "",
+   "move_in": "2029.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-26 ~ 2026-10-26"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "068.4720A",
+     "total": 17
+    },
+    {
+     "type": "068.4720B",
+     "total": 1
+    },
+    {
+     "type": "084.9937A",
+     "total": 311
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gTc25",
+   "hogangnono_name": "문수로비스타더파크",
+   "lat": 35.5447629763462,
+   "lon": 129.272315405928,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
    ],
    "status": "upcoming"
   },
