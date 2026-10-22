@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-22 09:07 KST",
+ "updated_at": "2026-10-22 23:40 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 178,
+ "count": 180,
  "items": [
   {
    "pblancNo": "2026910221",
@@ -14325,6 +14325,213 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026950088",
+   "houseManageNo": "2026950088",
+   "houseSecd": "02",
+   "region": "서울",
+   "house_kind": "오피스텔",
+   "name": "GD 메트로 타워",
+   "builder": "(주) 비와이씨",
+   "phone": "02-841-5950",
+   "notice_date": "2026-10-22",
+   "apply_period": "2026-10-27 ~ 2026-10-28",
+   "announce_date": "2026-11-02",
+   "apply_start": "2026-10-27",
+   "apply_end": "2026-10-28",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950088&pblancNo=2026950088&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "서울특별시 영등포구 대림동 1104-1 외 4필지",
+   "total_units_text": "770세대",
+   "total_units": 770,
+   "contract_period": "2026-11-05 ~ 2026-11-07",
+   "homepage": "https://gdmetro.com",
+   "move_in": "2031.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-27 ~ 2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "24A",
+     "area": 24.6107,
+     "total": 160,
+     "price": 40218,
+     "price_per_pyeong": 5402
+    },
+    {
+     "type": "24B",
+     "area": 24.5135,
+     "total": 104,
+     "price": 35693,
+     "price_per_pyeong": 4813
+    },
+    {
+     "type": "24C",
+     "area": 24.9177,
+     "total": 8,
+     "price": 36281,
+     "price_per_pyeong": 4813
+    },
+    {
+     "type": "24D",
+     "area": 25.0149,
+     "total": 8,
+     "price": 40879,
+     "price_per_pyeong": 5402
+    },
+    {
+     "type": "28A",
+     "area": 28.9709,
+     "total": 160,
+     "price": 46625,
+     "price_per_pyeong": 5320
+    },
+    {
+     "type": "28B",
+     "area": 28.8737,
+     "total": 104,
+     "price": 41403,
+     "price_per_pyeong": 4740
+    },
+    {
+     "type": "28C",
+     "area": 28.5943,
+     "total": 40,
+     "price": 44656,
+     "price_per_pyeong": 5163
+    },
+    {
+     "type": "28D",
+     "area": 28.3999,
+     "total": 26,
+     "price": 38356,
+     "price_per_pyeong": 4465
+    },
+    {
+     "type": "28E",
+     "area": 28.8041,
+     "total": 2,
+     "price": 38902,
+     "price_per_pyeong": 4465
+    },
+    {
+     "type": "28F",
+     "area": 28.9985,
+     "total": 2,
+     "price": 45288,
+     "price_per_pyeong": 5163
+    },
+    {
+     "type": "29A",
+     "area": 29.3751,
+     "total": 8,
+     "price": 47276,
+     "price_per_pyeong": 5320
+    },
+    {
+     "type": "29B",
+     "area": 29.2779,
+     "total": 8,
+     "price": 41983,
+     "price_per_pyeong": 4740
+    },
+    {
+     "type": "45A",
+     "area": 45.7804,
+     "total": 40,
+     "price": 77677,
+     "price_per_pyeong": 5609
+    },
+    {
+     "type": "45B",
+     "area": 45.6604,
+     "total": 26,
+     "price": 69028,
+     "price_per_pyeong": 4998
+    },
+    {
+     "type": "46A",
+     "area": 46.1846,
+     "total": 2,
+     "price": 78363,
+     "price_per_pyeong": 5609
+    },
+    {
+     "type": "46B",
+     "area": 46.0646,
+     "total": 2,
+     "price": 69639,
+     "price_per_pyeong": 4998
+    },
+    {
+     "type": "53A",
+     "area": 53.57,
+     "total": 40,
+     "price": 87760,
+     "price_per_pyeong": 5416
+    },
+    {
+     "type": "53B",
+     "area": 53.45,
+     "total": 26,
+     "price": 78018,
+     "price_per_pyeong": 4825
+    },
+    {
+     "type": "53C",
+     "area": 53.8542,
+     "total": 2,
+     "price": 78608,
+     "price_per_pyeong": 4825
+    },
+    {
+     "type": "53D",
+     "area": 53.9742,
+     "total": 2,
+     "price": 88422,
+     "price_per_pyeong": 5416
+    }
+   ],
+   "prices": {
+    "24A": 40218,
+    "24B": 35693,
+    "24C": 36281,
+    "24D": 40879,
+    "28A": 46625,
+    "28B": 41403,
+    "28C": 44656,
+    "28D": 38356,
+    "28E": 38902,
+    "28F": 45288,
+    "29A": 47276,
+    "29B": 41983,
+    "45A": 77677,
+    "45B": 69028,
+    "46A": 78363,
+    "46B": 69639,
+    "53A": 87760,
+    "53B": 78018,
+    "53C": 78608,
+    "53D": 88422
+   },
+   "price_min": 35693,
+   "price_max": 88422,
+   "hogangnono_id": "gXN90",
+   "hogangnono_name": "GD메트로타워",
+   "lat": 37.4864677,
+   "lon": 126.9012361,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000455",
    "houseManageNo": "2026000455",
    "houseSecd": "",
@@ -14706,6 +14913,129 @@
    "lat": 37.572159,
    "lon": 127.170148,
    "score": 30,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000496",
+   "houseManageNo": "2026000496",
+   "houseSecd": "",
+   "region": "인천",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "청라 아크원 푸르지오",
+   "builder": "(주)대우건설",
+   "phone": "1551-6881",
+   "notice_date": "2026-10-22",
+   "apply_period": "2026-11-02 ~ 2026-11-04",
+   "announce_date": "2026-11-10",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-04",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000496&pblancNo=2026000496",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 서해구 청라동 86-1번지 (청라국제업무단지 M5BL)",
+   "total_units_text": "868세대",
+   "total_units": 868,
+   "contract_period": "2026-11-22 ~ 2026-11-24",
+   "homepage": "https://www.arkone-prugio.com",
+   "move_in": "2031.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-02",
+      "2026-11-02"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-03",
+      "2026-11-03"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-04",
+      "2026-11-04"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9443A",
+     "area": 122.2119,
+     "general": 58,
+     "special": 190,
+     "total": 248,
+     "price": 92070,
+     "price_per_pyeong": 3583
+    },
+    {
+     "type": "084.9210B",
+     "area": 121.6639,
+     "general": 40,
+     "special": 84,
+     "total": 124,
+     "price": 90050,
+     "price_per_pyeong": 3505
+    },
+    {
+     "type": "084.8592C",
+     "area": 120.2914,
+     "general": 26,
+     "special": 98,
+     "total": 124,
+     "price": 90880,
+     "price_per_pyeong": 3540
+    },
+    {
+     "type": "084.9540D",
+     "area": 121.9069,
+     "general": 36,
+     "special": 88,
+     "total": 124,
+     "price": 90520,
+     "price_per_pyeong": 3522
+    },
+    {
+     "type": "103.8518A",
+     "area": 147.0448,
+     "general": 95,
+     "special": 29,
+     "total": 124,
+     "price": 117100,
+     "price_per_pyeong": 3728
+    },
+    {
+     "type": "103.9916B",
+     "area": 148.2,
+     "general": 99,
+     "special": 25,
+     "total": 124,
+     "price": 116340,
+     "price_per_pyeong": 3698
+    }
+   ],
+   "prices": {
+    "084.9443A": 92070,
+    "084.9210B": 90050,
+    "084.8592C": 90880,
+    "084.9540D": 90520,
+    "103.8518A": 117100,
+    "103.9916B": 116340
+   },
+   "price_min": 90050,
+   "price_max": 117100,
+   "hogangnono_id": "gTa64",
+   "hogangnono_name": "청라아크원푸르지오",
+   "lat": 37.5363534,
+   "lon": 126.619928,
+   "score": 20,
    "tags": [
     "수도권"
    ],
