@@ -1,8 +1,64 @@
 {
- "updated_at": "2026-10-21 23:39 KST",
+ "updated_at": "2026-10-22 09:07 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 174,
+ "count": 178,
  "items": [
+  {
+   "pblancNo": "2026910221",
+   "houseManageNo": "2026910221",
+   "houseSecd": "04",
+   "region": "서울",
+   "supply_kind": "무순위(사후)",
+   "name": "대방역 여의도 더로드캐슬(5차)",
+   "builder": "(주)무궁화신탁",
+   "notice_date": "2026-08-27",
+   "apply_period": "2026-09-01 ~ 2026-09-07",
+   "announce_date": "2026-09-10",
+   "phone": "",
+   "apply_start": "2026-09-01",
+   "apply_end": "2026-09-07",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 영등포구 신길동 449-11",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-09-17 ~ 2026-09-20",
+   "homepage": "",
+   "move_in": "2026.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-01 ~ 2026-09-07"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "024.9100",
+     "total": 2
+    },
+    {
+     "type": "025.3700",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gJB65",
+   "hogangnono_name": "대방역여의도더로드캐슬",
+   "lat": 37.5129205591515,
+   "lon": 126.922932998353,
+   "score": 65,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "closed"
+  },
   {
    "pblancNo": "2026940184",
    "houseManageNo": "2026940184",
@@ -11397,7 +11453,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026950092",
@@ -11665,7 +11721,7 @@
    "lon": 129.0796488,
    "score": 10,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026950091",
@@ -11892,7 +11948,7 @@
    "lon": 127.427642,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000491",
@@ -11993,7 +12049,7 @@
    "lon": 127.4340819,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000464",
@@ -12114,7 +12170,7 @@
    "lon": 128.6877009,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000267",
@@ -12235,7 +12291,7 @@
    "lon": 127.1160342,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026850051",
@@ -12503,7 +12559,7 @@
    "lon": 129.342310294733,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940225",
@@ -12669,7 +12725,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000402",
@@ -12762,7 +12818,7 @@
    "tags": [
     "공공분양"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940235",
@@ -12961,6 +13017,69 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940227",
+   "houseManageNo": "2026940227",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "화곡더리브스카이(4차)",
+   "builder": "케이비부동산신탁(주)",
+   "notice_date": "2026-10-22",
+   "apply_period": "2026-10-26 ~ 2026-10-27",
+   "announce_date": "2026-10-30",
+   "phone": "",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-10-27",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940227&pblancNo=2026940227&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 강서구 가로공원로80길 40",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-10-31 ~ 2026-10-31",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-26 ~ 2026-10-27"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "033.6442",
+     "price": 30631,
+     "total": 4,
+     "price_per_pyeong": 3010
+    },
+    {
+     "type": "055.8501",
+     "price": 47449,
+     "total": 1,
+     "price_per_pyeong": 2809
+    }
+   ],
+   "prices": {
+    "033.6442": 30631,
+    "055.8501": 47449
+   },
+   "price_min": 30631,
+   "price_max": 47449,
+   "hogangnono_id": "e6t96",
+   "hogangnono_name": "화곡더리브스카이",
+   "lat": 37.5354010849913,
+   "lon": 126.839512396933,
+   "score": 65,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
    ],
    "status": "upcoming"
   },
@@ -14087,6 +14206,120 @@
    "lon": 127.018882,
    "score": 0,
    "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910270",
+   "houseManageNo": "2026910270",
+   "houseSecd": "04",
+   "region": "서울",
+   "supply_kind": "무순위(사후)",
+   "name": "충정로역자이르네(2차)",
+   "builder": "(주)이노디앤씨",
+   "notice_date": "2026-10-22",
+   "apply_period": "2026-10-27 ~ 2026-10-27",
+   "announce_date": "2026-11-02",
+   "phone": "",
+   "apply_start": "2026-10-27",
+   "apply_end": "2026-10-27",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910270&pblancNo=2026910270&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 중구 중림동 157-2번지 일원",
+   "total_units_text": "9세대",
+   "total_units": 9,
+   "contract_period": "2026-11-07 ~ 2026-11-07",
+   "homepage": "",
+   "move_in": "2030.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-27 ~ 2026-10-27"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9972A",
+     "total": 9
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gMJ44",
+   "hogangnono_name": "충정로역자이르네",
+   "lat": 37.5597407570918,
+   "lon": 126.965075414386,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910271",
+   "houseManageNo": "2026910271",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "힐스테이트 레이크 송도 4차(2차)",
+   "builder": "송도랜드마크시티 유한회사",
+   "notice_date": "2026-10-22",
+   "apply_period": "2026-10-27 ~ 2026-10-28",
+   "announce_date": "2026-11-02",
+   "phone": "",
+   "apply_start": "2026-10-27",
+   "apply_end": "2026-10-28",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910271&pblancNo=2026910271&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 연수구 송도동 397-2",
+   "total_units_text": "8세대",
+   "total_units": 8,
+   "contract_period": "2026-11-04 ~ 2026-11-05",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-27 ~ 2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9900A",
+     "total": 1
+    },
+    {
+     "type": "084.9600B",
+     "total": 3
+    },
+    {
+     "type": "084.9900C",
+     "total": 1
+    },
+    {
+     "type": "109.9900A",
+     "total": 3
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "du7b8",
+   "hogangnono_name": "힐스테이트레이크송도4차",
+   "lat": 37.3895175,
+   "lon": 126.615502,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
     "수도권"
    ],
    "status": "upcoming"
