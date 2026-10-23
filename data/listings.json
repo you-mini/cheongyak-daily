@@ -1,64 +1,8 @@
 {
- "updated_at": "2026-10-22 23:40 KST",
+ "updated_at": "2026-10-23 09:05 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 180,
+ "count": 184,
  "items": [
-  {
-   "pblancNo": "2026910221",
-   "houseManageNo": "2026910221",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "대방역 여의도 더로드캐슬(5차)",
-   "builder": "(주)무궁화신탁",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-01 ~ 2026-09-07",
-   "announce_date": "2026-09-10",
-   "phone": "",
-   "apply_start": "2026-09-01",
-   "apply_end": "2026-09-07",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 영등포구 신길동 449-11",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-09-17 ~ 2026-09-20",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-01 ~ 2026-09-07"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "024.9100",
-     "total": 2
-    },
-    {
-     "type": "025.3700",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gJB65",
-   "hogangnono_name": "대방역여의도더로드캐슬",
-   "lat": 37.5129205591515,
-   "lon": 126.922932998353,
-   "score": 65,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026940184",
    "houseManageNo": "2026940184",
@@ -114,66 +58,6 @@
    "hogangnono_name": "더샵분당센트로",
    "lat": 37.339321,
    "lon": 127.11695,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910230",
-   "houseManageNo": "2026910230",
-   "houseSecd": "04",
-   "region": "인천",
-   "supply_kind": "무순위(사후)",
-   "name": "포레나더샵 인천시청역(3차)",
-   "builder": "상인천초교주변주택재개발정비사업조합",
-   "notice_date": "2026-08-31",
-   "apply_period": "2026-09-07 ~ 2026-09-07",
-   "announce_date": "2026-09-10",
-   "phone": "",
-   "apply_start": "2026-09-07",
-   "apply_end": "2026-09-07",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910230&pblancNo=2026910230&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 남동구 간석1동 311-1번지 일원",
-   "total_units_text": "5세대",
-   "total_units": 5,
-   "contract_period": "2026-09-11 ~ 2026-09-11",
-   "homepage": "",
-   "move_in": "2029.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-07 ~ 2026-09-07"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "049.9664",
-     "total": 1
-    },
-    {
-     "type": "059.9954A",
-     "total": 2
-    },
-    {
-     "type": "059.9800B",
-     "total": 2
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "fc0c3",
-   "hogangnono_name": "포레나더샵인천시청역",
-   "lat": 37.462974,
-   "lon": 126.705355,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
@@ -12887,7 +12771,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940233",
@@ -12956,7 +12840,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940231",
@@ -13018,7 +12902,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940227",
@@ -14262,6 +14146,68 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940232",
+   "houseManageNo": "2026940232",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "금정역 개성로니엘(4차)",
+   "builder": "한국자산신탁(주)",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-10-27 ~ 2026-10-27",
+   "announce_date": "2026-10-30",
+   "phone": "",
+   "apply_start": "2026-10-27",
+   "apply_end": "2026-10-27",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940232&pblancNo=2026940232&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 군포시 금정동 77-4번지 일원",
+   "total_units_text": "52세대",
+   "total_units": 52,
+   "contract_period": "2026-11-06 ~ 2026-11-06",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-27 ~ 2026-10-27"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "072.2757",
+     "price": 71185,
+     "total": 25,
+     "price_per_pyeong": 3256
+    },
+    {
+     "type": "081.0413",
+     "price": 71185,
+     "total": 27,
+     "price_per_pyeong": 2904
+    }
+   ],
+   "prices": {
+    "072.2757": 71185,
+    "081.0413": 71185
+   },
+   "price_min": 71185,
+   "price_max": 71185,
+   "hogangnono_id": "gred0",
+   "hogangnono_name": "금정역개성로니엘",
+   "lat": 37.3680744692115,
+   "lon": 126.944475879941,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910271",
    "houseManageNo": "2026910271",
    "houseSecd": "04",
@@ -14663,6 +14609,69 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026950094",
+   "houseManageNo": "2026950094",
+   "houseSecd": "02",
+   "region": "서울",
+   "house_kind": "오피스텔",
+   "name": "대방역 여의도 더로드캐슬",
+   "builder": "(주)무궁화신탁",
+   "phone": "1877-8079",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-10-28 ~ 2026-11-03",
+   "announce_date": "2026-11-06",
+   "apply_start": "2026-10-28",
+   "apply_end": "2026-11-03",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950094&pblancNo=2026950094&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "서울특별시 영등포구 신길동 449-11",
+   "total_units_text": "4세대",
+   "total_units": 4,
+   "contract_period": "2026-11-07 ~ 2026-11-09",
+   "homepage": "https://www.여의도더로드캐슬.kr",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-28 ~ 2026-11-03"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "37A",
+     "area": 37.04,
+     "total": 2,
+     "price": 50200,
+     "price_per_pyeong": 4480
+    },
+    {
+     "type": "37B",
+     "area": 37.8,
+     "total": 2,
+     "price": 52104,
+     "price_per_pyeong": 4557
+    }
+   ],
+   "prices": {
+    "37A": 50200,
+    "37B": 52104
+   },
+   "price_min": 50200,
+   "price_max": 52104,
+   "hogangnono_id": "gJB65",
+   "hogangnono_name": "대방역여의도더로드캐슬",
+   "lat": 37.5129205591515,
+   "lon": 126.922932998353,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000373",
    "houseManageNo": "2026000373",
    "houseSecd": "",
@@ -14913,6 +14922,484 @@
    "lat": 37.572159,
    "lon": 127.170148,
    "score": 30,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000532",
+   "houseManageNo": "2026000532",
+   "houseSecd": "",
+   "region": "인천",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "계양신도시 카이브 유보라(AC4BL)",
+   "builder": "(주)반도건설",
+   "phone": "1800-0320",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-11-02 ~ 2026-11-04",
+   "announce_date": "2026-11-11",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-04",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000532&pblancNo=2026000532",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 계양구 동양동 420-3번지 일원 (인천계양 테크노밸리 공공주택지구 AC4블록)",
+   "total_units_text": "496세대",
+   "total_units": 496,
+   "contract_period": "2026-11-23 ~ 2026-11-25",
+   "homepage": "https://www.gy-bando.com",
+   "move_in": "2029.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-02",
+      "2026-11-02"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-03",
+      "2026-11-03"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-04",
+      "2026-11-04"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.3473A",
+     "area": 110.5518,
+     "general": 56,
+     "special": 129,
+     "total": 185,
+     "price": 82200,
+     "price_per_pyeong": 3222
+    },
+    {
+     "type": "084.6971B",
+     "area": 111.0102,
+     "general": 25,
+     "special": 56,
+     "total": 81,
+     "price": 80900,
+     "price_per_pyeong": 3158
+    },
+    {
+     "type": "084.8175C",
+     "area": 111.168,
+     "general": 9,
+     "special": 16,
+     "total": 25,
+     "price": 81000,
+     "price_per_pyeong": 3157
+    },
+    {
+     "type": "084.5968D",
+     "area": 110.8788,
+     "general": 27,
+     "special": 57,
+     "total": 84,
+     "price": 80800,
+     "price_per_pyeong": 3157
+    },
+    {
+     "type": "084.9714E",
+     "area": 111.3698,
+     "general": 6,
+     "special": 15,
+     "total": 21,
+     "price": 81450,
+     "price_per_pyeong": 3169
+    },
+    {
+     "type": "093.7413A",
+     "area": 122.8642,
+     "general": 44,
+     "special": 7,
+     "total": 51,
+     "price": 90500,
+     "price_per_pyeong": 3191
+    },
+    {
+     "type": "093.8537B",
+     "area": 123.0116,
+     "general": 44,
+     "special": 5,
+     "total": 49,
+     "price": 90600,
+     "price_per_pyeong": 3191
+    }
+   ],
+   "prices": {
+    "084.3473A": 82200,
+    "084.6971B": 80900,
+    "084.8175C": 81000,
+    "084.5968D": 80800,
+    "084.9714E": 81450,
+    "093.7413A": 90500,
+    "093.8537B": 90600
+   },
+   "price_min": 80800,
+   "price_max": 90600,
+   "hogangnono_id": "gWL7d",
+   "hogangnono_name": "계양신도시카이브유보라AC4BL",
+   "lat": 37.5536101,
+   "lon": 126.7613487,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000530",
+   "houseManageNo": "2026000530",
+   "houseSecd": "",
+   "region": "인천",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "계양신도시 카이브 유보라(AC3BL)",
+   "builder": "(주)반도건설",
+   "phone": "1800-0320",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-11-02 ~ 2026-11-04",
+   "announce_date": "2026-11-10",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-04",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000530&pblancNo=2026000530",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 계양구 동양동 458-3번지 일원 (인천계양 테크노밸리 공공주택지구 AC3블록)",
+   "total_units_text": "614세대",
+   "total_units": 614,
+   "contract_period": "2026-11-23 ~ 2026-11-25",
+   "homepage": "https://www.gy-bando.com",
+   "move_in": "2029.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-02",
+      "2026-11-02"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-03",
+      "2026-11-03"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-04",
+      "2026-11-04"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.3473A",
+     "area": 110.7786,
+     "general": 70,
+     "special": 159,
+     "total": 229,
+     "price": 82600,
+     "price_per_pyeong": 3237
+    },
+    {
+     "type": "084.6971B",
+     "area": 111.238,
+     "general": 22,
+     "special": 57,
+     "total": 79,
+     "price": 81300,
+     "price_per_pyeong": 3173
+    },
+    {
+     "type": "084.8175C",
+     "area": 111.3961,
+     "general": 10,
+     "special": 16,
+     "total": 26,
+     "price": 81400,
+     "price_per_pyeong": 3173
+    },
+    {
+     "type": "084.5968D",
+     "area": 111.1063,
+     "general": 39,
+     "special": 86,
+     "total": 125,
+     "price": 81200,
+     "price_per_pyeong": 3173
+    },
+    {
+     "type": "084.9714E",
+     "area": 111.5982,
+     "general": 11,
+     "special": 18,
+     "total": 29,
+     "price": 81850,
+     "price_per_pyeong": 3184
+    },
+    {
+     "type": "092.1964A",
+     "area": 121.0873,
+     "general": 31,
+     "special": 5,
+     "total": 36,
+     "price": 91200,
+     "price_per_pyeong": 3270
+    },
+    {
+     "type": "093.7413A",
+     "area": 123.1163,
+     "general": 31,
+     "special": 5,
+     "total": 36,
+     "price": 90900,
+     "price_per_pyeong": 3206
+    },
+    {
+     "type": "093.8537B",
+     "area": 123.2639,
+     "general": 47,
+     "special": 7,
+     "total": 54,
+     "price": 91000,
+     "price_per_pyeong": 3205
+    }
+   ],
+   "prices": {
+    "084.3473A": 82600,
+    "084.6971B": 81300,
+    "084.8175C": 81400,
+    "084.5968D": 81200,
+    "084.9714E": 81850,
+    "092.1964A": 91200,
+    "093.7413A": 90900,
+    "093.8537B": 91000
+   },
+   "price_min": 81200,
+   "price_max": 91200,
+   "hogangnono_id": "gVz60",
+   "hogangnono_name": "계양신도시카이브유보라AC3BL",
+   "lat": 37.5546865,
+   "lon": 126.7530041,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000518",
+   "houseManageNo": "2026000518",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "GTX운정중앙역 시티프라디움 4단지(후속사업)",
+   "builder": "주식회사 시티건설, 주식회사 시티, 주식회사 시티종합건설",
+   "phone": "1899-6995",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-11-02 ~ 2026-11-04",
+   "announce_date": "2026-11-11",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-04",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000518&pblancNo=2026000518",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 파주시 파주운정3지구 주상복합 4블록(경기도 파주시 동패동 400-7번지 일원)",
+   "total_units_text": "358세대",
+   "total_units": 358,
+   "contract_period": "2026-11-25 ~ 2026-11-29",
+   "homepage": "https://www.gtx운정중앙역시티프라디움.com",
+   "move_in": "2030.07",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-02",
+      "2026-11-02",
+      "2026-11-02"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-03",
+      "2026-11-03",
+      "2026-11-03"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-04",
+      "2026-11-04",
+      "2026-11-04"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "060.9995",
+     "area": 84.8223,
+     "general": 33,
+     "special": 59,
+     "total": 92,
+     "price": 60100,
+     "price_per_pyeong": 3257
+    },
+    {
+     "type": "084.9594",
+     "area": 114.9317,
+     "general": 95,
+     "special": 171,
+     "total": 266,
+     "price": 81400,
+     "price_per_pyeong": 3167
+    }
+   ],
+   "prices": {
+    "060.9995": 60100,
+    "084.9594": 81400
+   },
+   "price_min": 60100,
+   "price_max": 81400,
+   "hogangnono_id": "gYX01",
+   "hogangnono_name": "GTX운정중앙역시티프라디움4BL",
+   "lat": 37.7151232,
+   "lon": 126.7257669,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000517",
+   "houseManageNo": "2026000517",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "GTX운정중앙역 시티프라디움 3단지(후속사업)",
+   "builder": "주식회사 시티건설, 주식회사 시티, 주식회사 시티종합건설",
+   "phone": "1899-6995",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-11-02 ~ 2026-11-04",
+   "announce_date": "2026-11-10",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-04",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 파주시 파주운정3지구 주상복합 3블록(경기도 파주시 동패동 1673번지 일원)",
+   "total_units_text": "337세대",
+   "total_units": 337,
+   "contract_period": "2026-11-25 ~ 2026-11-29",
+   "homepage": "https://www.gtx운정중앙역시티프라디움.com",
+   "move_in": "2030.07",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-02",
+      "2026-11-02",
+      "2026-11-02"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-03",
+      "2026-11-03",
+      "2026-11-03"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-04",
+      "2026-11-04",
+      "2026-11-04"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "060.9995",
+     "area": 83.0332,
+     "general": 12,
+     "special": 21,
+     "total": 33,
+     "price": 58900,
+     "price_per_pyeong": 3192
+    },
+    {
+     "type": "084.9594",
+     "area": 112.4399,
+     "general": 29,
+     "special": 48,
+     "total": 77,
+     "price": 79800,
+     "price_per_pyeong": 3105
+    },
+    {
+     "type": "084.4998",
+     "area": 114.2095,
+     "general": 31,
+     "special": 55,
+     "total": 86,
+     "price": 79400,
+     "price_per_pyeong": 3106
+    },
+    {
+     "type": "088.5023",
+     "area": 116.828,
+     "general": 55,
+     "special": 7,
+     "total": 62,
+     "price": 84100,
+     "price_per_pyeong": 3141
+    },
+    {
+     "type": "115.3141",
+     "area": 151.5064,
+     "general": 69,
+     "special": 10,
+     "total": 79,
+     "price": 99400,
+     "price_per_pyeong": 2850
+    }
+   ],
+   "prices": {
+    "060.9995": 58900,
+    "084.9594": 79800,
+    "084.4998": 79400,
+    "088.5023": 84100,
+    "115.3141": 99400
+   },
+   "price_min": 58900,
+   "price_max": 99400,
+   "hogangnono_id": "gGK27",
+   "hogangnono_name": "GTX운정중앙역시티프라디움3BL",
+   "lat": 37.7164095,
+   "lon": 126.7258038,
+   "score": 20,
    "tags": [
     "수도권"
    ],
