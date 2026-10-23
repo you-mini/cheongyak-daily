@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-23 09:05 KST",
+ "updated_at": "2026-10-24 08:58 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 184,
+ "count": 185,
  "items": [
   {
    "pblancNo": "2026940184",
@@ -14668,6 +14668,95 @@
    "score": 20,
    "tags": [
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000531",
+   "houseManageNo": "2026000531",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "시흥거모지구 S-1블록 공공분양(본청약)",
+   "builder": "씨에이이앤씨주식회사",
+   "phone": "1600-1004",
+   "notice_date": "2026-10-23",
+   "apply_period": "2026-11-02 ~ 2026-11-17",
+   "announce_date": "2026-11-26",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-17",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000531&pblancNo=2026000531",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 시흥시 거모동, 군자동 일원 시흥거모 공공주택지구 내 S-1블록",
+   "total_units_text": "300세대",
+   "total_units": 300,
+   "contract_period": "2027-02-01 ~ 2027-02-03",
+   "homepage": "https://apply.lh.or.kr/",
+   "move_in": "2029.06",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-02~2026-11-16",
+      "2026-11-02~2026-11-16",
+      "2026-11-02~2026-11-16"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-17",
+      "2026-11-17",
+      "2026-11-17"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9000A",
+     "area": 78.7184,
+     "general": 3,
+     "special": 10,
+     "total": 13,
+     "price": 41110,
+     "price_per_pyeong": 2269
+    },
+    {
+     "type": "059.8000B",
+     "area": 78.587,
+     "general": 5,
+     "special": 15,
+     "total": 20,
+     "price": 41042,
+     "price_per_pyeong": 2269
+    },
+    {
+     "type": "084.8900A",
+     "area": 111.5594,
+     "general": 19,
+     "special": 53,
+     "total": 72,
+     "price": 57026,
+     "price_per_pyeong": 2221
+    }
+   ],
+   "prices": {
+    "059.9000A": 41110,
+    "059.8000B": 41042,
+    "084.8900A": 57026
+   },
+   "price_min": 41042,
+   "price_max": 57026,
+   "hogangnono_id": "f6L16",
+   "hogangnono_name": "시흥거모S-1블록",
+   "lat": 37.3506091,
+   "lon": 126.782892,
+   "score": 30,
+   "tags": [
+    "수도권",
+    "공공분양"
    ],
    "status": "upcoming"
   },
