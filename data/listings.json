@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-25 08:30 KST",
+ "updated_at": "2026-10-25 22:55 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 177,
+ "count": 175,
  "items": [
   {
    "pblancNo": "2026000399",
@@ -180,89 +180,6 @@
    "tags": [
     "수도권",
     "공공분양"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940194",
-   "houseManageNo": "2026940194",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(7차)",
-   "builder": "디비종합건설주식회사,디비주택주식회사",
-   "notice_date": "2026-09-04",
-   "apply_period": "2026-09-08 ~ 2026-09-09",
-   "announce_date": "2026-09-14",
-   "phone": "",
-   "apply_start": "2026-09-08",
-   "apply_end": "2026-09-09",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940194&pblancNo=2026940194&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 영종구 중산동 1958-8,9 (인천광역시 영종구 중산동 RC4-1,2BL)",
-   "total_units_text": "29세대",
-   "total_units": 29,
-   "contract_period": "2026-09-21 ~ 2026-09-21",
-   "homepage": "",
-   "move_in": "2029.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-08 ~ 2026-09-09"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9670A",
-     "price": 62342,
-     "total": 4,
-     "price_per_pyeong": 2426
-    },
-    {
-     "type": "104.9940A",
-     "price": 87895,
-     "total": 10,
-     "price_per_pyeong": 2767
-    },
-    {
-     "type": "104.9695B",
-     "price": 78961,
-     "total": 9,
-     "price_per_pyeong": 2487
-    },
-    {
-     "type": "112.9721A",
-     "price": 89783,
-     "total": 3,
-     "price_per_pyeong": 2627
-    },
-    {
-     "type": "112.9810B",
-     "price": 81934,
-     "total": 3,
-     "price_per_pyeong": 2397
-    }
-   ],
-   "prices": {
-    "084.9670A": 62342,
-    "104.9940A": 87895,
-    "104.9695B": 78961,
-    "112.9721A": 89783,
-    "112.9810B": 81934
-   },
-   "price_min": 62342,
-   "price_max": 89783,
-   "hogangnono_id": "fBa93",
-   "hogangnono_name": "인천영종국제도시디에트르라메르Ⅰ",
-   "lat": 37.4918362831198,
-   "lon": 126.571064768683,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -492,57 +409,6 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910231",
-   "houseManageNo": "2026910231",
-   "houseSecd": "04",
-   "region": "대구",
-   "supply_kind": "무순위(사후)",
-   "name": "동대구역 더샵 센터시티(2차)",
-   "builder": "대호아이피글로벌 주식회사",
-   "notice_date": "2026-09-04",
-   "apply_period": "2026-09-09 ~ 2026-09-09",
-   "announce_date": "2026-09-14",
-   "phone": "",
-   "apply_start": "2026-09-09",
-   "apply_end": "2026-09-09",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910231&pblancNo=2026910231&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "대구광역시 동구 동부로 19길 18",
-   "total_units_text": "1세대",
-   "total_units": 1,
-   "contract_period": "2026-09-22 ~ 2026-09-22",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-09 ~ 2026-09-09"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9464B",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "dE36a",
-   "hogangnono_name": "동대구역더샵센터시티",
-   "lat": 35.8769271,
-   "lon": 128.6232717,
-   "score": 45,
-   "tags": [
-    "무순위·잔여세대",
-    "소량 공급"
    ],
    "status": "closed"
   },
