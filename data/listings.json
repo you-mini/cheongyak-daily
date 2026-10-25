@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-25 22:55 KST",
+ "updated_at": "2026-10-26 08:26 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 175,
+ "count": 180,
  "items": [
   {
    "pblancNo": "2026000399",
@@ -13846,6 +13846,131 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940236",
+   "houseManageNo": "2026940236",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "부천역 에피트 어바닉(5차)",
+   "builder": "장미연립가로주택정비사업조합",
+   "notice_date": "2026-10-26",
+   "apply_period": "2026-10-28 ~ 2026-10-28",
+   "announce_date": "2026-11-02",
+   "phone": "",
+   "apply_start": "2026-10-28",
+   "apply_end": "2026-10-28",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940236&pblancNo=2026940236&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 부천시 원미구 원미동 150-1외 2필지",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-11-03 ~ 2026-11-03",
+   "homepage": "",
+   "move_in": "2028.07",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-28 ~ 2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "052.1088",
+     "price": 43669,
+     "total": 1,
+     "price_per_pyeong": 2770
+    },
+    {
+     "type": "064.5397A",
+     "price": 53136,
+     "total": 2,
+     "price_per_pyeong": 2722
+    },
+    {
+     "type": "064.2641B",
+     "price": 55332,
+     "total": 2,
+     "price_per_pyeong": 2846
+    }
+   ],
+   "prices": {
+    "052.1088": 43669,
+    "064.5397A": 53136,
+    "064.2641B": 55332
+   },
+   "price_min": 43669,
+   "price_max": 55332,
+   "hogangnono_id": "gNcb9",
+   "hogangnono_name": "부천역에피트어바닉",
+   "lat": 37.490706,
+   "lon": 126.786615,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940238",
+   "houseManageNo": "2026940238",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "안성 아양지구 B-2블록 금성백조 예미지(2차)",
+   "builder": "(주)금성백조주택",
+   "notice_date": "2026-10-26",
+   "apply_period": "2026-10-28 ~ 2026-10-28",
+   "announce_date": "2026-11-02",
+   "phone": "",
+   "apply_start": "2026-10-28",
+   "apply_end": "2026-10-28",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940238&pblancNo=2026940238&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 안성시 아양지구 B-2블록 (옥산동 659번지)",
+   "total_units_text": "73세대",
+   "total_units": 73,
+   "contract_period": "2026-11-07 ~ 2026-11-07",
+   "homepage": "",
+   "move_in": "2028.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-28 ~ 2026-10-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9900",
+     "price": 44330,
+     "total": 73,
+     "price_per_pyeong": 1724
+    }
+   ],
+   "prices": {
+    "084.9900": 44330
+   },
+   "price_min": 44330,
+   "price_max": 44330,
+   "hogangnono_id": "faz38",
+   "hogangnono_name": "안성아양B2블록금성백조예미지",
+   "lat": 37.003534,
+   "lon": 127.255469,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026950094",
    "houseManageNo": "2026950094",
    "houseSecd": "02",
@@ -13904,6 +14029,180 @@
    "lon": 126.922932998353,
    "score": 20,
    "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026930042",
+   "houseManageNo": "2026930042",
+   "houseSecd": "06",
+   "region": "경기",
+   "supply_kind": "불법행위 재공급",
+   "name": "파주 운정신도시 우미 린 더 센텀",
+   "builder": "(주)명일건설",
+   "notice_date": "2026-10-26",
+   "apply_period": "2026-11-02 ~ 2026-11-02",
+   "announce_date": "2026-11-05",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930042&pblancNo=2026930042&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-13 ~ 2026-11-13",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9891A",
+     "area": 113.6235,
+     "general": 0,
+     "special": 1,
+     "total": 1,
+     "price": 54250,
+     "price_per_pyeong": 2110
+    }
+   ],
+   "prices": {
+    "084.9891A": 54250
+   },
+   "price_min": 54250,
+   "price_max": 54250,
+   "hogangnono_id": "cO02f",
+   "hogangnono_name": "한울마을1단지운정신도시아이파크",
+   "lat": 37.7154023,
+   "lon": 126.7344557,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910257",
+   "houseManageNo": "2026910257",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "파주 운정신도시 우미 린 더 센텀",
+   "builder": "(주)명일건설",
+   "notice_date": "2026-10-26",
+   "apply_period": "2026-11-02 ~ 2026-11-02",
+   "announce_date": "2026-11-05",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910257&pblancNo=2026910257&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-11-13 ~ 2026-11-13",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-02 ~ 2026-11-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9891A",
+     "total": 1
+    },
+    {
+     "type": "084.9867B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "cO02f",
+   "hogangnono_name": "한울마을1단지운정신도시아이파크",
+   "lat": 37.7154023,
+   "lon": 126.7344557,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910269",
+   "houseManageNo": "2026910269",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "화서역 호수공원 아너스빌",
+   "builder": "삼환기업(주)",
+   "notice_date": "2026-10-26",
+   "apply_period": "2026-11-02 ~ 2026-11-02",
+   "announce_date": "2026-11-06",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910269&pblancNo=2026910269&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 수원시 권선구 서둔동 212-1번지 일원",
+   "total_units_text": "169세대",
+   "total_units": 169,
+   "contract_period": "2026-11-13 ~ 2026-11-13",
+   "homepage": "",
+   "move_in": "2029.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-02 ~ 2026-11-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7459A",
+     "total": 26
+    },
+    {
+     "type": "084.8508B",
+     "total": 76
+    },
+    {
+     "type": "084.9663D",
+     "total": 67
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gPeed",
+   "hogangnono_name": "화서역호수공원아너스빌",
+   "lat": 37.2735297,
+   "lon": 126.981965,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
     "수도권"
    ],
    "status": "upcoming"
