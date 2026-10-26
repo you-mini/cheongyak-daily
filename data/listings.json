@@ -1,111 +1,8 @@
 {
- "updated_at": "2026-10-26 08:26 KST",
+ "updated_at": "2026-10-27 01:20 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 180,
+ "count": 178,
  "items": [
-  {
-   "pblancNo": "2026000399",
-   "houseManageNo": "2026000399",
-   "houseSecd": "",
-   "region": "서울",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "브라운스톤 월곡 센트럴",
-   "builder": "이수건설 주식회사",
-   "phone": "1599-7775",
-   "notice_date": "2026-08-28",
-   "apply_period": "2026-09-07 ~ 2026-09-10",
-   "announce_date": "2026-09-16",
-   "apply_start": "2026-09-07",
-   "apply_end": "2026-09-10",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 성북구 하월곡동 70-4번지 일원",
-   "total_units_text": "62세대",
-   "total_units": 62,
-   "contract_period": "2026-09-28 ~ 2026-09-30",
-   "homepage": "https://www.브라운스톤월곡센트럴.com",
-   "move_in": "2029.03",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-09-07",
-      "2026-09-07"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-08",
-      "2026-09-09"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-10",
-      "2026-09-10"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9442A",
-     "area": 81.6956,
-     "general": 7,
-     "special": 21,
-     "total": 28,
-     "price": 91000,
-     "price_per_pyeong": 5018
-    },
-    {
-     "type": "059.9442B",
-     "area": 81.6956,
-     "general": 6,
-     "special": 5,
-     "total": 11,
-     "price": 89200,
-     "price_per_pyeong": 4919
-    },
-    {
-     "type": "059.9293C",
-     "area": 81.5083,
-     "general": 9,
-     "special": 9,
-     "total": 18,
-     "price": 86200,
-     "price_per_pyeong": 4755
-    },
-    {
-     "type": "074.9610",
-     "area": 102.5132,
-     "general": 5,
-     "special": 0,
-     "total": 5,
-     "price": 107500,
-     "price_per_pyeong": 4741
-    }
-   ],
-   "prices": {
-    "059.9442A": 91000,
-    "059.9442B": 89200,
-    "059.9293C": 86200,
-    "074.9610": 107500
-   },
-   "price_min": 86200,
-   "price_max": 107500,
-   "hogangnono_id": "gNV36",
-   "hogangnono_name": "브라운스톤월곡센트럴",
-   "lat": 37.6060363,
-   "lon": 127.036143,
-   "score": 30,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026000409",
    "houseManageNo": "2026000409",
@@ -184,97 +81,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026000202",
-   "houseManageNo": "2026000202",
-   "houseSecd": "",
-   "region": "대전",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "대전 경남아너스빌 센텀스카이",
-   "builder": "경남기업(주)",
-   "phone": "1551-5595",
-   "notice_date": "2026-09-03",
-   "apply_period": "2026-09-08 ~ 2026-09-10",
-   "announce_date": "2026-09-16",
-   "apply_start": "2026-09-08",
-   "apply_end": "2026-09-10",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "대전광역시 중구 대흥동 38-17번지 일원",
-   "total_units_text": "142세대",
-   "total_units": 142,
-   "contract_period": "2026-09-28 ~ 2026-09-30",
-   "homepage": "http://sky-honorsville.co.kr/",
-   "move_in": "2030.01",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-09-08",
-      "2026-09-08"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-09",
-      "2026-09-09"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-10",
-      "2026-09-10"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.2259A",
-     "area": 116.4662,
-     "general": 33,
-     "special": 39,
-     "total": 72,
-     "price": 59600,
-     "price_per_pyeong": 2339
-    },
-    {
-     "type": "084.5328B",
-     "area": 116.5674,
-     "general": 25,
-     "special": 29,
-     "total": 54,
-     "price": 59900,
-     "price_per_pyeong": 2342
-    },
-    {
-     "type": "084.8209C",
-     "area": 117.1233,
-     "general": 9,
-     "special": 7,
-     "total": 16,
-     "price": 59400,
-     "price_per_pyeong": 2315
-    }
-   ],
-   "prices": {
-    "084.2259A": 59600,
-    "084.5328B": 59900,
-    "084.8209C": 59400
-   },
-   "price_min": 59400,
-   "price_max": 59900,
-   "hogangnono_id": "gRcd2",
-   "hogangnono_name": "대전경남아너스빌센텀스카이",
-   "lat": 36.3223931502111,
-   "lon": 127.429922176068,
-   "score": 10,
-   "tags": [],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026940191",
    "houseManageNo": "2026940191",
    "houseSecd": "11",
@@ -343,68 +149,6 @@
    "hogangnono_name": "고덕신도시아테라",
    "lat": 37.0541628,
    "lon": 127.018291,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940187",
-   "houseManageNo": "2026940187",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "풍무역세권 수자인 그라센트 2차(3차)",
-   "builder": "주식회사 비에스한양, 주식회사 비에스산업",
-   "notice_date": "2026-09-07",
-   "apply_period": "2026-09-09 ~ 2026-09-10",
-   "announce_date": "2026-09-15",
-   "phone": "",
-   "apply_start": "2026-09-09",
-   "apply_end": "2026-09-10",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940187&pblancNo=2026940187&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
-   "total_units_text": "8세대",
-   "total_units": 8,
-   "contract_period": "2026-09-17 ~ 2026-09-17",
-   "homepage": "",
-   "move_in": "2029.01",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-09 ~ 2026-09-10"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9939",
-     "price": 71150,
-     "total": 4,
-     "price_per_pyeong": 2767
-    },
-    {
-     "type": "105.2083",
-     "price": 82530,
-     "total": 4,
-     "price_per_pyeong": 2593
-    }
-   ],
-   "prices": {
-    "084.9939": 71150,
-    "105.2083": 82530
-   },
-   "price_min": 71150,
-   "price_max": 82530,
-   "hogangnono_id": "gJ829",
-   "hogangnono_name": "풍무역세권수자인그라센트2차",
-   "lat": 37.6196353600987,
-   "lon": 126.726463585304,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
@@ -12202,7 +11946,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930044",
@@ -12261,7 +12005,7 @@
     "최초 분양가 재공급",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940228",
@@ -12358,7 +12102,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910265",
@@ -12410,7 +12154,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910268",
@@ -12477,7 +12221,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910266",
@@ -12535,7 +12279,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000509",
@@ -12691,7 +12435,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000508",
@@ -12837,7 +12581,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000514",
@@ -12948,7 +12692,7 @@
    "lon": 129.1173706,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000513",
@@ -13059,7 +12803,7 @@
    "lon": 129.1137615,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000507",
@@ -13153,7 +12897,7 @@
    "lon": 129.108,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000495",
@@ -13274,7 +13018,7 @@
    "lon": 129.1065603,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026950093",
@@ -13329,7 +13073,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910270",
@@ -14029,6 +13773,61 @@
    "lon": 126.922932998353,
    "score": 20,
    "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940239",
+   "houseManageNo": "2026940239",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "이천 중리지구 B3블록 금성백조 예미지(3차)",
+   "builder": "(주)금성백조주택",
+   "notice_date": "2026-10-27",
+   "apply_period": "2026-10-29 ~ 2026-10-29",
+   "announce_date": "2026-11-03",
+   "phone": "",
+   "apply_start": "2026-10-29",
+   "apply_end": "2026-10-29",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940239&pblancNo=2026940239&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
+   "total_units_text": "15세대",
+   "total_units": 15,
+   "contract_period": "2026-11-04 ~ 2026-11-04",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-29 ~ 2026-10-29"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7884A",
+     "price": 54700,
+     "total": 15,
+     "price_per_pyeong": 2133
+    }
+   ],
+   "prices": {
+    "084.7884A": 54700
+   },
+   "price_min": 54700,
+   "price_max": 54700,
+   "hogangnono_id": "gO701",
+   "hogangnono_name": "이천중리지구B-4",
+   "lat": 37.2698394,
+   "lon": 127.4417319,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
     "수도권"
    ],
    "status": "upcoming"
