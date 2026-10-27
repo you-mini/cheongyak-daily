@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-27 01:20 KST",
+ "updated_at": "2026-10-27 09:41 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 178,
+ "count": 166,
  "items": [
   {
    "pblancNo": "2026000409",
@@ -77,741 +77,6 @@
    "tags": [
     "수도권",
     "공공분양"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940191",
-   "houseManageNo": "2026940191",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "고덕신도시 아테라 A-63블록 공공분양주택",
-   "builder": "한국토지주택공사 경기남부지역본부",
-   "notice_date": "2026-09-07",
-   "apply_period": "2026-09-09 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-09",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 평택시 고덕동, 고덕면 일원(평택고덕국제화계획지구 내 A-63BL)",
-   "total_units_text": "49세대",
-   "total_units": 49,
-   "contract_period": "2026-09-19 ~ 2026-09-19",
-   "homepage": "",
-   "move_in": "2028.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-09 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "074.5900A",
-     "price": 47552,
-     "total": 13,
-     "price_per_pyeong": 2107
-    },
-    {
-     "type": "074.7200B",
-     "price": 47635,
-     "total": 6,
-     "price_per_pyeong": 2107
-    },
-    {
-     "type": "084.5600A",
-     "price": 53908,
-     "total": 12,
-     "price_per_pyeong": 2107
-    },
-    {
-     "type": "084.5600B",
-     "price": 53908,
-     "total": 18,
-     "price_per_pyeong": 2107
-    }
-   ],
-   "prices": {
-    "074.5900A": 47552,
-    "074.7200B": 47635,
-    "084.5600A": 53908,
-    "084.5600B": 53908
-   },
-   "price_min": 47552,
-   "price_max": 53908,
-   "hogangnono_id": "gLZa7",
-   "hogangnono_name": "고덕신도시아테라",
-   "lat": 37.0541628,
-   "lon": 127.018291,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940197",
-   "houseManageNo": "2026940197",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "수원역 아너스빌 타임원",
-   "builder": "에스엠하이플러스(주),(주)아주엠앤씨",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-10 ~ 2026-09-11",
-   "announce_date": "2026-09-16",
-   "phone": "",
-   "apply_start": "2026-09-10",
-   "apply_end": "2026-09-11",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940197&pblancNo=2026940197&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 수원시 권선구 평동 135-1번지 일원",
-   "total_units_text": "10세대",
-   "total_units": 10,
-   "contract_period": "2026-09-17 ~ 2026-09-17",
-   "homepage": "",
-   "move_in": "2028.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-10 ~ 2026-09-11"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.6388A",
-     "price": 76350,
-     "total": 4,
-     "price_per_pyeong": 2982
-    },
-    {
-     "type": "084.8874B",
-     "price": 77200,
-     "total": 6,
-     "price_per_pyeong": 3006
-    }
-   ],
-   "prices": {
-    "084.6388A": 76350,
-    "084.8874B": 77200
-   },
-   "price_min": 76350,
-   "price_max": 77200,
-   "hogangnono_id": "gQBa8",
-   "hogangnono_name": "수원역아너스빌타임원",
-   "lat": 37.2618691456771,
-   "lon": 126.998723641528,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940186",
-   "houseManageNo": "2026940186",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)",
-   "builder": "비봉지역주택조합",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-10 ~ 2026-09-15",
-   "announce_date": "2026-09-18",
-   "phone": "",
-   "apply_start": "2026-09-10",
-   "apply_end": "2026-09-15",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
-   "total_units_text": "23세대",
-   "total_units": 23,
-   "contract_period": "2026-09-19 ~ 2026-09-19",
-   "homepage": "",
-   "move_in": "2029.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-10 ~ 2026-09-15"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9567A",
-     "price": 41900,
-     "total": 10,
-     "price_per_pyeong": 2310
-    },
-    {
-     "type": "084.9501A",
-     "price": 57600,
-     "total": 5,
-     "price_per_pyeong": 2241
-    },
-    {
-     "type": "084.9553B",
-     "price": 56600,
-     "total": 8,
-     "price_per_pyeong": 2202
-    }
-   ],
-   "prices": {
-    "059.9567A": 41900,
-    "084.9501A": 57600,
-    "084.9553B": 56600
-   },
-   "price_min": 41900,
-   "price_max": 57600,
-   "hogangnono_id": "gyX48",
-   "hogangnono_name": "야목역서희스타힐스그랜드힐",
-   "lat": 37.2503474,
-   "lon": 126.877946,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940195",
-   "houseManageNo": "2026940195",
-   "houseSecd": "11",
-   "region": "서울",
-   "supply_kind": "임의공급",
-   "name": "더 리치먼드 미아",
-   "builder": "우리자산신탁 주식회사",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-11 ~ 2026-09-11",
-   "announce_date": "2026-09-16",
-   "phone": "",
-   "apply_start": "2026-09-11",
-   "apply_end": "2026-09-11",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940195&pblancNo=2026940195&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 강북구 미아동 703-13번지",
-   "total_units_text": "31세대",
-   "total_units": 31,
-   "contract_period": "2026-09-18 ~ 2026-09-18",
-   "homepage": "",
-   "move_in": "2028.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-11 ~ 2026-09-11"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "049.7500A",
-     "price": 80200,
-     "total": 31,
-     "price_per_pyeong": 5329
-    }
-   ],
-   "prices": {
-    "049.7500A": 80200
-   },
-   "price_min": 80200,
-   "price_max": 80200,
-   "hogangnono_id": "gQ151",
-   "hogangnono_name": "더리치먼드미아",
-   "lat": 37.620258347225,
-   "lon": 127.021264917283,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940198",
-   "houseManageNo": "2026940198",
-   "houseSecd": "11",
-   "region": "서울",
-   "supply_kind": "임의공급",
-   "name": "신월동 한양립스(2차)",
-   "builder": "덕화주택가로정비사업조합",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-11 ~ 2026-09-11",
-   "announce_date": "2026-09-16",
-   "phone": "",
-   "apply_start": "2026-09-11",
-   "apply_end": "2026-09-11",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940198&pblancNo=2026940198&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 양천구 신월동 118-14외 2필지 일대(덕화주택 가로주택정비사업조합)",
-   "total_units_text": "12세대",
-   "total_units": 12,
-   "contract_period": "2026-09-18 ~ 2026-09-19",
-   "homepage": "",
-   "move_in": "2026.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-11 ~ 2026-09-11"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "045.8300",
-     "price": 45480,
-     "total": 4,
-     "price_per_pyeong": 3281
-    },
-    {
-     "type": "053.8100A",
-     "price": 52500,
-     "total": 1,
-     "price_per_pyeong": 3225
-    },
-    {
-     "type": "053.7200B",
-     "price": 51800,
-     "total": 7,
-     "price_per_pyeong": 3188
-    }
-   ],
-   "prices": {
-    "045.8300": 45480,
-    "053.8100A": 52500,
-    "053.7200B": 51800
-   },
-   "price_min": 45480,
-   "price_max": 52500,
-   "hogangnono_id": "gyxb8",
-   "hogangnono_name": "한양LEEPS",
-   "lat": 37.5314752,
-   "lon": 126.8362391,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940196",
-   "houseManageNo": "2026940196",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "의정부역 센트럴 아이파크 (4차)",
-   "builder": "아이파크현대산업개발(주)",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-11 ~ 2026-09-11",
-   "announce_date": "2026-09-16",
-   "phone": "",
-   "apply_start": "2026-09-11",
-   "apply_end": "2026-09-11",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940196&pblancNo=2026940196&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 의정부시 의정부동 253-19번지 일원",
-   "total_units_text": "11세대",
-   "total_units": 11,
-   "contract_period": "2026-09-18 ~ 2026-09-18",
-   "homepage": "",
-   "move_in": "2029.12",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-11 ~ 2026-09-11"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.8422A",
-     "price": 82600,
-     "total": 5,
-     "price_per_pyeong": 3218
-    },
-    {
-     "type": "084.7200B",
-     "price": 79600,
-     "total": 6,
-     "price_per_pyeong": 3106
-    }
-   ],
-   "prices": {
-    "084.8422A": 82600,
-    "084.7200B": 79600
-   },
-   "price_min": 79600,
-   "price_max": 82600,
-   "hogangnono_id": "elH1c",
-   "hogangnono_name": "의정부역센트럴아이파크",
-   "lat": 37.7423935,
-   "lon": 127.0440552,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940188",
-   "houseManageNo": "2026940188",
-   "houseSecd": "11",
-   "region": "경남",
-   "supply_kind": "임의공급",
-   "name": "양산자이 파크팰리체",
-   "builder": "한국투자부동산신탁 주식회사",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-11 ~ 2026-09-11",
-   "announce_date": "2026-09-16",
-   "phone": "",
-   "apply_start": "2026-09-11",
-   "apply_end": "2026-09-11",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940188&pblancNo=2026940188&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경상남도 양산시 평산동 47-1번지 일원",
-   "total_units_text": "15세대",
-   "total_units": 15,
-   "contract_period": "2026-09-17 ~ 2026-09-17",
-   "homepage": "",
-   "move_in": "2028.07",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-11 ~ 2026-09-11"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9794B",
-     "price": 49050,
-     "total": 6,
-     "price_per_pyeong": 1908
-    },
-    {
-     "type": "120.9561",
-     "price": 73200,
-     "total": 9,
-     "price_per_pyeong": 2001
-    }
-   ],
-   "prices": {
-    "084.9794B": 49050,
-    "120.9561": 73200
-   },
-   "price_min": 49050,
-   "price_max": 73200,
-   "hogangnono_id": "gGP9b",
-   "hogangnono_name": "양산자이파크팰리체",
-   "lat": 35.3881552334879,
-   "lon": 129.151005356793,
-   "score": 30,
-   "tags": [
-    "무순위·잔여세대"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910233",
-   "houseManageNo": "2026910233",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "드파인 아르티아(2차)",
-   "builder": "노량진2재정비촉진구역재개발정비사업조합",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910233&pblancNo=2026910233&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 동작구 노량진동 312-75번지 일대",
-   "total_units_text": "7세대",
-   "total_units": 7,
-   "contract_period": "2026-09-19 ~ 2026-09-19",
-   "homepage": "",
-   "move_in": "2029.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.0000B",
-     "total": 2
-    },
-    {
-     "type": "109.8652A",
-     "total": 5
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "faIcd",
-   "hogangnono_name": "드파인아르티아",
-   "lat": 37.5070178,
-   "lon": 126.939253,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910235",
-   "houseManageNo": "2026910235",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "청계 노르웨이숲(12차)",
-   "builder": "황학동청계지역주택조합",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910235&pblancNo=2026910235&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 중구 황학동 1756번지 일원",
-   "total_units_text": "13세대",
-   "total_units": 13,
-   "contract_period": "2026-09-22 ~ 2026-09-24",
-   "homepage": "",
-   "move_in": "2028.07",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "039.6950",
-     "total": 13
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "fc355",
-   "hogangnono_name": "청계노르웨이숲",
-   "lat": 37.5695442031126,
-   "lon": 127.020416132858,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910232",
-   "houseManageNo": "2026910232",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "역북 서희스타힐스 프라임시티(조합원 취소분)",
-   "builder": "역북지역주택조합",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910232&pblancNo=2026910232&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 용인시 처인구 역북동 89-25번지 일원",
-   "total_units_text": "4세대",
-   "total_units": 4,
-   "contract_period": "2026-09-21 ~ 2026-09-21",
-   "homepage": "",
-   "move_in": "2027.03",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9987B",
-     "total": 1
-    },
-    {
-     "type": "074.9988A",
-     "total": 2
-    },
-    {
-     "type": "084.9956B",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gx5b0",
-   "hogangnono_name": "역북서희스타힐스프라임시티",
-   "lat": 37.2491240756167,
-   "lon": 127.194177831366,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910237",
-   "houseManageNo": "2026910237",
-   "houseSecd": "04",
-   "region": "인천",
-   "supply_kind": "무순위(사후)",
-   "name": "제일풍경채 검단Ⅳ",
-   "builder": "인천검단3차피에프브이 주식회사",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910237&pblancNo=2026910237&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 검단구 불로동 검단신도시 AA22블록",
-   "total_units_text": "1세대",
-   "total_units": 1,
-   "contract_period": "2026-09-22 ~ 2026-09-22",
-   "homepage": "",
-   "move_in": "2027.02",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "110.9098B",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "dTc33",
-   "hogangnono_name": "신검단중앙역풍경채어바니티",
-   "lat": 37.6056764645598,
-   "lon": 126.70162188798,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910227",
-   "houseManageNo": "2026910227",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "한강 푸르지오 리버프론트",
-   "builder": "주식회사 한강시네폴리스개발",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910227&pblancNo=2026910227&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 김포시 고촌읍 향산리 588-45번지 일원",
-   "total_units_text": "832세대",
-   "total_units": 832,
-   "contract_period": "2026-09-18 ~ 2026-09-18",
-   "homepage": "",
-   "move_in": "2031.01",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.7402A",
-     "total": 705
-    },
-    {
-     "type": "084.7060E",
-     "total": 70
-    },
-    {
-     "type": "106.9778B",
-     "total": 55
-    },
-    {
-     "type": "180.9387B",
-     "total": 2
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gNq5a",
-   "hogangnono_name": "한강푸르지오리버프론트",
-   "lat": 37.628721324668,
-   "lon": 126.73943529913,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -11521,7 +10786,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940156",
@@ -11683,7 +10948,7 @@
    "tags": [
     "공공분양"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940235",
@@ -12005,7 +11270,7 @@
     "최초 분양가 재공급",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940228",
@@ -12154,7 +11419,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910268",
@@ -12221,7 +11486,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910266",
@@ -12279,7 +11544,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000509",
@@ -13124,7 +12389,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940232",
@@ -13186,7 +12451,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910271",
@@ -13249,7 +12514,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026950088",
@@ -13456,7 +12721,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000455",
@@ -13587,7 +12852,7 @@
    "lon": 127.4779159,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940236",
