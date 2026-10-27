@@ -1,82 +1,183 @@
 {
- "updated_at": "2026-10-27 09:41 KST",
+ "updated_at": "2026-10-28 00:33 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 166,
+ "count": 174,
  "items": [
   {
-   "pblancNo": "2026000409",
-   "houseManageNo": "2026000409",
-   "houseSecd": "",
-   "region": "경기",
-   "house_kind": "국민",
-   "sale_kind": "분양주택",
-   "name": "의정부우정 A2블록 공공분양주택(본청약)",
-   "builder": "남광토건 주식회사, 금광기업(주), 경안종합건설 주식회사, 중앙건설 주식회사",
-   "phone": "031-574-9144",
-   "notice_date": "2026-08-26",
-   "apply_period": "2026-09-07 ~ 2026-09-17",
-   "announce_date": "2026-10-08",
-   "apply_start": "2026-09-07",
-   "apply_end": "2026-09-17",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000409&pblancNo=2026000409",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 의정부시 녹양동 일원 의정부우정 공공주택지구 내 A-2블록",
-   "total_units_text": "463세대",
-   "total_units": 463,
-   "contract_period": "2026-12-10 ~ 2026-12-15",
-   "homepage": "https://apply.lh.or.kr",
-   "move_in": "2029.05",
+   "pblancNo": "2026910233",
+   "houseManageNo": "2026910233",
+   "houseSecd": "04",
+   "region": "서울",
+   "supply_kind": "무순위(사후)",
+   "name": "드파인 아르티아(2차)",
+   "builder": "노량진2재정비촉진구역재개발정비사업조합",
+   "notice_date": "2026-09-08",
+   "apply_period": "2026-09-14 ~ 2026-09-14",
+   "announce_date": "2026-09-17",
+   "phone": "",
+   "apply_start": "2026-09-14",
+   "apply_end": "2026-09-14",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910233&pblancNo=2026910233&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 동작구 노량진동 312-75번지 일대",
+   "total_units_text": "7세대",
+   "total_units": 7,
+   "contract_period": "2026-09-19 ~ 2026-09-19",
+   "homepage": "",
+   "move_in": "2029.11",
    "schedule": [
     {
-     "label": "1순위",
+     "label": "청약접수",
      "dates": [
-      "2026-09-07~2026-09-15",
-      "2026-09-07~2026-09-15"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-16~2026-09-17",
-      "2026-09-16~2026-09-17"
+      "2026-09-14 ~ 2026-09-14"
      ]
     }
    ],
    "units": [
     {
-     "type": "059.9200A",
-     "area": 83.978,
-     "general": 20,
-     "special": 120,
-     "total": 140,
-     "price": 40646,
-     "price_per_pyeong": 2242
+     "type": "084.0000B",
+     "total": 2
     },
     {
-     "type": "059.9600B",
-     "area": 84.0341,
-     "general": 7,
-     "special": 38,
-     "total": 45,
-     "price": 40419,
-     "price_per_pyeong": 2228
+     "type": "109.8652A",
+     "total": 5
     }
    ],
-   "prices": {
-    "059.9200A": 40646,
-    "059.9600B": 40419
-   },
-   "price_min": 40419,
-   "price_max": 40646,
-   "hogangnono_id": "eki32",
-   "hogangnono_name": "의정부우정지구A-2블록",
-   "lat": 37.7619158,
-   "lon": 127.031628,
-   "score": 30,
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "faIcd",
+   "hogangnono_name": "드파인아르티아",
+   "lat": 37.5070178,
+   "lon": 126.939253,
+   "score": 60,
    "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "closed"
+  },
+  {
+   "pblancNo": "2026910232",
+   "houseManageNo": "2026910232",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "역북 서희스타힐스 프라임시티(조합원 취소분)",
+   "builder": "역북지역주택조합",
+   "notice_date": "2026-09-09",
+   "apply_period": "2026-09-14 ~ 2026-09-14",
+   "announce_date": "2026-09-17",
+   "phone": "",
+   "apply_start": "2026-09-14",
+   "apply_end": "2026-09-14",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910232&pblancNo=2026910232&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 용인시 처인구 역북동 89-25번지 일원",
+   "total_units_text": "4세대",
+   "total_units": 4,
+   "contract_period": "2026-09-21 ~ 2026-09-21",
+   "homepage": "",
+   "move_in": "2027.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-14 ~ 2026-09-14"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9987B",
+     "total": 1
+    },
+    {
+     "type": "074.9988A",
+     "total": 2
+    },
+    {
+     "type": "084.9956B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gx5b0",
+   "hogangnono_name": "역북서희스타힐스프라임시티",
+   "lat": 37.2491240756167,
+   "lon": 127.194177831366,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
     "수도권",
-    "공공분양"
+    "소량 공급"
+   ],
+   "status": "closed"
+  },
+  {
+   "pblancNo": "2026910227",
+   "houseManageNo": "2026910227",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "한강 푸르지오 리버프론트",
+   "builder": "주식회사 한강시네폴리스개발",
+   "notice_date": "2026-09-09",
+   "apply_period": "2026-09-14 ~ 2026-09-14",
+   "announce_date": "2026-09-17",
+   "phone": "",
+   "apply_start": "2026-09-14",
+   "apply_end": "2026-09-14",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910227&pblancNo=2026910227&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 김포시 고촌읍 향산리 588-45번지 일원",
+   "total_units_text": "832세대",
+   "total_units": 832,
+   "contract_period": "2026-09-18 ~ 2026-09-18",
+   "homepage": "",
+   "move_in": "2031.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-14 ~ 2026-09-14"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7402A",
+     "total": 705
+    },
+    {
+     "type": "084.7060E",
+     "total": 70
+    },
+    {
+     "type": "106.9778B",
+     "total": 55
+    },
+    {
+     "type": "180.9387B",
+     "total": 2
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gNq5a",
+   "hogangnono_name": "한강푸르지오리버프론트",
+   "lat": 37.628721324668,
+   "lon": 126.73943529913,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
    ],
    "status": "closed"
   },
@@ -139,115 +240,6 @@
    "score": 40,
    "tags": [
     "무순위·잔여세대"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026000416",
-   "houseManageNo": "2026000416",
-   "houseSecd": "",
-   "region": "경기",
-   "house_kind": "국민",
-   "sale_kind": "분양주택",
-   "name": "양주회천지구 A-26블록 공공분양주택",
-   "builder": "양우종합건설 주식회사, (주)우호건설, 주식회사 대명건설",
-   "phone": "1600-1004",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-14 ~ 2026-09-17",
-   "announce_date": "2026-10-07",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-17",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000416&pblancNo=2026000416",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 양주시 덕정동 일원 양주신도시 택지개발지구 내 A-26블록",
-   "total_units_text": "792세대",
-   "total_units": 792,
-   "contract_period": "2026-12-10 ~ 2026-12-15",
-   "homepage": "https://apply.lh.or.kr",
-   "move_in": "2029.10",
-   "schedule": [
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-14~2026-09-15",
-      "2026-09-14~2026-09-15",
-      "2026-09-14~2026-09-15"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-16~2026-09-17",
-      "2026-09-16~2026-09-17",
-      "2026-09-16~2026-09-17"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.7400A",
-     "area": 82.6719,
-     "general": 41,
-     "special": 221,
-     "total": 262,
-     "price": 35708,
-     "price_per_pyeong": 1976
-    },
-    {
-     "type": "059.9100B",
-     "area": 82.9072,
-     "general": 20,
-     "special": 112,
-     "total": 132,
-     "price": 35093,
-     "price_per_pyeong": 1936
-    },
-    {
-     "type": "074.6100A",
-     "area": 103.25,
-     "general": 13,
-     "special": 74,
-     "total": 87,
-     "price": 43704,
-     "price_per_pyeong": 1936
-    },
-    {
-     "type": "074.9700B",
-     "area": 103.7482,
-     "general": 12,
-     "special": 69,
-     "total": 81,
-     "price": 43718,
-     "price_per_pyeong": 1928
-    },
-    {
-     "type": "084.8600A",
-     "area": 117.4346,
-     "general": 33,
-     "special": 197,
-     "total": 230,
-     "price": 49201,
-     "price_per_pyeong": 1917
-    }
-   ],
-   "prices": {
-    "059.7400A": 35708,
-    "059.9100B": 35093,
-    "074.6100A": 43704,
-    "074.9700B": 43718,
-    "084.8600A": 49201
-   },
-   "price_min": 35093,
-   "price_max": 49201,
-   "hogangnono_id": "gMd2c",
-   "hogangnono_name": "양주회천지구A-26블록",
-   "lat": 37.8450026,
-   "lon": 127.0582455,
-   "score": 30,
-   "tags": [
-    "수도권",
-    "공공분양"
    ],
    "status": "closed"
   },
@@ -13098,6 +13090,177 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940241",
+   "houseManageNo": "2026940241",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "풍무역세권 수자인 그라센트 2차(5차)",
+   "builder": "주식회사비에스한양,주식회사비에스산업",
+   "notice_date": "2026-10-28",
+   "apply_period": "2026-10-30 ~ 2026-10-30",
+   "announce_date": "2026-11-04",
+   "phone": "",
+   "apply_start": "2026-10-30",
+   "apply_end": "2026-10-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940241&pblancNo=2026940241&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
+   "total_units_text": "4세대",
+   "total_units": 4,
+   "contract_period": "2026-11-06 ~ 2026-11-06",
+   "homepage": "",
+   "move_in": "2029.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-30 ~ 2026-10-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "105.2083",
+     "price": 82530,
+     "total": 4,
+     "price_per_pyeong": 2593
+    }
+   ],
+   "prices": {
+    "105.2083": 82530
+   },
+   "price_min": 82530,
+   "price_max": 82530,
+   "hogangnono_id": "gJ829",
+   "hogangnono_name": "풍무역세권수자인그라센트2차",
+   "lat": 37.6196353600987,
+   "lon": 126.726463585304,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940234",
+   "houseManageNo": "2026940234",
+   "houseSecd": "11",
+   "region": "충남",
+   "supply_kind": "임의공급",
+   "name": "엘리프 성성호수공원 1BL",
+   "builder": "업성개발피에프브이 주식회사,계룡건설산업(주)",
+   "notice_date": "2026-10-28",
+   "apply_period": "2026-10-30 ~ 2026-10-30",
+   "announce_date": "2026-11-04",
+   "phone": "",
+   "apply_start": "2026-10-30",
+   "apply_end": "2026-10-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940234&pblancNo=2026940234&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청남도 천안시 서북구 업성동 업성2구역 1BL",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-11-14 ~ 2026-11-14",
+   "homepage": "",
+   "move_in": "2029.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-10-30 ~ 2026-10-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "111.1359",
+     "price": 79940,
+     "total": 5,
+     "price_per_pyeong": 2378
+    }
+   ],
+   "prices": {
+    "111.1359": 79940
+   },
+   "price_min": 79940,
+   "price_max": 79940,
+   "hogangnono_id": "gzG31",
+   "hogangnono_name": "e편한세상성성호수공원",
+   "lat": 36.8489501,
+   "lon": 127.1312035,
+   "score": 35,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026930043",
+   "houseManageNo": "2026930043",
+   "houseSecd": "06",
+   "region": "경기",
+   "supply_kind": "불법행위 재공급",
+   "name": "과천 디에트르 퍼스티지(S2BL)",
+   "builder": "대방건설 주식회사",
+   "notice_date": "2026-10-28",
+   "apply_period": "2026-11-02 ~ 2026-11-02",
+   "announce_date": "2026-11-05",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930043&pblancNo=2026930043&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-11-12 ~ 2026-11-12",
+   "homepage": "",
+   "move_in": "2027.05",
+   "schedule": [
+    {
+     "label": "일반공급",
+     "dates": [
+      "2026-11-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9955",
+     "area": 83.967,
+     "general": 2,
+     "special": 0,
+     "total": 2,
+     "price": 85715,
+     "price_per_pyeong": 4723
+    }
+   ],
+   "prices": {
+    "059.9955": 85715
+   },
+   "price_min": 85715,
+   "price_max": 85715,
+   "hogangnono_id": "dtXc8",
+   "hogangnono_name": "과천디에트르퍼스티지(S2BL)",
+   "lat": 37.4163844,
+   "lon": 126.989014,
+   "score": 65,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026930042",
    "houseManageNo": "2026930042",
    "houseSecd": "06",
@@ -13209,6 +13372,144 @@
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910278",
+   "houseManageNo": "2026910278",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "숭의역 노르웨이숲 더 스카이",
+   "builder": "숭의역2단지지역주택조합",
+   "notice_date": "2026-10-28",
+   "apply_period": "2026-11-02 ~ 2026-11-02",
+   "announce_date": "2026-11-05",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910278&pblancNo=2026910278&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 미추홀구 숭의동 350-1번지 일원",
+   "total_units_text": "13세대",
+   "total_units": 13,
+   "contract_period": "2026-11-06 ~ 2026-11-06",
+   "homepage": "",
+   "move_in": "2030.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-02 ~ 2026-11-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "069.7032",
+     "total": 13
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gX9ac",
+   "hogangnono_name": "숭의역노르웨이숲더스카이",
+   "lat": 37.4609924,
+   "lon": 126.6405,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910275",
+   "houseManageNo": "2026910275",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "더샵 분당하이스트",
+   "builder": "느티마을4단지 리모델링주택조합",
+   "notice_date": "2026-10-27",
+   "apply_period": "2026-11-02 ~ 2026-11-02",
+   "announce_date": "2026-11-05",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910275&pblancNo=2026910275&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 성남시 분당구 정자동 90번지",
+   "total_units_text": "58세대",
+   "total_units": 58,
+   "contract_period": "2026-11-07 ~ 2026-11-07",
+   "homepage": "",
+   "move_in": "2027.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-02 ~ 2026-11-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.0000A",
+     "total": 1
+    },
+    {
+     "type": "074.0000C",
+     "total": 1
+    },
+    {
+     "type": "074.4400D",
+     "total": 1
+    },
+    {
+     "type": "084.0000A",
+     "total": 18
+    },
+    {
+     "type": "084.0000B",
+     "total": 6
+    },
+    {
+     "type": "084.0000C",
+     "total": 2
+    },
+    {
+     "type": "084.0900D",
+     "total": 4
+    },
+    {
+     "type": "084.0000E",
+     "total": 8
+    },
+    {
+     "type": "084.7200F",
+     "total": 5
+    },
+    {
+     "type": "084.6400G",
+     "total": 12
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "guH07",
+   "hogangnono_name": "더샵분당하이스트",
+   "lat": 37.3673098,
+   "lon": 127.114019,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
    ],
    "status": "upcoming"
   },
@@ -14377,6 +14678,172 @@
    "score": 20,
    "tags": [
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000435",
+   "houseManageNo": "2026000435",
+   "houseSecd": "",
+   "region": "제주",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "삼도이동 2지구 토지임대부 공공분양주택",
+   "builder": "국토건설(주)",
+   "phone": "1544-3310",
+   "notice_date": "2026-10-27",
+   "apply_period": "2026-11-16 ~ 2026-11-18",
+   "announce_date": "2026-11-25",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-18",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000435&pblancNo=2026000435",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "제주특별자치도 제주시 삼도이동 1246-1 외 4필지",
+   "total_units_text": "40세대",
+   "total_units": 40,
+   "contract_period": "2027-01-25 ~ 2027-01-29",
+   "homepage": "https://samdo.jpdc.co.kr",
+   "move_in": "2027.11",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-16",
+      "2026-11-16"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-17",
+      "2026-11-17"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-18",
+      "2026-11-18"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "049.5837A",
+     "area": 73.3065,
+     "general": 2,
+     "special": 6,
+     "total": 8,
+     "price": 25200,
+     "price_per_pyeong": 1680
+    },
+    {
+     "type": "059.9783A",
+     "area": 87.8422,
+     "general": 6,
+     "special": 26,
+     "total": 32,
+     "price": 30197,
+     "price_per_pyeong": 1664
+    }
+   ],
+   "prices": {
+    "049.5837A": 25200,
+    "059.9783A": 30197
+   },
+   "price_min": 25200,
+   "price_max": 30197,
+   "hogangnono_id": "awc46",
+   "hogangnono_name": "영산홍주택",
+   "lat": 33.4960013,
+   "lon": 126.540152,
+   "score": 10,
+   "tags": [
+    "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000434",
+   "houseManageNo": "2026000434",
+   "houseSecd": "",
+   "region": "제주",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "삼도이동 1지구 토지임대부 공공분양주택",
+   "builder": "국토건설(주)",
+   "phone": "1544-3310",
+   "notice_date": "2026-10-27",
+   "apply_period": "2026-11-16 ~ 2026-11-18",
+   "announce_date": "2026-11-24",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-18",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "제주특별자치도 제주시 삼도이동 1244-1",
+   "total_units_text": "32세대",
+   "total_units": 32,
+   "contract_period": "2027-01-25 ~ 2027-01-29",
+   "homepage": "https://samdo.jpdc.co.kr",
+   "move_in": "2027.11",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-16",
+      "2026-11-16"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-17",
+      "2026-11-17"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-18",
+      "2026-11-18"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "049.5837A",
+     "area": 71.9511,
+     "general": 2,
+     "special": 6,
+     "total": 8,
+     "price": 25235,
+     "price_per_pyeong": 1682
+    },
+    {
+     "type": "059.9783A",
+     "area": 86.2027,
+     "general": 4,
+     "special": 20,
+     "total": 24,
+     "price": 30233,
+     "price_per_pyeong": 1666
+    }
+   ],
+   "prices": {
+    "049.5837A": 25235,
+    "059.9783A": 30233
+   },
+   "price_min": 25235,
+   "price_max": 30233,
+   "hogangnono_id": "9uDd8",
+   "hogangnono_name": "삼도쉐르빌1차",
+   "lat": 33.5088762,
+   "lon": 126.5207769,
+   "score": 10,
+   "tags": [
+    "공공분양"
    ],
    "status": "upcoming"
   }
