@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28 00:33 KST",
+ "updated_at": "2026-10-28 09:39 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
  "count": 174,
  "items": [
@@ -9422,7 +9422,7 @@
     "수도권",
     "공공분양"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000458",
@@ -11078,7 +11078,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940231",
@@ -11203,7 +11203,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026930044",
@@ -12154,7 +12154,7 @@
    "lon": 129.108,
    "score": 10,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000495",
@@ -12330,7 +12330,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910270",
@@ -12381,7 +12381,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940232",
@@ -12443,7 +12443,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910271",
@@ -12914,7 +12914,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940238",
@@ -12969,7 +12969,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026950094",
@@ -13032,7 +13032,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940239",
