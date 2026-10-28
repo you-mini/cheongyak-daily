@@ -1,63 +1,8 @@
 {
- "updated_at": "2026-10-28 09:39 KST",
+ "updated_at": "2026-10-29 01:17 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 174,
+ "count": 175,
  "items": [
-  {
-   "pblancNo": "2026910233",
-   "houseManageNo": "2026910233",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "드파인 아르티아(2차)",
-   "builder": "노량진2재정비촉진구역재개발정비사업조합",
-   "notice_date": "2026-09-08",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910233&pblancNo=2026910233&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 동작구 노량진동 312-75번지 일대",
-   "total_units_text": "7세대",
-   "total_units": 7,
-   "contract_period": "2026-09-19 ~ 2026-09-19",
-   "homepage": "",
-   "move_in": "2029.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.0000B",
-     "total": 2
-    },
-    {
-     "type": "109.8652A",
-     "total": 5
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "faIcd",
-   "hogangnono_name": "드파인아르티아",
-   "lat": 37.5070178,
-   "lon": 126.939253,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026910232",
    "houseManageNo": "2026910232",
@@ -115,69 +60,6 @@
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910227",
-   "houseManageNo": "2026910227",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "한강 푸르지오 리버프론트",
-   "builder": "주식회사 한강시네폴리스개발",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-14 ~ 2026-09-14",
-   "announce_date": "2026-09-17",
-   "phone": "",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-14",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910227&pblancNo=2026910227&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 김포시 고촌읍 향산리 588-45번지 일원",
-   "total_units_text": "832세대",
-   "total_units": 832,
-   "contract_period": "2026-09-18 ~ 2026-09-18",
-   "homepage": "",
-   "move_in": "2031.01",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-14 ~ 2026-09-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.7402A",
-     "total": 705
-    },
-    {
-     "type": "084.7060E",
-     "total": 70
-    },
-    {
-     "type": "106.9778B",
-     "total": 55
-    },
-    {
-     "type": "180.9387B",
-     "total": 2
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gNq5a",
-   "hogangnono_name": "한강푸르지오리버프론트",
-   "lat": 37.628721324668,
-   "lon": 126.73943529913,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -13376,6 +13258,82 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940237",
+   "houseManageNo": "2026940237",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "엘리프 한신더휴 수원 C3블록(2차)",
+   "builder": "수원당수피에프브이 주식회사,계룡건설산업(주)",
+   "notice_date": "2026-10-29",
+   "apply_period": "2026-11-02 ~ 2026-11-03",
+   "announce_date": "2026-11-06",
+   "phone": "",
+   "apply_start": "2026-11-02",
+   "apply_end": "2026-11-03",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940237&pblancNo=2026940237&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 수원시 권선구 금곡동 당수1지구 공공주택지구 내 C3블록",
+   "total_units_text": "21세대",
+   "total_units": 21,
+   "contract_period": "2026-11-07 ~ 2026-11-07",
+   "homepage": "",
+   "move_in": "2027.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-02 ~ 2026-11-03"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9900A",
+     "price": 73200,
+     "total": 1,
+     "price_per_pyeong": 2847
+    },
+    {
+     "type": "084.9900B",
+     "price": 73000,
+     "total": 3,
+     "price_per_pyeong": 2839
+    },
+    {
+     "type": "084.9900C",
+     "price": 75800,
+     "total": 5,
+     "price_per_pyeong": 2948
+    },
+    {
+     "type": "084.9900D",
+     "price": 79500,
+     "total": 12,
+     "price_per_pyeong": 3092
+    }
+   ],
+   "prices": {
+    "084.9900A": 73200,
+    "084.9900B": 73000,
+    "084.9900C": 75800,
+    "084.9900D": 79500
+   },
+   "price_min": 73000,
+   "price_max": 79500,
+   "hogangnono_id": "fIY3a",
+   "hogangnono_name": "엘리프한신더휴수원C3블록",
+   "lat": 37.2807922176357,
+   "lon": 126.945811665005,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910278",
    "houseManageNo": "2026910278",
    "houseSecd": "04",
@@ -14675,6 +14633,143 @@
    "hogangnono_name": "화성향남롯데캐슬시그니처",
    "lat": 37.0971939,
    "lon": 126.9073995,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910267",
+   "houseManageNo": "2026910267",
+   "houseSecd": "04",
+   "region": "광주",
+   "supply_kind": "무순위(사후)",
+   "name": "교대역 모아엘가 그랑데",
+   "builder": "계림4구역 주택재개발정비사업조합",
+   "notice_date": "2026-10-29",
+   "apply_period": "2026-11-03 ~ 2026-11-03",
+   "announce_date": "2026-11-06",
+   "phone": "",
+   "apply_start": "2026-11-03",
+   "apply_end": "2026-11-03",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910267&pblancNo=2026910267&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전남광주통합특별시 동구 무등로 373",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-10 ~ 2026-11-10",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-03 ~ 2026-11-03"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.7791B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "elF7a",
+   "hogangnono_name": "교대역모아엘가그랑데",
+   "lat": 35.161888,
+   "lon": 126.9216142,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000525",
+   "houseManageNo": "2026000525",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "엘리프 시흥 더프라임",
+   "builder": "계룡건설산업(주)",
+   "phone": "1644-1966",
+   "notice_date": "2026-10-29",
+   "apply_period": "2026-11-09 ~ 2026-11-11",
+   "announce_date": "2026-11-17",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-11",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000525&pblancNo=2026000525",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 시흥시 거모동 시흥거모지구 B-5블록",
+   "total_units_text": "304세대",
+   "total_units": 304,
+   "contract_period": "2026-11-28 ~ 2026-11-30",
+   "homepage": "https://www.엘리프시흥더프라임.com",
+   "move_in": "2029.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-10",
+      "2026-11-10"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-11",
+      "2026-11-11",
+      "2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9607A",
+     "area": 109.1983,
+     "general": 95,
+     "special": 164,
+     "total": 259,
+     "price": 59930,
+     "price_per_pyeong": 2332
+    },
+    {
+     "type": "084.9236B",
+     "area": 109.154,
+     "general": 19,
+     "special": 26,
+     "total": 45,
+     "price": 59910,
+     "price_per_pyeong": 2332
+    }
+   ],
+   "prices": {
+    "084.9607A": 59930,
+    "084.9236B": 59910
+   },
+   "price_min": 59910,
+   "price_max": 59930,
+   "hogangnono_id": "gWR01",
+   "hogangnono_name": "엘리프시흥더프라임",
+   "lat": 37.3425965,
+   "lon": 126.7778114,
    "score": 20,
    "tags": [
     "수도권"
