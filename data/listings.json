@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-29 10:09 KST",
+ "updated_at": "2026-10-30 01:25 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 175,
+ "count": 176,
  "items": [
   {
    "pblancNo": "2026910232",
@@ -906,358 +906,6 @@
    "hogangnono_name": "남울산노르웨이숲",
    "lat": 35.4098862,
    "lon": 129.299053,
-   "score": 10,
-   "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026000419",
-   "houseManageNo": "2026000419",
-   "houseSecd": "",
-   "region": "광주",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "올 뉴 챔피언스시티 1차",
-   "builder": "우미건설(주), 신영씨앤디(주)",
-   "phone": "1599-0199",
-   "notice_date": "2026-09-02",
-   "apply_period": "2026-09-14 ~ 2026-09-16",
-   "announce_date": "2026-09-22",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-16",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "전남광주통합특별시 북구 임동 100-1 일원",
-   "total_units_text": "3216세대",
-   "total_units": 3216,
-   "contract_period": "2026-10-05 ~ 2026-10-09",
-   "homepage": "https://www.championscity.co.kr",
-   "move_in": "2030.11",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-09-14",
-      "2026-09-14"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-15",
-      "2026-09-15"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-16",
-      "2026-09-16"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9730A",
-     "area": 113.1294,
-     "general": 141,
-     "special": 172,
-     "total": 313,
-     "price": 87000,
-     "price_per_pyeong": 3385
-    },
-    {
-     "type": "084.9479B",
-     "area": 113.8204,
-     "general": 141,
-     "special": 172,
-     "total": 313,
-     "price": 87000,
-     "price_per_pyeong": 3386
-    },
-    {
-     "type": "084.9819C",
-     "area": 113.4941,
-     "general": 242,
-     "special": 294,
-     "total": 536,
-     "price": 84200,
-     "price_per_pyeong": 3275
-    },
-    {
-     "type": "084.9769D",
-     "area": 112.4279,
-     "general": 237,
-     "special": 293,
-     "total": 530,
-     "price": 86500,
-     "price_per_pyeong": 3365
-    },
-    {
-     "type": "084.9809E",
-     "area": 113.6367,
-     "general": 138,
-     "special": 168,
-     "total": 306,
-     "price": 85400,
-     "price_per_pyeong": 3322
-    },
-    {
-     "type": "084.9849F",
-     "area": 114.4645,
-     "general": 241,
-     "special": 295,
-     "total": 536,
-     "price": 85400,
-     "price_per_pyeong": 3322
-    },
-    {
-     "type": "103.0590A",
-     "area": 139.2236,
-     "general": 195,
-     "special": 28,
-     "total": 223,
-     "price": 105300,
-     "price_per_pyeong": 3378
-    },
-    {
-     "type": "103.2718B",
-     "area": 138.7995,
-     "general": 200,
-     "special": 30,
-     "total": 230,
-     "price": 103600,
-     "price_per_pyeong": 3316
-    },
-    {
-     "type": "112.3407A",
-     "area": 150.4438,
-     "general": 115,
-     "special": 16,
-     "total": 131,
-     "price": 119500,
-     "price_per_pyeong": 3516
-    },
-    {
-     "type": "128.5318A",
-     "area": 171.6678,
-     "general": 80,
-     "special": 12,
-     "total": 92,
-     "price": 135500,
-     "price_per_pyeong": 3485
-    },
-    {
-     "type": "200.4768B",
-     "area": 272.6774,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 292000,
-     "price_per_pyeong": 4815
-    },
-    {
-     "type": "207.9807F",
-     "area": 280.4467,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 295000,
-     "price_per_pyeong": 4689
-    },
-    {
-     "type": "209.5090C",
-     "area": 281.0168,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 304000,
-     "price_per_pyeong": 4797
-    },
-    {
-     "type": "211.8099E",
-     "area": 286.8604,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 303000,
-     "price_per_pyeong": 4729
-    },
-    {
-     "type": "214.6183A",
-     "area": 290.0756,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 316000,
-     "price_per_pyeong": 4867
-    },
-    {
-     "type": "214.8717D",
-     "area": 291.3136,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 313000,
-     "price_per_pyeong": 4816
-    }
-   ],
-   "prices": {
-    "084.9730A": 87000,
-    "084.9479B": 87000,
-    "084.9819C": 84200,
-    "084.9769D": 86500,
-    "084.9809E": 85400,
-    "084.9849F": 85400,
-    "103.0590A": 105300,
-    "103.2718B": 103600,
-    "112.3407A": 119500,
-    "128.5318A": 135500,
-    "200.4768B": 292000,
-    "207.9807F": 295000,
-    "209.5090C": 304000,
-    "211.8099E": 303000,
-    "214.6183A": 316000,
-    "214.8717D": 313000
-   },
-   "price_min": 84200,
-   "price_max": 316000,
-   "hogangnono_id": "gqa88",
-   "hogangnono_name": "올뉴챔피언스시티1차",
-   "lat": 35.1639964,
-   "lon": 126.89389,
-   "score": 10,
-   "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026000403",
-   "houseManageNo": "2026000403",
-   "houseSecd": "",
-   "region": "울산",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "그랑라크 에일린의 뜰",
-   "builder": "아이에스동서(주)",
-   "phone": "052-266-1521",
-   "notice_date": "2026-09-02",
-   "apply_period": "2026-09-14 ~ 2026-09-16",
-   "announce_date": "2026-09-22",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-16",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "울산광역시 남구 야음동 350-5번지 일원",
-   "total_units_text": "1153세대",
-   "total_units": 1153,
-   "contract_period": "2026-10-06 ~ 2026-10-08",
-   "homepage": "http://www.그랑라크에일린의뜰.com",
-   "move_in": "2029.11",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-09-14",
-      "2026-09-14"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-15",
-      "2026-09-15"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-16",
-      "2026-09-16"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.8300A",
-     "area": 83.71,
-     "general": 40,
-     "special": 49,
-     "total": 89,
-     "price": 57600,
-     "price_per_pyeong": 3183
-    },
-    {
-     "type": "059.9900B",
-     "area": 85.1,
-     "general": 53,
-     "special": 61,
-     "total": 114,
-     "price": 57600,
-     "price_per_pyeong": 3174
-    },
-    {
-     "type": "059.9700C",
-     "area": 83.55,
-     "general": 23,
-     "special": 29,
-     "total": 52,
-     "price": 56600,
-     "price_per_pyeong": 3120
-    },
-    {
-     "type": "074.8300",
-     "area": 100.57,
-     "general": 62,
-     "special": 77,
-     "total": 139,
-     "price": 68700,
-     "price_per_pyeong": 3035
-    },
-    {
-     "type": "084.9000",
-     "area": 111.02,
-     "general": 319,
-     "special": 390,
-     "total": 709,
-     "price": 76600,
-     "price_per_pyeong": 2983
-    },
-    {
-     "type": "102.8800A",
-     "area": 130.66,
-     "general": 25,
-     "special": 4,
-     "total": 29,
-     "price": 86900,
-     "price_per_pyeong": 2792
-    },
-    {
-     "type": "102.5600B",
-     "area": 132.19,
-     "general": 18,
-     "special": 3,
-     "total": 21,
-     "price": 85000,
-     "price_per_pyeong": 2740
-    }
-   ],
-   "prices": {
-    "059.8300A": 57600,
-    "059.9900B": 57600,
-    "059.9700C": 56600,
-    "074.8300": 68700,
-    "084.9000": 76600,
-    "102.8800A": 86900,
-    "102.5600B": 85000
-   },
-   "price_min": 56600,
-   "price_max": 86900,
-   "hogangnono_id": "faoc4",
-   "hogangnono_name": "울산그랑라크에일린의뜰",
-   "lat": 35.5180159,
-   "lon": 129.33884,
    "score": 10,
    "tags": [],
    "status": "closed"
@@ -2451,193 +2099,6 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026000414",
-   "houseManageNo": "2026000414",
-   "houseSecd": "",
-   "region": "인천",
-   "house_kind": "국민",
-   "sale_kind": "분양주택",
-   "name": "인천계양지구 A6블록 공공분양주택(본청약)",
-   "builder": "(주)케이알산업, 우암건설(주)",
-   "phone": "032-562-4777",
-   "notice_date": "2026-08-31",
-   "apply_period": "2026-09-17 ~ 2026-10-02",
-   "announce_date": "2026-10-21",
-   "apply_start": "2026-09-17",
-   "apply_end": "2026-10-02",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000414&pblancNo=2026000414",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 계양구 귤현동, 동양동, 박촌동, 병방동, 상야동 및 경기도 부천시 대장동, 서울특별시 강서구 오곡동 일원 인천계양 테크노밸리 공공주택지구 내 A6블록",
-   "total_units_text": "663세대",
-   "total_units": 663,
-   "contract_period": "2026-12-15 ~ 2026-12-18",
-   "homepage": "https://apply.lh.or.kr",
-   "move_in": "2029.06",
-   "schedule": [
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-17~2026-09-30",
-      "2026-09-17~2026-09-30"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-10-01~2026-10-02",
-      "2026-10-01~2026-10-02"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.8400A",
-     "area": 81.6632,
-     "general": 13,
-     "special": 90,
-     "total": 103,
-     "price": 53736,
-     "price_per_pyeong": 2969
-    },
-    {
-     "type": "059.8100B",
-     "area": 81.6223,
-     "general": 8,
-     "special": 44,
-     "total": 52,
-     "price": 52656,
-     "price_per_pyeong": 2910
-    },
-    {
-     "type": "059.8300C",
-     "area": 81.6496,
-     "general": 0,
-     "special": 0,
-     "total": 0,
-     "price": 51578,
-     "price_per_pyeong": 2850
-    },
-    {
-     "type": "059.7100D",
-     "area": 81.4858,
-     "general": 3,
-     "special": 1,
-     "total": 4,
-     "price": 50466,
-     "price_per_pyeong": 2794
-    },
-    {
-     "type": "059.7200E",
-     "area": 81.4995,
-     "general": 3,
-     "special": 30,
-     "total": 33,
-     "price": 50474,
-     "price_per_pyeong": 2794
-    },
-    {
-     "type": "059.9700G",
-     "area": 81.8406,
-     "general": 0,
-     "special": 6,
-     "total": 6,
-     "price": 53853,
-     "price_per_pyeong": 2969
-    },
-    {
-     "type": "059.8200H",
-     "area": 81.6359,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 52665,
-     "price_per_pyeong": 2910
-    },
-    {
-     "type": "069.8200P",
-     "area": 95.2829,
-     "general": 2,
-     "special": 0,
-     "total": 2,
-     "price": 59625,
-     "price_per_pyeong": 2823
-    },
-    {
-     "type": "074.9300O",
-     "area": 102.2564,
-     "general": 4,
-     "special": 28,
-     "total": 32,
-     "price": 64649,
-     "price_per_pyeong": 2852
-    },
-    {
-     "type": "077.4100A",
-     "area": 105.6409,
-     "general": 3,
-     "special": 2,
-     "total": 5,
-     "price": 66107,
-     "price_per_pyeong": 2823
-    },
-    {
-     "type": "077.4100C",
-     "area": 105.6409,
-     "general": 0,
-     "special": 0,
-     "total": 0,
-     "price": 65453,
-     "price_per_pyeong": 2795
-    },
-    {
-     "type": "084.7800A",
-     "area": 115.6987,
-     "general": 1,
-     "special": 7,
-     "total": 8,
-     "price": 71654,
-     "price_per_pyeong": 2794
-    },
-    {
-     "type": "084.9900B",
-     "area": 115.9853,
-     "general": 0,
-     "special": 5,
-     "total": 5,
-     "price": 70395,
-     "price_per_pyeong": 2738
-    }
-   ],
-   "prices": {
-    "059.8400A": 53736,
-    "059.8100B": 52656,
-    "059.8300C": 51578,
-    "059.7100D": 50466,
-    "059.7200E": 50474,
-    "059.9700G": 53853,
-    "059.8200H": 52665,
-    "069.8200P": 59625,
-    "074.9300O": 64649,
-    "077.4100A": 66107,
-    "077.4100C": 65453,
-    "084.7800A": 71654,
-    "084.9900B": 70395
-   },
-   "price_min": 50466,
-   "price_max": 71654,
-   "hogangnono_id": "grM53",
-   "hogangnono_name": "인천계양A6블록",
-   "lat": 37.552654,
-   "lon": 126.756199,
-   "score": 30,
-   "tags": [
-    "수도권",
-    "공공분양"
    ],
    "status": "closed"
   },
@@ -14691,6 +14152,215 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000472",
+   "houseManageNo": "2026000472",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "구리갈매역세권 B-1블록 신안인스빌 디센트",
+   "builder": "(주)신안",
+   "phone": "031-566-9450",
+   "notice_date": "2026-10-30",
+   "apply_period": "2026-11-09 ~ 2026-11-11",
+   "announce_date": "2026-11-17",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-11",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000472&pblancNo=2026000472",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 구리시 구리갈매역세권 B-1블록",
+   "total_units_text": "213세대",
+   "total_units": 213,
+   "contract_period": "2026-11-30 ~ 2026-12-02",
+   "homepage": "https://guri.ensvil.com/",
+   "move_in": "2028.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-10",
+      "2026-11-10"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-11",
+      "2026-11-11",
+      "2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "075.7770",
+     "area": 98.2284,
+     "general": 38,
+     "special": 70,
+     "total": 108,
+     "price": 69580,
+     "price_per_pyeong": 3035
+    },
+    {
+     "type": "084.6686",
+     "area": 109.6218,
+     "general": 35,
+     "special": 70,
+     "total": 105,
+     "price": 78500,
+     "price_per_pyeong": 3065
+    }
+   ],
+   "prices": {
+    "075.7770": 69580,
+    "084.6686": 78500
+   },
+   "price_min": 69580,
+   "price_max": 78500,
+   "hogangnono_id": "gON33",
+   "hogangnono_name": "구리갈매역세권B-1블럭신안인스빌디센트",
+   "lat": 37.640579,
+   "lon": 127.1172865,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000535",
+   "houseManageNo": "2026000535",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "중앙하이츠 구성 플랫폼시티",
+   "builder": "씨에이이앤씨 주식회사",
+   "phone": "1899-1008",
+   "notice_date": "2026-10-29",
+   "apply_period": "2026-11-09 ~ 2026-11-12",
+   "announce_date": "2026-11-18",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-12",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000535&pblancNo=2026000535",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 용인시 기흥구 마북동 298-1번지 일원",
+   "total_units_text": "76세대",
+   "total_units": 76,
+   "contract_period": "2026-11-30 ~ 2026-12-02",
+   "homepage": "https://www.중앙하이츠구성플랫폼시티.com",
+   "move_in": "2028.06",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-11"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-12",
+      "2026-11-12"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9670A",
+     "area": 77.9443,
+     "general": 7,
+     "special": 11,
+     "total": 18,
+     "price": 62500,
+     "price_per_pyeong": 3445
+    },
+    {
+     "type": "059.9898B",
+     "area": 77.9093,
+     "general": 7,
+     "special": 6,
+     "total": 13,
+     "price": 62530,
+     "price_per_pyeong": 3446
+    },
+    {
+     "type": "068.9683",
+     "area": 90.223,
+     "general": 4,
+     "special": 1,
+     "total": 5,
+     "price": 71680,
+     "price_per_pyeong": 3436
+    },
+    {
+     "type": "074.9857",
+     "area": 98.0971,
+     "general": 12,
+     "special": 11,
+     "total": 23,
+     "price": 77110,
+     "price_per_pyeong": 3399
+    },
+    {
+     "type": "079.9780",
+     "area": 105.6823,
+     "general": 7,
+     "special": 5,
+     "total": 12,
+     "price": 82270,
+     "price_per_pyeong": 3401
+    },
+    {
+     "type": "084.9932",
+     "area": 110.44,
+     "general": 4,
+     "special": 1,
+     "total": 5,
+     "price": 85210,
+     "price_per_pyeong": 3314
+    }
+   ],
+   "prices": {
+    "059.9670A": 62500,
+    "059.9898B": 62530,
+    "068.9683": 71680,
+    "074.9857": 77110,
+    "079.9780": 82270,
+    "084.9932": 85210
+   },
+   "price_min": 62500,
+   "price_max": 85210,
+   "hogangnono_id": "gZRf8",
+   "hogangnono_name": "중앙하이츠구성플랫폼시티",
+   "lat": 37.2966207,
+   "lon": 127.1175444,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000525",
    "houseManageNo": "2026000525",
    "houseSecd": "",
@@ -14774,6 +14444,190 @@
    "tags": [
     "수도권"
    ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000499",
+   "houseManageNo": "2026000499",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "한화포레나 지제역",
+   "builder": "(주)한화",
+   "phone": "1661-1098",
+   "notice_date": "2026-10-29",
+   "apply_period": "2026-11-09 ~ 2026-11-11",
+   "announce_date": "2026-11-18",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-11",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000499&pblancNo=2026000499",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 평택시 세교동 725번지 일원",
+   "total_units_text": "1098세대",
+   "total_units": 1098,
+   "contract_period": "2026-11-29 ~ 2026-12-01",
+   "homepage": "https://jije.forena.co.kr/",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-10"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-11",
+      "2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9424A",
+     "area": 109.3948,
+     "general": 207,
+     "special": 245,
+     "total": 452,
+     "price": 70875,
+     "price_per_pyeong": 2758
+    },
+    {
+     "type": "084.9927B",
+     "area": 109.8412,
+     "general": 97,
+     "special": 111,
+     "total": 208,
+     "price": 70095,
+     "price_per_pyeong": 2726
+    },
+    {
+     "type": "084.9839C",
+     "area": 110.6976,
+     "general": 79,
+     "special": 89,
+     "total": 168,
+     "price": 72450,
+     "price_per_pyeong": 2818
+    },
+    {
+     "type": "084.9199D",
+     "area": 109.5072,
+     "general": 57,
+     "special": 65,
+     "total": 122,
+     "price": 72350,
+     "price_per_pyeong": 2816
+    },
+    {
+     "type": "116.9134",
+     "area": 148.8094,
+     "general": 130,
+     "special": 18,
+     "total": 148,
+     "price": 96845,
+     "price_per_pyeong": 2738
+    }
+   ],
+   "prices": {
+    "084.9424A": 70875,
+    "084.9927B": 70095,
+    "084.9839C": 72450,
+    "084.9199D": 72350,
+    "116.9134": 96845
+   },
+   "price_min": 70095,
+   "price_max": 96845,
+   "hogangnono_id": "gS3cb",
+   "hogangnono_name": "한화포레나지제역",
+   "lat": 37.0227158,
+   "lon": 127.0843252,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000523",
+   "houseManageNo": "2026000523",
+   "houseSecd": "",
+   "region": "경북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "형곡 센트럴 아테라",
+   "builder": "금호건설 주식회사",
+   "phone": "1551-3315",
+   "notice_date": "2026-10-30",
+   "apply_period": "2026-11-09 ~ 2026-11-11",
+   "announce_date": "2026-11-17",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-11",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000523&pblancNo=2026000523",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상북도 구미시 형곡동 141-11번지 외 3필지",
+   "total_units_text": "135세대",
+   "total_units": 135,
+   "contract_period": "2026-11-30 ~ 2026-12-02",
+   "homepage": "https://www.arterahg.co.kr",
+   "move_in": "2028.12",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-10"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-11",
+      "2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9883A",
+     "area": 80.679,
+     "general": 61,
+     "special": 74,
+     "total": 135,
+     "price": 38700,
+     "price_per_pyeong": 2133
+    }
+   ],
+   "prices": {
+    "059.9883A": 38700
+   },
+   "price_min": 38700,
+   "price_max": 38700,
+   "hogangnono_id": "gpB74",
+   "hogangnono_name": "형곡센트럴아테라",
+   "lat": 36.1134225,
+   "lon": 128.3332086,
+   "score": 0,
+   "tags": [],
    "status": "upcoming"
   },
   {
