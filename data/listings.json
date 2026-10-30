@@ -1,194 +1,8 @@
 {
- "updated_at": "2026-10-30 10:14 KST",
+ "updated_at": "2026-10-31 01:12 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 180,
+ "count": 182,
  "items": [
-  {
-   "pblancNo": "2026000409",
-   "houseManageNo": "2026000409",
-   "houseSecd": "",
-   "region": "경기",
-   "house_kind": "국민",
-   "sale_kind": "분양주택",
-   "name": "의정부우정 A2블록 공공분양주택(본청약)",
-   "builder": "남광토건 주식회사, 금광기업(주), 경안종합건설 주식회사, 중앙건설 주식회사",
-   "phone": "031-574-9144",
-   "notice_date": "2026-08-26",
-   "apply_period": "2026-09-07 ~ 2026-09-17",
-   "announce_date": "2026-10-08",
-   "apply_start": "2026-09-07",
-   "apply_end": "2026-09-17",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000409&pblancNo=2026000409",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 의정부시 녹양동 일원 의정부우정 공공주택지구 내 A-2블록",
-   "total_units_text": "463세대",
-   "total_units": 463,
-   "contract_period": "2026-12-10 ~ 2026-12-15",
-   "homepage": "https://apply.lh.or.kr",
-   "move_in": "2029.05",
-   "schedule": [
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-07~2026-09-15",
-      "2026-09-07~2026-09-15"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-16~2026-09-17",
-      "2026-09-16~2026-09-17"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9200A",
-     "area": 83.978,
-     "general": 20,
-     "special": 120,
-     "total": 140,
-     "price": 40646,
-     "price_per_pyeong": 2242
-    },
-    {
-     "type": "059.9600B",
-     "area": 84.0341,
-     "general": 7,
-     "special": 38,
-     "total": 45,
-     "price": 40419,
-     "price_per_pyeong": 2228
-    }
-   ],
-   "prices": {
-    "059.9200A": 40646,
-    "059.9600B": 40419
-   },
-   "price_min": 40419,
-   "price_max": 40646,
-   "hogangnono_id": "eki32",
-   "hogangnono_name": "의정부우정지구A-2블록",
-   "lat": 37.7619158,
-   "lon": 127.031628,
-   "score": 30,
-   "tags": [
-    "수도권",
-    "공공분양"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026000416",
-   "houseManageNo": "2026000416",
-   "houseSecd": "",
-   "region": "경기",
-   "house_kind": "국민",
-   "sale_kind": "분양주택",
-   "name": "양주회천지구 A-26블록 공공분양주택",
-   "builder": "양우종합건설 주식회사, (주)우호건설, 주식회사 대명건설",
-   "phone": "1600-1004",
-   "notice_date": "2026-08-27",
-   "apply_period": "2026-09-14 ~ 2026-09-17",
-   "announce_date": "2026-10-07",
-   "apply_start": "2026-09-14",
-   "apply_end": "2026-09-17",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000416&pblancNo=2026000416",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 양주시 덕정동 일원 양주신도시 택지개발지구 내 A-26블록",
-   "total_units_text": "792세대",
-   "total_units": 792,
-   "contract_period": "2026-12-10 ~ 2026-12-15",
-   "homepage": "https://apply.lh.or.kr",
-   "move_in": "2029.10",
-   "schedule": [
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-14~2026-09-15",
-      "2026-09-14~2026-09-15",
-      "2026-09-14~2026-09-15"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-09-16~2026-09-17",
-      "2026-09-16~2026-09-17",
-      "2026-09-16~2026-09-17"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.7400A",
-     "area": 82.6719,
-     "general": 41,
-     "special": 221,
-     "total": 262,
-     "price": 35708,
-     "price_per_pyeong": 1976
-    },
-    {
-     "type": "059.9100B",
-     "area": 82.9072,
-     "general": 20,
-     "special": 112,
-     "total": 132,
-     "price": 35093,
-     "price_per_pyeong": 1936
-    },
-    {
-     "type": "074.6100A",
-     "area": 103.25,
-     "general": 13,
-     "special": 74,
-     "total": 87,
-     "price": 43704,
-     "price_per_pyeong": 1936
-    },
-    {
-     "type": "074.9700B",
-     "area": 103.7482,
-     "general": 12,
-     "special": 69,
-     "total": 81,
-     "price": 43718,
-     "price_per_pyeong": 1928
-    },
-    {
-     "type": "084.8600A",
-     "area": 117.4346,
-     "general": 33,
-     "special": 197,
-     "total": 230,
-     "price": 49201,
-     "price_per_pyeong": 1917
-    }
-   ],
-   "prices": {
-    "059.7400A": 35708,
-    "059.9100B": 35093,
-    "074.6100A": 43704,
-    "074.9700B": 43718,
-    "084.8600A": 49201
-   },
-   "price_min": 35093,
-   "price_max": 49201,
-   "hogangnono_id": "gMd2c",
-   "hogangnono_name": "양주회천지구A-26블록",
-   "lat": 37.8445552,
-   "lon": 127.058033,
-   "score": 30,
-   "tags": [
-    "수도권",
-    "공공분양"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026940190",
    "houseManageNo": "2026940190",
@@ -10982,6 +10796,262 @@
    "status": "closed"
   },
   {
+   "pblancNo": "2026000373",
+   "houseManageNo": "2026000373",
+   "houseSecd": "",
+   "region": "서울",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "고덕강일지구 3단지 토지임대부(본청약)",
+   "builder": "에이치에스화성(주), (주)서해종합건설, 홍문종합건설(주)",
+   "phone": "1600-3456",
+   "notice_date": "2026-10-16",
+   "apply_period": "2026-10-26 ~ 2026-11-06",
+   "announce_date": "2026-11-26",
+   "apply_start": "2026-10-26",
+   "apply_end": "2026-11-06",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000373&pblancNo=2026000373",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 강동구 강일동 174 일원(고덕강일공공주택지구 3단지)",
+   "total_units_text": "1305세대",
+   "total_units": 1305,
+   "contract_period": "2027-03-22 ~ 2027-04-02",
+   "homepage": "https://www.i-sh.co.kr/main/index.do",
+   "move_in": "2027.05",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-10-26~2026-11-04",
+      "2026-11-05"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-06",
+      "2026-11-06"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "049.0000A",
+     "area": 72.54,
+     "general": 5,
+     "special": 18,
+     "total": 23,
+     "price": 30800,
+     "price_per_pyeong": 2078
+    },
+    {
+     "type": "049.0000B",
+     "area": 72.56,
+     "general": 2,
+     "special": 6,
+     "total": 8,
+     "price": 30800,
+     "price_per_pyeong": 2078
+    },
+    {
+     "type": "049.0000C",
+     "area": 72.19,
+     "general": 19,
+     "special": 74,
+     "total": 93,
+     "price": 31416,
+     "price_per_pyeong": 2119
+    },
+    {
+     "type": "049.0000D",
+     "area": 72.21,
+     "general": 3,
+     "special": 10,
+     "total": 13,
+     "price": 30800,
+     "price_per_pyeong": 2078
+    },
+    {
+     "type": "049.0000E",
+     "area": 72.32,
+     "general": 4,
+     "special": 20,
+     "total": 24,
+     "price": 30800,
+     "price_per_pyeong": 2078
+    },
+    {
+     "type": "049.0000F",
+     "area": 72.64,
+     "general": 14,
+     "special": 58,
+     "total": 72,
+     "price": 31724,
+     "price_per_pyeong": 2140
+    },
+    {
+     "type": "049.0000G",
+     "area": 72.05,
+     "general": 2,
+     "special": 5,
+     "total": 7,
+     "price": 31724,
+     "price_per_pyeong": 2140
+    },
+    {
+     "type": "049.0000H",
+     "area": 73.5,
+     "general": 8,
+     "special": 31,
+     "total": 39,
+     "price": 29567,
+     "price_per_pyeong": 1995
+    },
+    {
+     "type": "049.0000I",
+     "area": 73.26,
+     "general": 2,
+     "special": 7,
+     "total": 9,
+     "price": 31416,
+     "price_per_pyeong": 2119
+    },
+    {
+     "type": "049.0000J",
+     "area": 72.38,
+     "general": 2,
+     "special": 5,
+     "total": 7,
+     "price": 31416,
+     "price_per_pyeong": 2119
+    },
+    {
+     "type": "049.0000K",
+     "area": 72.24,
+     "general": 3,
+     "special": 11,
+     "total": 14,
+     "price": 30184,
+     "price_per_pyeong": 2036
+    },
+    {
+     "type": "059.0000A",
+     "area": 86.54,
+     "general": 6,
+     "special": 18,
+     "total": 24,
+     "price": 38670,
+     "price_per_pyeong": 2167
+    },
+    {
+     "type": "059.0000B",
+     "area": 86.76,
+     "general": 12,
+     "special": 48,
+     "total": 60,
+     "price": 39050,
+     "price_per_pyeong": 2188
+    },
+    {
+     "type": "059.0000C",
+     "area": 87.19,
+     "general": 1,
+     "special": 2,
+     "total": 3,
+     "price": 38670,
+     "price_per_pyeong": 2167
+    },
+    {
+     "type": "059.0000D",
+     "area": 87.19,
+     "general": 16,
+     "special": 60,
+     "total": 76,
+     "price": 39050,
+     "price_per_pyeong": 2188
+    },
+    {
+     "type": "059.0000E",
+     "area": 87.15,
+     "general": 9,
+     "special": 35,
+     "total": 44,
+     "price": 38670,
+     "price_per_pyeong": 2167
+    },
+    {
+     "type": "059.0000F",
+     "area": 86.66,
+     "general": 9,
+     "special": 37,
+     "total": 46,
+     "price": 37154,
+     "price_per_pyeong": 2082
+    },
+    {
+     "type": "059.0000G",
+     "area": 86.94,
+     "general": 25,
+     "special": 95,
+     "total": 120,
+     "price": 37912,
+     "price_per_pyeong": 2124
+    },
+    {
+     "type": "059.0000H",
+     "area": 86.56,
+     "general": 4,
+     "special": 20,
+     "total": 24,
+     "price": 37154,
+     "price_per_pyeong": 2082
+    },
+    {
+     "type": "059.0000I",
+     "area": 88.61,
+     "general": 1,
+     "special": 6,
+     "total": 7,
+     "price": 39050,
+     "price_per_pyeong": 2188
+    }
+   ],
+   "prices": {
+    "049.0000A": 30800,
+    "049.0000B": 30800,
+    "049.0000C": 31416,
+    "049.0000D": 30800,
+    "049.0000E": 30800,
+    "049.0000F": 31724,
+    "049.0000G": 31724,
+    "049.0000H": 29567,
+    "049.0000I": 31416,
+    "049.0000J": 31416,
+    "049.0000K": 30184,
+    "059.0000A": 38670,
+    "059.0000B": 39050,
+    "059.0000C": 38670,
+    "059.0000D": 39050,
+    "059.0000E": 38670,
+    "059.0000F": 37154,
+    "059.0000G": 37912,
+    "059.0000H": 37154,
+    "059.0000I": 39050
+   },
+   "price_min": 29567,
+   "price_max": 39050,
+   "hogangnono_id": "gn28d",
+   "hogangnono_name": "고덕강일3단지2차토지임대부분양",
+   "lat": 37.572159,
+   "lon": 127.170148,
+   "score": 30,
+   "tags": [
+    "수도권"
+   ],
+   "status": "open"
+  },
+  {
    "pblancNo": "2026000509",
    "houseManageNo": "2026000509",
    "houseSecd": "",
@@ -13181,262 +13251,6 @@
    "status": "upcoming"
   },
   {
-   "pblancNo": "2026000373",
-   "houseManageNo": "2026000373",
-   "houseSecd": "",
-   "region": "서울",
-   "house_kind": "국민",
-   "sale_kind": "분양주택",
-   "name": "고덕강일지구 3단지 토지임대부(본청약)",
-   "builder": "에이치에스화성(주), (주)서해종합건설, 홍문종합건설(주)",
-   "phone": "1600-3456",
-   "notice_date": "2026-10-16",
-   "apply_period": "2026-11-02 ~ 2026-11-06",
-   "announce_date": "2026-11-26",
-   "apply_start": "2026-11-02",
-   "apply_end": "2026-11-06",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000373&pblancNo=2026000373",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 강동구 강일동 174 일원(고덕강일공공주택지구 3단지)",
-   "total_units_text": "1305세대",
-   "total_units": 1305,
-   "contract_period": "2027-03-22 ~ 2027-04-02",
-   "homepage": "https://www.i-sh.co.kr/main/index.do",
-   "move_in": "2027.05",
-   "schedule": [
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-11-02~2026-11-04",
-      "2026-11-05"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-11-06",
-      "2026-11-06"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "049.0000A",
-     "area": 72.54,
-     "general": 5,
-     "special": 18,
-     "total": 23,
-     "price": 30800,
-     "price_per_pyeong": 2078
-    },
-    {
-     "type": "049.0000B",
-     "area": 72.56,
-     "general": 2,
-     "special": 6,
-     "total": 8,
-     "price": 30800,
-     "price_per_pyeong": 2078
-    },
-    {
-     "type": "049.0000C",
-     "area": 72.19,
-     "general": 19,
-     "special": 74,
-     "total": 93,
-     "price": 31416,
-     "price_per_pyeong": 2119
-    },
-    {
-     "type": "049.0000D",
-     "area": 72.21,
-     "general": 3,
-     "special": 10,
-     "total": 13,
-     "price": 30800,
-     "price_per_pyeong": 2078
-    },
-    {
-     "type": "049.0000E",
-     "area": 72.32,
-     "general": 4,
-     "special": 20,
-     "total": 24,
-     "price": 30800,
-     "price_per_pyeong": 2078
-    },
-    {
-     "type": "049.0000F",
-     "area": 72.64,
-     "general": 14,
-     "special": 58,
-     "total": 72,
-     "price": 31724,
-     "price_per_pyeong": 2140
-    },
-    {
-     "type": "049.0000G",
-     "area": 72.05,
-     "general": 2,
-     "special": 5,
-     "total": 7,
-     "price": 31724,
-     "price_per_pyeong": 2140
-    },
-    {
-     "type": "049.0000H",
-     "area": 73.5,
-     "general": 8,
-     "special": 31,
-     "total": 39,
-     "price": 29567,
-     "price_per_pyeong": 1995
-    },
-    {
-     "type": "049.0000I",
-     "area": 73.26,
-     "general": 2,
-     "special": 7,
-     "total": 9,
-     "price": 31416,
-     "price_per_pyeong": 2119
-    },
-    {
-     "type": "049.0000J",
-     "area": 72.38,
-     "general": 2,
-     "special": 5,
-     "total": 7,
-     "price": 31416,
-     "price_per_pyeong": 2119
-    },
-    {
-     "type": "049.0000K",
-     "area": 72.24,
-     "general": 3,
-     "special": 11,
-     "total": 14,
-     "price": 30184,
-     "price_per_pyeong": 2036
-    },
-    {
-     "type": "059.0000A",
-     "area": 86.54,
-     "general": 6,
-     "special": 18,
-     "total": 24,
-     "price": 38670,
-     "price_per_pyeong": 2167
-    },
-    {
-     "type": "059.0000B",
-     "area": 86.76,
-     "general": 12,
-     "special": 48,
-     "total": 60,
-     "price": 39050,
-     "price_per_pyeong": 2188
-    },
-    {
-     "type": "059.0000C",
-     "area": 87.19,
-     "general": 1,
-     "special": 2,
-     "total": 3,
-     "price": 38670,
-     "price_per_pyeong": 2167
-    },
-    {
-     "type": "059.0000D",
-     "area": 87.19,
-     "general": 16,
-     "special": 60,
-     "total": 76,
-     "price": 39050,
-     "price_per_pyeong": 2188
-    },
-    {
-     "type": "059.0000E",
-     "area": 87.15,
-     "general": 9,
-     "special": 35,
-     "total": 44,
-     "price": 38670,
-     "price_per_pyeong": 2167
-    },
-    {
-     "type": "059.0000F",
-     "area": 86.66,
-     "general": 9,
-     "special": 37,
-     "total": 46,
-     "price": 37154,
-     "price_per_pyeong": 2082
-    },
-    {
-     "type": "059.0000G",
-     "area": 86.94,
-     "general": 25,
-     "special": 95,
-     "total": 120,
-     "price": 37912,
-     "price_per_pyeong": 2124
-    },
-    {
-     "type": "059.0000H",
-     "area": 86.56,
-     "general": 4,
-     "special": 20,
-     "total": 24,
-     "price": 37154,
-     "price_per_pyeong": 2082
-    },
-    {
-     "type": "059.0000I",
-     "area": 88.61,
-     "general": 1,
-     "special": 6,
-     "total": 7,
-     "price": 39050,
-     "price_per_pyeong": 2188
-    }
-   ],
-   "prices": {
-    "049.0000A": 30800,
-    "049.0000B": 30800,
-    "049.0000C": 31416,
-    "049.0000D": 30800,
-    "049.0000E": 30800,
-    "049.0000F": 31724,
-    "049.0000G": 31724,
-    "049.0000H": 29567,
-    "049.0000I": 31416,
-    "049.0000J": 31416,
-    "049.0000K": 30184,
-    "059.0000A": 38670,
-    "059.0000B": 39050,
-    "059.0000C": 38670,
-    "059.0000D": 39050,
-    "059.0000E": 38670,
-    "059.0000F": 37154,
-    "059.0000G": 37912,
-    "059.0000H": 37154,
-    "059.0000I": 39050
-   },
-   "price_min": 29567,
-   "price_max": 39050,
-   "hogangnono_id": "gn28d",
-   "hogangnono_name": "고덕강일3단지2차토지임대부분양",
-   "lat": 37.572159,
-   "lon": 127.170148,
-   "score": 30,
-   "tags": [
-    "수도권"
-   ],
-   "status": "upcoming"
-  },
-  {
    "pblancNo": "2026000532",
    "houseManageNo": "2026000532",
    "houseSecd": "",
@@ -14252,6 +14066,145 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000533",
+   "houseManageNo": "2026000533",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "안산신길2지구 B-1블록 공공분양주택(본청약)",
+   "builder": "동부건설(주),㈜발해,㈜만훈,㈜동서",
+   "phone": "031-297-0311",
+   "notice_date": "2026-10-30",
+   "apply_period": "2026-11-09 ~ 2026-11-18",
+   "announce_date": "2026-11-30",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-18",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000533&pblancNo=2026000533",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 안산시 단원구 신길동 일원 안산신길2 공공주택지구 내 B-1블록",
+   "total_units_text": "387세대",
+   "total_units": 387,
+   "contract_period": "2027-03-15 ~ 2027-03-18",
+   "homepage": "https://apply.lh.or.kr",
+   "move_in": "2029.08",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-09~2026-11-17",
+      "2026-11-09~2026-11-17",
+      "2026-11-09~2026-11-17"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-18",
+      "2026-11-18",
+      "2026-11-18"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.9400A",
+     "area": 97.1385,
+     "general": 6,
+     "special": 22,
+     "total": 28,
+     "price": 51190,
+     "price_per_pyeong": 2258
+    },
+    {
+     "type": "084.7100A",
+     "area": 109.8026,
+     "general": 8,
+     "special": 26,
+     "total": 34,
+     "price": 59653,
+     "price_per_pyeong": 2328
+    },
+    {
+     "type": "084.9800B",
+     "area": 110.1526,
+     "general": 9,
+     "special": 25,
+     "total": 34,
+     "price": 58646,
+     "price_per_pyeong": 2281
+    },
+    {
+     "type": "084.8700D",
+     "area": 110.01,
+     "general": 4,
+     "special": 15,
+     "total": 19,
+     "price": 59766,
+     "price_per_pyeong": 2328
+    },
+    {
+     "type": "084.5300G",
+     "area": 109.5693,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 60116,
+     "price_per_pyeong": 2351
+    },
+    {
+     "type": "084.4400H",
+     "area": 109.4526,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 60052,
+     "price_per_pyeong": 2351
+    },
+    {
+     "type": "084.5400I",
+     "area": 109.5822,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 60123,
+     "price_per_pyeong": 2351
+    },
+    {
+     "type": "084.9800J",
+     "area": 110.1526,
+     "general": 1,
+     "special": 5,
+     "total": 6,
+     "price": 60969,
+     "price_per_pyeong": 2372
+    }
+   ],
+   "prices": {
+    "074.9400A": 51190,
+    "084.7100A": 59653,
+    "084.9800B": 58646,
+    "084.8700D": 59766,
+    "084.5300G": 60116,
+    "084.4400H": 60052,
+    "084.5400I": 60123,
+    "084.9800J": 60969
+   },
+   "price_min": 51190,
+   "price_max": 60969,
+   "hogangnono_id": "f6vb3",
+   "hogangnono_name": "안산신길2B-1블록",
+   "lat": 37.3417299081158,
+   "lon": 126.776647357584,
+   "score": 30,
+   "tags": [
+    "수도권",
+    "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000528",
    "houseManageNo": "2026000528",
    "houseSecd": "",
@@ -14448,6 +14401,172 @@
    "hogangnono_name": "광교자연앤센트레빌지분적립형",
    "lat": 37.2766861,
    "lon": 127.0528362,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000515",
+   "houseManageNo": "2026000515",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "평택 고덕 우미 린 더 프리미어",
+   "builder": "우미건설(주),지에스건설(주),이에스아이주식회사",
+   "phone": "031-666-1003",
+   "notice_date": "2026-10-30",
+   "apply_period": "2026-11-09 ~ 2026-11-11",
+   "announce_date": "2026-11-17",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-11",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000515&pblancNo=2026000515",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 평택시 고덕 국제화계획지구 내 Abc-33블록",
+   "total_units_text": "623세대",
+   "total_units": 623,
+   "contract_period": "2026-11-29 ~ 2026-12-01",
+   "homepage": "https://pg2.lynn.co.kr/",
+   "move_in": "2029.05",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-10",
+      "2026-11-10"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-11",
+      "2026-11-11",
+      "2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9343A",
+     "area": 110.2002,
+     "general": 109,
+     "special": 200,
+     "total": 309,
+     "price": 59130,
+     "price_per_pyeong": 2301
+    },
+    {
+     "type": "084.9075B",
+     "area": 110.5732,
+     "general": 21,
+     "special": 40,
+     "total": 61,
+     "price": 59130,
+     "price_per_pyeong": 2302
+    },
+    {
+     "type": "084.8505D",
+     "area": 111.0782,
+     "general": 10,
+     "special": 20,
+     "total": 30,
+     "price": 57890,
+     "price_per_pyeong": 2255
+    },
+    {
+     "type": "094.3143A",
+     "area": 121.5382,
+     "general": 42,
+     "special": 7,
+     "total": 49,
+     "price": 62010,
+     "price_per_pyeong": 2174
+    },
+    {
+     "type": "094.2875B",
+     "area": 121.9112,
+     "general": 20,
+     "special": 4,
+     "total": 24,
+     "price": 62010,
+     "price_per_pyeong": 2174
+    },
+    {
+     "type": "094.3805D",
+     "area": 122.5975,
+     "general": 5,
+     "special": 1,
+     "total": 6,
+     "price": 56790,
+     "price_per_pyeong": 1989
+    },
+    {
+     "type": "101.8311A",
+     "area": 131.0502,
+     "general": 65,
+     "special": 10,
+     "total": 75,
+     "price": 68190,
+     "price_per_pyeong": 2214
+    },
+    {
+     "type": "101.8531B",
+     "area": 131.6827,
+     "general": 48,
+     "special": 6,
+     "total": 54,
+     "price": 68100,
+     "price_per_pyeong": 2210
+    },
+    {
+     "type": "111.5911A",
+     "area": 142.8475,
+     "general": 6,
+     "special": 0,
+     "total": 6,
+     "price": 66760,
+     "price_per_pyeong": 1978
+    },
+    {
+     "type": "111.4331B",
+     "area": 143.2625,
+     "general": 9,
+     "special": 0,
+     "total": 9,
+     "price": 68100,
+     "price_per_pyeong": 2020
+    }
+   ],
+   "prices": {
+    "084.9343A": 59130,
+    "084.9075B": 59130,
+    "084.8505D": 57890,
+    "094.3143A": 62010,
+    "094.2875B": 62010,
+    "094.3805D": 56790,
+    "101.8311A": 68190,
+    "101.8531B": 68100,
+    "111.5911A": 66760,
+    "111.4331B": 68100
+   },
+   "price_min": 56790,
+   "price_max": 68190,
+   "hogangnono_id": "gTYb1",
+   "hogangnono_name": "평택고덕우미린더프리미어",
+   "lat": 37.0510917257668,
+   "lon": 127.029265419824,
    "score": 20,
    "tags": [
     "수도권"
@@ -14863,6 +14982,137 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000539",
+   "houseManageNo": "2026000539",
+   "houseSecd": "",
+   "region": "강원",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "남춘천 센트레빌",
+   "builder": "동부건설(주)",
+   "phone": "033-253-3000",
+   "notice_date": "2026-10-30",
+   "apply_period": "2026-11-09 ~ 2026-11-11",
+   "announce_date": "2026-11-17",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-11",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000539&pblancNo=2026000539",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "강원특별자치도 춘천시 효자동 681-12 일원",
+   "total_units_text": "264세대",
+   "total_units": 264,
+   "contract_period": "2026-11-30 ~ 2026-12-02",
+   "homepage": "https://www.남춘천센트레빌.com",
+   "move_in": "2030.10",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-09",
+      "2026-11-09"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-10",
+      "2026-11-10"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-11",
+      "2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9960A",
+     "area": 84.2416,
+     "general": 8,
+     "special": 24,
+     "total": 32,
+     "price": 46513,
+     "price_per_pyeong": 2563
+    },
+    {
+     "type": "084.9888A",
+     "area": 116.4647,
+     "general": 35,
+     "special": 31,
+     "total": 66,
+     "price": 62486,
+     "price_per_pyeong": 2431
+    },
+    {
+     "type": "084.9917B",
+     "area": 118.5978,
+     "general": 13,
+     "special": 21,
+     "total": 34,
+     "price": 62994,
+     "price_per_pyeong": 2450
+    },
+    {
+     "type": "084.9852C",
+     "area": 117.14,
+     "general": 15,
+     "special": 18,
+     "total": 33,
+     "price": 60982,
+     "price_per_pyeong": 2372
+    },
+    {
+     "type": "084.9895D",
+     "area": 116.2402,
+     "general": 18,
+     "special": 14,
+     "total": 32,
+     "price": 59902,
+     "price_per_pyeong": 2330
+    },
+    {
+     "type": "084.9928E",
+     "area": 117.5139,
+     "general": 15,
+     "special": 19,
+     "total": 34,
+     "price": 63043,
+     "price_per_pyeong": 2452
+    },
+    {
+     "type": "084.9945F",
+     "area": 117.2546,
+     "general": 14,
+     "special": 19,
+     "total": 33,
+     "price": 62904,
+     "price_per_pyeong": 2447
+    }
+   ],
+   "prices": {
+    "059.9960A": 46513,
+    "084.9888A": 62486,
+    "084.9917B": 62994,
+    "084.9852C": 60982,
+    "084.9895D": 59902,
+    "084.9928E": 63043,
+    "084.9945F": 62904
+   },
+   "price_min": 46513,
+   "price_max": 63043,
+   "hogangnono_id": "gZC23",
+   "hogangnono_name": "남춘천센트레빌",
+   "lat": 37.8711336602056,
+   "lon": 127.724263337659,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000523",
    "houseManageNo": "2026000523",
    "houseSecd": "",
@@ -14931,6 +15181,85 @@
    "lon": 128.3332086,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026820013",
+   "houseManageNo": "2026820013",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "안산신길2 A-6블록 신혼희망타운(공공분양)(본청약)",
+   "builder": "동문건설(주), 남진건설 주식회사, 아라이앤씨 주식회사",
+   "phone": "031-297-0311",
+   "notice_date": "2026-10-30",
+   "apply_period": "2026-11-16 ~ 2026-11-24",
+   "announce_date": "2026-12-04",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-24",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820013&pblancNo=2026820013",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 안산시 단원구 신길동 일원 안산신길2 공공주택지구 내 A-6블록",
+   "total_units_text": "251세대",
+   "total_units": 251,
+   "contract_period": "2027-03-30 ~ 2027-04-02",
+   "homepage": "https://apply.lh.or.kr/",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-16~2026-11-23",
+      "2026-11-16~2026-11-23",
+      "2026-11-16~2026-11-23"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-24",
+      "2026-11-24",
+      "2026-11-24"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "055.0000A",
+     "area": 81.5326,
+     "general": 0,
+     "special": 200,
+     "total": 200,
+     "price": 46658,
+     "price_per_pyeong": 2804
+    },
+    {
+     "type": "055.0000B",
+     "area": 81.4741,
+     "general": 0,
+     "special": 20,
+     "total": 20,
+     "price": 45692,
+     "price_per_pyeong": 2746
+    }
+   ],
+   "prices": {
+    "055.0000A": 46658,
+    "055.0000B": 45692
+   },
+   "price_min": 45692,
+   "price_max": 46658,
+   "hogangnono_id": "f6U86",
+   "hogangnono_name": "안산신길2A6블록신혼희망타운",
+   "lat": 37.3382654002017,
+   "lon": 126.772458826502,
+   "score": 30,
+   "tags": [
+    "수도권",
+    "공공분양"
+   ],
    "status": "upcoming"
   },
   {
