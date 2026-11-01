@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-01 09:15 KST",
+ "updated_at": "2026-11-02 01:17 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 164,
+ "count": 168,
  "items": [
   {
    "pblancNo": "2026940206",
@@ -12205,6 +12205,207 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940245",
+   "houseManageNo": "2026940245",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "고강휴먼빌",
+   "builder": "삼하동호진주가로주택정비사업조합",
+   "notice_date": "2026-11-02",
+   "apply_period": "2026-11-04 ~ 2026-11-05",
+   "announce_date": "2026-11-10",
+   "phone": "",
+   "apply_start": "2026-11-04",
+   "apply_end": "2026-11-05",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940245&pblancNo=2026940245&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 부천시 오정구 고강동 293-2번지 외 7필지",
+   "total_units_text": "26세대",
+   "total_units": 26,
+   "contract_period": "2026-11-16 ~ 2026-11-18",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-04 ~ 2026-11-05"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "046.9340",
+     "price": 38548,
+     "total": 17,
+     "price_per_pyeong": 2715
+    },
+    {
+     "type": "048.9071",
+     "price": 40934,
+     "total": 4,
+     "price_per_pyeong": 2767
+    },
+    {
+     "type": "059.9788C",
+     "price": 51543,
+     "total": 3,
+     "price_per_pyeong": 2841
+    },
+    {
+     "type": "078.8866",
+     "price": 67600,
+     "total": 2,
+     "price_per_pyeong": 2833
+    }
+   ],
+   "prices": {
+    "046.9340": 38548,
+    "048.9071": 40934,
+    "059.9788C": 51543,
+    "078.8866": 67600
+   },
+   "price_min": 38548,
+   "price_max": 67600,
+   "hogangnono_id": "fg230",
+   "hogangnono_name": "고강휴먼빌",
+   "lat": 37.5259492412365,
+   "lon": 126.81186613219,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940246",
+   "houseManageNo": "2026940246",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "고촌센트럴자이(14차)",
+   "builder": "(주)일레븐건설",
+   "notice_date": "2026-11-02",
+   "apply_period": "2026-11-04 ~ 2026-11-05",
+   "announce_date": "2026-11-10",
+   "phone": "",
+   "apply_start": "2026-11-04",
+   "apply_end": "2026-11-05",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940246&pblancNo=2026940246&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 김포시 고촌읍 신곡리 김포신곡6지구 도시개발사업구역 A3BL",
+   "total_units_text": "10세대",
+   "total_units": 10,
+   "contract_period": "2026-11-12 ~ 2026-11-12",
+   "homepage": "",
+   "move_in": "2027.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-04 ~ 2026-11-05"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9109A",
+     "price": 75840,
+     "total": 5,
+     "price_per_pyeong": 2953
+    },
+    {
+     "type": "084.3506B",
+     "price": 74520,
+     "total": 4,
+     "price_per_pyeong": 2921
+    },
+    {
+     "type": "105.9852",
+     "price": 93780,
+     "total": 1,
+     "price_per_pyeong": 2925
+    }
+   ],
+   "prices": {
+    "084.9109A": 75840,
+    "084.3506B": 74520,
+    "105.9852": 93780
+   },
+   "price_min": 74520,
+   "price_max": 93780,
+   "hogangnono_id": "dAl40",
+   "hogangnono_name": "고촌센트럴자이",
+   "lat": 37.5916015,
+   "lon": 126.76277,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910281",
+   "houseManageNo": "2026910281",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "빌리브센트하이(2차)",
+   "builder": "(주)에코월드이엔씨",
+   "notice_date": "2026-11-02",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910281&pblancNo=2026910281&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 남양주시 화도읍 마석우리 295-32번지 일원",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-11-14 ~ 2026-11-14",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9760B",
+     "total": 4
+    },
+    {
+     "type": "098.9850B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "fBe54",
+   "hogangnono_name": "빌리브센트하이",
+   "lat": 37.6538384,
+   "lon": 127.3061,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000533",
    "houseManageNo": "2026000533",
    "houseSecd": "",
@@ -13318,6 +13519,66 @@
    "hogangnono_name": "형곡센트럴아테라",
    "lat": 36.1134225,
    "lon": 128.3332086,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026850054",
+   "houseManageNo": "2026850054",
+   "houseSecd": "03",
+   "region": "부산",
+   "house_kind": "공공지원민간임대",
+   "name": "부경경마공원역 대방 디에트르 더리버(AP1BL)",
+   "builder": "대방건설 주식회사",
+   "phone": "1688-9005",
+   "notice_date": "2026-11-02",
+   "apply_period": "2026-11-09 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-10",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850054&pblancNo=2026850054&houseSecd=03",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "부산광역시 강서구 범방동 2008번지",
+   "total_units_text": "79세대",
+   "total_units": 79,
+   "contract_period": "2026-11-16 ~ 2026-11-17",
+   "homepage": "http://detre-bg.co.kr/",
+   "move_in": "2027.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "공공지원민간임대",
+     "area": 59.8947,
+     "total": 0
+    },
+    {
+     "type": "59A-1",
+     "price": 19380
+    },
+    {
+     "type": "59B-1",
+     "price": 19522
+    }
+   ],
+   "prices": {
+    "59A-1": 19380,
+    "59B-1": 19522
+   },
+   "price_min": 19380,
+   "price_max": 19522,
+   "hogangnono_id": "gIVfd",
+   "hogangnono_name": "부경경마공원역대방디에트르더리버(AP1BL)",
+   "lat": 35.15412,
+   "lon": 128.884962,
    "score": 0,
    "tags": [],
    "status": "upcoming"
