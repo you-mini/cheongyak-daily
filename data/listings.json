@@ -1,74 +1,192 @@
 {
- "updated_at": "2026-11-02 09:57 KST",
+ "updated_at": "2026-11-03 04:44 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 165,
+ "count": 168,
  "items": [
   {
-   "pblancNo": "2026940206",
-   "houseManageNo": "2026940206",
-   "houseSecd": "11",
-   "region": "서울",
-   "supply_kind": "임의공급",
-   "name": "청계백상앨리츠(3차)",
-   "builder": "미성주택 소규모재건축사업조합",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-17 ~ 2026-09-18",
-   "announce_date": "2026-09-30",
-   "phone": "",
+   "pblancNo": "2026000414",
+   "houseManageNo": "2026000414",
+   "houseSecd": "",
+   "region": "인천",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "인천계양지구 A6블록 공공분양주택(본청약)",
+   "builder": "(주)케이알산업, 우암건설(주)",
+   "phone": "032-562-4777",
+   "notice_date": "2026-08-31",
+   "apply_period": "2026-09-17 ~ 2026-10-02",
+   "announce_date": "2026-10-21",
    "apply_start": "2026-09-17",
-   "apply_end": "2026-09-18",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940206&pblancNo=2026940206&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 성동구 마장동 767-56",
-   "total_units_text": "11세대",
-   "total_units": 11,
-   "contract_period": "2026-10-06 ~ 2026-10-10",
-   "homepage": "",
-   "move_in": "2028.05",
+   "apply_end": "2026-10-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000414&pblancNo=2026000414",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 계양구 귤현동, 동양동, 박촌동, 병방동, 상야동 및 경기도 부천시 대장동, 서울특별시 강서구 오곡동 일원 인천계양 테크노밸리 공공주택지구 내 A6블록",
+   "total_units_text": "663세대",
+   "total_units": 663,
+   "contract_period": "2026-12-15 ~ 2026-12-18",
+   "homepage": "https://apply.lh.or.kr",
+   "move_in": "2029.06",
    "schedule": [
     {
-     "label": "청약접수",
+     "label": "1순위",
      "dates": [
-      "2026-09-17 ~ 2026-09-18"
+      "2026-09-17~2026-09-30",
+      "2026-09-17~2026-09-30"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-10-01~2026-10-02",
+      "2026-10-01~2026-10-02"
      ]
     }
    ],
    "units": [
     {
-     "type": "076.6275",
-     "price": 125000,
+     "type": "059.8400A",
+     "area": 81.6632,
+     "general": 13,
+     "special": 90,
+     "total": 103,
+     "price": 53736,
+     "price_per_pyeong": 2969
+    },
+    {
+     "type": "059.8100B",
+     "area": 81.6223,
+     "general": 8,
+     "special": 44,
+     "total": 52,
+     "price": 52656,
+     "price_per_pyeong": 2910
+    },
+    {
+     "type": "059.8300C",
+     "area": 81.6496,
+     "general": 0,
+     "special": 0,
+     "total": 0,
+     "price": 51578,
+     "price_per_pyeong": 2850
+    },
+    {
+     "type": "059.7100D",
+     "area": 81.4858,
+     "general": 3,
+     "special": 1,
+     "total": 4,
+     "price": 50466,
+     "price_per_pyeong": 2794
+    },
+    {
+     "type": "059.7200E",
+     "area": 81.4995,
+     "general": 3,
+     "special": 30,
+     "total": 33,
+     "price": 50474,
+     "price_per_pyeong": 2794
+    },
+    {
+     "type": "059.9700G",
+     "area": 81.8406,
+     "general": 0,
+     "special": 6,
+     "total": 6,
+     "price": 53853,
+     "price_per_pyeong": 2969
+    },
+    {
+     "type": "059.8200H",
+     "area": 81.6359,
+     "general": 1,
+     "special": 0,
      "total": 1,
-     "price_per_pyeong": 5393
+     "price": 52665,
+     "price_per_pyeong": 2910
     },
     {
-     "type": "081.6700",
-     "price": 134800,
-     "total": 7,
-     "price_per_pyeong": 5456
+     "type": "069.8200P",
+     "area": 95.2829,
+     "general": 2,
+     "special": 0,
+     "total": 2,
+     "price": 59625,
+     "price_per_pyeong": 2823
     },
     {
-     "type": "081.6937",
-     "price": 135200,
-     "total": 3,
-     "price_per_pyeong": 5471
+     "type": "074.9300O",
+     "area": 102.2564,
+     "general": 4,
+     "special": 28,
+     "total": 32,
+     "price": 64649,
+     "price_per_pyeong": 2852
+    },
+    {
+     "type": "077.4100A",
+     "area": 105.6409,
+     "general": 3,
+     "special": 2,
+     "total": 5,
+     "price": 66107,
+     "price_per_pyeong": 2823
+    },
+    {
+     "type": "077.4100C",
+     "area": 105.6409,
+     "general": 0,
+     "special": 0,
+     "total": 0,
+     "price": 65453,
+     "price_per_pyeong": 2795
+    },
+    {
+     "type": "084.7800A",
+     "area": 115.6987,
+     "general": 1,
+     "special": 7,
+     "total": 8,
+     "price": 71654,
+     "price_per_pyeong": 2794
+    },
+    {
+     "type": "084.9900B",
+     "area": 115.9853,
+     "general": 0,
+     "special": 5,
+     "total": 5,
+     "price": 70395,
+     "price_per_pyeong": 2738
     }
    ],
    "prices": {
-    "076.6275": 125000,
-    "081.6700": 134800,
-    "081.6937": 135200
+    "059.8400A": 53736,
+    "059.8100B": 52656,
+    "059.8300C": 51578,
+    "059.7100D": 50466,
+    "059.7200E": 50474,
+    "059.9700G": 53853,
+    "059.8200H": 52665,
+    "069.8200P": 59625,
+    "074.9300O": 64649,
+    "077.4100A": 66107,
+    "077.4100C": 65453,
+    "084.7800A": 71654,
+    "084.9900B": 70395
    },
-   "price_min": 125000,
-   "price_max": 135200,
-   "hogangnono_id": "gPV59",
-   "hogangnono_name": "청계백상엘리츠",
-   "lat": 37.5685823,
-   "lon": 127.0448434,
-   "score": 60,
+   "price_min": 50466,
+   "price_max": 71654,
+   "hogangnono_id": "grM53",
+   "hogangnono_name": "인천계양A6블록",
+   "lat": 37.552654,
+   "lon": 126.756199,
+   "score": 30,
    "tags": [
-    "무순위·잔여세대",
-    "수도권"
+    "수도권",
+    "공공분양"
    ],
    "status": "closed"
   },
@@ -318,61 +436,6 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910240",
-   "houseManageNo": "2026910240",
-   "houseSecd": "04",
-   "region": "강원",
-   "supply_kind": "무순위(사후)",
-   "name": "아야진 라메르 데시앙",
-   "builder": "(주)무궁화신탁",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-21 ~ 2026-09-21",
-   "announce_date": "2026-09-28",
-   "phone": "",
-   "apply_start": "2026-09-21",
-   "apply_end": "2026-09-21",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910240&pblancNo=2026910240&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "강원특별자치도 고성군 토성면 아야진길 24-10, 아야진 라메르 데시앙",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-09-30 ~ 2026-09-30",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-21 ~ 2026-09-21"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.3589A",
-     "total": 2
-    },
-    {
-     "type": "084.9235B",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "fiI63",
-   "hogangnono_name": "아야진라메르데시앙",
-   "lat": 38.2714187294727,
-   "lon": 128.550028107736,
-   "score": 35,
-   "tags": [
-    "무순위·잔여세대",
-    "소량 공급"
    ],
    "status": "closed"
   },
@@ -12203,6 +12266,163 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026910273",
+   "houseManageNo": "2026910273",
+   "houseSecd": "04",
+   "region": "세종",
+   "supply_kind": "무순위(사후)",
+   "name": "캐슬앤파밀리에 디아트(4-1생활권 P1구역 L2블록 수루배마을2단지)",
+   "builder": "롯데건설(주)",
+   "notice_date": "2026-11-03",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910273&pblancNo=2026910273&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 반곡1길 9 (반곡동, 수루배마을2단지)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-19 ~ 2026-11-19",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.2240",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "b0Ca5",
+   "hogangnono_name": "수루배마을1단지캐슬파밀리에디아트",
+   "lat": 36.49737531452131,
+   "lon": 127.30683888547324,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910272",
+   "houseManageNo": "2026910272",
+   "houseSecd": "04",
+   "region": "세종",
+   "supply_kind": "무순위(사후)",
+   "name": "캐슬앤파밀리에 디아트(4-1생활권 P1구역 M1블록 수루배마을1단지)",
+   "builder": "롯데건설(주)",
+   "notice_date": "2026-11-03",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910272&pblancNo=2026910272&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 반곡로 14 (반곡동, 수루배마을1단지)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-19 ~ 2026-11-19",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "096.7880",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "b0Ca5",
+   "hogangnono_name": "수루배마을1단지캐슬파밀리에디아트",
+   "lat": 36.49737531452131,
+   "lon": 127.30683888547324,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910274",
+   "houseManageNo": "2026910274",
+   "houseSecd": "04",
+   "region": "충남",
+   "supply_kind": "무순위(사후)",
+   "name": "천안 롯데캐슬 더 청당",
+   "builder": "롯데건설(주)",
+   "notice_date": "2026-11-03",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910274&pblancNo=2026910274&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청남도 천안시 동남구 청당4로 20",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-11-20 ~ 2026-11-20",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9948A",
+     "total": 1
+    },
+    {
+     "type": "084.9962A",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "dqe26",
+   "hogangnono_name": "천안롯데캐슬더청당",
+   "lat": 36.7775495927796,
+   "lon": 127.14489875968,
+   "score": 35,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000533",
    "houseManageNo": "2026000533",
    "houseSecd": "",
@@ -13376,6 +13596,107 @@
    "hogangnono_name": "부경경마공원역대방디에트르더리버(AP1BL)",
    "lat": 35.15412,
    "lon": 128.884962,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000554",
+   "houseManageNo": "2026000554",
+   "houseSecd": "",
+   "region": "경북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "리첼 에듀포레 경산역",
+   "builder": "에쓰와이이앤씨",
+   "phone": "053-813-2010",
+   "notice_date": "2026-11-03",
+   "apply_period": "2026-11-13 ~ 2026-11-17",
+   "announce_date": "2026-11-23",
+   "apply_start": "2026-11-13",
+   "apply_end": "2026-11-17",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000554&pblancNo=2026000554",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상북도 경산시 사정동 301-22번지 일원",
+   "total_units_text": "201세대",
+   "total_units": 201,
+   "contract_period": "2026-12-04 ~ 2026-12-06",
+   "homepage": "https://richelledufore.co.kr",
+   "move_in": "2029.09",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-13",
+      "2026-11-13"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-16",
+      "2026-11-16"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-17",
+      "2026-11-17"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "062.2537",
+     "area": 83.1444,
+     "general": 16,
+     "special": 26,
+     "total": 42,
+     "price": 48070,
+     "price_per_pyeong": 2553
+    },
+    {
+     "type": "084.9417A",
+     "area": 111.545,
+     "general": 36,
+     "special": 41,
+     "total": 77,
+     "price": 63363,
+     "price_per_pyeong": 2466
+    },
+    {
+     "type": "084.8838B",
+     "area": 112.2603,
+     "general": 20,
+     "special": 27,
+     "total": 47,
+     "price": 63811,
+     "price_per_pyeong": 2485
+    },
+    {
+     "type": "084.9417C",
+     "area": 111.4114,
+     "general": 19,
+     "special": 16,
+     "total": 35,
+     "price": 61063,
+     "price_per_pyeong": 2376
+    }
+   ],
+   "prices": {
+    "062.2537": 48070,
+    "084.9417A": 63363,
+    "084.8838B": 63811,
+    "084.9417C": 61063
+   },
+   "price_min": 48070,
+   "price_max": 63811,
+   "hogangnono_id": "gSNb4",
+   "hogangnono_name": "리첼에듀포레경산역",
+   "lat": 35.8210698,
+   "lon": 128.7301132,
    "score": 0,
    "tags": [],
    "status": "upcoming"
