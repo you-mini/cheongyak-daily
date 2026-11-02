@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-02 01:17 KST",
+ "updated_at": "2026-11-02 09:57 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 168,
+ "count": 165,
  "items": [
   {
    "pblancNo": "2026940206",
@@ -69,150 +69,6 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940201",
-   "houseManageNo": "2026940201",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "이천 중리지구 B3블록 금성백조 예미지",
-   "builder": "(주)금성백조주택",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-17 ~ 2026-09-17",
-   "announce_date": "2026-09-22",
-   "phone": "",
-   "apply_start": "2026-09-17",
-   "apply_end": "2026-09-17",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940201&pblancNo=2026940201&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
-   "total_units_text": "30세대",
-   "total_units": 30,
-   "contract_period": "2026-09-23 ~ 2026-09-23",
-   "homepage": "",
-   "move_in": "2026.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-17 ~ 2026-09-17"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9870A",
-     "price": 37900,
-     "total": 2,
-     "price_per_pyeong": 2089
-    },
-    {
-     "type": "059.9870B",
-     "price": 37900,
-     "total": 1,
-     "price_per_pyeong": 2089
-    },
-    {
-     "type": "084.7884A",
-     "price": 54700,
-     "total": 23,
-     "price_per_pyeong": 2133
-    },
-    {
-     "type": "084.9970B",
-     "price": 53200,
-     "total": 3,
-     "price_per_pyeong": 2069
-    },
-    {
-     "type": "084.9665C",
-     "price": 55000,
-     "total": 1,
-     "price_per_pyeong": 2140
-    }
-   ],
-   "prices": {
-    "059.9870A": 37900,
-    "059.9870B": 37900,
-    "084.7884A": 54700,
-    "084.9970B": 53200,
-    "084.9665C": 55000
-   },
-   "price_min": 37900,
-   "price_max": 55000,
-   "hogangnono_id": "faAe6",
-   "hogangnono_name": "이천중리지구B3블록금성백조예미지",
-   "lat": 37.2698204,
-   "lon": 127.438975,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940193",
-   "houseManageNo": "2026940193",
-   "houseSecd": "11",
-   "region": "경남",
-   "supply_kind": "임의공급",
-   "name": "밀양 수자인 더퍼스트 2단지 공공분양주택",
-   "builder": "주식회사비에스한양",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-17 ~ 2026-09-17",
-   "announce_date": "2026-09-22",
-   "phone": "",
-   "apply_start": "2026-09-17",
-   "apply_end": "2026-09-17",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940193&pblancNo=2026940193&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경상남도 밀양시 부북지구 S-2BL",
-   "total_units_text": "13세대",
-   "total_units": 13,
-   "contract_period": "2026-10-01 ~ 2026-10-01",
-   "homepage": "",
-   "move_in": "2028.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-17 ~ 2026-09-17"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "074.9400",
-     "price": 33924,
-     "total": 4,
-     "price_per_pyeong": 1496
-    },
-    {
-     "type": "084.9600",
-     "price": 38460,
-     "total": 9,
-     "price_per_pyeong": 1496
-    }
-   ],
-   "prices": {
-    "074.9400": 33924,
-    "084.9600": 38460
-   },
-   "price_min": 33924,
-   "price_max": 38460,
-   "hogangnono_id": "gM79a",
-   "hogangnono_name": "밀양수자인더퍼스트2단지",
-   "lat": 35.478576,
-   "lon": 128.7326575,
-   "score": 30,
-   "tags": [
-    "무순위·잔여세대"
    ],
    "status": "closed"
   },
@@ -2411,65 +2267,6 @@
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026930032",
-   "houseManageNo": "2026930032",
-   "houseSecd": "06",
-   "region": "울산",
-   "supply_kind": "불법행위 재공급",
-   "name": "태화강 에피트",
-   "builder": "에이치엘디앤아이한라 주식회사",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-28 ~ 2026-09-28",
-   "announce_date": "2026-10-06",
-   "phone": "",
-   "apply_start": "2026-09-28",
-   "apply_end": "2026-09-28",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930032&pblancNo=2026930032&houseSecd=06",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "울산광역시 울주군 범서읍 굴화리 일원 공공주택지구 내 S1블럭",
-   "total_units_text": "1세대",
-   "total_units": 1,
-   "contract_period": "2026-10-16 ~ 2026-10-16",
-   "homepage": "",
-   "move_in": "2027.07",
-   "schedule": [
-    {
-     "label": "일반공급",
-     "dates": [
-      "2026-09-28"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.7646",
-     "area": 109.2769,
-     "general": 1,
-     "special": 0,
-     "total": 1,
-     "price": 54780,
-     "price_per_pyeong": 2136
-    }
-   ],
-   "prices": {
-    "084.7646": 54780
-   },
-   "price_min": 54780,
-   "price_max": 54780,
-   "hogangnono_id": "gpV1e",
-   "hogangnono_name": "태화강에피트",
-   "lat": 35.5587075,
-   "lon": 129.259509,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "최초 분양가 재공급",
-    "소량 공급"
    ],
    "status": "closed"
   },
@@ -10910,7 +10707,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930042",
@@ -10969,7 +10766,7 @@
     "최초 분양가 재공급",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910257",
@@ -11025,7 +10822,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940237",
@@ -11101,7 +10898,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910278",
@@ -11152,7 +10949,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910275",
@@ -11239,7 +11036,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910269",
@@ -11298,7 +11095,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000531",
@@ -11387,7 +11184,7 @@
     "수도권",
     "공공분양"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000532",
@@ -11520,7 +11317,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000530",
@@ -11663,7 +11460,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000518",
@@ -11749,7 +11546,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000517",
@@ -11865,7 +11662,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000496",
@@ -11988,7 +11785,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000502",
@@ -12151,7 +11948,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910267",
