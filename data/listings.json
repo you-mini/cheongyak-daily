@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-03 12:01 KST",
+ "updated_at": "2026-11-04 02:18 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 166,
+ "count": 169,
  "items": [
   {
    "pblancNo": "2026000414",
@@ -1371,57 +1371,6 @@
     "최초 분양가 재공급",
     "수도권",
     "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910244",
-   "houseManageNo": "2026910244",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "더 리치먼드 미아(3차)",
-   "builder": "우리자산신탁 주식회사",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-22 ~ 2026-09-22",
-   "announce_date": "2026-09-29",
-   "phone": "",
-   "apply_start": "2026-09-22",
-   "apply_end": "2026-09-22",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910244&pblancNo=2026910244&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 강북구 미아동 703-13번지",
-   "total_units_text": "14세대",
-   "total_units": 14,
-   "contract_period": "2026-10-01 ~ 2026-10-01",
-   "homepage": "",
-   "move_in": "2028.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-22 ~ 2026-09-22"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.8400A",
-     "total": 14
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gQ151",
-   "hogangnono_name": "더리치먼드미아",
-   "lat": 37.620258347225,
-   "lon": 127.021264917283,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -12079,6 +12028,58 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026910285",
+   "houseManageNo": "2026910285",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "더샵 송도그란테르 G5-6블록",
+   "builder": "케이비부동산신탁(주)",
+   "notice_date": "2026-11-04",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910285&pblancNo=2026910285&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 연수구 송도동 32-3,-6 (G5-6BL)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-19 ~ 2026-11-19",
+   "homepage": "",
+   "move_in": "2030.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "118.2300K",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gRi5c",
+   "hogangnono_name": "더샵송도그란테르G5-6블록",
+   "lat": 37.3920760315925,
+   "lon": 126.630997877891,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910281",
    "houseManageNo": "2026910281",
    "houseSecd": "04",
@@ -12230,6 +12231,119 @@
    "lat": 36.49737531452131,
    "lon": 127.30683888547324,
    "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910277",
+   "houseManageNo": "2026910277",
+   "houseSecd": "04",
+   "region": "부산",
+   "supply_kind": "무순위(사후)",
+   "name": "쌍용 더 플래티넘 센텀",
+   "builder": "수영구 망미동 지역주택조합",
+   "notice_date": "2026-11-04",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910277&pblancNo=2026910277&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 수영구 망미동 253-1번지 일원",
+   "total_units_text": "53세대",
+   "total_units": 53,
+   "contract_period": "2026-11-19 ~ 2026-11-19",
+   "homepage": "",
+   "move_in": "2029.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "063.1378A",
+     "total": 5
+    },
+    {
+     "type": "063.0513B",
+     "total": 2
+    },
+    {
+     "type": "074.3998B",
+     "total": 3
+    },
+    {
+     "type": "084.0948",
+     "total": 43
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gsq6e",
+   "hogangnono_name": "쌍용더플래티넘센텀",
+   "lat": 35.1749220195504,
+   "lon": 129.115773762908,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910286",
+   "houseManageNo": "2026910286",
+   "houseSecd": "04",
+   "region": "전북",
+   "supply_kind": "무순위(사후)",
+   "name": "삼천 하늘채 라비엘",
+   "builder": "삼천주공3 재건축정비사업조합",
+   "notice_date": "2026-11-04",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910286&pblancNo=2026910286&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전북특별자치도 전주시 완산구 삼천동1가 585-4번지 일원",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-11-19 ~ 2026-11-19",
+   "homepage": "",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.9823B",
+     "total": 5
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gFDa9",
+   "hogangnono_name": "삼천하늘채라비엘",
+   "lat": 35.7982024,
+   "lon": 127.125159,
+   "score": 35,
    "tags": [
     "무순위·잔여세대",
     "소량 공급"
@@ -13202,6 +13316,77 @@
    "lat": 37.0227158,
    "lon": 127.0843252,
    "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950096",
+   "houseManageNo": "2026950096",
+   "houseSecd": "02",
+   "region": "경기",
+   "house_kind": "오피스텔",
+   "name": "옥정중앙역 대방 디에트르Ⅱ",
+   "builder": "대방건설 주식회사",
+   "phone": "1688-7002",
+   "notice_date": "2026-11-04",
+   "apply_period": "2026-11-09 ~ 2026-11-09",
+   "announce_date": "2026-11-12",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-09",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950096&pblancNo=2026950096&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "경기도 양주시 옥정동 962-9,8번지(옥정지구 중상1, 복합1블록)",
+   "total_units_text": "279세대",
+   "total_units": 279,
+   "contract_period": "2026-11-14 ~ 2026-11-14",
+   "homepage": "https://detre-ojop.co.kr",
+   "move_in": "2030.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "119OA",
+     "area": 119.9569,
+     "total": 124,
+     "price": 61110,
+     "price_per_pyeong": 1684
+    },
+    {
+     "type": "119OB",
+     "area": 119.8284,
+     "total": 112,
+     "price": 60600,
+     "price_per_pyeong": 1672
+    },
+    {
+     "type": "119OC",
+     "area": 119.9734,
+     "total": 43,
+     "price": 64330,
+     "price_per_pyeong": 1773
+    }
+   ],
+   "prices": {
+    "119OA": 61110,
+    "119OB": 60600,
+    "119OC": 64330
+   },
+   "price_min": 60600,
+   "price_max": 64330,
+   "hogangnono_id": "gXLb8",
+   "hogangnono_name": "옥정중앙역대방디에트르Ⅱ",
+   "lat": 37.8237569,
+   "lon": 127.0931255,
+   "score": 10,
    "tags": [
     "수도권"
    ],
