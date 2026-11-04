@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-04 10:33 KST",
+ "updated_at": "2026-11-05 02:28 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 169,
+ "count": 175,
  "items": [
   {
    "pblancNo": "2026000414",
@@ -305,6 +305,61 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "closed"
+  },
+  {
+   "pblancNo": "2026910240",
+   "houseManageNo": "2026910240",
+   "houseSecd": "04",
+   "region": "강원",
+   "supply_kind": "무순위(사후)",
+   "name": "아야진 라메르 데시앙",
+   "builder": "(주)무궁화신탁",
+   "notice_date": "2026-09-15",
+   "apply_period": "2026-09-21 ~ 2026-09-21",
+   "announce_date": "2026-09-28",
+   "phone": "",
+   "apply_start": "2026-09-21",
+   "apply_end": "2026-09-21",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910240&pblancNo=2026910240&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "강원특별자치도 고성군 토성면 아야진길 24-10, 아야진 라메르 데시앙",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-09-30 ~ 2026-09-30",
+   "homepage": "",
+   "move_in": "2026.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-21 ~ 2026-09-21"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.3589A",
+     "total": 2
+    },
+    {
+     "type": "084.9235B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "fiI63",
+   "hogangnono_name": "아야진라메르데시앙",
+   "lat": 38.2714187294727,
+   "lon": 128.550028107736,
+   "score": 35,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
    ],
    "status": "closed"
   },
@@ -1371,6 +1426,57 @@
     "최초 분양가 재공급",
     "수도권",
     "소량 공급"
+   ],
+   "status": "closed"
+  },
+  {
+   "pblancNo": "2026910244",
+   "houseManageNo": "2026910244",
+   "houseSecd": "04",
+   "region": "서울",
+   "supply_kind": "무순위(사후)",
+   "name": "더 리치먼드 미아(3차)",
+   "builder": "우리자산신탁 주식회사",
+   "notice_date": "2026-09-15",
+   "apply_period": "2026-09-22 ~ 2026-09-22",
+   "announce_date": "2026-09-29",
+   "phone": "",
+   "apply_start": "2026-09-22",
+   "apply_end": "2026-09-22",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910244&pblancNo=2026910244&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 강북구 미아동 703-13번지",
+   "total_units_text": "14세대",
+   "total_units": 14,
+   "contract_period": "2026-10-01 ~ 2026-10-01",
+   "homepage": "",
+   "move_in": "2028.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-22 ~ 2026-09-22"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.8400A",
+     "total": 14
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gQ151",
+   "hogangnono_name": "더리치먼드미아",
+   "lat": 37.620258347225,
+   "lon": 127.021264917283,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
    ],
    "status": "closed"
   },
@@ -12136,6 +12242,130 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940242",
+   "houseManageNo": "2026940242",
+   "houseSecd": "11",
+   "region": "대전",
+   "supply_kind": "임의공급",
+   "name": "도안자이 센텀리체 1단지(2차)",
+   "builder": "교보자산신탁(주)",
+   "notice_date": "2026-11-05",
+   "apply_period": "2026-11-09 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-10",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940242&pblancNo=2026940242&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "대전광역시 유성구 도안 2-8지구 26블록(유성구 용계동 267-3번지 일원)",
+   "total_units_text": "4세대",
+   "total_units": 4,
+   "contract_period": "2026-11-14 ~ 2026-11-14",
+   "homepage": "",
+   "move_in": "2029.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.0000A",
+     "price": 77320,
+     "total": 2,
+     "price_per_pyeong": 3043
+    },
+    {
+     "type": "084.9913C",
+     "price": 76920,
+     "total": 1,
+     "price_per_pyeong": 2992
+    },
+    {
+     "type": "099.0000A",
+     "price": 99920,
+     "total": 1,
+     "price_per_pyeong": 3337
+    }
+   ],
+   "prices": {
+    "084.0000A": 77320,
+    "084.9913C": 76920,
+    "099.0000A": 99920
+   },
+   "price_min": 76920,
+   "price_max": 99920,
+   "hogangnono_id": "gLr4b",
+   "hogangnono_name": "도안자이센텀리체",
+   "lat": 36.3250353049783,
+   "lon": 127.327007211961,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940243",
+   "houseManageNo": "2026940243",
+   "houseSecd": "11",
+   "region": "대전",
+   "supply_kind": "임의공급",
+   "name": "도안자이 센텀리체 2단지(2차)",
+   "builder": "교보자산신탁(주)",
+   "notice_date": "2026-11-05",
+   "apply_period": "2026-11-09 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "phone": "",
+   "apply_start": "2026-11-09",
+   "apply_end": "2026-11-10",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940243&pblancNo=2026940243&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "대전광역시 유성구 도안 2-6지구 30블록(유성구 용계동 299-7번지 일원)",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-11-14 ~ 2026-11-14",
+   "homepage": "",
+   "move_in": "2029.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-09 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.0000A",
+     "price": 77490,
+     "total": 3,
+     "price_per_pyeong": 3050
+    }
+   ],
+   "prices": {
+    "084.0000A": 77490
+   },
+   "price_min": 77490,
+   "price_max": 77490,
+   "hogangnono_id": "gLpe1",
+   "hogangnono_name": "도안자이센텀리체2단지",
+   "lat": 36.321903974499,
+   "lon": 127.325950768297,
+   "score": 45,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910273",
    "houseManageNo": "2026910273",
    "houseSecd": "04",
@@ -13652,6 +13882,117 @@
    "lon": 128.884962,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910279",
+   "houseManageNo": "2026910279",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "봉담자이 프라이드시티",
+   "builder": "디에스디삼호(주)",
+   "notice_date": "2026-11-05",
+   "apply_period": "2026-11-10 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "phone": "",
+   "apply_start": "2026-11-10",
+   "apply_end": "2026-11-10",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910279&pblancNo=2026910279&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성특례시 효행구 봉담읍 삼봉안길 30 (봉담내리지구 A1블록 봉담자이 프라이드시티)",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-11-20 ~ 2026-11-20",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-10 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7822A",
+     "total": 1
+    },
+    {
+     "type": "084.3879B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "e5k83",
+   "hogangnono_name": "봉담자이프라이드시티",
+   "lat": 37.2266042,
+   "lon": 126.926166,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910282",
+   "houseManageNo": "2026910282",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "광명 시티프라디움 에듀하임",
+   "builder": "(주)시티글로벌",
+   "notice_date": "2026-11-05",
+   "apply_period": "2026-11-10 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "phone": "",
+   "apply_start": "2026-11-10",
+   "apply_end": "2026-11-10",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910282&pblancNo=2026910282&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 광명시 소하동 광명 구름산지구 도시개발사업지구 A6BL",
+   "total_units_text": "21세대",
+   "total_units": 21,
+   "contract_period": "2026-11-20 ~ 2026-11-20",
+   "homepage": "",
+   "move_in": "2029.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-10 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.7421B",
+     "total": 4
+    },
+    {
+     "type": "084.9796D",
+     "total": 17
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gOEda",
+   "hogangnono_name": "광명시티프라디움에듀하임",
+   "lat": 37.4399137224679,
+   "lon": 126.880535752541,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
    "status": "upcoming"
   },
   {
