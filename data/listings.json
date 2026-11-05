@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-05 10:34 KST",
+ "updated_at": "2026-11-06 02:37 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 175,
+ "count": 180,
  "items": [
   {
    "pblancNo": "2026000414",
@@ -305,61 +305,6 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910240",
-   "houseManageNo": "2026910240",
-   "houseSecd": "04",
-   "region": "강원",
-   "supply_kind": "무순위(사후)",
-   "name": "아야진 라메르 데시앙",
-   "builder": "(주)무궁화신탁",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-21 ~ 2026-09-21",
-   "announce_date": "2026-09-28",
-   "phone": "",
-   "apply_start": "2026-09-21",
-   "apply_end": "2026-09-21",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910240&pblancNo=2026910240&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "강원특별자치도 고성군 토성면 아야진길 24-10, 아야진 라메르 데시앙",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-09-30 ~ 2026-09-30",
-   "homepage": "",
-   "move_in": "2026.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-21 ~ 2026-09-21"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.3589A",
-     "total": 2
-    },
-    {
-     "type": "084.9235B",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "fiI63",
-   "hogangnono_name": "아야진라메르데시앙",
-   "lat": 38.2714187294727,
-   "lon": 128.550028107736,
-   "score": 35,
-   "tags": [
-    "무순위·잔여세대",
-    "소량 공급"
    ],
    "status": "closed"
   },
@@ -13996,6 +13941,322 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940244",
+   "houseManageNo": "2026940244",
+   "houseSecd": "11",
+   "region": "대전",
+   "supply_kind": "임의공급",
+   "name": "해링턴플레이스 오룡역 (2차)",
+   "builder": "한국투자부동산신탁 주식회사",
+   "notice_date": "2026-11-06",
+   "apply_period": "2026-11-10 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "phone": "",
+   "apply_start": "2026-11-10",
+   "apply_end": "2026-11-10",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940244&pblancNo=2026940244&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "대전광역시 중구 용두동 722번지 일원",
+   "total_units_text": "20세대",
+   "total_units": 20,
+   "contract_period": "2026-11-20 ~ 2026-11-20",
+   "homepage": "",
+   "move_in": "2029.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-10 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9880A",
+     "price": 68130,
+     "total": 7,
+     "price_per_pyeong": 2650
+    },
+    {
+     "type": "084.8990B",
+     "price": 66441,
+     "total": 7,
+     "price_per_pyeong": 2587
+    },
+    {
+     "type": "084.9460C",
+     "price": 66767,
+     "total": 4,
+     "price_per_pyeong": 2598
+    },
+    {
+     "type": "084.9310D",
+     "price": 63880,
+     "total": 2,
+     "price_per_pyeong": 2486
+    }
+   ],
+   "prices": {
+    "084.9880A": 68130,
+    "084.8990B": 66441,
+    "084.9460C": 66767,
+    "084.9310D": 63880
+   },
+   "price_min": 63880,
+   "price_max": 68130,
+   "hogangnono_id": "gMCa9",
+   "hogangnono_name": "해링턴플레이스오룡역",
+   "lat": 36.3306369704734,
+   "lon": 127.406713087888,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026850055",
+   "houseManageNo": "2026850055",
+   "houseSecd": "03",
+   "region": "경기",
+   "house_kind": "공공지원민간임대",
+   "name": "힐스테이트 회룡역파크뷰",
+   "builder": "신한자산신탁 주식회사",
+   "phone": "031-827-1800",
+   "notice_date": "2026-11-05",
+   "apply_period": "2026-11-10 ~ 2026-11-10",
+   "announce_date": "2026-11-13",
+   "apply_start": "2026-11-10",
+   "apply_end": "2026-11-10",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850055&pblancNo=2026850055&houseSecd=03",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "경기도 의정부시 신흥로 43",
+   "total_units_text": "909세대",
+   "total_units": 909,
+   "contract_period": "2026-11-23 ~ 2026-11-25",
+   "homepage": "https://hillstate.co.kr/SALE/1030/main/index",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-10 ~ 2026-11-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "공공지원민간임대",
+     "area": 49.9522,
+     "total": 49
+    },
+    {
+     "type": "49",
+     "price": 29282
+    },
+    {
+     "type": "59A",
+     "price": 42417
+    },
+    {
+     "type": "59B",
+     "price": 37272
+    },
+    {
+     "type": "59C",
+     "price": 36337
+    },
+    {
+     "type": "84A",
+     "price": 57427
+    },
+    {
+     "type": "84B",
+     "price": 56430
+    }
+   ],
+   "prices": {
+    "49": 29282,
+    "59A": 42417,
+    "59B": 37272,
+    "59C": 36337,
+    "84A": 57427,
+    "84B": 56430
+   },
+   "price_min": 29282,
+   "price_max": 57427,
+   "hogangnono_id": "gvE6d",
+   "hogangnono_name": "힐스테이트회룡역파크뷰",
+   "lat": 37.7203513893424,
+   "lon": 127.042523589393,
+   "score": 0,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910276",
+   "houseManageNo": "2026910276",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "인천 검단신도시 AB20-2블록 중흥S-클래스 에듀파크",
+   "builder": "중흥건설(주)",
+   "notice_date": "2026-11-06",
+   "apply_period": "2026-11-11 ~ 2026-11-11",
+   "announce_date": "2026-11-16",
+   "phone": "",
+   "apply_start": "2026-11-11",
+   "apply_end": "2026-11-11",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910276&pblancNo=2026910276&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 검단지구 공동주택용지 AB20-2BL",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-23 ~ 2026-11-23",
+   "homepage": "",
+   "move_in": "2027.06",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-11 ~ 2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8058B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "eqqb9",
+   "hogangnono_name": "검단신도시AB20-2블록중흥S클래스에듀파크",
+   "lat": 37.6069361,
+   "lon": 126.683032,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910283",
+   "houseManageNo": "2026910283",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "인천 영종하늘도시 A25블록 대성베르힐(5차)",
+   "builder": "주식회사 인천영종피에프브이",
+   "notice_date": "2026-11-06",
+   "apply_period": "2026-11-11 ~ 2026-11-11",
+   "announce_date": "2026-11-16",
+   "phone": "",
+   "apply_start": "2026-11-11",
+   "apply_end": "2026-11-11",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910283&pblancNo=2026910283&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 영종구 운남동 1709-1번지(영종 A25블록)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-19 ~ 2026-11-19",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-11 ~ 2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.1579D",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "b1pb4",
+   "hogangnono_name": "e편한세상영종하늘도시",
+   "lat": 37.4780161130105,
+   "lon": 126.51429532217954,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910280",
+   "houseManageNo": "2026910280",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "오남역 서희스타힐스 여의재 3단지 (조합원 취소분)",
+   "builder": "양지7지구 3단지 지역주택조합",
+   "notice_date": "2026-11-06",
+   "apply_period": "2026-11-11 ~ 2026-11-11",
+   "announce_date": "2026-11-16",
+   "phone": "",
+   "apply_start": "2026-11-11",
+   "apply_end": "2026-11-11",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910280&pblancNo=2026910280&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 남양주시 오남읍 양지리 186-10번지 일원",
+   "total_units_text": "6세대",
+   "total_units": 6,
+   "contract_period": "2026-11-18 ~ 2026-11-18",
+   "homepage": "",
+   "move_in": "2029.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-11 ~ 2026-11-11"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "075.4603",
+     "total": 4
+    },
+    {
+     "type": "084.9596",
+     "total": 2
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gAu7d",
+   "hogangnono_name": "오남역서희스타힐스여의재3단지",
+   "lat": 37.703833485499,
+   "lon": 127.200130604849,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000554",
    "houseManageNo": "2026000554",
    "houseSecd": "",
@@ -14172,6 +14433,117 @@
    "tags": [
     "수도권",
     "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950095",
+   "houseManageNo": "2026950095",
+   "houseSecd": "02",
+   "region": "서울",
+   "house_kind": "도시형생활주택",
+   "name": "신대방역 더하이브퍼스트",
+   "builder": "코리아신탁(주)",
+   "phone": "1600-3990",
+   "notice_date": "2026-11-06",
+   "apply_period": "2026-11-16 ~ 2026-11-18",
+   "announce_date": "2026-11-24",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-18",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "서울특별시 관악구 신림동 505-1",
+   "total_units_text": "12세대",
+   "total_units": 12,
+   "contract_period": "2026-12-05 ~ 2026-12-07",
+   "homepage": "https://www.thehive-first.com",
+   "move_in": "2028.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-16 ~ 2026-11-18"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "19A",
+     "area": 19.891,
+     "total": 2,
+     "price": 30510,
+     "price_per_pyeong": 5071
+    },
+    {
+     "type": "19B",
+     "area": 19.891,
+     "total": 1,
+     "price": 29300,
+     "price_per_pyeong": 4870
+    },
+    {
+     "type": "24A",
+     "area": 24.771,
+     "total": 2,
+     "price": 38130,
+     "price_per_pyeong": 5089
+    },
+    {
+     "type": "24B",
+     "area": 24.771,
+     "total": 1,
+     "price": 37360,
+     "price_per_pyeong": 4986
+    },
+    {
+     "type": "29",
+     "area": 29.036,
+     "total": 1,
+     "price": 45590,
+     "price_per_pyeong": 5191
+    },
+    {
+     "type": "34",
+     "area": 34.194,
+     "total": 2,
+     "price": 49420,
+     "price_per_pyeong": 4778
+    },
+    {
+     "type": "59A",
+     "area": 59.945,
+     "total": 2,
+     "price": 86700,
+     "price_per_pyeong": 4781
+    },
+    {
+     "type": "59B",
+     "area": 59.989,
+     "total": 1,
+     "price": 95460,
+     "price_per_pyeong": 5260
+    }
+   ],
+   "prices": {
+    "19A": 30510,
+    "19B": 29300,
+    "24A": 38130,
+    "24B": 37360,
+    "29": 45590,
+    "34": 49420,
+    "59A": 86700,
+    "59B": 95460
+   },
+   "price_min": 29300,
+   "price_max": 95460,
+   "hogangnono_id": "gK9d0",
+   "hogangnono_name": "신대방역더하이브퍼스트(도시형)",
+   "lat": 37.4847621,
+   "lon": 126.9171046,
+   "score": 20,
+   "tags": [
+    "수도권"
    ],
    "status": "upcoming"
   },
