@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-06 02:37 KST",
+ "updated_at": "2026-11-06 10:43 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 180,
+ "count": 176,
  "items": [
   {
    "pblancNo": "2026000414",
@@ -187,124 +187,6 @@
    "tags": [
     "수도권",
     "공공분양"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910241",
-   "houseManageNo": "2026910241",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "두산위브더제니스 부천",
-   "builder": "소사본1의1구역 재개발정비사업조합",
-   "notice_date": "2026-09-16",
-   "apply_period": "2026-09-21 ~ 2026-09-21",
-   "announce_date": "2026-09-28",
-   "phone": "",
-   "apply_start": "2026-09-21",
-   "apply_end": "2026-09-21",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910241&pblancNo=2026910241&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 부천시 소사구 소사본동 88-39번지 일대",
-   "total_units_text": "229세대",
-   "total_units": 229,
-   "contract_period": "2026-10-01 ~ 2026-10-01",
-   "homepage": "",
-   "move_in": "2032.02",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-21 ~ 2026-09-21"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9400A",
-     "total": 229
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gxrc5",
-   "hogangnono_name": "두산위브더제니스부천",
-   "lat": 37.4820165033133,
-   "lon": 126.789515376901,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910246",
-   "houseManageNo": "2026910246",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "용인반도체클러스터 동일하이빌 파크밸리(D1-1블록)",
-   "builder": "(주)동일코퍼레이션",
-   "notice_date": "2026-09-16",
-   "apply_period": "2026-09-21 ~ 2026-09-21",
-   "announce_date": "2026-09-28",
-   "phone": "",
-   "apply_start": "2026-09-21",
-   "apply_end": "2026-09-21",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910246&pblancNo=2026910246&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 용인시 처인구 원삼면 용인 반도체 클러스터 일반산업단지 D1-1BL",
-   "total_units_text": "126세대",
-   "total_units": 126,
-   "contract_period": "2026-10-01 ~ 2026-10-01",
-   "homepage": "",
-   "move_in": "2029.01",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-21 ~ 2026-09-21"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9390A",
-     "total": 38
-    },
-    {
-     "type": "059.5027C",
-     "total": 12
-    },
-    {
-     "type": "071.2889A",
-     "total": 15
-    },
-    {
-     "type": "071.8211B",
-     "total": 38
-    },
-    {
-     "type": "084.7577A",
-     "total": 23
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gSPd6",
-   "hogangnono_name": "용인반도체클러스터동일하이빌파크밸리",
-   "lat": 37.1630568,
-   "lon": 127.312513,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
    ],
    "status": "closed"
   },
@@ -1055,77 +937,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026950082",
-   "houseManageNo": "2026950082",
-   "houseSecd": "02",
-   "region": "서울",
-   "house_kind": "도시형생활주택",
-   "name": "신대방역 더하이브퍼스트",
-   "builder": "코리아신탁(주)",
-   "phone": "1600-3990",
-   "notice_date": "2026-09-09",
-   "apply_period": "2026-09-21 ~ 2026-09-23",
-   "announce_date": "2026-10-01",
-   "apply_start": "2026-09-21",
-   "apply_end": "2026-09-23",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "서울특별시 관악구 신림동 505-1",
-   "total_units_text": "11세대",
-   "total_units": 11,
-   "contract_period": "2026-10-12 ~ 2026-10-14",
-   "homepage": "https://www.thehive-first.com",
-   "move_in": "2028.05",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-21 ~ 2026-09-23"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "59A",
-     "area": 59.945,
-     "total": 8,
-     "price": 86700,
-     "price_per_pyeong": 4781
-    },
-    {
-     "type": "59B",
-     "area": 59.989,
-     "total": 2,
-     "price": 95460,
-     "price_per_pyeong": 5260
-    },
-    {
-     "type": "59C",
-     "area": 59.906,
-     "total": 1,
-     "price": 86400,
-     "price_per_pyeong": 4768
-    }
-   ],
-   "prices": {
-    "59A": 86700,
-    "59B": 95460,
-    "59C": 86400
-   },
-   "price_min": 86400,
-   "price_max": 95460,
-   "hogangnono_id": "gK9d0",
-   "hogangnono_name": "신대방역더하이브퍼스트(도시형)",
-   "lat": 37.4847621,
-   "lon": 126.9171046,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026000441",
    "houseManageNo": "2026000441",
    "houseSecd": "",
@@ -1224,78 +1035,6 @@
    "lon": 129.272315405928,
    "score": 10,
    "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026850048",
-   "houseManageNo": "2026850048",
-   "houseSecd": "03",
-   "region": "경기",
-   "house_kind": "공공지원민간임대",
-   "name": "의왕청계역 시티프라디움 디하모니",
-   "builder": "주식회사 그린시티건설",
-   "phone": "1577-5378",
-   "notice_date": "2026-09-14",
-   "apply_period": "2026-09-21 ~ 2026-09-21",
-   "announce_date": "2026-09-28",
-   "apply_start": "2026-09-21",
-   "apply_end": "2026-09-21",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850048&pblancNo=2026850048&houseSecd=03",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "경기도 의왕시 포일동(의왕청계2 공공주택지구 M-1블록)",
-   "total_units_text": "11세대",
-   "total_units": 11,
-   "contract_period": "2026-09-29 ~ 2026-09-29",
-   "homepage": "http://의왕청계역시티프라디움.com",
-   "move_in": "2028.04",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-21 ~ 2026-09-21"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "공공지원민간임대",
-     "area": 71.5628,
-     "total": 0
-    },
-    {
-     "type": "71A",
-     "price": 60500
-    },
-    {
-     "type": "71B",
-     "price": 60800
-    },
-    {
-     "type": "84A",
-     "price": 69500
-    },
-    {
-     "type": "84B",
-     "price": 69900
-    }
-   ],
-   "prices": {
-    "71A": 60500,
-    "71B": 60800,
-    "84A": 69500,
-    "84B": 69900
-   },
-   "price_min": 60500,
-   "price_max": 69900,
-   "hogangnono_id": "gJbcf",
-   "hogangnono_name": "의왕청계역시티프라디움디하모니",
-   "lat": 37.3875251,
-   "lon": 126.995725,
-   "score": 0,
-   "tags": [
-    "수도권"
-   ],
    "status": "closed"
   },
   {
@@ -12007,7 +11746,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940246",
@@ -12076,7 +11815,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910285",
