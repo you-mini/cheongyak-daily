@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-07 01:55 KST",
+ "updated_at": "2026-11-07 10:02 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 179,
+ "count": 176,
  "items": [
   {
    "pblancNo": "2026000438",
@@ -927,113 +927,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026910244",
-   "houseManageNo": "2026910244",
-   "houseSecd": "04",
-   "region": "서울",
-   "supply_kind": "무순위(사후)",
-   "name": "더 리치먼드 미아(3차)",
-   "builder": "우리자산신탁 주식회사",
-   "notice_date": "2026-09-15",
-   "apply_period": "2026-09-22 ~ 2026-09-22",
-   "announce_date": "2026-09-29",
-   "phone": "",
-   "apply_start": "2026-09-22",
-   "apply_end": "2026-09-22",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910244&pblancNo=2026910244&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 강북구 미아동 703-13번지",
-   "total_units_text": "14세대",
-   "total_units": 14,
-   "contract_period": "2026-10-01 ~ 2026-10-01",
-   "homepage": "",
-   "move_in": "2028.09",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-22 ~ 2026-09-22"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.8400A",
-     "total": 14
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "gQ151",
-   "hogangnono_name": "더리치먼드미아",
-   "lat": 37.620258347225,
-   "lon": 127.021264917283,
-   "score": 60,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026910236",
-   "houseManageNo": "2026910236",
-   "houseSecd": "04",
-   "region": "경기",
-   "supply_kind": "무순위(사후)",
-   "name": "철산자이 더 헤리티지",
-   "builder": "철산주공8,9단지주택재건축정비사업조합",
-   "notice_date": "2026-09-17",
-   "apply_period": "2026-09-22 ~ 2026-09-22",
-   "announce_date": "2026-09-29",
-   "phone": "",
-   "apply_start": "2026-09-22",
-   "apply_end": "2026-09-22",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910236&pblancNo=2026910236&houseSecd=04",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 광명시 철산동 235번지 일원",
-   "total_units_text": "4세대",
-   "total_units": 4,
-   "contract_period": "2026-10-07 ~ 2026-10-07",
-   "homepage": "",
-   "move_in": "2026.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-22 ~ 2026-09-22"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9626",
-     "total": 3
-    },
-    {
-     "type": "059.9353",
-     "total": 1
-    }
-   ],
-   "prices": {},
-   "price_min": null,
-   "price_max": null,
-   "hogangnono_id": "f8E58",
-   "hogangnono_name": "철산자이더헤리티지",
-   "lat": 37.4824264,
-   "lon": 126.8686146,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026940202",
    "houseManageNo": "2026940202",
    "houseSecd": "11",
@@ -1250,61 +1143,6 @@
    "score": 50,
    "tags": [
     "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026950084",
-   "houseManageNo": "2026950084",
-   "houseSecd": "02",
-   "region": "경기",
-   "house_kind": "오피스텔",
-   "name": "호반써밋 풍무Ⅱ",
-   "builder": "(주)호반건설",
-   "phone": "1670-6535",
-   "notice_date": "2026-09-17",
-   "apply_period": "2026-09-22 ~ 2026-09-22",
-   "announce_date": "2026-09-29",
-   "apply_start": "2026-09-22",
-   "apply_end": "2026-09-22",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950084&pblancNo=2026950084&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
-   "total_units_text": "14세대",
-   "total_units": 14,
-   "contract_period": "2026-09-30 ~ 2026-09-30",
-   "homepage": "https://hobansummit-pungmu2.com/",
-   "move_in": "2030.01",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-22 ~ 2026-09-22"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "84O",
-     "area": 84.976,
-     "total": 14,
-     "price": 53600,
-     "price_per_pyeong": 2085
-    }
-   ],
-   "prices": {
-    "84O": 53600
-   },
-   "price_min": 53600,
-   "price_max": 53600,
-   "hogangnono_id": "gMYcd",
-   "hogangnono_name": "호반써밋풍무Ⅱ",
-   "lat": 37.6134614,
-   "lon": 126.7345824,
-   "score": 10,
-   "tags": [
     "수도권"
    ],
    "status": "closed"
@@ -8469,7 +8307,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000509",
