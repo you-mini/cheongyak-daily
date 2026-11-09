@@ -1,8 +1,70 @@
 {
- "updated_at": "2026-11-09 10:05 KST",
+ "updated_at": "2026-11-10 05:00 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 164,
+ "count": 169,
  "items": [
+  {
+   "pblancNo": "2026940207",
+   "houseManageNo": "2026940207",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "중앙하이츠 원종역(2차)",
+   "builder": "원종동성락아파트가로주택정비사업조합",
+   "notice_date": "2026-09-18",
+   "apply_period": "2026-09-22 ~ 2026-09-28",
+   "announce_date": "2026-10-01",
+   "phone": "",
+   "apply_start": "2026-09-22",
+   "apply_end": "2026-09-28",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 부천시 오정구 원종동 276-2",
+   "total_units_text": "10세대",
+   "total_units": 10,
+   "contract_period": "2026-10-12 ~ 2026-10-12",
+   "homepage": "",
+   "move_in": "2028.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-22 ~ 2026-09-28"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "060.2700E",
+     "price": 47100,
+     "total": 5,
+     "price_per_pyeong": 2583
+    },
+    {
+     "type": "068.6700B",
+     "price": 53400,
+     "total": 5,
+     "price_per_pyeong": 2571
+    }
+   ],
+   "prices": {
+    "060.2700E": 47100,
+    "068.6700B": 53400
+   },
+   "price_min": 47100,
+   "price_max": 53400,
+   "hogangnono_id": "gFk5a",
+   "hogangnono_name": "중앙하이츠원종역",
+   "lat": 37.5245145,
+   "lon": 126.806593,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "closed"
+  },
   {
    "pblancNo": "2026940212",
    "houseManageNo": "2026940212",
@@ -1265,6 +1327,68 @@
    "lon": 128.8849223,
    "score": 0,
    "tags": [],
+   "status": "closed"
+  },
+  {
+   "pblancNo": "2026940203",
+   "houseManageNo": "2026940203",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "회천중앙역 파라곤",
+   "builder": "주식회사 이지건설",
+   "notice_date": "2026-09-21",
+   "apply_period": "2026-09-29 ~ 2026-09-30",
+   "announce_date": "2026-10-07",
+   "phone": "",
+   "apply_start": "2026-09-29",
+   "apply_end": "2026-09-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940203&pblancNo=2026940203&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 양주시 회천지구 A10-1BL",
+   "total_units_text": "39세대",
+   "total_units": 39,
+   "contract_period": "2026-10-08 ~ 2026-10-08",
+   "homepage": "",
+   "move_in": "2028.02",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-09-29 ~ 2026-09-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.6189A",
+     "price": 51800,
+     "total": 22,
+     "price_per_pyeong": 2024
+    },
+    {
+     "type": "084.4918B",
+     "price": 51700,
+     "total": 17,
+     "price_per_pyeong": 2023
+    }
+   ],
+   "prices": {
+    "084.6189A": 51800,
+    "084.4918B": 51700
+   },
+   "price_min": 51700,
+   "price_max": 51800,
+   "hogangnono_id": "fpube",
+   "hogangnono_name": "회천중앙역대광로제비앙",
+   "lat": 37.8264472,
+   "lon": 127.055617,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
    "status": "closed"
   },
   {
@@ -12368,6 +12492,117 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940251",
+   "houseManageNo": "2026940251",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "해링턴플레이스 노원 센트럴(4차)",
+   "builder": "주식회사 엘앤피개발",
+   "notice_date": "2026-11-10",
+   "apply_period": "2026-11-12 ~ 2026-11-13",
+   "announce_date": "2026-11-18",
+   "phone": "",
+   "apply_start": "2026-11-12",
+   "apply_end": "2026-11-13",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940251&pblancNo=2026940251&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 노원구 노원로 495(상계동 690)",
+   "total_units_text": "8세대",
+   "total_units": 8,
+   "contract_period": "2026-11-20 ~ 2026-11-20",
+   "homepage": "",
+   "move_in": "2027.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-12 ~ 2026-11-13"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.7419B",
+     "price": 85500,
+     "total": 8,
+     "price_per_pyeong": 4731
+    }
+   ],
+   "prices": {
+    "059.7419B": 85500
+   },
+   "price_min": 85500,
+   "price_max": 85500,
+   "hogangnono_id": "gPxcc",
+   "hogangnono_name": "해링턴플레이스노원센트럴",
+   "lat": 37.6597323114548,
+   "lon": 127.06321810796,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940247",
+   "houseManageNo": "2026940247",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "수원이목지구 대방 디에트르 더 리체Ⅰ(A4BL)",
+   "builder": "디비이엔씨주식회사",
+   "notice_date": "2026-11-10",
+   "apply_period": "2026-11-12 ~ 2026-11-13",
+   "announce_date": "2026-11-18",
+   "phone": "",
+   "apply_start": "2026-11-12",
+   "apply_end": "2026-11-13",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940247&pblancNo=2026940247&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-11-21 ~ 2026-11-21",
+   "homepage": "",
+   "move_in": "2027.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-12 ~ 2026-11-13"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9796C",
+     "price": 102866,
+     "total": 2,
+     "price_per_pyeong": 4002
+    }
+   ],
+   "prices": {
+    "084.9796C": 102866
+   },
+   "price_min": 102866,
+   "price_max": 102866,
+   "hogangnono_id": "gfh5f",
+   "hogangnono_name": "북수원이목지구디에트르더리체2차(A3BL)",
+   "lat": 37.3071173,
+   "lon": 126.974749,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000554",
    "houseManageNo": "2026000554",
    "houseSecd": "",
@@ -12513,6 +12748,73 @@
    "lat": 37.5695442031126,
    "lon": 127.020416132858,
    "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910284",
+   "houseManageNo": "2026910284",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "중동역 다채로움 더원",
+   "builder": "송내동 성우아파트 소규모재건축정비사업조합",
+   "notice_date": "2026-11-10",
+   "apply_period": "2026-11-16 ~ 2026-11-16",
+   "announce_date": "2026-11-19",
+   "phone": "",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910284&pblancNo=2026910284&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 부천시 소사구 송내동 365-1번지 일원",
+   "total_units_text": "23세대",
+   "total_units": 23,
+   "contract_period": "2026-11-24 ~ 2026-11-24",
+   "homepage": "",
+   "move_in": "2028.08",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-16 ~ 2026-11-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "054.8244",
+     "total": 7
+    },
+    {
+     "type": "059.9935B",
+     "total": 2
+    },
+    {
+     "type": "060.7403",
+     "total": 5
+    },
+    {
+     "type": "084.9888A",
+     "total": 2
+    },
+    {
+     "type": "084.9933B",
+     "total": 7
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gRV3c",
+   "hogangnono_name": "중동역다채로움더원",
+   "lat": 37.4844304,
+   "lon": 126.76184,
+   "score": 50,
    "tags": [
     "무순위·잔여세대",
     "수도권"
