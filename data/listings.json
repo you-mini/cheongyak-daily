@@ -1,70 +1,8 @@
 {
- "updated_at": "2026-11-10 12:42 KST",
+ "updated_at": "2026-11-11 02:15 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 170,
+ "count": 173,
  "items": [
-  {
-   "pblancNo": "2026940207",
-   "houseManageNo": "2026940207",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "중앙하이츠 원종역(2차)",
-   "builder": "원종동성락아파트가로주택정비사업조합",
-   "notice_date": "2026-09-18",
-   "apply_period": "2026-09-22 ~ 2026-09-28",
-   "announce_date": "2026-10-01",
-   "phone": "",
-   "apply_start": "2026-09-22",
-   "apply_end": "2026-09-28",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 부천시 오정구 원종동 276-2",
-   "total_units_text": "10세대",
-   "total_units": 10,
-   "contract_period": "2026-10-12 ~ 2026-10-12",
-   "homepage": "",
-   "move_in": "2028.03",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-22 ~ 2026-09-28"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "060.2700E",
-     "price": 47100,
-     "total": 5,
-     "price_per_pyeong": 2583
-    },
-    {
-     "type": "068.6700B",
-     "price": 53400,
-     "total": 5,
-     "price_per_pyeong": 2571
-    }
-   ],
-   "prices": {
-    "060.2700E": 47100,
-    "068.6700B": 53400
-   },
-   "price_min": 47100,
-   "price_max": 53400,
-   "hogangnono_id": "gFk5a",
-   "hogangnono_name": "중앙하이츠원종역",
-   "lat": 37.5245145,
-   "lon": 126.806593,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026940212",
    "houseManageNo": "2026940212",
@@ -12603,6 +12541,75 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940250",
+   "houseManageNo": "2026940250",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "고덕신도시 아테라 A-63블록 공공분양주택(3차)",
+   "builder": "한국토지주택공사 경기남부지역본부",
+   "notice_date": "2026-11-11",
+   "apply_period": "2026-11-13 ~ 2026-11-17",
+   "announce_date": "2026-11-20",
+   "phone": "",
+   "apply_start": "2026-11-13",
+   "apply_end": "2026-11-17",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940250&pblancNo=2026940250&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 평택시 고덕동, 고덕면 일원(평택고덕국제화계획지구 내 A-63BL)",
+   "total_units_text": "31세대",
+   "total_units": 31,
+   "contract_period": "2026-11-21 ~ 2026-11-21",
+   "homepage": "",
+   "move_in": "2028.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-13 ~ 2026-11-17"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.5900A",
+     "price": 47552,
+     "total": 11,
+     "price_per_pyeong": 2107
+    },
+    {
+     "type": "074.7200B",
+     "price": 47635,
+     "total": 10,
+     "price_per_pyeong": 2107
+    },
+    {
+     "type": "084.5600A",
+     "price": 53908,
+     "total": 10,
+     "price_per_pyeong": 2107
+    }
+   ],
+   "prices": {
+    "074.5900A": 47552,
+    "074.7200B": 47635,
+    "084.5600A": 53908
+   },
+   "price_min": 47552,
+   "price_max": 53908,
+   "hogangnono_id": "gLZa7",
+   "hogangnono_name": "고덕신도시아테라",
+   "lat": 37.0541628,
+   "lon": 127.018291,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026940254",
    "houseManageNo": "2026940254",
    "houseSecd": "11",
@@ -12813,6 +12820,174 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910288",
+   "houseManageNo": "2026910288",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "안양자이 더 포레스트",
+   "builder": "화창지구재개발정비사업조합",
+   "notice_date": "2026-11-11",
+   "apply_period": "2026-11-16 ~ 2026-11-16",
+   "announce_date": "2026-11-19",
+   "phone": "",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910288&pblancNo=2026910288&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 안양시 만안구 석수2동 38번지 일대",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-26 ~ 2026-11-26",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-16 ~ 2026-11-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9871A",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gfB78",
+   "hogangnono_name": "안양자이더포레스트",
+   "lat": 37.4121527,
+   "lon": 126.905279,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910293",
+   "houseManageNo": "2026910293",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "이천자이 더 리체",
+   "builder": "교보자산신탁(주)",
+   "notice_date": "2026-11-11",
+   "apply_period": "2026-11-16 ~ 2026-11-16",
+   "announce_date": "2026-11-19",
+   "phone": "",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910293&pblancNo=2026910293&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 이천시 증포동 502번지",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-11-26 ~ 2026-11-26",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-16 ~ 2026-11-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9400B",
+     "total": 1
+    },
+    {
+     "type": "084.9400C",
+     "total": 1
+    },
+    {
+     "type": "120.5800",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gcOa3",
+   "hogangnono_name": "이천자이더리체",
+   "lat": 37.2927561112435,
+   "lon": 127.449546037091,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910297",
+   "houseManageNo": "2026910297",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "평택 고덕 국제신도시 A-55 대광로제비앙 모아엘가(4차)",
+   "builder": "(주)덕원이앤씨",
+   "notice_date": "2026-11-11",
+   "apply_period": "2026-11-16 ~ 2026-11-16",
+   "announce_date": "2026-11-19",
+   "phone": "",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910297&pblancNo=2026910297&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 평택시 고덕국제8로 10(고덕동 2705-1)",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-11-26 ~ 2026-11-26",
+   "homepage": "",
+   "move_in": "2027.02",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-16 ~ 2026-11-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9452A",
+     "total": 2
+    },
+    {
+     "type": "084.9704B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "fGqd6",
+   "hogangnono_name": "고덕국제신도시로제비앙&엘가에듀센트럴",
+   "lat": 37.0352904455418,
+   "lon": 127.020273007678,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
    ],
    "status": "upcoming"
   },
