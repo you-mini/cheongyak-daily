@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-10 05:00 KST",
+ "updated_at": "2026-11-10 12:42 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 169,
+ "count": 170,
  "items": [
   {
    "pblancNo": "2026940207",
@@ -10293,7 +10293,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910281",
@@ -10349,7 +10349,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940242",
@@ -10524,7 +10524,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910272",
@@ -10575,7 +10575,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910277",
@@ -10637,7 +10637,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910286",
@@ -10688,7 +10688,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910274",
@@ -10743,7 +10743,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000533",
@@ -11730,7 +11730,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000539",
@@ -12048,7 +12048,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910282",
@@ -12103,7 +12103,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940244",
@@ -12178,7 +12178,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026850055",
@@ -12260,7 +12260,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940252",
@@ -12599,6 +12599,68 @@
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940254",
+   "houseManageNo": "2026940254",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "의정부역 센트럴 아이파크(6차)",
+   "builder": "아이파크현대산업개발(주)",
+   "notice_date": "2026-11-10",
+   "apply_period": "2026-11-13 ~ 2026-11-13",
+   "announce_date": "2026-11-18",
+   "phone": "",
+   "apply_start": "2026-11-13",
+   "apply_end": "2026-11-13",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940254&pblancNo=2026940254&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 의정부시 의정부동 253-19번지 일원",
+   "total_units_text": "6세대",
+   "total_units": 6,
+   "contract_period": "2026-11-20 ~ 2026-11-20",
+   "homepage": "",
+   "move_in": "2029.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-13 ~ 2026-11-13"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8422A",
+     "price": 81400,
+     "total": 2,
+     "price_per_pyeong": 3172
+    },
+    {
+     "type": "084.7200B",
+     "price": 79600,
+     "total": 4,
+     "price_per_pyeong": 3106
+    }
+   ],
+   "prices": {
+    "084.8422A": 81400,
+    "084.7200B": 79600
+   },
+   "price_min": 79600,
+   "price_max": 81400,
+   "hogangnono_id": "elH1c",
+   "hogangnono_name": "의정부역센트럴아이파크",
+   "lat": 37.7423935,
+   "lon": 127.0440552,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
    ],
    "status": "upcoming"
   },
