@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-11 02:15 KST",
+ "updated_at": "2026-11-11 10:23 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 173,
+ "count": 174,
  "items": [
   {
    "pblancNo": "2026940212",
@@ -1265,68 +1265,6 @@
    "lon": 128.8849223,
    "score": 0,
    "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940203",
-   "houseManageNo": "2026940203",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "회천중앙역 파라곤",
-   "builder": "주식회사 이지건설",
-   "notice_date": "2026-09-21",
-   "apply_period": "2026-09-29 ~ 2026-09-30",
-   "announce_date": "2026-10-07",
-   "phone": "",
-   "apply_start": "2026-09-29",
-   "apply_end": "2026-09-30",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940203&pblancNo=2026940203&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 양주시 회천지구 A10-1BL",
-   "total_units_text": "39세대",
-   "total_units": 39,
-   "contract_period": "2026-10-08 ~ 2026-10-08",
-   "homepage": "",
-   "move_in": "2028.02",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-29 ~ 2026-09-30"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.6189A",
-     "price": 51800,
-     "total": 22,
-     "price_per_pyeong": 2024
-    },
-    {
-     "type": "084.4918B",
-     "price": 51700,
-     "total": 17,
-     "price_per_pyeong": 2023
-    }
-   ],
-   "prices": {
-    "084.6189A": 51800,
-    "084.4918B": 51700
-   },
-   "price_min": 51700,
-   "price_max": 51800,
-   "hogangnono_id": "fpube",
-   "hogangnono_name": "회천중앙역대광로제비앙",
-   "lat": 37.8264472,
-   "lon": 127.055617,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
    "status": "closed"
   },
   {
@@ -10356,7 +10294,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940243",
@@ -10411,7 +10349,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910273",
@@ -11930,7 +11868,7 @@
    "lon": 128.884962,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910279",
@@ -11986,7 +11924,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910282",
@@ -12041,7 +11979,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940244",
@@ -12116,7 +12054,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026850055",
@@ -12198,7 +12136,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940252",
@@ -12268,7 +12206,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910276",
@@ -12320,7 +12258,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910283",
@@ -12372,7 +12310,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910280",
@@ -12427,7 +12365,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940251",
@@ -12532,6 +12470,62 @@
    "hogangnono_name": "북수원이목지구디에트르더리체2차(A3BL)",
    "lat": 37.3071173,
    "lon": 126.974749,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940253",
+   "houseManageNo": "2026940253",
+   "houseSecd": "11",
+   "region": "인천",
+   "supply_kind": "임의공급",
+   "name": "송도자이 더 스타",
+   "builder": "주식회사 무궁화신탁",
+   "notice_date": "2026-11-11",
+   "apply_period": "2026-11-13 ~ 2026-11-13",
+   "announce_date": "2026-11-18",
+   "phone": "",
+   "apply_start": "2026-11-13",
+   "apply_end": "2026-11-13",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940253&pblancNo=2026940253&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 연수구 송도동 396-11 (A17블록)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-24 ~ 2026-11-24",
+   "homepage": "",
+   "move_in": "2027.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-13 ~ 2026-11-13"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "099.7748A",
+     "price": 105820,
+     "total": 1,
+     "price_per_pyeong": 3506
+    }
+   ],
+   "prices": {
+    "099.7748A": 105820
+   },
+   "price_min": 105820,
+   "price_max": 105820,
+   "hogangnono_id": "ee039",
+   "hogangnono_name": "송도자이더스타",
+   "lat": 37.3844528,
+   "lon": 126.6152,
    "score": 55,
    "tags": [
     "무순위·잔여세대",
@@ -12820,6 +12814,58 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910291",
+   "houseManageNo": "2026910291",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "송도자이 더 스타(3차)",
+   "builder": "주식회사 무궁화신탁",
+   "notice_date": "2026-11-11",
+   "apply_period": "2026-11-16 ~ 2026-11-16",
+   "announce_date": "2026-11-19",
+   "phone": "",
+   "apply_start": "2026-11-16",
+   "apply_end": "2026-11-16",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910291&pblancNo=2026910291&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 연수구 송도동 396-11 (A17블록)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-24 ~ 2026-11-24",
+   "homepage": "",
+   "move_in": "2027.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-16 ~ 2026-11-16"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "151.3362P",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "ee039",
+   "hogangnono_name": "송도자이더스타",
+   "lat": 37.3844528,
+   "lon": 126.6152,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
    ],
    "status": "upcoming"
   },
