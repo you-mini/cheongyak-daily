@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-11 10:23 KST",
+ "updated_at": "2026-11-12 02:24 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 174,
+ "count": 175,
  "items": [
   {
    "pblancNo": "2026940212",
@@ -72,61 +72,6 @@
    "hogangnono_name": "리아츠더인천",
    "lat": 37.4781420469347,
    "lon": 126.650554710834,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940209",
-   "houseManageNo": "2026940209",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "중앙하이츠 갈산역 센트럴",
-   "builder": "백조아파트소규모재건축정비사업조합",
-   "notice_date": "2026-09-21",
-   "apply_period": "2026-09-23 ~ 2026-09-28",
-   "announce_date": "2026-10-01",
-   "phone": "",
-   "apply_start": "2026-09-23",
-   "apply_end": "2026-09-28",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 부평구 갈산동 181-11 외 1필지",
-   "total_units_text": "10세대",
-   "total_units": 10,
-   "contract_period": "2026-10-03 ~ 2026-10-03",
-   "homepage": "",
-   "move_in": "2026.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-23 ~ 2026-09-28"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.7864",
-     "price": 45574,
-     "total": 10,
-     "price_per_pyeong": 2520
-    }
-   ],
-   "prices": {
-    "059.7864": 45574
-   },
-   "price_min": 45574,
-   "price_max": 45574,
-   "hogangnono_id": "emu29",
-   "hogangnono_name": "중앙하이츠갈산역센트럴",
-   "lat": 37.5153945,
-   "lon": 126.722104,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
@@ -13905,6 +13850,144 @@
    "score": 10,
    "tags": [
     "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910287",
+   "houseManageNo": "2026910287",
+   "houseSecd": "04",
+   "region": "충북",
+   "supply_kind": "무순위(사후)",
+   "name": "더샵 청주그리니티(2차)",
+   "builder": "구룡개발(주)",
+   "notice_date": "2026-11-12",
+   "apply_period": "2026-11-17 ~ 2026-11-17",
+   "announce_date": "2026-11-20",
+   "phone": "",
+   "apply_start": "2026-11-17",
+   "apply_end": "2026-11-17",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910287&pblancNo=2026910287&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "충청북도 청주시 서원구 개신동 767번지",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-11-28 ~ 2026-11-28",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-17 ~ 2026-11-17"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "099.8624A",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "ennfe",
+   "hogangnono_name": "더샵청주그리니티",
+   "lat": 36.6227031,
+   "lon": 127.465076,
+   "score": 35,
+   "tags": [
+    "무순위·잔여세대",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950090",
+   "houseManageNo": "2026950090",
+   "houseSecd": "02",
+   "region": "서울",
+   "house_kind": "오피스텔",
+   "name": "중화역 라온프라이빗 센트로",
+   "builder": "중화3재정비촉진구역도시환경정비사업토지등소유자",
+   "phone": "1555-6223",
+   "notice_date": "2026-11-12",
+   "apply_period": "2026-11-25 ~ 2026-11-26",
+   "announce_date": "2026-12-02",
+   "apply_start": "2026-11-25",
+   "apply_end": "2026-11-26",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950090&pblancNo=2026950090&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "서울특별시 중랑구 중화동 303-9번지 일원",
+   "total_units_text": "74세대",
+   "total_units": 74,
+   "contract_period": "2026-12-08 ~ 2026-12-09",
+   "homepage": "https://jh-raon.com",
+   "move_in": "2029.02",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-25 ~ 2026-11-26"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "20OA",
+     "area": 20.158,
+     "total": 12,
+     "price": 17800,
+     "price_per_pyeong": 2919
+    },
+    {
+     "type": "41OA",
+     "area": 41.513,
+     "total": 26,
+     "price": 36800,
+     "price_per_pyeong": 2930
+    },
+    {
+     "type": "41OB",
+     "area": 41.513,
+     "total": 2,
+     "price": 37200,
+     "price_per_pyeong": 2962
+    },
+    {
+     "type": "59OA",
+     "area": 59.914,
+     "total": 32,
+     "price": 52000,
+     "price_per_pyeong": 2869
+    },
+    {
+     "type": "59OB",
+     "area": 59.914,
+     "total": 2,
+     "price": 54800,
+     "price_per_pyeong": 3024
+    }
+   ],
+   "prices": {
+    "20OA": 17800,
+    "41OA": 36800,
+    "41OB": 37200,
+    "59OA": 52000,
+    "59OB": 54800
+   },
+   "price_min": 17800,
+   "price_max": 54800,
+   "hogangnono_id": "elM07",
+   "hogangnono_name": "중화역라온프라이빗센트로",
+   "lat": 37.6000957,
+   "lon": 127.079268,
+   "score": 20,
+   "tags": [
+    "수도권"
    ],
    "status": "upcoming"
   }
