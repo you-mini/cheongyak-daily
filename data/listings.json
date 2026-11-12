@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12 02:24 KST",
+ "updated_at": "2026-11-12 11:22 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
  "count": 175,
  "items": [
@@ -10800,7 +10800,7 @@
     "수도권",
     "공공분양"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000527",
@@ -10906,7 +10906,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000515",
@@ -11072,7 +11072,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000472",
@@ -11158,7 +11158,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000535",
@@ -11367,7 +11367,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000499",
@@ -11480,7 +11480,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026950096",
@@ -11682,7 +11682,7 @@
    "lon": 127.724263337659,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000523",
@@ -11753,7 +11753,7 @@
    "lon": 128.3332086,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026850054",
@@ -12203,7 +12203,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910283",
@@ -12255,7 +12255,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910280",
@@ -12310,7 +12310,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940251",
@@ -12365,7 +12365,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940247",
@@ -12421,7 +12421,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940253",
