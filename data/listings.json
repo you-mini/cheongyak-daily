@@ -1,84 +1,8 @@
 {
- "updated_at": "2026-11-13 11:02 KST",
+ "updated_at": "2026-11-14 02:22 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 175,
+ "count": 177,
  "items": [
-  {
-   "pblancNo": "2026940212",
-   "houseManageNo": "2026940212",
-   "houseSecd": "11",
-   "region": "인천",
-   "supply_kind": "임의공급",
-   "name": "리아츠 더 인천(23차)",
-   "builder": "송림6구역재개발정비사업조합",
-   "notice_date": "2026-09-21",
-   "apply_period": "2026-09-23 ~ 2026-10-01",
-   "announce_date": "2026-10-07",
-   "phone": "",
-   "apply_start": "2026-09-23",
-   "apply_end": "2026-10-01",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "인천광역시 제물포구 송림동 31-3번지 일원",
-   "total_units_text": "7세대",
-   "total_units": 7,
-   "contract_period": "2026-10-10 ~ 2026-10-10",
-   "homepage": "",
-   "move_in": "2027.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-09-23 ~ 2026-10-01"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9892B",
-     "price": 36800,
-     "total": 2,
-     "price_per_pyeong": 2028
-    },
-    {
-     "type": "059.9738C",
-     "price": 38500,
-     "total": 1,
-     "price_per_pyeong": 2122
-    },
-    {
-     "type": "074.9976",
-     "price": 48400,
-     "total": 2,
-     "price_per_pyeong": 2133
-    },
-    {
-     "type": "084.9718B",
-     "price": 54500,
-     "total": 2,
-     "price_per_pyeong": 2120
-    }
-   ],
-   "prices": {
-    "059.9892B": 36800,
-    "059.9738C": 38500,
-    "074.9976": 48400,
-    "084.9718B": 54500
-   },
-   "price_min": 36800,
-   "price_max": 54500,
-   "hogangnono_id": "fBd9a",
-   "hogangnono_name": "리아츠더인천",
-   "lat": 37.4781420469347,
-   "lon": 126.650554710834,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026000448",
    "houseManageNo": "2026000448",
@@ -13556,6 +13480,69 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026910299",
+   "houseManageNo": "2026910299",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "용인 양지 서희스타힐스 하이뷰 (조합원 취소분)",
+   "builder": "양지지구 2블럭 지역주택조합",
+   "notice_date": "2026-11-13",
+   "apply_period": "2026-11-18 ~ 2026-11-18",
+   "announce_date": "2026-11-23",
+   "phone": "",
+   "apply_start": "2026-11-18",
+   "apply_end": "2026-11-18",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910299&pblancNo=2026910299&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
+   "total_units_text": "19세대",
+   "total_units": 19,
+   "contract_period": "2026-11-26 ~ 2026-11-26",
+   "homepage": "",
+   "move_in": "2030.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-18 ~ 2026-11-18"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9671A",
+     "total": 12
+    },
+    {
+     "type": "074.9936A",
+     "total": 3
+    },
+    {
+     "type": "084.9999A",
+     "total": 3
+    },
+    {
+     "type": "084.9989B",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gsv5a",
+   "hogangnono_name": "용인양지서희스타힐스하이뷰",
+   "lat": 37.2373834,
+   "lon": 127.280083,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000560",
    "houseManageNo": "2026000560",
    "houseSecd": "",
@@ -13990,6 +13977,97 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000563",
+   "houseManageNo": "2026000563",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "더샵 트리센트(조합원 자격상실 세대분)",
+   "builder": "(주)포스코이앤씨",
+   "phone": "1600-3384",
+   "notice_date": "2026-11-13",
+   "apply_period": "2026-11-23 ~ 2026-11-25",
+   "announce_date": "2026-12-01",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-25",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 남구 문현동 334번지 일원",
+   "total_units_text": "103세대",
+   "total_units": 103,
+   "contract_period": "2026-12-13 ~ 2026-12-15",
+   "homepage": "https://www.더샵트리센트.kr",
+   "move_in": "2029.12",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-23",
+      "2026-11-23"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-24",
+      "2026-11-24"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-25",
+      "2026-11-25"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.5981",
+     "area": 81.3915,
+     "general": 26,
+     "special": 32,
+     "total": 58,
+     "price": 62800,
+     "price_per_pyeong": 3483
+    },
+    {
+     "type": "075.4145",
+     "area": 101.9566,
+     "general": 9,
+     "special": 16,
+     "total": 25,
+     "price": 76000,
+     "price_per_pyeong": 3331
+    },
+    {
+     "type": "084.4817",
+     "area": 114.2913,
+     "general": 8,
+     "special": 12,
+     "total": 20,
+     "price": 84900,
+     "price_per_pyeong": 3322
+    }
+   ],
+   "prices": {
+    "059.5981": 62800,
+    "075.4145": 76000,
+    "084.4817": 84900
+   },
+   "price_min": 62800,
+   "price_max": 84900,
+   "hogangnono_id": "gIs59",
+   "hogangnono_name": "더샵트리센트",
+   "lat": 35.1322268,
+   "lon": 129.076208,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000558",
    "houseManageNo": "2026000558",
    "houseSecd": "",
@@ -14199,6 +14277,109 @@
    "lon": 127.0981131,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000505",
+   "houseManageNo": "2026000505",
+   "houseSecd": "",
+   "region": "서울",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "경희궁 에피트",
+   "builder": "에이치엘디앤아이한라 주식회사",
+   "phone": "02-303-2280",
+   "notice_date": "2026-11-13",
+   "apply_period": "2026-11-25 ~ 2026-11-30",
+   "announce_date": "2026-12-04",
+   "apply_start": "2026-11-25",
+   "apply_end": "2026-11-30",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 종로구 교남동 28번지 일원",
+   "total_units_text": "134세대",
+   "total_units": 134,
+   "contract_period": "2026-12-16 ~ 2026-12-18",
+   "homepage": "https://brand.hldni.com/gyeonghuigung/",
+   "move_in": "2030.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-25",
+      "2026-11-25"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-26",
+      "2026-11-27"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "039.9342",
+     "area": 54.2361,
+     "general": 5,
+     "special": 0,
+     "total": 5,
+     "price": 118241,
+     "price_per_pyeong": 9788
+    },
+    {
+     "type": "059.9926",
+     "area": 78.3717,
+     "general": 13,
+     "special": 18,
+     "total": 31,
+     "price": 189843,
+     "price_per_pyeong": 10461
+    },
+    {
+     "type": "084.9794A",
+     "area": 111.357,
+     "general": 25,
+     "special": 28,
+     "total": 53,
+     "price": 257484,
+     "price_per_pyeong": 10016
+    },
+    {
+     "type": "084.9940B",
+     "area": 110.9884,
+     "general": 19,
+     "special": 26,
+     "total": 45,
+     "price": 251744,
+     "price_per_pyeong": 9791
+    }
+   ],
+   "prices": {
+    "039.9342": 118241,
+    "059.9926": 189843,
+    "084.9794A": 257484,
+    "084.9940B": 251744
+   },
+   "price_min": 118241,
+   "price_max": 257484,
+   "hogangnono_id": "gOl16",
+   "hogangnono_name": "경희궁에피트",
+   "lat": 37.5679502659605,
+   "lon": 126.965044415613,
+   "score": 30,
+   "tags": [
+    "수도권"
+   ],
    "status": "upcoming"
   },
   {
