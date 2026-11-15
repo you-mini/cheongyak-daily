@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-15 10:11 KST",
+ "updated_at": "2026-11-16 01:33 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 169,
+ "count": 171,
  "items": [
   {
    "pblancNo": "2026000453",
@@ -12758,6 +12758,62 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940256",
+   "houseManageNo": "2026940256",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "디에이치 신반포에스테라",
+   "builder": "신반포22차아파트주택재건축정비사업조합",
+   "notice_date": "2026-11-16",
+   "apply_period": "2026-11-18 ~ 2026-11-19",
+   "announce_date": "2026-11-24",
+   "phone": "",
+   "apply_start": "2026-11-18",
+   "apply_end": "2026-11-19",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940256&pblancNo=2026940256&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 서초구 잠원동 65-33번지 일대",
+   "total_units_text": "5세대",
+   "total_units": 5,
+   "contract_period": "2026-11-27 ~ 2026-11-27",
+   "homepage": "",
+   "move_in": "2028.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-18 ~ 2026-11-19"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9960",
+     "price": 439800,
+     "total": 5,
+     "price_per_pyeong": 17105
+    }
+   ],
+   "prices": {
+    "084.9960": 439800
+   },
+   "price_min": 439800,
+   "price_max": 439800,
+   "hogangnono_id": "elP33",
+   "hogangnono_name": "디에이치신반포에스테라",
+   "lat": 37.5113062,
+   "lon": 127.007357,
+   "score": 65,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910299",
    "houseManageNo": "2026910299",
    "houseSecd": "04",
@@ -13027,6 +13083,72 @@
    "tags": [
     "수도권",
     "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910296",
+   "houseManageNo": "2026910296",
+   "houseSecd": "04",
+   "region": "경남",
+   "supply_kind": "무순위(사후)",
+   "name": "힐스테이트 거제시그니처(1회차)",
+   "builder": "(주)옥포드림파크피에프브이",
+   "notice_date": "2026-11-16",
+   "apply_period": "2026-11-23 ~ 2026-11-23",
+   "announce_date": "2026-11-26",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910296&pblancNo=2026910296&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상남도 거제시 옥포동 1670번지 일원",
+   "total_units_text": "129세대",
+   "total_units": 129,
+   "contract_period": "2026-12-02 ~ 2026-12-02",
+   "homepage": "",
+   "move_in": "2030.08",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-23 ~ 2026-11-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9469B",
+     "total": 97
+    },
+    {
+     "type": "112.9922A",
+     "total": 17
+    },
+    {
+     "type": "132.9820A",
+     "total": 13
+    },
+    {
+     "type": "138.9652P",
+     "total": 1
+    },
+    {
+     "type": "165.9676P",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gNOf2",
+   "hogangnono_name": "힐스테이트거제시그니처(1회차)",
+   "lat": 34.8904754701873,
+   "lon": 128.687695980601,
+   "score": 30,
+   "tags": [
+    "무순위·잔여세대"
    ],
    "status": "upcoming"
   },
