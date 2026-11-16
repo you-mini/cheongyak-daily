@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-16 10:13 KST",
+ "updated_at": "2026-11-17 04:49 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 171,
+ "count": 174,
  "items": [
   {
    "pblancNo": "2026000453",
@@ -12814,6 +12814,82 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940262",
+   "houseManageNo": "2026940262",
+   "houseSecd": "11",
+   "region": "인천",
+   "supply_kind": "임의공급",
+   "name": "리아츠 더 인천(24차)",
+   "builder": "송림6구역재개발정비사업조합",
+   "notice_date": "2026-11-16",
+   "apply_period": "2026-11-18 ~ 2026-11-20",
+   "announce_date": "2026-11-25",
+   "phone": "",
+   "apply_start": "2026-11-18",
+   "apply_end": "2026-11-20",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940262&pblancNo=2026940262&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 제물포구 송림동 31-3번지 일원",
+   "total_units_text": "7세대",
+   "total_units": 7,
+   "contract_period": "2026-11-28 ~ 2026-11-28",
+   "homepage": "",
+   "move_in": "2027.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-18 ~ 2026-11-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9892B",
+     "price": 36800,
+     "total": 2,
+     "price_per_pyeong": 2028
+    },
+    {
+     "type": "059.9738C",
+     "price": 38500,
+     "total": 1,
+     "price_per_pyeong": 2122
+    },
+    {
+     "type": "074.9976",
+     "price": 48400,
+     "total": 2,
+     "price_per_pyeong": 2133
+    },
+    {
+     "type": "084.9718B",
+     "price": 54500,
+     "total": 2,
+     "price_per_pyeong": 2120
+    }
+   ],
+   "prices": {
+    "059.9892B": 36800,
+    "059.9738C": 38500,
+    "074.9976": 48400,
+    "084.9718B": 54500
+   },
+   "price_min": 36800,
+   "price_max": 54500,
+   "hogangnono_id": "fBd9a",
+   "hogangnono_name": "리아츠더인천",
+   "lat": 37.4781420469347,
+   "lon": 126.650554710834,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910299",
    "houseManageNo": "2026910299",
    "houseSecd": "04",
@@ -12869,6 +12945,68 @@
    "hogangnono_name": "용인양지서희스타힐스하이뷰",
    "lat": 37.2373834,
    "lon": 127.280083,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940260",
+   "houseManageNo": "2026940260",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "더샵 분당센트로(7차)",
+   "builder": "무지개마을4단지리모델링주택조합",
+   "notice_date": "2026-11-17",
+   "apply_period": "2026-11-20 ~ 2026-11-24",
+   "announce_date": "2026-11-27",
+   "phone": "",
+   "apply_start": "2026-11-20",
+   "apply_end": "2026-11-24",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 성남시 분당구 미금로 66",
+   "total_units_text": "6세대",
+   "total_units": 6,
+   "contract_period": "2026-11-28 ~ 2026-11-28",
+   "homepage": "",
+   "move_in": "2027.04",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-20 ~ 2026-11-24"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "078.4400N",
+     "price": 196300,
+     "total": 5,
+     "price_per_pyeong": 8273
+    },
+    {
+     "type": "084.0800N",
+     "price": 205900,
+     "total": 1,
+     "price_per_pyeong": 8095
+    }
+   ],
+   "prices": {
+    "078.4400N": 196300,
+    "084.0800N": 205900
+   },
+   "price_min": 196300,
+   "price_max": 205900,
+   "hogangnono_id": "gfC06",
+   "hogangnono_name": "더샵분당센트로",
+   "lat": 37.339321,
+   "lon": 127.11695,
    "score": 50,
    "tags": [
     "무순위·잔여세대",
@@ -13675,6 +13813,76 @@
    "hogangnono_name": "엘리프논산디에디션",
    "lat": 36.1797826,
    "lon": 127.0981131,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026850056",
+   "houseManageNo": "2026850056",
+   "houseSecd": "03",
+   "region": "부산",
+   "house_kind": "공공지원민간임대",
+   "name": "서면 지원 더뷰 드림아파트(공공지원민간임대)",
+   "builder": "(주)지원홀딩스",
+   "phone": "051-441-3800",
+   "notice_date": "2026-11-17",
+   "apply_period": "2026-11-24 ~ 2026-11-25",
+   "announce_date": "2026-12-01",
+   "apply_start": "2026-11-24",
+   "apply_end": "2026-11-25",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850056&pblancNo=2026850056&houseSecd=03",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "부산광역시 부산진구 부전동 390-1",
+   "total_units_text": "145세대",
+   "total_units": 145,
+   "contract_period": "2026-12-07 ~ 2026-12-09",
+   "homepage": "",
+   "move_in": "2028.02",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-24 ~ 2026-11-25"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "공공지원민간임대",
+     "area": 23.9987,
+     "total": 0
+    },
+    {
+     "type": "23A",
+     "price": 11060
+    },
+    {
+     "type": "49B",
+     "price": 21120
+    },
+    {
+     "type": "59C",
+     "price": 25280
+    },
+    {
+     "type": "59D",
+     "price": 25280
+    }
+   ],
+   "prices": {
+    "23A": 11060,
+    "49B": 21120,
+    "59C": 25280,
+    "59D": 25280
+   },
+   "price_min": 11060,
+   "price_max": 25280,
+   "hogangnono_id": "fcSc7",
+   "hogangnono_name": "서면지원더뷰드림",
+   "lat": 35.1618169081666,
+   "lon": 129.057611724927,
    "score": 0,
    "tags": [],
    "status": "upcoming"
