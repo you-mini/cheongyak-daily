@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-17 13:03 KST",
+ "updated_at": "2026-11-18 03:45 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 173,
+ "count": 177,
  "items": [
   {
    "pblancNo": "2026930040",
@@ -12744,6 +12744,61 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940263",
+   "houseManageNo": "2026940263",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "이천역 예미지 센트럴파크(4차)",
+   "builder": "(주)금성백조주택",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-20 ~ 2026-11-20",
+   "announce_date": "2026-11-25",
+   "phone": "",
+   "apply_start": "2026-11-20",
+   "apply_end": "2026-11-20",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940263&pblancNo=2026940263&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
+   "total_units_text": "15세대",
+   "total_units": 15,
+   "contract_period": "2026-11-26 ~ 2026-11-26",
+   "homepage": "",
+   "move_in": "2026.11",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-20 ~ 2026-11-20"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7884A",
+     "price": 54700,
+     "total": 15,
+     "price_per_pyeong": 2133
+    }
+   ],
+   "prices": {
+    "084.7884A": 54700
+   },
+   "price_min": 54700,
+   "price_max": 54700,
+   "hogangnono_id": "faAe6",
+   "hogangnono_name": "이천역예미지센트럴파크",
+   "lat": 37.2698204,
+   "lon": 127.438975,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026940260",
    "houseManageNo": "2026940260",
    "houseSecd": "11",
@@ -12888,6 +12943,192 @@
     "최초 분양가 재공급",
     "수도권",
     "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910292",
+   "houseManageNo": "2026910292",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "검암역 푸르지오 프라베뉴 (B-1BL) 공공분양주택",
+   "builder": "인천도시공사,(주)대우건설,동부건설(주),(주)비에스한양,경화건설(주),브니엘네이처(주)",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-23 ~ 2026-11-23",
+   "announce_date": "2026-11-30",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910292&pblancNo=2026910292&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 서해구 인천검암역세권 공공주택지구 내 B-1BL",
+   "total_units_text": "9세대",
+   "total_units": 9,
+   "contract_period": "2026-12-04 ~ 2026-12-04",
+   "homepage": "",
+   "move_in": "2029.07",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-23 ~ 2026-11-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.4783B",
+     "total": 7
+    },
+    {
+     "type": "084.9219C",
+     "total": 2
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gN6d2",
+   "hogangnono_name": "검암역푸르지오프라베뉴",
+   "lat": 37.5651128103782,
+   "lon": 126.668614485323,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940255",
+   "houseManageNo": "2026940255",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "광명 시티프라디움 에듀하임",
+   "builder": "(주)시티글로벌",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-23 ~ 2026-11-23",
+   "announce_date": "2026-11-26",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940255&pblancNo=2026940255&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 광명시 소하동 광명 구름산지구 도시개발사업지구 A6BL",
+   "total_units_text": "30세대",
+   "total_units": 30,
+   "contract_period": "2026-11-28 ~ 2026-11-28",
+   "homepage": "",
+   "move_in": "2029.03",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-23 ~ 2026-11-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8481A",
+     "price": 117500,
+     "total": 6,
+     "price_per_pyeong": 4578
+    },
+    {
+     "type": "084.9558C",
+     "price": 118000,
+     "total": 13,
+     "price_per_pyeong": 4592
+    },
+    {
+     "type": "084.9149E",
+     "price": 118000,
+     "total": 11,
+     "price_per_pyeong": 4594
+    }
+   ],
+   "prices": {
+    "084.8481A": 117500,
+    "084.9558C": 118000,
+    "084.9149E": 118000
+   },
+   "price_min": 117500,
+   "price_max": 118000,
+   "hogangnono_id": "gOEda",
+   "hogangnono_name": "광명시티프라디움에듀하임",
+   "lat": 37.4399137224679,
+   "lon": 126.880535752541,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910295",
+   "houseManageNo": "2026910295",
+   "houseSecd": "04",
+   "region": "부산",
+   "supply_kind": "무순위(사후)",
+   "name": "연제갤러리자이",
+   "builder": "지에스건설(주)",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-23 ~ 2026-11-23",
+   "announce_date": "2026-11-26",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910295&pblancNo=2026910295&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 연제구 연산동 1123-1번지",
+   "total_units_text": "315세대",
+   "total_units": 315,
+   "contract_period": "2026-12-03 ~ 2026-12-03",
+   "homepage": "",
+   "move_in": "2030.10",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-23 ~ 2026-11-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9587A",
+     "total": 53
+    },
+    {
+     "type": "084.9052B",
+     "total": 81
+    },
+    {
+     "type": "084.8780C",
+     "total": 26
+    },
+    {
+     "type": "084.7933D",
+     "total": 155
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gKS2f",
+   "hogangnono_name": "연제갤러리자이",
+   "lat": 35.1894632005095,
+   "lon": 129.07981002732,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
    ],
    "status": "upcoming"
   },
