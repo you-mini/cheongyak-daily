@@ -1,217 +1,8 @@
 {
- "updated_at": "2026-11-17 04:49 KST",
+ "updated_at": "2026-11-17 13:03 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 174,
+ "count": 173,
  "items": [
-  {
-   "pblancNo": "2026000453",
-   "houseManageNo": "2026000453",
-   "houseSecd": "",
-   "region": "경기",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "광명 시티프라디움 에듀하임",
-   "builder": "(주)시티건설, (주)시티종합건설, (주)시티",
-   "phone": "1899-6851",
-   "notice_date": "2026-09-18",
-   "apply_period": "2026-09-29 ~ 2026-10-02",
-   "announce_date": "2026-10-12",
-   "apply_start": "2026-09-29",
-   "apply_end": "2026-10-02",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000453&pblancNo=2026000453",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 광명시 소하동 광명 구름산지구 도시개발사업지구 A6BL",
-   "total_units_text": "426세대",
-   "total_units": 426,
-   "contract_period": "2026-10-24 ~ 2026-10-26",
-   "homepage": "https://광명시티프라디움.com",
-   "move_in": "2029.03",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-09-29",
-      "2026-09-29"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-09-30",
-      "2026-10-01"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-10-02",
-      "2026-10-02"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9742A",
-     "area": 78.5038,
-     "general": 10,
-     "special": 11,
-     "total": 21,
-     "price": 87900,
-     "price_per_pyeong": 4845
-    },
-    {
-     "type": "059.7421B",
-     "area": 78.3014,
-     "general": 42,
-     "special": 45,
-     "total": 87,
-     "price": 87700,
-     "price_per_pyeong": 4853
-    },
-    {
-     "type": "084.8481A",
-     "area": 109.1804,
-     "general": 36,
-     "special": 50,
-     "total": 86,
-     "price": 118500,
-     "price_per_pyeong": 4617
-    },
-    {
-     "type": "084.9648B",
-     "area": 109.1521,
-     "general": 10,
-     "special": 11,
-     "total": 21,
-     "price": 119700,
-     "price_per_pyeong": 4657
-    },
-    {
-     "type": "084.9558C",
-     "area": 109.1838,
-     "general": 44,
-     "special": 61,
-     "total": 105,
-     "price": 118000,
-     "price_per_pyeong": 4592
-    },
-    {
-     "type": "084.9796D",
-     "area": 109.5564,
-     "general": 10,
-     "special": 11,
-     "total": 21,
-     "price": 119800,
-     "price_per_pyeong": 4660
-    },
-    {
-     "type": "084.9149E",
-     "area": 110.275,
-     "general": 38,
-     "special": 47,
-     "total": 85,
-     "price": 118000,
-     "price_per_pyeong": 4594
-    }
-   ],
-   "prices": {
-    "059.9742A": 87900,
-    "059.7421B": 87700,
-    "084.8481A": 118500,
-    "084.9648B": 119700,
-    "084.9558C": 118000,
-    "084.9796D": 119800,
-    "084.9149E": 118000
-   },
-   "price_min": 87700,
-   "price_max": 119800,
-   "hogangnono_id": "gOEda",
-   "hogangnono_name": "광명시티프라디움에듀하임",
-   "lat": 37.4399137224679,
-   "lon": 126.880535752541,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940215",
-   "houseManageNo": "2026940215",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "힐스테이트 안양펠루스",
-   "builder": "(주)무궁화신탁",
-   "notice_date": "2026-09-30",
-   "apply_period": "2026-10-02 ~ 2026-10-02",
-   "announce_date": "2026-10-08",
-   "phone": "",
-   "apply_start": "2026-10-02",
-   "apply_end": "2026-10-02",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940215&pblancNo=2026940215&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 안양시 만안구 안양동 395-1번지",
-   "total_units_text": "6세대",
-   "total_units": 6,
-   "contract_period": "2026-10-09 ~ 2026-10-09",
-   "homepage": "",
-   "move_in": "2026.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-02 ~ 2026-10-02"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "043.6000",
-     "price": 56990,
-     "total": 2,
-     "price_per_pyeong": 4321
-    },
-    {
-     "type": "050.0400",
-     "price": 62550,
-     "total": 2,
-     "price_per_pyeong": 4132
-    },
-    {
-     "type": "061.1400",
-     "price": 82370,
-     "total": 1,
-     "price_per_pyeong": 4454
-    },
-    {
-     "type": "068.3900",
-     "price": 84650,
-     "total": 1,
-     "price_per_pyeong": 4092
-    }
-   ],
-   "prices": {
-    "043.6000": 56990,
-    "050.0400": 62550,
-    "061.1400": 82370,
-    "068.3900": 84650
-   },
-   "price_min": 56990,
-   "price_max": 84650,
-   "hogangnono_id": "gPR48",
-   "hogangnono_name": "힐스테이트안양펠루스",
-   "lat": 37.3933468,
-   "lon": 126.930155,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026930040",
    "houseManageNo": "2026930040",
@@ -11603,7 +11394,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910288",
@@ -11655,7 +11446,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910293",
@@ -11715,7 +11506,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910297",
@@ -11771,7 +11562,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910284",
@@ -11838,7 +11629,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026820015",
@@ -12704,7 +12495,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910287",
@@ -12755,7 +12546,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940256",
@@ -13011,6 +12802,92 @@
    "tags": [
     "무순위·잔여세대",
     "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026930045",
+   "houseManageNo": "2026930045",
+   "houseSecd": "06",
+   "region": "서울",
+   "supply_kind": "불법행위 재공급",
+   "name": "잠실 래미안아이파크",
+   "builder": "잠실진주아파트주택재건축정비사업조합",
+   "notice_date": "2026-11-17",
+   "apply_period": "2026-11-23 ~ 2026-11-24",
+   "announce_date": "2026-11-27",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-24",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930045&pblancNo=2026930045&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-12-04 ~ 2026-12-04",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-23"
+     ]
+    },
+    {
+     "label": "일반공급",
+     "dates": [
+      "2026-11-24"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "043.7300",
+     "area": 68.98,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 110548,
+     "price_per_pyeong": 8357
+    },
+    {
+     "type": "059.4700A",
+     "area": 88.17,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 157939,
+     "price_per_pyeong": 8779
+    },
+    {
+     "type": "084.9600D",
+     "area": 113.37,
+     "general": 0,
+     "special": 1,
+     "total": 1,
+     "price": 185607,
+     "price_per_pyeong": 7222
+    }
+   ],
+   "prices": {
+    "043.7300": 110548,
+    "059.4700A": 157939,
+    "084.9600D": 185607
+   },
+   "price_min": 110548,
+   "price_max": 185607,
+   "hogangnono_id": "dJo97",
+   "hogangnono_name": "잠실래미안아이파크",
+   "lat": 37.5186059,
+   "lon": 127.111658,
+   "score": 75,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급",
+    "수도권",
+    "소량 공급"
    ],
    "status": "upcoming"
   },
