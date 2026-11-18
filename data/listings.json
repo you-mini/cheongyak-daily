@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-18 03:45 KST",
+ "updated_at": "2026-11-18 12:01 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 177,
+ "count": 179,
  "items": [
   {
    "pblancNo": "2026930040",
@@ -7684,7 +7684,7 @@
     "수도권",
     "공공분양"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000532",
@@ -11128,7 +11128,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940254",
@@ -11291,7 +11291,7 @@
    "lon": 128.7301132,
    "score": 0,
    "tags": [],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910290",
@@ -11342,7 +11342,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910291",
@@ -12546,7 +12546,7 @@
     "무순위·잔여세대",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940256",
@@ -12602,7 +12602,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940262",
@@ -12678,7 +12678,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910299",
@@ -12741,7 +12741,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940263",
@@ -12938,6 +12938,76 @@
    "lat": 37.5186059,
    "lon": 127.111658,
    "score": 75,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026930046",
+   "houseManageNo": "2026930046",
+   "houseSecd": "06",
+   "region": "경기",
+   "supply_kind": "불법행위 재공급",
+   "name": "광주 송정 중흥S-클래스 파크뷰",
+   "builder": "송정파크 주식회사",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-23 ~ 2026-11-23",
+   "announce_date": "2026-11-26",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930046&pblancNo=2026930046&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 광주시 광주대로 142",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-12-03 ~ 2026-12-03",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "일반공급",
+     "dates": [
+      "2026-11-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.8670A",
+     "area": 79.4728,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 41668,
+     "price_per_pyeong": 2301
+    },
+    {
+     "type": "059.7670C",
+     "area": 79.8797,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 40968,
+     "price_per_pyeong": 2266
+    }
+   ],
+   "prices": {
+    "059.8670A": 41668,
+    "059.7670C": 40968
+   },
+   "price_min": 40968,
+   "price_max": 41668,
+   "hogangnono_id": "emv9e",
+   "hogangnono_name": "광주송정중흥S-클래스파크뷰",
+   "lat": 37.4192674,
+   "lon": 127.259408,
+   "score": 65,
    "tags": [
     "무순위·잔여세대",
     "최초 분양가 재공급",
@@ -13841,6 +13911,97 @@
    "lat": 35.5093859,
    "lon": 129.4189339,
    "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000559",
+   "houseManageNo": "2026000559",
+   "houseSecd": "",
+   "region": "전북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "두산위브 트레지움 익산",
+   "builder": "두산건설 주식회사",
+   "phone": "063-858-1118",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-23 ~ 2026-11-25",
+   "announce_date": "2026-12-01",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-25",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000559&pblancNo=2026000559",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전북특별자치도 익산시 동산동 1057번지 일원",
+   "total_units_text": "251세대",
+   "total_units": 251,
+   "contract_period": "2026-12-14 ~ 2026-12-16",
+   "homepage": "https://www.두산위브트레지움익산.com",
+   "move_in": "2030.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-23",
+      "2026-11-23"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-24",
+      "2026-11-24"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-25",
+      "2026-11-25"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.8500A",
+     "area": 81.52,
+     "general": 11,
+     "special": 12,
+     "total": 23,
+     "price": 37807,
+     "price_per_pyeong": 2088
+    },
+    {
+     "type": "059.8500B",
+     "area": 81.16,
+     "general": 31,
+     "special": 37,
+     "total": 68,
+     "price": 35289,
+     "price_per_pyeong": 1949
+    },
+    {
+     "type": "084.8800",
+     "area": 111.23,
+     "general": 73,
+     "special": 87,
+     "total": 160,
+     "price": 48422,
+     "price_per_pyeong": 1886
+    }
+   ],
+   "prices": {
+    "059.8500A": 37807,
+    "059.8500B": 35289,
+    "084.8800": 48422
+   },
+   "price_min": 35289,
+   "price_max": 48422,
+   "hogangnono_id": "goGc6",
+   "hogangnono_name": "두산위브트레지움익산",
+   "lat": 35.9340743,
+   "lon": 126.9659583,
+   "score": 0,
    "tags": [],
    "status": "upcoming"
   },
