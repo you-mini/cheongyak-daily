@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-18 12:01 KST",
+ "updated_at": "2026-11-19 03:21 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 179,
+ "count": 184,
  "items": [
   {
    "pblancNo": "2026930040",
@@ -13017,6 +13017,68 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026940261",
+   "houseManageNo": "2026940261",
+   "houseSecd": "11",
+   "region": "경기",
+   "supply_kind": "임의공급",
+   "name": "e편한세상 헤이리",
+   "builder": "신한자산신탁(주)",
+   "notice_date": "2026-11-19",
+   "apply_period": "2026-11-23 ~ 2026-11-23",
+   "announce_date": "2026-11-27",
+   "phone": "",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-23",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940261&pblancNo=2026940261&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 파주시 탄현면 헤이리로 372",
+   "total_units_text": "15세대",
+   "total_units": 15,
+   "contract_period": "2026-12-05 ~ 2026-12-05",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-23 ~ 2026-11-23"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9820A",
+     "price": 43600,
+     "total": 3,
+     "price_per_pyeong": 1696
+    },
+    {
+     "type": "084.9563B",
+     "price": 43100,
+     "total": 12,
+     "price_per_pyeong": 1677
+    }
+   ],
+   "prices": {
+    "084.9820A": 43600,
+    "084.9563B": 43100
+   },
+   "price_min": 43100,
+   "price_max": 43600,
+   "hogangnono_id": "fHt1f",
+   "hogangnono_name": "e편한세상헤이리",
+   "lat": 37.8061370694685,
+   "lon": 126.716257739369,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026910292",
    "houseManageNo": "2026910292",
    "houseSecd": "04",
@@ -14006,6 +14068,117 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000536",
+   "houseManageNo": "2026000536",
+   "houseSecd": "",
+   "region": "경북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "구미 파크원 데시앙",
+   "builder": "주식회사 태영건설",
+   "phone": "054-443-1355",
+   "notice_date": "2026-11-18",
+   "apply_period": "2026-11-23 ~ 2026-11-25",
+   "announce_date": "2026-12-02",
+   "apply_start": "2026-11-23",
+   "apply_end": "2026-11-25",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000536&pblancNo=2026000536",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상북도 구미시 도량동 산40-4번지 일원",
+   "total_units_text": "1355세대",
+   "total_units": 1355,
+   "contract_period": "2026-12-14 ~ 2026-12-16",
+   "homepage": "https://구미파크원데시앙.com",
+   "move_in": "2030.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-23",
+      "2026-11-23"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-11-24",
+      "2026-11-24"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-11-25",
+      "2026-11-25"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.7279A",
+     "area": 114.9023,
+     "general": 279,
+     "special": 335,
+     "total": 614,
+     "price": 52600,
+     "price_per_pyeong": 2052
+    },
+    {
+     "type": "084.9950B",
+     "area": 115.6361,
+     "general": 19,
+     "special": 21,
+     "total": 40,
+     "price": 52100,
+     "price_per_pyeong": 2026
+    },
+    {
+     "type": "098.9841A",
+     "area": 133.296,
+     "general": 231,
+     "special": 33,
+     "total": 264,
+     "price": 59800,
+     "price_per_pyeong": 1997
+    },
+    {
+     "type": "098.8582B",
+     "area": 134.9121,
+     "general": 174,
+     "special": 26,
+     "total": 200,
+     "price": 59400,
+     "price_per_pyeong": 1986
+    },
+    {
+     "type": "110.7800",
+     "area": 148.8352,
+     "general": 207,
+     "special": 30,
+     "total": 237,
+     "price": 70800,
+     "price_per_pyeong": 2113
+    }
+   ],
+   "prices": {
+    "084.7279A": 52600,
+    "084.9950B": 52100,
+    "098.9841A": 59800,
+    "098.8582B": 59400,
+    "110.7800": 70800
+   },
+   "price_min": 52100,
+   "price_max": 70800,
+   "hogangnono_id": "gQX23",
+   "hogangnono_name": "구미파크원데시앙1단지",
+   "lat": 36.1486588,
+   "lon": 128.328954,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000540",
    "houseManageNo": "2026000540",
    "houseSecd": "",
@@ -14094,6 +14267,127 @@
    "lon": 127.0981131,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026940257",
+   "houseManageNo": "2026940257",
+   "houseSecd": "11",
+   "region": "서울",
+   "supply_kind": "임의공급",
+   "name": "강동한강 디에트르",
+   "builder": "대명아파트가로주택정비사업조합",
+   "notice_date": "2026-11-19",
+   "apply_period": "2026-11-24 ~ 2026-11-25",
+   "announce_date": "2026-11-30",
+   "phone": "",
+   "apply_start": "2026-11-24",
+   "apply_end": "2026-11-25",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940257&pblancNo=2026940257&houseSecd=11",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 강동구 암사동 447-8번지",
+   "total_units_text": "13세대",
+   "total_units": 13,
+   "contract_period": "2026-12-01 ~ 2026-12-02",
+   "homepage": "",
+   "move_in": "2027.04",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-24 ~ 2026-11-25"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.5900B",
+     "price": 113500,
+     "total": 10,
+     "price_per_pyeong": 6296
+    },
+    {
+     "type": "079.7500A",
+     "price": 141500,
+     "total": 2,
+     "price_per_pyeong": 5865
+    },
+    {
+     "type": "080.1500A",
+     "price": 139500,
+     "total": 1,
+     "price_per_pyeong": 5754
+    }
+   ],
+   "prices": {
+    "059.5900B": 113500,
+    "079.7500A": 141500,
+    "080.1500A": 139500
+   },
+   "price_min": 113500,
+   "price_max": 141500,
+   "hogangnono_id": "Pab2",
+   "hogangnono_name": "한강동원",
+   "lat": 37.54494094386791,
+   "lon": 126.912533807494,
+   "score": 60,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910307",
+   "houseManageNo": "2026910307",
+   "houseSecd": "04",
+   "region": "인천",
+   "supply_kind": "무순위(사후)",
+   "name": "인천 검단신도시 AB13블록 호반써밋Ⅲ",
+   "builder": "티에스리빙 주식회사",
+   "notice_date": "2026-11-19",
+   "apply_period": "2026-11-24 ~ 2026-11-24",
+   "announce_date": "2026-11-27",
+   "phone": "",
+   "apply_start": "2026-11-24",
+   "apply_end": "2026-11-24",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910307&pblancNo=2026910307&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천 검단신도시 AB13블록 호반써밋 아라 (인천광역시 검단구 이음4로 101)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-12-07 ~ 2026-12-07",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-24 ~ 2026-11-24"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "097.9655P",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gxb6a",
+   "hogangnono_name": "검단신도시AB7",
+   "lat": 37.587466,
+   "lon": 126.6988714,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
    "status": "upcoming"
   },
   {
@@ -14350,6 +14644,99 @@
    "hogangnono_name": "중화역라온프라이빗센트로",
    "lat": 37.6000957,
    "lon": 127.079268,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000585",
+   "houseManageNo": "2026000585",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "고양 한신더휴 퍼스트원",
+   "builder": "한신공영 주식회사",
+   "phone": "02-3159-3428",
+   "notice_date": "2026-11-19",
+   "apply_period": "2026-11-30 ~ 2026-12-02",
+   "announce_date": "2026-12-09",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-12-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000585&pblancNo=2026000585",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 고양시 덕양구 행신동 173-1번지 일원",
+   "total_units_text": "102세대",
+   "total_units": 102,
+   "contract_period": "2026-12-21 ~ 2026-12-23",
+   "homepage": "https://gy-thehue.com",
+   "move_in": "2029.05",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-01",
+      "2026-12-01"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.8728",
+     "area": 79.7293,
+     "general": 7,
+     "special": 19,
+     "total": 26,
+     "price": 64472,
+     "price_per_pyeong": 3560
+    },
+    {
+     "type": "071.9348",
+     "area": 92.7098,
+     "general": 21,
+     "special": 24,
+     "total": 45,
+     "price": 72944,
+     "price_per_pyeong": 3352
+    },
+    {
+     "type": "084.9614",
+     "area": 106.6083,
+     "general": 13,
+     "special": 18,
+     "total": 31,
+     "price": 84579,
+     "price_per_pyeong": 3291
+    }
+   ],
+   "prices": {
+    "059.8728": 64472,
+    "071.9348": 72944,
+    "084.9614": 84579
+   },
+   "price_min": 64472,
+   "price_max": 84579,
+   "hogangnono_id": "enAbd",
+   "hogangnono_name": "고양한신더휴퍼스트원",
+   "lat": 37.6204766031627,
+   "lon": 126.844520600582,
    "score": 20,
    "tags": [
     "수도권"
