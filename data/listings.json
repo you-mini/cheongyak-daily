@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-20 11:29 KST",
+ "updated_at": "2026-11-21 02:59 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 197,
+ "count": 201,
  "items": [
   {
    "pblancNo": "2026930040",
@@ -15141,6 +15141,123 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026950097",
+   "houseManageNo": "2026950097",
+   "houseSecd": "02",
+   "region": "충북",
+   "house_kind": "오피스텔",
+   "name": "힐스테이트 오송레이크센트럴",
+   "builder": "(주)무궁화신탁",
+   "phone": "1600-3698",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-11-25 ~ 2026-11-25",
+   "announce_date": "2026-12-04",
+   "apply_start": "2026-11-25",
+   "apply_end": "2026-11-25",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950097&pblancNo=2026950097&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "충청북도 청주시 흥덕구 오송읍 연제리 664-8",
+   "total_units_text": "703세대",
+   "total_units": 703,
+   "contract_period": "2026-12-05 ~ 2026-12-05",
+   "homepage": "https://www.hs-osonglake.com",
+   "move_in": "2029.09",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-25 ~ 2026-11-25"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "49A",
+     "area": 49.3741,
+     "total": 156,
+     "price": 37880,
+     "price_per_pyeong": 2536
+    },
+    {
+     "type": "49A-1",
+     "area": 49.3861,
+     "total": 78,
+     "price": 37880,
+     "price_per_pyeong": 2536
+    },
+    {
+     "type": "49A-2",
+     "area": 49.3861,
+     "total": 26,
+     "price": 37880,
+     "price_per_pyeong": 2536
+    },
+    {
+     "type": "49B",
+     "area": 49.411,
+     "total": 26,
+     "price": 37500,
+     "price_per_pyeong": 2509
+    },
+    {
+     "type": "59A",
+     "area": 59.3832,
+     "total": 180,
+     "price": 45980,
+     "price_per_pyeong": 2560
+    },
+    {
+     "type": "59A-1",
+     "area": 59.3908,
+     "total": 132,
+     "price": 45980,
+     "price_per_pyeong": 2559
+    },
+    {
+     "type": "59A-2",
+     "area": 59.3832,
+     "total": 27,
+     "price": 45520,
+     "price_per_pyeong": 2534
+    },
+    {
+     "type": "59A-3",
+     "area": 59.3908,
+     "total": 25,
+     "price": 45520,
+     "price_per_pyeong": 2534
+    },
+    {
+     "type": "59B",
+     "area": 59.725,
+     "total": 53,
+     "price": 45070,
+     "price_per_pyeong": 2495
+    }
+   ],
+   "prices": {
+    "49A": 37880,
+    "49A-1": 37880,
+    "49A-2": 37880,
+    "49B": 37500,
+    "59A": 45980,
+    "59A-1": 45980,
+    "59A-2": 45520,
+    "59A-3": 45520,
+    "59B": 45070
+   },
+   "price_min": 37500,
+   "price_max": 45980,
+   "hogangnono_id": "hpY32",
+   "hogangnono_name": "힐스테이트오송레이크센트럴(2단지)",
+   "lat": 36.6330179,
+   "lon": 127.3297967,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000575",
    "houseManageNo": "2026000575",
    "houseSecd": "",
@@ -15464,6 +15581,202 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000598",
+   "houseManageNo": "2026000598",
+   "houseSecd": "",
+   "region": "전북",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "고창 데시앙 2블록(공공분양)",
+   "builder": "(주)태영건설",
+   "phone": "063-562-8881",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-11-30 ~ 2026-12-02",
+   "announce_date": "2026-12-08",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-12-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000598&pblancNo=2026000598",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+   "total_units_text": "180세대",
+   "total_units": 180,
+   "contract_period": "2027-02-15 ~ 2027-02-17",
+   "homepage": "https://고창데시앙.com",
+   "move_in": "2030.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-01",
+      "2026-12-01"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9076A",
+     "area": 107.6711,
+     "general": 22,
+     "special": 82,
+     "total": 104,
+     "price": 42440,
+     "price_per_pyeong": 1652
+    },
+    {
+     "type": "084.9589B",
+     "area": 109.7241,
+     "general": 9,
+     "special": 19,
+     "total": 28,
+     "price": 42450,
+     "price_per_pyeong": 1652
+    },
+    {
+     "type": "084.9022C",
+     "area": 107.9441,
+     "general": 14,
+     "special": 34,
+     "total": 48,
+     "price": 42620,
+     "price_per_pyeong": 1659
+    }
+   ],
+   "prices": {
+    "084.9076A": 42440,
+    "084.9589B": 42450,
+    "084.9022C": 42620
+   },
+   "price_min": 42440,
+   "price_max": 42620,
+   "hogangnono_id": "gZy28",
+   "hogangnono_name": "고창데시앙2블록(공공)",
+   "lat": 35.4266178,
+   "lon": 126.697548,
+   "score": 10,
+   "tags": [
+    "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000597",
+   "houseManageNo": "2026000597",
+   "houseSecd": "",
+   "region": "전북",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "고창 데시앙 3블록(공공분양)",
+   "builder": "(주)태영건설",
+   "phone": "063-562-8881",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-11-30 ~ 2026-12-02",
+   "announce_date": "2026-12-08",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-12-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000597&pblancNo=2026000597",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL3",
+   "total_units_text": "531세대",
+   "total_units": 531,
+   "contract_period": "2027-02-15 ~ 2027-02-17",
+   "homepage": "https://고창데시앙.com",
+   "move_in": "2030.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-01",
+      "2026-12-01"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9076A",
+     "area": 109.7892,
+     "general": 83,
+     "special": 268,
+     "total": 351,
+     "price": 42940,
+     "price_per_pyeong": 1672
+    },
+    {
+     "type": "084.9589B",
+     "area": 111.8434,
+     "general": 18,
+     "special": 45,
+     "total": 63,
+     "price": 43030,
+     "price_per_pyeong": 1674
+    },
+    {
+     "type": "084.9022C",
+     "area": 110.062,
+     "general": 25,
+     "special": 82,
+     "total": 107,
+     "price": 42910,
+     "price_per_pyeong": 1671
+    },
+    {
+     "type": "084.9295D",
+     "area": 109.8158,
+     "general": 2,
+     "special": 8,
+     "total": 10,
+     "price": 43010,
+     "price_per_pyeong": 1674
+    }
+   ],
+   "prices": {
+    "084.9076A": 42940,
+    "084.9589B": 43030,
+    "084.9022C": 42910,
+    "084.9295D": 43010
+   },
+   "price_min": 42910,
+   "price_max": 43030,
+   "hogangnono_id": "h1Ic5",
+   "hogangnono_name": "고창데시앙3블럭",
+   "lat": 35.4249612,
+   "lon": 126.6964529,
+   "score": 10,
+   "tags": [
+    "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000510",
    "houseManageNo": "2026000510",
    "houseSecd": "",
@@ -15561,6 +15874,97 @@
    "lat": 35.1915772,
    "lon": 129.084093,
    "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000596",
+   "houseManageNo": "2026000596",
+   "houseSecd": "",
+   "region": "전북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "고창 데시앙 2블록(민영)",
+   "builder": "(주)태영건설",
+   "phone": "063-562-8881",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-11-30 ~ 2026-12-02",
+   "announce_date": "2026-12-08",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-12-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000596&pblancNo=2026000596",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+   "total_units_text": "177세대",
+   "total_units": 177,
+   "contract_period": "2027-02-15 ~ 2027-02-17",
+   "homepage": "https://고창데시앙.com",
+   "move_in": "2030.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-01",
+      "2026-12-01"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "104.9069A",
+     "area": 132.7335,
+     "general": 71,
+     "special": 12,
+     "total": 83,
+     "price": 56170,
+     "price_per_pyeong": 1770
+    },
+    {
+     "type": "104.9904B",
+     "area": 132.421,
+     "general": 15,
+     "special": 3,
+     "total": 18,
+     "price": 55870,
+     "price_per_pyeong": 1759
+    },
+    {
+     "type": "125.1302A",
+     "area": 157.9738,
+     "general": 67,
+     "special": 9,
+     "total": 76,
+     "price": 67060,
+     "price_per_pyeong": 1772
+    }
+   ],
+   "prices": {
+    "104.9069A": 56170,
+    "104.9904B": 55870,
+    "125.1302A": 67060
+   },
+   "price_min": 55870,
+   "price_max": 67060,
+   "hogangnono_id": "gZy28",
+   "hogangnono_name": "고창데시앙2블록(공공)",
+   "lat": 35.4266178,
+   "lon": 126.697548,
+   "score": 0,
    "tags": [],
    "status": "upcoming"
   },
