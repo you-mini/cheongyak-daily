@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-20 03:34 KST",
+ "updated_at": "2026-11-20 11:29 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 194,
+ "count": 197,
  "items": [
   {
    "pblancNo": "2026930040",
@@ -11891,7 +11891,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026820013",
@@ -12602,7 +12602,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940262",
@@ -12796,7 +12796,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940260",
@@ -12858,7 +12858,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930045",
@@ -15464,6 +15464,248 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000510",
+   "houseManageNo": "2026000510",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "연산역 수자인 센트리오",
+   "builder": "주식회사 비에스한양",
+   "phone": "051-852-0335",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-11-30 ~ 2026-12-02",
+   "announce_date": "2026-12-08",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-12-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000510&pblancNo=2026000510",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 연제구 연산동 580-4번지 일원",
+   "total_units_text": "139세대",
+   "total_units": 139,
+   "contract_period": "2026-12-21 ~ 2026-12-23",
+   "homepage": "https://www.sujain-ys.com/",
+   "move_in": "2029.12",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-01",
+      "2026-12-01"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9795A",
+     "area": 80.9874,
+     "general": 5,
+     "special": 39,
+     "total": 44,
+     "price": 65357,
+     "price_per_pyeong": 3602
+    },
+    {
+     "type": "059.9795B",
+     "area": 80.9874,
+     "general": 5,
+     "special": 13,
+     "total": 18,
+     "price": 65487,
+     "price_per_pyeong": 3609
+    },
+    {
+     "type": "074.9946",
+     "area": 104.872,
+     "general": 5,
+     "special": 51,
+     "total": 56,
+     "price": 85940,
+     "price_per_pyeong": 3788
+    },
+    {
+     "type": "084.9796B",
+     "area": 114.004,
+     "general": 4,
+     "special": 17,
+     "total": 21,
+     "price": 91562,
+     "price_per_pyeong": 3562
+    }
+   ],
+   "prices": {
+    "059.9795A": 65357,
+    "059.9795B": 65487,
+    "074.9946": 85940,
+    "084.9796B": 91562
+   },
+   "price_min": 65357,
+   "price_max": 91562,
+   "hogangnono_id": "gJa25",
+   "hogangnono_name": "연산역수자인센트리오",
+   "lat": 35.1915772,
+   "lon": 129.084093,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000590",
+   "houseManageNo": "2026000590",
+   "houseSecd": "",
+   "region": "전남",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "두산위브 시그니처 광양",
+   "builder": "두산건설 주식회사",
+   "phone": "061-791-2691",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-11-30 ~ 2026-12-02",
+   "announce_date": "2026-12-08",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-12-02",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000590&pblancNo=2026000590",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "전남광주통합특별시 광양시 중동 1294, 1294-1번지",
+   "total_units_text": "120세대",
+   "total_units": 120,
+   "contract_period": "2026-12-21 ~ 2026-12-23",
+   "homepage": "https://www.두산위브시그니처광양.com",
+   "move_in": "2028.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-11-30",
+      "2026-11-30"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-01",
+      "2026-12-01"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "066.8577A",
+     "area": 87.8721,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 32580,
+     "price_per_pyeong": 1611
+    },
+    {
+     "type": "066.8147B",
+     "area": 89.0944,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 33240,
+     "price_per_pyeong": 1645
+    },
+    {
+     "type": "084.8557A",
+     "area": 110.9672,
+     "general": 8,
+     "special": 1,
+     "total": 9,
+     "price": 41880,
+     "price_per_pyeong": 1632
+    },
+    {
+     "type": "084.8862B",
+     "area": 112.168,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 42290,
+     "price_per_pyeong": 1647
+    },
+    {
+     "type": "084.7406C",
+     "area": 109.8286,
+     "general": 16,
+     "special": 10,
+     "total": 26,
+     "price": 41280,
+     "price_per_pyeong": 1610
+    },
+    {
+     "type": "084.9311D",
+     "area": 110.1125,
+     "general": 6,
+     "special": 4,
+     "total": 10,
+     "price": 41810,
+     "price_per_pyeong": 1627
+    },
+    {
+     "type": "110.6731A",
+     "area": 142.8132,
+     "general": 54,
+     "special": 7,
+     "total": 61,
+     "price": 57990,
+     "price_per_pyeong": 1732
+    },
+    {
+     "type": "110.8802B",
+     "area": 143.4137,
+     "general": 10,
+     "special": 1,
+     "total": 11,
+     "price": 57990,
+     "price_per_pyeong": 1729
+    }
+   ],
+   "prices": {
+    "066.8577A": 32580,
+    "066.8147B": 33240,
+    "084.8557A": 41880,
+    "084.8862B": 42290,
+    "084.7406C": 41280,
+    "084.9311D": 41810,
+    "110.6731A": 57990,
+    "110.8802B": 57990
+   },
+   "price_min": 32580,
+   "price_max": 57990,
+   "hogangnono_id": "gJ31d",
+   "hogangnono_name": "광양두산위브시그니처",
+   "lat": 34.9432987,
+   "lon": 127.6996791,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000521",
    "houseManageNo": "2026000521",
    "houseSecd": "",
@@ -15562,6 +15804,117 @@
    "lon": 127.1409986,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026950089",
+   "houseManageNo": "2026950089",
+   "houseSecd": "02",
+   "region": "인천",
+   "house_kind": "오피스텔",
+   "name": "청라 아크원 푸르지오",
+   "builder": "(주)청라스마트시티",
+   "phone": "1551-6881",
+   "notice_date": "2026-11-20",
+   "apply_period": "2026-12-07 ~ 2026-12-07",
+   "announce_date": "2026-12-11",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-07",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950089&pblancNo=2026950089&houseSecd=02",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "인천광역시 서해구 청라동 86-1번지(인천경제자유구역 청라국제도시 M5BL)",
+   "total_units_text": "987세대",
+   "total_units": 987,
+   "contract_period": "2026-12-12 ~ 2026-12-13",
+   "homepage": "https://www.arkone-prugio.com",
+   "move_in": "2031.08",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-12-07 ~ 2026-12-07"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "105OA",
+     "area": 105.8507,
+     "total": 141,
+     "price": 98890,
+     "price_per_pyeong": 3088
+    },
+    {
+     "type": "105OB",
+     "area": 105.9997,
+     "total": 141,
+     "price": 104060,
+     "price_per_pyeong": 3245
+    },
+    {
+     "type": "105OC",
+     "area": 105.9992,
+     "total": 94,
+     "price": 99230,
+     "price_per_pyeong": 3095
+    },
+    {
+     "type": "105OD",
+     "area": 105.9949,
+     "total": 47,
+     "price": 104350,
+     "price_per_pyeong": 3254
+    },
+    {
+     "type": "121OA",
+     "area": 121.9951,
+     "total": 141,
+     "price": 123690,
+     "price_per_pyeong": 3352
+    },
+    {
+     "type": "121OB",
+     "area": 121.9796,
+     "total": 141,
+     "price": 120690,
+     "price_per_pyeong": 3271
+    },
+    {
+     "type": "136OA",
+     "area": 136.8426,
+     "total": 141,
+     "price": 140500,
+     "price_per_pyeong": 3394
+    },
+    {
+     "type": "136OB",
+     "area": 136.9776,
+     "total": 141,
+     "price": 139220,
+     "price_per_pyeong": 3360
+    }
+   ],
+   "prices": {
+    "105OA": 98890,
+    "105OB": 104060,
+    "105OC": 99230,
+    "105OD": 104350,
+    "121OA": 123690,
+    "121OB": 120690,
+    "136OA": 140500,
+    "136OB": 139220
+   },
+   "price_min": 98890,
+   "price_max": 140500,
+   "hogangnono_id": "gTa64",
+   "hogangnono_name": "청라아크원푸르지오",
+   "lat": 37.5365742232278,
+   "lon": 126.620048729749,
+   "score": 10,
+   "tags": [
+    "수도권"
+   ],
    "status": "upcoming"
   }
  ]
