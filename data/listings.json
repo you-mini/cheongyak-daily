@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-22 10:30 KST",
+ "updated_at": "2026-11-23 02:21 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 193,
+ "count": 200,
  "items": [
   {
    "pblancNo": "2026930038",
@@ -14772,6 +14772,239 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026910303",
+   "houseManageNo": "2026910303",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "동탄신도시 금강펜테리움 7차 센트럴파크(2차)",
+   "builder": "주식회사 하이아트이앤씨",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-11-30 ~ 2026-11-30",
+   "announce_date": "2026-12-03",
+   "phone": "",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-11-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910303&pblancNo=2026910303&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성시 동탄구 동탄신리천로8길 17, 동탄신도시 금강펜테리움 7차 센트럴파크",
+   "total_units_text": "4세대",
+   "total_units": 4,
+   "contract_period": "2026-12-10 ~ 2026-12-10",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-30 ~ 2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9676A",
+     "total": 1
+    },
+    {
+     "type": "084.9264B",
+     "total": 3
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "dHF2d",
+   "hogangnono_name": "동탄신도시금강펜테리움6차센트럴파크",
+   "lat": 37.1732653,
+   "lon": 127.1387947,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910305",
+   "houseManageNo": "2026910305",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "판교TH212(2차)",
+   "builder": "(주)하이아트",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-11-30 ~ 2026-11-30",
+   "announce_date": "2026-12-03",
+   "phone": "",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-11-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910305&pblancNo=2026910305&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-12-10 ~ 2026-12-10",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-30 ~ 2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "128.8329C",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "f9X25",
+   "hogangnono_name": "판교TH212",
+   "lat": 37.3722612,
+   "lon": 127.066468,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910304",
+   "houseManageNo": "2026910304",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "더샵 분당하이스트(2차)",
+   "builder": "느티마을4단지 리모델링주택조합",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-11-30 ~ 2026-11-30",
+   "announce_date": "2026-12-03",
+   "phone": "",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-11-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910304&pblancNo=2026910304&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 성남시 분당구 정자동 90번지",
+   "total_units_text": "34세대",
+   "total_units": 34,
+   "contract_period": "2026-12-05 ~ 2026-12-05",
+   "homepage": "",
+   "move_in": "2027.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-30 ~ 2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "074.0000A",
+     "total": 1
+    },
+    {
+     "type": "074.4400D",
+     "total": 1
+    },
+    {
+     "type": "084.0000A",
+     "total": 18
+    },
+    {
+     "type": "084.0000C",
+     "total": 2
+    },
+    {
+     "type": "084.6400G",
+     "total": 12
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "guH07",
+   "hogangnono_name": "더샵분당하이스트",
+   "lat": 37.3673098,
+   "lon": 127.114019,
+   "score": 50,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910289",
+   "houseManageNo": "2026910289",
+   "houseSecd": "04",
+   "region": "대구",
+   "supply_kind": "무순위(사후)",
+   "name": "이안 엑소디움 에이펙스",
+   "builder": "(주)위성도시건설",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-11-30 ~ 2026-11-30",
+   "announce_date": "2026-12-03",
+   "phone": "",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-11-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910289&pblancNo=2026910289&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "대구광역시 달서구 감삼동 599-51 (도로명주소 : 대구광역시 달서구 달구벌대로 1514)",
+   "total_units_text": "6세대",
+   "total_units": 6,
+   "contract_period": "2026-12-10 ~ 2026-12-10",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-30 ~ 2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8856A",
+     "total": 2
+    },
+    {
+     "type": "084.9465B",
+     "total": 3
+    },
+    {
+     "type": "084.9213C",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "e1o6b",
+   "hogangnono_name": "이안엑소디움에이펙스",
+   "lat": 35.849342860074,
+   "lon": 128.532754392581,
+   "score": 40,
+   "tags": [
+    "무순위·잔여세대"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000575",
    "houseManageNo": "2026000575",
    "houseSecd": "",
@@ -15722,6 +15955,205 @@
    "lon": 127.1409986,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026850057",
+   "houseManageNo": "2026850057",
+   "houseSecd": "03",
+   "region": "경기",
+   "house_kind": "공공지원민간임대",
+   "name": "의왕 백운밸리 리젠시빌 란트",
+   "builder": "주식회사 리젠시빌주택",
+   "phone": "1899-0757",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-11-30 ~ 2026-11-30",
+   "announce_date": "2026-12-03",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-11-30",
+   "category": "other",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850057&pblancNo=2026850057&houseSecd=03",
+   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
+   "address": "경기도 의왕시 백운밸리 도시개발사업 A1BL",
+   "total_units_text": "130세대",
+   "total_units": 130,
+   "contract_period": "2026-12-09 ~ 2026-12-10",
+   "homepage": "https://백운밸리리젠시빌란트.com",
+   "move_in": "2029.05",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-11-30 ~ 2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "공공지원민간임대",
+     "area": 59.9814,
+     "total": 0
+    },
+    {
+     "type": "59A",
+     "price": 51000
+    },
+    {
+     "type": "59AT",
+     "price": 37000
+    },
+    {
+     "type": "59B",
+     "price": 51000
+    },
+    {
+     "type": "59BT",
+     "price": 35100
+    },
+    {
+     "type": "59C",
+     "price": 49900
+    },
+    {
+     "type": "59CT",
+     "price": 37800
+    },
+    {
+     "type": "74",
+     "price": 59300
+    }
+   ],
+   "prices": {
+    "59A": 51000,
+    "59AT": 37000,
+    "59B": 51000,
+    "59BT": 35100,
+    "59C": 49900,
+    "59CT": 37800,
+    "74": 59300
+   },
+   "price_min": 35100,
+   "price_max": 59300,
+   "hogangnono_id": "gRP84",
+   "hogangnono_name": "의왕백운밸리리젠시빌란트",
+   "lat": 37.3664072121469,
+   "lon": 127.00362463392,
+   "score": 0,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910301",
+   "houseManageNo": "2026910301",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "이천 서희스타힐스 SKY (조합원 취소분)",
+   "builder": "안흥동 지역주택조합",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-12-01 ~ 2026-12-01",
+   "announce_date": "2026-12-04",
+   "phone": "",
+   "apply_start": "2026-12-01",
+   "apply_end": "2026-12-01",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910301&pblancNo=2026910301&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 이천시 안흥동 279-1번지 일원",
+   "total_units_text": "3세대",
+   "total_units": 3,
+   "contract_period": "2026-12-08 ~ 2026-12-08",
+   "homepage": "",
+   "move_in": "2029.01",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-12-01 ~ 2026-12-01"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9800A",
+     "total": 2
+    },
+    {
+     "type": "084.9900C",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "gqw10",
+   "hogangnono_name": "이천서희스타힐스SKY",
+   "lat": 37.276346,
+   "lon": 127.455741,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026910302",
+   "houseManageNo": "2026910302",
+   "houseSecd": "04",
+   "region": "경기",
+   "supply_kind": "무순위(사후)",
+   "name": "한화포레나 영흥숲(4차)",
+   "builder": "(주)한화",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-12-01 ~ 2026-12-01",
+   "announce_date": "2026-12-04",
+   "phone": "",
+   "apply_start": "2026-12-01",
+   "apply_end": "2026-12-01",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910302&pblancNo=2026910302&houseSecd=04",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 수원시 영통구 원천동 333-1번지 일원",
+   "total_units_text": "2세대",
+   "total_units": 2,
+   "contract_period": "2026-12-11 ~ 2026-12-11",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "청약접수",
+     "dates": [
+      "2026-12-01 ~ 2026-12-01"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "066.8113",
+     "total": 1
+    },
+    {
+     "type": "068.9883",
+     "total": 1
+    }
+   ],
+   "prices": {},
+   "price_min": null,
+   "price_max": null,
+   "hogangnono_id": "b6o42",
+   "hogangnono_name": "영흥숲푸르지오파크비엔",
+   "lat": 37.2636742,
+   "lon": 127.067674,
+   "score": 55,
+   "tags": [
+    "무순위·잔여세대",
+    "수도권",
+    "소량 공급"
+   ],
    "status": "upcoming"
   },
   {
