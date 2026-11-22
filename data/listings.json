@@ -1,78 +1,8 @@
 {
- "updated_at": "2026-11-22 01:57 KST",
+ "updated_at": "2026-11-22 10:30 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 196,
+ "count": 193,
  "items": [
-  {
-   "pblancNo": "2026850050",
-   "houseManageNo": "2026850050",
-   "houseSecd": "03",
-   "region": "부산",
-   "house_kind": "공공지원민간임대",
-   "name": "서면 지원 더뷰 드림아파트(공공지원민간임대)",
-   "builder": "(주)지원홀딩스",
-   "phone": "051-441-3800",
-   "notice_date": "2026-09-29",
-   "apply_period": "2026-10-06 ~ 2026-10-07",
-   "announce_date": "2026-10-13",
-   "apply_start": "2026-10-06",
-   "apply_end": "2026-10-07",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026850050&pblancNo=2026850050&houseSecd=03",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "부산광역시 부산진구 부전동 390-1",
-   "total_units_text": "176세대",
-   "total_units": 176,
-   "contract_period": "2026-10-19 ~ 2026-10-21",
-   "homepage": "http://지원더뷰드림.com",
-   "move_in": "2028.02",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-06 ~ 2026-10-07"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "공공지원민간임대",
-     "area": 23.9987,
-     "total": 0
-    },
-    {
-     "type": "23A",
-     "price": 11060
-    },
-    {
-     "type": "49B",
-     "price": 21120
-    },
-    {
-     "type": "59C",
-     "price": 25280
-    },
-    {
-     "type": "59D",
-     "price": 25280
-    }
-   ],
-   "prices": {
-    "23A": 11060,
-    "49B": 21120,
-    "59C": 25280,
-    "59D": 25280
-   },
-   "price_min": 11060,
-   "price_max": 25280,
-   "hogangnono_id": "fcSc7",
-   "hogangnono_name": "서면지원더뷰드림",
-   "lat": 35.1618169081666,
-   "lon": 129.057611724927,
-   "score": 0,
-   "tags": [],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026930038",
    "houseManageNo": "2026930038",
@@ -150,69 +80,6 @@
    "status": "closed"
   },
   {
-   "pblancNo": "2026940213",
-   "houseManageNo": "2026940213",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "힐스테이트 금오 더퍼스트",
-   "builder": "금오생활권1구역주택재개발정비사업조합",
-   "notice_date": "2026-10-02",
-   "apply_period": "2026-10-07 ~ 2026-10-07",
-   "announce_date": "2026-10-13",
-   "phone": "",
-   "apply_start": "2026-10-07",
-   "apply_end": "2026-10-07",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940213&pblancNo=2026940213&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 의정부시 금오동 65-3번지 일원 (금오생활권1구역 주택재개발정비사업)",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-10-17 ~ 2026-10-17",
-   "homepage": "",
-   "move_in": "2026.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-07 ~ 2026-10-07"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9951C",
-     "price": 39950,
-     "total": 1,
-     "price_per_pyeong": 2201
-    },
-    {
-     "type": "084.9616",
-     "price": 58950,
-     "total": 2,
-     "price_per_pyeong": 2294
-    }
-   ],
-   "prices": {
-    "059.9951C": 39950,
-    "084.9616": 58950
-   },
-   "price_min": 39950,
-   "price_max": 58950,
-   "hogangnono_id": "emS1f",
-   "hogangnono_name": "힐스테이트금오더퍼스트",
-   "lat": 37.7579127,
-   "lon": 127.076832,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
    "pblancNo": "2026940211",
    "houseManageNo": "2026940211",
    "houseSecd": "11",
@@ -272,74 +139,6 @@
     "무순위·잔여세대",
     "수도권",
     "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026930039",
-   "houseManageNo": "2026930039",
-   "houseSecd": "06",
-   "region": "충남",
-   "supply_kind": "불법행위 재공급",
-   "name": "탕정 푸르지오 리버파크",
-   "builder": "케이비부동산신탁(주)",
-   "notice_date": "2026-10-02",
-   "apply_period": "2026-10-07 ~ 2026-10-07",
-   "announce_date": "2026-10-13",
-   "phone": "",
-   "apply_start": "2026-10-07",
-   "apply_end": "2026-10-07",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930039&pblancNo=2026930039&houseSecd=06",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "충청남도 아산시 탕정면 갈산리 977번지",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-10-16 ~ 2026-10-16",
-   "homepage": "",
-   "move_in": "2026.12",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-10-07"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9901A",
-     "area": 80.4521,
-     "general": 0,
-     "special": 2,
-     "total": 2,
-     "price": 31000,
-     "price_per_pyeong": 1708
-    },
-    {
-     "type": "074.8177A",
-     "area": 98.5998,
-     "general": 0,
-     "special": 1,
-     "total": 1,
-     "price": 38500,
-     "price_per_pyeong": 1701
-    }
-   ],
-   "prices": {
-    "059.9901A": 31000,
-    "074.8177A": 38500
-   },
-   "price_min": 31000,
-   "price_max": 38500,
-   "hogangnono_id": "gr179",
-   "hogangnono_name": "탕정푸르지오리버파크",
-   "lat": 36.793007016075,
-   "lon": 127.056257772531,
-   "score": 40,
-   "tags": [
-    "무순위·잔여세대",
-    "최초 분양가 재공급"
    ],
    "status": "closed"
   },
