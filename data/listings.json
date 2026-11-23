@@ -1,501 +1,8 @@
 {
- "updated_at": "2026-11-23 02:21 KST",
+ "updated_at": "2026-11-23 10:54 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 200,
+ "count": 194,
  "items": [
-  {
-   "pblancNo": "2026930038",
-   "houseManageNo": "2026930038",
-   "houseSecd": "06",
-   "region": "경기",
-   "supply_kind": "불법행위 재공급",
-   "name": "고양 장항 아테라",
-   "builder": "금호건설 주식회사,계룡건설산업(주),극동건설(주),(주)금성백조건설",
-   "notice_date": "2026-10-02",
-   "apply_period": "2026-10-07 ~ 2026-10-08",
-   "announce_date": "2026-10-14",
-   "phone": "",
-   "apply_start": "2026-10-07",
-   "apply_end": "2026-10-08",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930038&pblancNo=2026930038&houseSecd=06",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 고양시 일산동구 장항동 529-26번지 일원",
-   "total_units_text": "6세대",
-   "total_units": 6,
-   "contract_period": "2026-10-21 ~ 2026-10-21",
-   "homepage": "",
-   "move_in": "2027.05",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-10-07"
-     ]
-    },
-    {
-     "label": "일반공급",
-     "dates": [
-      "2026-10-08"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9958A",
-     "area": 109.3125,
-     "general": 1,
-     "special": 3,
-     "total": 4,
-     "price": 66303,
-     "price_per_pyeong": 2579
-    },
-    {
-     "type": "084.9478B",
-     "area": 109.9698,
-     "general": 1,
-     "special": 1,
-     "total": 2,
-     "price": 66034,
-     "price_per_pyeong": 2570
-    }
-   ],
-   "prices": {
-    "084.9958A": 66303,
-    "084.9478B": 66034
-   },
-   "price_min": 66034,
-   "price_max": 66303,
-   "hogangnono_id": "gzD4e",
-   "hogangnono_name": "고양장항아테라",
-   "lat": 37.6478853864076,
-   "lon": 126.759626836523,
-   "score": 65,
-   "tags": [
-    "무순위·잔여세대",
-    "최초 분양가 재공급",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940211",
-   "houseManageNo": "2026940211",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "더샵 분당센트로(6차)",
-   "builder": "무지개마을4단지리모델링주택조합",
-   "notice_date": "2026-10-01",
-   "apply_period": "2026-10-07 ~ 2026-10-13",
-   "announce_date": "2026-10-16",
-   "phone": "",
-   "apply_start": "2026-10-07",
-   "apply_end": "2026-10-13",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 성남시 분당구 미금로 66",
-   "total_units_text": "3세대",
-   "total_units": 3,
-   "contract_period": "2026-10-17 ~ 2026-10-17",
-   "homepage": "",
-   "move_in": "2027.04",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-07 ~ 2026-10-13"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "078.4400N",
-     "price": 193800,
-     "total": 2,
-     "price_per_pyeong": 8168
-    },
-    {
-     "type": "084.0800N",
-     "price": 205900,
-     "total": 1,
-     "price_per_pyeong": 8095
-    }
-   ],
-   "prices": {
-    "078.4400N": 193800,
-    "084.0800N": 205900
-   },
-   "price_min": 193800,
-   "price_max": 205900,
-   "hogangnono_id": "gfC06",
-   "hogangnono_name": "더샵분당센트로",
-   "lat": 37.339321,
-   "lon": 127.11695,
-   "score": 55,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026950085",
-   "houseManageNo": "2026950085",
-   "houseSecd": "02",
-   "region": "서울",
-   "house_kind": "오피스텔",
-   "name": "잠실에떼르넬비욘드",
-   "builder": "코리아신탁(주)",
-   "phone": "1522-5914",
-   "notice_date": "2026-09-30",
-   "apply_period": "2026-10-07 ~ 2026-10-08",
-   "announce_date": "2026-10-14",
-   "apply_start": "2026-10-07",
-   "apply_end": "2026-10-08",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950085&pblancNo=2026950085&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "서울특별시 송파구 방이동 34-1번지 일대",
-   "total_units_text": "9세대",
-   "total_units": 9,
-   "contract_period": "2026-10-16 ~ 2026-10-17",
-   "homepage": "",
-   "move_in": "2026.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-07 ~ 2026-10-08"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "28D",
-     "area": 28.43,
-     "total": 2,
-     "price": 58800,
-     "price_per_pyeong": 6837
-    },
-    {
-     "type": "36A",
-     "area": 35.81,
-     "total": 3,
-     "price": 81980,
-     "price_per_pyeong": 7568
-    },
-    {
-     "type": "40B",
-     "area": 39.23,
-     "total": 2,
-     "price": 91381,
-     "price_per_pyeong": 7700
-    },
-    {
-     "type": "40C",
-     "area": 39.94,
-     "total": 2,
-     "price": 93756,
-     "price_per_pyeong": 7760
-    }
-   ],
-   "prices": {
-    "28D": 58800,
-    "36A": 81980,
-    "40B": 91381,
-    "40C": 93756
-   },
-   "price_min": 58800,
-   "price_max": 93756,
-   "hogangnono_id": "fee66",
-   "hogangnono_name": "잠실에떼르넬비욘드",
-   "lat": 37.5153514835709,
-   "lon": 127.108575924879,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940214",
-   "houseManageNo": "2026940214",
-   "houseSecd": "11",
-   "region": "서울",
-   "supply_kind": "임의공급",
-   "name": "브라운스톤 목동(2차)",
-   "builder": "서울목동엘에이치참여형가로주택정비사업조합",
-   "notice_date": "2026-10-06",
-   "apply_period": "2026-10-08 ~ 2026-10-08",
-   "announce_date": "2026-10-14",
-   "phone": "",
-   "apply_start": "2026-10-08",
-   "apply_end": "2026-10-08",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940214&pblancNo=2026940214&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "서울특별시 양천구 목동 557번지 일원(서울목동엘에이치참여형가로주택정비사업)",
-   "total_units_text": "4세대",
-   "total_units": 4,
-   "contract_period": "2026-10-17 ~ 2026-10-17",
-   "homepage": "",
-   "move_in": "2027.01",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-08 ~ 2026-10-08"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "039.4007",
-     "price": 56040,
-     "total": 1,
-     "price_per_pyeong": 4702
-    },
-    {
-     "type": "059.1925",
-     "price": 99610,
-     "total": 1,
-     "price_per_pyeong": 5563
-    },
-    {
-     "type": "081.0566",
-     "price": 126920,
-     "total": 1,
-     "price_per_pyeong": 5176
-    },
-    {
-     "type": "084.9830B",
-     "price": 127720,
-     "total": 1,
-     "price_per_pyeong": 4968
-    }
-   ],
-   "prices": {
-    "039.4007": 56040,
-    "059.1925": 99610,
-    "081.0566": 126920,
-    "084.9830B": 127720
-   },
-   "price_min": 56040,
-   "price_max": 127720,
-   "hogangnono_id": "gPX8b",
-   "hogangnono_name": "브라운스톤목동",
-   "lat": 37.5430963,
-   "lon": 126.8722511,
-   "score": 65,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권",
-    "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940220",
-   "houseManageNo": "2026940220",
-   "houseSecd": "11",
-   "region": "경기",
-   "supply_kind": "임의공급",
-   "name": "이천 중리지구 B3블록 금성백조 예미지(2차)",
-   "builder": "(주)금성백조주택",
-   "notice_date": "2026-10-06",
-   "apply_period": "2026-10-08 ~ 2026-10-08",
-   "announce_date": "2026-10-14",
-   "phone": "",
-   "apply_start": "2026-10-08",
-   "apply_end": "2026-10-08",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940220&pblancNo=2026940220&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
-   "total_units_text": "20세대",
-   "total_units": 20,
-   "contract_period": "2026-10-15 ~ 2026-10-15",
-   "homepage": "",
-   "move_in": "2026.11",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-08 ~ 2026-10-08"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "059.9870A",
-     "price": 37400,
-     "total": 1,
-     "price_per_pyeong": 2061
-    },
-    {
-     "type": "084.7884A",
-     "price": 54700,
-     "total": 15,
-     "price_per_pyeong": 2133
-    },
-    {
-     "type": "084.9970B",
-     "price": 51600,
-     "total": 1,
-     "price_per_pyeong": 2007
-    },
-    {
-     "type": "084.9665C",
-     "price": 55600,
-     "total": 3,
-     "price_per_pyeong": 2163
-    }
-   ],
-   "prices": {
-    "059.9870A": 37400,
-    "084.7884A": 54700,
-    "084.9970B": 51600,
-    "084.9665C": 55600
-   },
-   "price_min": 37400,
-   "price_max": 55600,
-   "hogangnono_id": "faAe6",
-   "hogangnono_name": "이천중리지구B3블록금성백조예미지",
-   "lat": 37.2698204,
-   "lon": 127.438975,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940216",
-   "houseManageNo": "2026940216",
-   "houseSecd": "11",
-   "region": "대전",
-   "supply_kind": "임의공급",
-   "name": "도안자이 센텀리체 1단지",
-   "builder": "교보자산신탁(주)",
-   "notice_date": "2026-10-06",
-   "apply_period": "2026-10-08 ~ 2026-10-08",
-   "announce_date": "2026-10-14",
-   "phone": "",
-   "apply_start": "2026-10-08",
-   "apply_end": "2026-10-08",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940216&pblancNo=2026940216&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "대전광역시 유성구 도안 2-8지구 26블록(유성구 용계동 267-3번지 일원)",
-   "total_units_text": "6세대",
-   "total_units": 6,
-   "contract_period": "2026-10-15 ~ 2026-10-16",
-   "homepage": "",
-   "move_in": "2029.10",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-08 ~ 2026-10-08"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.0000A",
-     "price": 77620,
-     "total": 4,
-     "price_per_pyeong": 3055
-    },
-    {
-     "type": "099.0000A",
-     "price": 98920,
-     "total": 2,
-     "price_per_pyeong": 3303
-    }
-   ],
-   "prices": {
-    "084.0000A": 77620,
-    "099.0000A": 98920
-   },
-   "price_min": 77620,
-   "price_max": 98920,
-   "hogangnono_id": "gLr4b",
-   "hogangnono_name": "도안자이센텀리체",
-   "lat": 36.3250353049783,
-   "lon": 127.327007211961,
-   "score": 40,
-   "tags": [
-    "무순위·잔여세대"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026940217",
-   "houseManageNo": "2026940217",
-   "houseSecd": "11",
-   "region": "대전",
-   "supply_kind": "임의공급",
-   "name": "도안자이 센텀리체 2단지",
-   "builder": "교보자산신탁(주)",
-   "notice_date": "2026-10-06",
-   "apply_period": "2026-10-08 ~ 2026-10-08",
-   "announce_date": "2026-10-14",
-   "phone": "",
-   "apply_start": "2026-10-08",
-   "apply_end": "2026-10-08",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026940217&pblancNo=2026940217&houseSecd=11",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "대전광역시 유성구 도안 2-6지구 30블록(유성구 용계동 299-7번지 일원)",
-   "total_units_text": "6세대",
-   "total_units": 6,
-   "contract_period": "2026-10-15 ~ 2026-10-16",
-   "homepage": "",
-   "move_in": "2029.12",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-08 ~ 2026-10-08"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.0000A",
-     "price": 77490,
-     "total": 4,
-     "price_per_pyeong": 3050
-    },
-    {
-     "type": "115.0000A",
-     "price": 106990,
-     "total": 2,
-     "price_per_pyeong": 3076
-    }
-   ],
-   "prices": {
-    "084.0000A": 77490,
-    "115.0000A": 106990
-   },
-   "price_min": 77490,
-   "price_max": 106990,
-   "hogangnono_id": "gLpe1",
-   "hogangnono_name": "도안자이센텀리체2단지",
-   "lat": 36.321903974499,
-   "lon": 127.325950768297,
-   "score": 40,
-   "tags": [
-    "무순위·잔여세대"
-   ],
-   "status": "closed"
-  },
   {
    "pblancNo": "2026930033",
    "houseManageNo": "2026930033",
@@ -12458,7 +11965,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026930046",
@@ -12528,7 +12035,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940261",
@@ -12590,7 +12097,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910292",
@@ -12645,7 +12152,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940255",
@@ -12714,7 +12221,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910295",
@@ -12776,7 +12283,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000560",
@@ -12869,7 +12376,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000457",
@@ -12986,7 +12493,7 @@
     "수도권",
     "공공분양"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910296",
@@ -13052,7 +12559,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000576",
@@ -13175,7 +12682,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000566",
@@ -13276,7 +12783,7 @@
    "lon": 129.0386838,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000563",
@@ -13367,7 +12874,7 @@
    "lon": 129.076208,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000558",
@@ -13488,7 +12995,7 @@
    "lon": 129.4189339,
    "score": 10,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000559",
@@ -13579,7 +13086,7 @@
    "lon": 126.9659583,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000536",
@@ -13690,7 +13197,7 @@
    "lon": 128.328954,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026000540",
@@ -13781,7 +13288,7 @@
    "lon": 127.0981131,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940257",
@@ -14769,6 +14276,66 @@
    "lon": 127.3297967,
    "score": 0,
    "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026930048",
+   "houseManageNo": "2026930048",
+   "houseSecd": "06",
+   "region": "경기",
+   "supply_kind": "불법행위 재공급",
+   "name": "동탄신도시 금강펜테리움 7차 센트럴파크 불법행위재공급",
+   "builder": "주식회사 하이아트이앤씨",
+   "notice_date": "2026-11-23",
+   "apply_period": "2026-11-30 ~ 2026-11-30",
+   "announce_date": "2026-12-03",
+   "phone": "",
+   "apply_start": "2026-11-30",
+   "apply_end": "2026-11-30",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930048&pblancNo=2026930048&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성시 신동 동탄2택지개발지구(A57-2블럭)",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-12-10 ~ 2026-12-10",
+   "homepage": "",
+   "move_in": "2027.01",
+   "schedule": [
+    {
+     "label": "일반공급",
+     "dates": [
+      "2026-11-30"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9676A",
+     "area": 111.6975,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 55320,
+     "price_per_pyeong": 2152
+    }
+   ],
+   "prices": {
+    "084.9676A": 55320
+   },
+   "price_min": 55320,
+   "price_max": 55320,
+   "hogangnono_id": "dHF2d",
+   "hogangnono_name": "동탄신도시금강펜테리움6차센트럴파크",
+   "lat": 37.1732653,
+   "lon": 127.1387947,
+   "score": 65,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급",
+    "수도권",
+    "소량 공급"
+   ],
    "status": "upcoming"
   },
   {
