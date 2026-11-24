@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-24 06:40 KST",
+ "updated_at": "2026-11-24 14:25 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 195,
+ "count": 194,
  "items": [
   {
    "pblancNo": "2026930033",
@@ -413,149 +413,6 @@
    "hogangnono_name": "쌍용더플래티넘한강",
    "lat": 37.5455277,
    "lon": 127.3269018,
-   "score": 20,
-   "tags": [
-    "수도권"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026000463",
-   "houseManageNo": "2026000463",
-   "houseSecd": "",
-   "region": "경기",
-   "house_kind": "민영",
-   "sale_kind": "분양주택",
-   "name": "향남역 그로브 스위첸",
-   "builder": "주식회사 케이씨씨건설",
-   "phone": "1844-1050",
-   "notice_date": "2026-10-02",
-   "apply_period": "2026-10-12 ~ 2026-10-14",
-   "announce_date": "2026-10-20",
-   "apply_start": "2026-10-12",
-   "apply_end": "2026-10-14",
-   "category": "apt",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000463&pblancNo=2026000463",
-   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "경기도 화성특례시 만세구 향남읍 하길리 404-2번지 일원",
-   "total_units_text": "933세대",
-   "total_units": 933,
-   "contract_period": "2026-11-02 ~ 2026-11-04",
-   "homepage": "https://향남역스위첸.com",
-   "move_in": "2029.06",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-10-12",
-      "2026-10-12"
-     ]
-    },
-    {
-     "label": "1순위",
-     "dates": [
-      "2026-10-13",
-      "2026-10-13"
-     ]
-    },
-    {
-     "label": "2순위",
-     "dates": [
-      "2026-10-14",
-      "2026-10-14"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "071.8178",
-     "area": 93.4493,
-     "general": 21,
-     "special": 28,
-     "total": 49,
-     "price": 47030,
-     "price_per_pyeong": 2165
-    },
-    {
-     "type": "084.9592A",
-     "area": 109.7877,
-     "general": 164,
-     "special": 207,
-     "total": 371,
-     "price": 55750,
-     "price_per_pyeong": 2169
-    },
-    {
-     "type": "084.9767B",
-     "area": 110.1318,
-     "general": 61,
-     "special": 77,
-     "total": 138,
-     "price": 55720,
-     "price_per_pyeong": 2168
-    },
-    {
-     "type": "084.9221C",
-     "area": 110.814,
-     "general": 61,
-     "special": 77,
-     "total": 138,
-     "price": 55970,
-     "price_per_pyeong": 2179
-    },
-    {
-     "type": "084.9140D",
-     "area": 109.7898,
-     "general": 54,
-     "special": 71,
-     "total": 125,
-     "price": 55450,
-     "price_per_pyeong": 2159
-    },
-    {
-     "type": "107.9722A",
-     "area": 139.4518,
-     "general": 50,
-     "special": 8,
-     "total": 58,
-     "price": 67850,
-     "price_per_pyeong": 2077
-    },
-    {
-     "type": "107.8263B",
-     "area": 138.2513,
-     "general": 45,
-     "special": 7,
-     "total": 52,
-     "price": 67903,
-     "price_per_pyeong": 2082
-    },
-    {
-     "type": "147.9931P",
-     "area": 193.4147,
-     "general": 2,
-     "special": 0,
-     "total": 2,
-     "price": 124758,
-     "price_per_pyeong": 2787
-    }
-   ],
-   "prices": {
-    "071.8178": 47030,
-    "084.9592A": 55750,
-    "084.9767B": 55720,
-    "084.9221C": 55970,
-    "084.9140D": 55450,
-    "107.9722A": 67850,
-    "107.8263B": 67903,
-    "147.9931P": 124758
-   },
-   "price_min": 47030,
-   "price_max": 124758,
-   "hogangnono_id": "gOO8d",
-   "hogangnono_name": "향남역그로브스위첸",
-   "lat": 37.1103576,
-   "lon": 126.9143652,
    "score": 20,
    "tags": [
     "수도권"
@@ -11516,7 +11373,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910287",
@@ -12035,7 +11892,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940261",
@@ -12097,7 +11954,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910292",
@@ -12152,7 +12009,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026940255",
@@ -12221,7 +12078,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910295",
@@ -12283,7 +12140,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000560",
@@ -12559,7 +12416,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000576",
@@ -13357,7 +13214,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910307",
@@ -13409,7 +13266,7 @@
     "수도권",
     "소량 공급"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940264",
@@ -13485,7 +13342,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940258",
@@ -13554,7 +13411,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910300",
@@ -13629,7 +13486,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026940259",
@@ -13711,7 +13568,7 @@
    "tags": [
     "무순위·잔여세대"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026950098",
@@ -13782,7 +13639,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026850056",
@@ -13852,7 +13709,7 @@
    "lon": 129.057611724927,
    "score": 0,
    "tags": [],
-   "status": "upcoming"
+   "status": "open"
   },
   {
    "pblancNo": "2026910298",
