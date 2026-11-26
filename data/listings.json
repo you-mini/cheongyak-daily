@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-26 12:42 KST",
+ "updated_at": "2026-11-27 04:16 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 198,
+ "count": 203,
  "items": [
   {
    "pblancNo": "2026930033",
@@ -15910,6 +15910,429 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026930047",
+   "houseManageNo": "2026930047",
+   "houseSecd": "06",
+   "region": "서울",
+   "supply_kind": "불법행위 재공급",
+   "name": "청량리 롯데캐슬 하이루체",
+   "builder": "청량리제7구역주택재개발정비사업조합",
+   "notice_date": "2026-11-26",
+   "apply_period": "2026-12-02 ~ 2026-12-02",
+   "announce_date": "2026-12-07",
+   "phone": "",
+   "apply_start": "2026-12-02",
+   "apply_end": "2026-12-02",
+   "category": "remainder",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930047&pblancNo=2026930047&houseSecd=06",
+   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "서울특별시 동대문구 청량리동 199번지 일원",
+   "total_units_text": "1세대",
+   "total_units": 1,
+   "contract_period": "2026-12-10 ~ 2026-12-10",
+   "homepage": "",
+   "move_in": "2026.12",
+   "schedule": [
+    {
+     "label": "일반공급",
+     "dates": [
+      "2026-12-02"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9314B",
+     "area": 81.5514,
+     "general": 1,
+     "special": 0,
+     "total": 1,
+     "price": 82383,
+     "price_per_pyeong": 4544
+    }
+   ],
+   "prices": {
+    "059.9314B": 82383
+   },
+   "price_min": 82383,
+   "price_max": 82383,
+   "hogangnono_id": "f794d",
+   "hogangnono_name": "청량리롯데캐슬하이루체",
+   "lat": 37.5875313213092,
+   "lon": 127.045243477213,
+   "score": 75,
+   "tags": [
+    "무순위·잔여세대",
+    "최초 분양가 재공급",
+    "수도권",
+    "소량 공급"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000611",
+   "houseManageNo": "2026000611",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "국민",
+   "sale_kind": "분양주택",
+   "name": "병점복합타운 주복1블록 공공분양",
+   "builder": "(주)태왕이앤씨,우경건설(주), 토브디엔씨(주)",
+   "phone": "031-8077-7989",
+   "notice_date": "2026-11-26",
+   "apply_period": "2026-12-07 ~ 2026-12-10",
+   "announce_date": "2026-12-23",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-10",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000611&pblancNo=2026000611",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 화성시 병점구 병점동, 진안동 일원 병점복합타운 내 주복1블록",
+   "total_units_text": "726세대",
+   "total_units": 726,
+   "contract_period": "2027-03-09 ~ 2027-03-12",
+   "homepage": "https://apply.lh.or.kr",
+   "move_in": "2030.06",
+   "schedule": [
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-07~2026-12-08",
+      "2026-12-07~2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09~2026-12-10",
+      "2026-12-09~2026-12-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "061.9800A",
+     "area": 85.8818,
+     "general": 10,
+     "special": 26,
+     "total": 36,
+     "price": 50089,
+     "price_per_pyeong": 2672
+    },
+    {
+     "type": "063.8300A",
+     "area": 88.4452,
+     "general": 14,
+     "special": 40,
+     "total": 54,
+     "price": 51584,
+     "price_per_pyeong": 2672
+    },
+    {
+     "type": "065.9900A",
+     "area": 91.4382,
+     "general": 20,
+     "special": 58,
+     "total": 78,
+     "price": 53858,
+     "price_per_pyeong": 2698
+    },
+    {
+     "type": "066.9700A",
+     "area": 92.7961,
+     "general": 9,
+     "special": 29,
+     "total": 38,
+     "price": 54657,
+     "price_per_pyeong": 2698
+    },
+    {
+     "type": "071.8800A",
+     "area": 99.5996,
+     "general": 30,
+     "special": 89,
+     "total": 119,
+     "price": 58665,
+     "price_per_pyeong": 2698
+    },
+    {
+     "type": "072.9800A",
+     "area": 101.1238,
+     "general": 30,
+     "special": 90,
+     "total": 120,
+     "price": 59562,
+     "price_per_pyeong": 2698
+    },
+    {
+     "type": "072.9800B",
+     "area": 101.1238,
+     "general": 30,
+     "special": 90,
+     "total": 120,
+     "price": 59562,
+     "price_per_pyeong": 2698
+    },
+    {
+     "type": "073.9900A",
+     "area": 102.5233,
+     "general": 30,
+     "special": 89,
+     "total": 119,
+     "price": 60388,
+     "price_per_pyeong": 2698
+    },
+    {
+     "type": "084.8100A",
+     "area": 117.5159,
+     "general": 10,
+     "special": 32,
+     "total": 42,
+     "price": 69218,
+     "price_per_pyeong": 2698
+    }
+   ],
+   "prices": {
+    "061.9800A": 50089,
+    "063.8300A": 51584,
+    "065.9900A": 53858,
+    "066.9700A": 54657,
+    "071.8800A": 58665,
+    "072.9800A": 59562,
+    "072.9800B": 59562,
+    "073.9900A": 60388,
+    "084.8100A": 69218
+   },
+   "price_min": 50089,
+   "price_max": 69218,
+   "hogangnono_id": "gKX27",
+   "hogangnono_name": "병점복합타운주복1",
+   "lat": 37.2042672,
+   "lon": 127.0297332,
+   "score": 30,
+   "tags": [
+    "수도권",
+    "공공분양"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000612",
+   "houseManageNo": "2026000612",
+   "houseSecd": "",
+   "region": "경기",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "용인반도체클러스터 동일하이빌 파크밸리 2단지(D1-2블록)",
+   "builder": "(주)동일토건",
+   "phone": "1533-0589",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-10",
+   "announce_date": "2026-12-16",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-10",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000612&pblancNo=2026000612",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경기도 용인시 처인구 원삼면 용인 반도체 클러스터 일반산업단지 D1-2BL",
+   "total_units_text": "661세대",
+   "total_units": 661,
+   "contract_period": "2026-12-28 ~ 2026-12-30",
+   "homepage": "https://용인동일하이빌파크밸리2단지.com",
+   "move_in": "2029.05",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07~2026-12-08",
+      "2026-12-07~2026-12-08"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-10",
+      "2026-12-10"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "059.9390A",
+     "area": 80.8197,
+     "general": 36,
+     "special": 214,
+     "total": 250,
+     "price": 44300,
+     "price_per_pyeong": 2443
+    },
+    {
+     "type": "059.8977B",
+     "area": 80.4519,
+     "general": 16,
+     "special": 103,
+     "total": 119,
+     "price": 43200,
+     "price_per_pyeong": 2384
+    },
+    {
+     "type": "071.8211B",
+     "area": 95.6642,
+     "general": 14,
+     "special": 102,
+     "total": 116,
+     "price": 49500,
+     "price_per_pyeong": 2278
+    },
+    {
+     "type": "084.7577A",
+     "area": 112.6368,
+     "general": 23,
+     "special": 153,
+     "total": 176,
+     "price": 56800,
+     "price_per_pyeong": 2215
+    }
+   ],
+   "prices": {
+    "059.9390A": 44300,
+    "059.8977B": 43200,
+    "071.8211B": 49500,
+    "084.7577A": 56800
+   },
+   "price_min": 43200,
+   "price_max": 56800,
+   "hogangnono_id": "gSPd6",
+   "hogangnono_name": "용인반도체클러스터동일하이빌파크밸리",
+   "lat": 37.1630568,
+   "lon": 127.312513,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000574",
+   "houseManageNo": "2026000574",
+   "houseSecd": "",
+   "region": "인천",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "송도 대광로제비앙 모아엘가",
+   "builder": "주식회사 대광건영,모아건설산업(주)",
+   "phone": "1551-3300",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-15",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000574&pblancNo=2026000574",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "인천광역시 연수구 송도동 544 (송도국제도시 11공구 RC2BL)",
+   "total_units_text": "592세대",
+   "total_units": 592,
+   "contract_period": "2026-12-28 ~ 2026-12-30",
+   "homepage": "https://www.송도대광로제비앙모아엘가.com",
+   "move_in": "2030.01",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8890A",
+     "area": 110.2415,
+     "general": 55,
+     "special": 105,
+     "total": 160,
+     "price": 88800,
+     "price_per_pyeong": 3458
+    },
+    {
+     "type": "084.8150B",
+     "area": 111.4997,
+     "general": 14,
+     "special": 34,
+     "total": 48,
+     "price": 88800,
+     "price_per_pyeong": 3461
+    },
+    {
+     "type": "084.8052C",
+     "area": 111.1046,
+     "general": 31,
+     "special": 65,
+     "total": 96,
+     "price": 88200,
+     "price_per_pyeong": 3438
+    },
+    {
+     "type": "084.8959D",
+     "area": 110.1098,
+     "general": 63,
+     "special": 129,
+     "total": 192,
+     "price": 88800,
+     "price_per_pyeong": 3458
+    },
+    {
+     "type": "084.8040E",
+     "area": 111.2983,
+     "general": 31,
+     "special": 65,
+     "total": 96,
+     "price": 88800,
+     "price_per_pyeong": 3462
+    }
+   ],
+   "prices": {
+    "084.8890A": 88800,
+    "084.8150B": 88800,
+    "084.8052C": 88200,
+    "084.8959D": 88800,
+    "084.8040E": 88800
+   },
+   "price_min": 88200,
+   "price_max": 88800,
+   "hogangnono_id": "gFn18",
+   "hogangnono_name": "송도대광로제비앙모아엘가",
+   "lat": 37.3764568,
+   "lon": 126.684209,
+   "score": 20,
+   "tags": [
+    "수도권"
+   ],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026950089",
    "houseManageNo": "2026950089",
    "houseSecd": "02",
@@ -16018,6 +16441,107 @@
    "tags": [
     "수도권"
    ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000592",
+   "houseManageNo": "2026000592",
+   "houseSecd": "",
+   "region": "경북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "경북도청 푸르지오 퍼스티온",
+   "builder": "(주)대우건설",
+   "phone": "054-858-1165",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-15",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000592&pblancNo=2026000592",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상북도 예천군 호명읍 경북도청신도시 2단계 B-10BL",
+   "total_units_text": "1165세대",
+   "total_units": 1165,
+   "contract_period": "2026-12-28 ~ 2026-12-30",
+   "homepage": "https://prugio.com/hb/2026/firstion",
+   "move_in": "2029.08",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.8903A",
+     "area": 111.1927,
+     "general": 174,
+     "special": 326,
+     "total": 500,
+     "price": 44610,
+     "price_per_pyeong": 1737
+    },
+    {
+     "type": "084.9376B",
+     "area": 111.0847,
+     "general": 105,
+     "special": 185,
+     "total": 290,
+     "price": 44120,
+     "price_per_pyeong": 1717
+    },
+    {
+     "type": "084.7139C",
+     "area": 111.2021,
+     "general": 49,
+     "special": 97,
+     "total": 146,
+     "price": 44960,
+     "price_per_pyeong": 1754
+    },
+    {
+     "type": "084.9858D",
+     "area": 112.0353,
+     "general": 80,
+     "special": 149,
+     "total": 229,
+     "price": 43610,
+     "price_per_pyeong": 1696
+    }
+   ],
+   "prices": {
+    "084.8903A": 44610,
+    "084.9376B": 44120,
+    "084.7139C": 44960,
+    "084.9858D": 43610
+   },
+   "price_min": 43610,
+   "price_max": 44960,
+   "hogangnono_id": "gXIec",
+   "hogangnono_name": "경북도청푸르지오퍼스티온",
+   "lat": 36.5711834,
+   "lon": 128.4794516,
+   "score": 0,
+   "tags": [],
    "status": "upcoming"
   },
   {
