@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-27 12:44 KST",
+ "updated_at": "2026-11-28 04:10 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
- "count": 203,
+ "count": 207,
  "items": [
   {
    "pblancNo": "2026930033",
@@ -16425,6 +16425,390 @@
    },
    "price_min": 97000,
    "price_max": 410000,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000573",
+   "houseManageNo": "2026000573",
+   "houseSecd": "",
+   "region": "세종",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L11블록, 꽃나루마을 28단지)",
+   "builder": "주식회사 비에스한양",
+   "phone": "1866-2122",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-16",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000573&pblancNo=2026000573",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 합강동 40번지 일원(행정중심복합도시 5-1생활권 L11BL)",
+   "total_units_text": "507세대",
+   "total_units": 507,
+   "contract_period": "2026-12-28 ~ 2026-12-31",
+   "homepage": "https://smartcity-l-sujain.kr/",
+   "move_in": "2029.11",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9442A",
+     "area": 110.1248,
+     "general": 114,
+     "special": 201,
+     "total": 315,
+     "price": 65790,
+     "price_per_pyeong": 2560
+    },
+    {
+     "type": "084.0000B",
+     "area": 112.3642,
+     "general": 42,
+     "special": 71,
+     "total": 113,
+     "price": 65780,
+     "price_per_pyeong": 2589
+    },
+    {
+     "type": "084.9652C",
+     "area": 110.7527,
+     "general": 29,
+     "special": 50,
+     "total": 79,
+     "price": 63830,
+     "price_per_pyeong": 2483
+    }
+   ],
+   "prices": {
+    "084.9442A": 65790,
+    "084.0000B": 65780,
+    "084.9652C": 63830
+   },
+   "price_min": 63830,
+   "price_max": 65790,
+   "hogangnono_id": "gWP74",
+   "hogangnono_name": "세종스마트시티엘수자인L11BL",
+   "lat": 36.5299279,
+   "lon": 127.3336494,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000572",
+   "houseManageNo": "2026000572",
+   "houseSecd": "",
+   "region": "세종",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L8블록, 꽃나루마을 26단지)",
+   "builder": "주식회사 비에스한양",
+   "phone": "1866-2122",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-17",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000572&pblancNo=2026000572",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L8BL)",
+   "total_units_text": "218세대",
+   "total_units": 218,
+   "contract_period": "2026-12-29 ~ 2026-12-31",
+   "homepage": "https://smartcity-l-sujain.kr/",
+   "move_in": "2029.05",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.0000A",
+     "area": 110.8352,
+     "general": 47,
+     "special": 82,
+     "total": 129,
+     "price": 66380,
+     "price_per_pyeong": 2612
+    },
+    {
+     "type": "084.9582B",
+     "area": 113.0746,
+     "general": 12,
+     "special": 20,
+     "total": 32,
+     "price": 65720,
+     "price_per_pyeong": 2557
+    },
+    {
+     "type": "084.9652C",
+     "area": 111.4632,
+     "general": 21,
+     "special": 36,
+     "total": 57,
+     "price": 64400,
+     "price_per_pyeong": 2506
+    }
+   ],
+   "prices": {
+    "084.0000A": 66380,
+    "084.9582B": 65720,
+    "084.9652C": 64400
+   },
+   "price_min": 64400,
+   "price_max": 66380,
+   "hogangnono_id": "gWB7b",
+   "hogangnono_name": "세종스마트시티엘수자인L6BL",
+   "lat": 36.52767,
+   "lon": 127.3277777,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000571",
+   "houseManageNo": "2026000571",
+   "houseSecd": "",
+   "region": "세종",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L7블록, 꽃나루마을 24단지)",
+   "builder": "주식회사 비에스한양",
+   "phone": "1866-2122",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-15",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000571&pblancNo=2026000571",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L7BL)",
+   "total_units_text": "648세대",
+   "total_units": 648,
+   "contract_period": "2026-12-27 ~ 2026-12-31",
+   "homepage": "https://smartcity-l-sujain.kr/",
+   "move_in": "2029.10",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.0000A",
+     "area": 109.7729,
+     "general": 142,
+     "special": 248,
+     "total": 390,
+     "price": 65670,
+     "price_per_pyeong": 2584
+    },
+    {
+     "type": "084.0000B",
+     "area": 111.8274,
+     "general": 69,
+     "special": 118,
+     "total": 187,
+     "price": 65660,
+     "price_per_pyeong": 2584
+    },
+    {
+     "type": "084.0000C",
+     "area": 110.4225,
+     "general": 9,
+     "special": 20,
+     "total": 29,
+     "price": 65660,
+     "price_per_pyeong": 2584
+    },
+    {
+     "type": "084.0000D",
+     "area": 112.9502,
+     "general": 16,
+     "special": 26,
+     "total": 42,
+     "price": 65660,
+     "price_per_pyeong": 2584
+    }
+   ],
+   "prices": {
+    "084.0000A": 65670,
+    "084.0000B": 65660,
+    "084.0000C": 65660,
+    "084.0000D": 65660
+   },
+   "price_min": 65660,
+   "price_max": 65670,
+   "hogangnono_id": "gWB7b",
+   "hogangnono_name": "세종스마트시티엘수자인L6BL",
+   "lat": 36.52767,
+   "lon": 127.3277777,
+   "score": 10,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000570",
+   "houseManageNo": "2026000570",
+   "houseSecd": "",
+   "region": "세종",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L6블록, 꽃나루마을 16단지)",
+   "builder": "주식회사 비에스한양",
+   "phone": "1866-2122",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-15",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000570&pblancNo=2026000570",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "세종특별자치시 합강동 171-3번지 일원 (행정중심복합도시 5-1생활권 L6BL)",
+   "total_units_text": "818세대",
+   "total_units": 818,
+   "contract_period": "2026-12-27 ~ 2026-12-31",
+   "homepage": "https://smartcity-l-sujain.kr/",
+   "move_in": "2030.01",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.0000A",
+     "area": 112.217,
+     "general": 143,
+     "special": 249,
+     "total": 392,
+     "price": 68060,
+     "price_per_pyeong": 2678
+    },
+    {
+     "type": "084.9582B",
+     "area": 114.4937,
+     "general": 67,
+     "special": 118,
+     "total": 185,
+     "price": 66810,
+     "price_per_pyeong": 2600
+    },
+    {
+     "type": "084.9652C",
+     "area": 112.9398,
+     "general": 54,
+     "special": 97,
+     "total": 151,
+     "price": 65470,
+     "price_per_pyeong": 2547
+    },
+    {
+     "type": "084.0000D",
+     "area": 115.4737,
+     "general": 32,
+     "special": 58,
+     "total": 90,
+     "price": 67480,
+     "price_per_pyeong": 2656
+    }
+   ],
+   "prices": {
+    "084.0000A": 68060,
+    "084.9582B": 66810,
+    "084.9652C": 65470,
+    "084.0000D": 67480
+   },
+   "price_min": 65470,
+   "price_max": 68060,
+   "hogangnono_id": "gWB7b",
+   "hogangnono_name": "세종스마트시티엘수자인L6BL",
+   "lat": 36.52767,
+   "lon": 127.3277777,
    "score": 10,
    "tags": [],
    "status": "upcoming"
