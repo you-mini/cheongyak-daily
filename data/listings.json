@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27 04:16 KST",
+ "updated_at": "2026-11-27 12:44 KST",
  "source": "한국부동산원 청약홈 (applyhome.co.kr)",
  "count": 203,
  "items": [
@@ -160,64 +160,6 @@
     "무순위·잔여세대",
     "최초 분양가 재공급",
     "소량 공급"
-   ],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026930041",
-   "houseManageNo": "2026930041",
-   "houseSecd": "06",
-   "region": "세종",
-   "supply_kind": "불법행위 재공급",
-   "name": "세종 리더스포레 나릿재마을 1단지",
-   "builder": "(주) 한화",
-   "notice_date": "2026-10-07",
-   "apply_period": "2026-10-12 ~ 2026-10-12",
-   "announce_date": "2026-10-15",
-   "phone": "",
-   "apply_start": "2026-10-12",
-   "apply_end": "2026-10-12",
-   "category": "remainder",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930041&pblancNo=2026930041&houseSecd=06",
-   "apply_url": "https://www.applyhome.co.kr/ap/apr/reqst/selectSubscrtReqstAptMainView.do",
-   "address": "세종특별자치시 나성동 835",
-   "total_units_text": "1세대",
-   "total_units": 1,
-   "contract_period": "2026-10-28 ~ 2026-10-28",
-   "homepage": "",
-   "move_in": "2026.12",
-   "schedule": [
-    {
-     "label": "특별공급",
-     "dates": [
-      "2026-10-12"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "084.9649D",
-     "area": 112.6937,
-     "general": 0,
-     "special": 1,
-     "total": 1,
-     "price": 34320,
-     "price_per_pyeong": 1335
-    }
-   ],
-   "prices": {
-    "084.9649D": 34320
-   },
-   "price_min": 34320,
-   "price_max": 34320,
-   "hogangnono_id": "ctId8",
-   "hogangnono_name": "나릿재마을1단지세종리더스포레",
-   "lat": 36.48738151569278,
-   "lon": 127.26342403482862,
-   "score": 50,
-   "tags": [
-    "무순위·잔여세대",
-    "최초 분양가 재공급"
    ],
    "status": "closed"
   },
@@ -729,69 +671,6 @@
    "lon": 128.602155,
    "score": 10,
    "tags": [],
-   "status": "closed"
-  },
-  {
-   "pblancNo": "2026950086",
-   "houseManageNo": "2026950086",
-   "houseSecd": "02",
-   "region": "경기",
-   "house_kind": "오피스텔",
-   "name": "더샵 오산역아크시티 오피스텔",
-   "builder": "오산세교아트피에프브이 주식회사",
-   "phone": "1866-0533",
-   "notice_date": "2026-10-07",
-   "apply_period": "2026-10-12 ~ 2026-10-12",
-   "announce_date": "2026-10-15",
-   "apply_start": "2026-10-12",
-   "apply_end": "2026-10-12",
-   "category": "other",
-   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950086&pblancNo=2026950086&houseSecd=02",
-   "apply_url": "https://www.applyhome.co.kr/ap/apb/reqst/selectSubscrtReqstUOMainView.do",
-   "address": "경기도 오산시 가수동 453번지 (오산 세교2지구 M1블록)",
-   "total_units_text": "90세대",
-   "total_units": 90,
-   "contract_period": "2026-10-16 ~ 2026-10-16",
-   "homepage": "https://www.더샵오산역아크시티.kr",
-   "move_in": "2029.06",
-   "schedule": [
-    {
-     "label": "청약접수",
-     "dates": [
-      "2026-10-12 ~ 2026-10-12"
-     ]
-    }
-   ],
-   "units": [
-    {
-     "type": "84OA",
-     "area": 84.7775,
-     "total": 60,
-     "price": 44800,
-     "price_per_pyeong": 1747
-    },
-    {
-     "type": "84OB",
-     "area": 84.9471,
-     "total": 30,
-     "price": 43800,
-     "price_per_pyeong": 1705
-    }
-   ],
-   "prices": {
-    "84OA": 44800,
-    "84OB": 43800
-   },
-   "price_min": 43800,
-   "price_max": 44800,
-   "hogangnono_id": "gZL96",
-   "hogangnono_name": "더샵오산역아크시티(오)",
-   "lat": 37.1483226,
-   "lon": 127.0597225,
-   "score": 10,
-   "tags": [
-    "수도권"
-   ],
    "status": "closed"
   },
   {
@@ -12301,7 +12180,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026000457",
@@ -13479,7 +13358,7 @@
     "무순위·잔여세대",
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026910300",
@@ -14084,7 +13963,7 @@
    "tags": [
     "수도권"
    ],
-   "status": "open"
+   "status": "closed"
   },
   {
    "pblancNo": "2026950097",
@@ -15970,6 +15849,117 @@
    "status": "upcoming"
   },
   {
+   "pblancNo": "2026000589",
+   "houseManageNo": "2026000589",
+   "houseSecd": "",
+   "region": "경북",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "트리븐 가흥",
+   "builder": "두산에너빌리티(주)",
+   "phone": "054-633-8898",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-02 ~ 2026-12-04",
+   "announce_date": "2026-12-10",
+   "apply_start": "2026-12-02",
+   "apply_end": "2026-12-04",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000589&pblancNo=2026000589",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "경상북도 영주시 가흥동 1059-10 일원",
+   "total_units_text": "765세대",
+   "total_units": 765,
+   "contract_period": "2026-12-21 ~ 2026-12-23",
+   "homepage": "https://www.trivn-doosan-gaheung.com",
+   "move_in": "2030.02",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-02",
+      "2026-12-02"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-03",
+      "2026-12-03"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-04",
+      "2026-12-04"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.9772A",
+     "area": 109.1454,
+     "general": 136,
+     "special": 165,
+     "total": 301,
+     "price": 52700,
+     "price_per_pyeong": 2050
+    },
+    {
+     "type": "084.8065B",
+     "area": 108.3191,
+     "general": 51,
+     "special": 62,
+     "total": 113,
+     "price": 49900,
+     "price_per_pyeong": 1945
+    },
+    {
+     "type": "084.8909C",
+     "area": 109.342,
+     "general": 123,
+     "special": 148,
+     "total": 271,
+     "price": 55600,
+     "price_per_pyeong": 2165
+    },
+    {
+     "type": "084.8894D",
+     "area": 109.8892,
+     "general": 11,
+     "special": 12,
+     "total": 23,
+     "price": 55700,
+     "price_per_pyeong": 2169
+    },
+    {
+     "type": "113.9804",
+     "area": 144.4569,
+     "general": 49,
+     "special": 8,
+     "total": 57,
+     "price": 76100,
+     "price_per_pyeong": 2207
+    }
+   ],
+   "prices": {
+    "084.9772A": 52700,
+    "084.8065B": 49900,
+    "084.8909C": 55600,
+    "084.8894D": 55700,
+    "113.9804": 76100
+   },
+   "price_min": 49900,
+   "price_max": 76100,
+   "hogangnono_id": "h0Oe0",
+   "hogangnono_name": "트리븐가흥",
+   "lat": 36.8205716,
+   "lon": 128.601305,
+   "score": 0,
+   "tags": [],
+   "status": "upcoming"
+  },
+  {
    "pblancNo": "2026000611",
    "houseManageNo": "2026000611",
    "houseSecd": "",
@@ -16330,6 +16320,113 @@
    "tags": [
     "수도권"
    ],
+   "status": "upcoming"
+  },
+  {
+   "pblancNo": "2026000588",
+   "houseManageNo": "2026000588",
+   "houseSecd": "",
+   "region": "부산",
+   "house_kind": "민영",
+   "sale_kind": "분양주택",
+   "name": "일광 THE S",
+   "builder": "(주)동일스위트",
+   "phone": "051-746-1010",
+   "notice_date": "2026-11-27",
+   "apply_period": "2026-12-07 ~ 2026-12-09",
+   "announce_date": "2026-12-15",
+   "apply_start": "2026-12-07",
+   "apply_end": "2026-12-09",
+   "category": "apt",
+   "detail_url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000588&pblancNo=2026000588",
+   "apply_url": "https://www.applyhome.co.kr/ap/aph/reqst/selectSubscrtReqstAptMainView.do",
+   "address": "부산광역시 기장군 일광읍 이천리 345-1번지 일원",
+   "total_units_text": "1968세대",
+   "total_units": 1968,
+   "contract_period": "2026-12-28 ~ 2026-12-30",
+   "homepage": "https://일광더에스.kr",
+   "move_in": "2029.07",
+   "schedule": [
+    {
+     "label": "특별공급",
+     "dates": [
+      "2026-12-07",
+      "2026-12-07"
+     ]
+    },
+    {
+     "label": "1순위",
+     "dates": [
+      "2026-12-08",
+      "2026-12-08"
+     ]
+    },
+    {
+     "label": "2순위",
+     "dates": [
+      "2026-12-09",
+      "2026-12-09"
+     ]
+    }
+   ],
+   "units": [
+    {
+     "type": "084.3558",
+     "area": 117.4013,
+     "general": 299,
+     "special": 357,
+     "total": 656,
+     "price": 97000,
+     "price_per_pyeong": 3801
+    },
+    {
+     "type": "103.2343",
+     "area": 143.1704,
+     "general": 557,
+     "special": 83,
+     "total": 640,
+     "price": 129500,
+     "price_per_pyeong": 4147
+    },
+    {
+     "type": "111.8587",
+     "area": 154.9468,
+     "general": 557,
+     "special": 83,
+     "total": 640,
+     "price": 146800,
+     "price_per_pyeong": 4338
+    },
+    {
+     "type": "189.9735",
+     "area": 262.495,
+     "general": 15,
+     "special": 1,
+     "total": 16,
+     "price": 320000,
+     "price_per_pyeong": 5568
+    },
+    {
+     "type": "217.2962",
+     "area": 303.455,
+     "general": 15,
+     "special": 1,
+     "total": 16,
+     "price": 410000,
+     "price_per_pyeong": 6237
+    }
+   ],
+   "prices": {
+    "084.3558": 97000,
+    "103.2343": 129500,
+    "111.8587": 146800,
+    "189.9735": 320000,
+    "217.2962": 410000
+   },
+   "price_min": 97000,
+   "price_max": 410000,
+   "score": 10,
+   "tags": [],
    "status": "upcoming"
   },
   {
